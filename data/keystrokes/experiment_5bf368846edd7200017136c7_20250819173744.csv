@@ -1,0 +1,36 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+5bf368846edd7200017136c7,text-to-prompt,1,7,2,Write a short story about a turtle,"[28,34];[14,20]","[20,25]",0,1755625034300,1755625034540,Shift,16, weekly, physical-keyboard
+5bf368846edd7200017136c7,text-to-prompt,1,7,2,Write a short story about a turtle,"[28,34];[14,20]","[20,25]",1,1755625034449,1755625034568,W,87, weekly, physical-keyboard
+5bf368846edd7200017136c7,text-to-prompt,1,7,2,Write a short story about a turtle,"[28,34];[14,20]","[20,25]",2,1755625034648,1755625034766,r,82, weekly, physical-keyboard
+5bf368846edd7200017136c7,text-to-prompt,1,7,2,Write a short story about a turtle,"[28,34];[14,20]","[20,25]",3,1755625034767,1755625034877,i,73, weekly, physical-keyboard
+5bf368846edd7200017136c7,text-to-prompt,1,7,2,Write a short story about a turtle,"[28,34];[14,20]","[20,25]",4,1755625034841,1755625034994,t,84, weekly, physical-keyboard
+5bf368846edd7200017136c7,text-to-prompt,1,7,2,Write a short story about a turtle,"[28,34];[14,20]","[20,25]",5,1755625034992,1755625035121,e,69, weekly, physical-keyboard
+5bf368846edd7200017136c7,text-to-prompt,1,7,2,Write a short story about a turtle,"[28,34];[14,20]","[20,25]",6,1755625035054,1755625035189, ,32, weekly, physical-keyboard
+5bf368846edd7200017136c7,text-to-prompt,1,7,2,Write a short story about a turtle,"[28,34];[14,20]","[20,25]",7,1755625035141,1755625035320,a,65, weekly, physical-keyboard
+5bf368846edd7200017136c7,text-to-prompt,1,7,2,Write a short story about a turtle,"[28,34];[14,20]","[20,25]",8,1755625035261,1755625035450, ,32, weekly, physical-keyboard
+5bf368846edd7200017136c7,text-to-prompt,1,7,2,Write a short story about a turtle,"[28,34];[14,20]","[20,25]",9,1755625035372,1755625035612,s,83, weekly, physical-keyboard
+5bf368846edd7200017136c7,text-to-prompt,1,7,2,Write a short story about a turtle,"[28,34];[14,20]","[20,25]",10,1755625035508,1755625035635,h,72, weekly, physical-keyboard
+5bf368846edd7200017136c7,text-to-prompt,1,7,2,Write a short story about a turtle,"[28,34];[14,20]","[20,25]",11,1755625035577,1755625035725,o,79, weekly, physical-keyboard
+5bf368846edd7200017136c7,text-to-prompt,1,7,2,Write a short story about a turtle,"[28,34];[14,20]","[20,25]",12,1755625035670,1755625035777,r,82, weekly, physical-keyboard
+5bf368846edd7200017136c7,text-to-prompt,1,7,2,Write a short story about a turtle,"[28,34];[14,20]","[20,25]",13,1755625035857,1755625035977,t,84, weekly, physical-keyboard
+5bf368846edd7200017136c7,text-to-prompt,1,7,2,Write a short story about a turtle,"[28,34];[14,20]","[20,25]",14,1755625035961,1755625036165, ,32, weekly, physical-keyboard
+5bf368846edd7200017136c7,text-to-prompt,1,7,2,Write a short story about a turtle,"[28,34];[14,20]","[20,25]",15,1755625036088,1755625036197,s,83, weekly, physical-keyboard
+5bf368846edd7200017136c7,text-to-prompt,1,7,2,Write a short story about a turtle,"[28,34];[14,20]","[20,25]",16,1755625036153,1755625036271,t,84, weekly, physical-keyboard
+5bf368846edd7200017136c7,text-to-prompt,1,7,2,Write a short story about a turtle,"[28,34];[14,20]","[20,25]",17,1755625036261,1755625036374,o,79, weekly, physical-keyboard
+5bf368846edd7200017136c7,text-to-prompt,1,7,2,Write a short story about a turtle,"[28,34];[14,20]","[20,25]",18,1755625036414,1755625036532,r,82, weekly, physical-keyboard
+5bf368846edd7200017136c7,text-to-prompt,1,7,2,Write a short story about a turtle,"[28,34];[14,20]","[20,25]",19,1755625036482,1755625036566,y,89, weekly, physical-keyboard
+5bf368846edd7200017136c7,text-to-prompt,1,7,2,Write a short story about a turtle,"[28,34];[14,20]","[20,25]",20,1755625036582,1755625036747, ,32, weekly, physical-keyboard
+5bf368846edd7200017136c7,text-to-prompt,1,7,2,Write a short story about a turtle,"[28,34];[14,20]","[20,25]",21,1755625036673,1755625036770,a,65, weekly, physical-keyboard
+5bf368846edd7200017136c7,text-to-prompt,1,7,2,Write a short story about a turtle,"[28,34];[14,20]","[20,25]",22,1755625036809,1755625036936,b,66, weekly, physical-keyboard
+5bf368846edd7200017136c7,text-to-prompt,1,7,2,Write a short story about a turtle,"[28,34];[14,20]","[20,25]",23,1755625036891,1755625036995,o,79, weekly, physical-keyboard
+5bf368846edd7200017136c7,text-to-prompt,1,7,2,Write a short story about a turtle,"[28,34];[14,20]","[20,25]",24,1755625036943,1755625037075,u,85, weekly, physical-keyboard
+5bf368846edd7200017136c7,text-to-prompt,1,7,2,Write a short story about a turtle,"[28,34];[14,20]","[20,25]",25,1755625037053,1755625037175,t,84, weekly, physical-keyboard
+5bf368846edd7200017136c7,text-to-prompt,1,7,2,Write a short story about a turtle,"[28,34];[14,20]","[20,25]",26,1755625037120,1755625037268, ,32, weekly, physical-keyboard
+5bf368846edd7200017136c7,text-to-prompt,1,7,2,Write a short story about a turtle,"[28,34];[14,20]","[20,25]",27,1755625037227,1755625037389,a,65, weekly, physical-keyboard
+5bf368846edd7200017136c7,text-to-prompt,1,7,2,Write a short story about a turtle,"[28,34];[14,20]","[20,25]",28,1755625037334,1755625037470, ,32, weekly, physical-keyboard
+5bf368846edd7200017136c7,text-to-prompt,1,7,2,Write a short story about a turtle,"[28,34];[14,20]","[20,25]",29,1755625037908,1755625038024,t,84, weekly, physical-keyboard
+5bf368846edd7200017136c7,text-to-prompt,1,7,2,Write a short story about a turtle,"[28,34];[14,20]","[20,25]",30,1755625037989,1755625038083,u,85, weekly, physical-keyboard
+5bf368846edd7200017136c7,text-to-prompt,1,7,2,Write a short story about a turtle,"[28,34];[14,20]","[20,25]",31,1755625038128,1755625038222,r,82, weekly, physical-keyboard
+5bf368846edd7200017136c7,text-to-prompt,1,7,2,Write a short story about a turtle,"[28,34];[14,20]","[20,25]",32,1755625038290,1755625038411,t,84, weekly, physical-keyboard
+5bf368846edd7200017136c7,text-to-prompt,1,7,2,Write a short story about a turtle,"[28,34];[14,20]","[20,25]",33,1755625038382,1755625038501,l,76, weekly, physical-keyboard
+5bf368846edd7200017136c7,text-to-prompt,1,7,2,Write a short story about a turtle,"[28,34];[14,20]","[20,25]",34,1755625038543,1755625038686,e,69, weekly, physical-keyboard

@@ -1,0 +1,49 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",0,1755621093246,1755621093551,Shift,16, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",1,1755621093393,1755621093534,C,67, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",2,1755621093726,1755621093909,r,82, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",3,1755621093818,1755621094026,e,69, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",4,1755621093984,1755621094213,a,65, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",5,1755621094110,1755621094322,t,84, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",6,1755621094261,1755621094424,e,69, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",7,1755621094412,1755621094590, ,32, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",8,1755621094549,1755621094688,a,65, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",9,1755621094690,1755621094881,n,78, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",10,1755621094845,1755621095022, ,32, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",11,1755621095035,1755621095223,i,73, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",12,1755621095174,1755621095346,m,77, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",13,1755621095340,1755621095488,a,65, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",14,1755621095561,1755621095751,g,71, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",15,1755621095706,1755621095854,e,69, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",16,1755621095868,1755621096034, ,32, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",17,1755621096063,1755621096211,o,79, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",18,1755621096192,1755621096308,f,70, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",19,1755621096347,1755621096516, ,32, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",20,1755621097392,1755621097514,t,84, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",21,1755621097506,1755621097635,h,72, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",22,1755621097662,1755621097775,r,82, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",23,1755621097928,1755621098032,e,69, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",24,1755621098109,1755621098232,e,69, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",25,1755621098232,1755621098419, ,32, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",26,1755621098597,1755621098788,c,67, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",27,1755621098749,1755621098964,a,65, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",28,1755621099015,1755621099252,t,84, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",29,1755621099158,1755621099357,s,83, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",30,1755621099490,1755621099675, ,32, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",31,1755621099803,1755621099953,p,80, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",32,1755621099906,1755621100103,l,76, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",33,1755621100162,1755621100318,a,65, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",34,1755621100505,1755621100640,y,89, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",35,1755621100649,1755621100860,i,73, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",36,1755621100798,1755621100940,n,78, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",37,1755621101011,1755621101140,g,71, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",38,1755621101152,1755621101330, ,32, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",39,1755621101344,1755621101437,t,84, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",40,1755621101441,1755621101629,o,79, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",41,1755621101718,1755621101848,g,71, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",42,1755621101866,1755621102068,e,69, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",43,1755621102164,1755621102308,t,84, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",44,1755621102626,1755621102778,h,72, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",45,1755621102810,1755621103031,e,69, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",46,1755621102937,1755621103106,r,82, monthly, physical-keyboard
+5de90f54a48441037ac21f43,prompt-to-image,1,2,1,Create an image of three cats playing together.,"[25,28]","[30,37]",47,1755621104845,1755621104996,.,190, monthly, physical-keyboard
