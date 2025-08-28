@@ -1,0 +1,52 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",0,1756287030264,1756287030548,Shift,16, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",1,1756287030436,1756287030516,P,80, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",2,1756287030653,1756287030749,l,76, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",3,1756287030743,1756287030885,e,69, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",4,1756287030804,1756287031012,a,65, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",5,1756287030900,1756287031094,s,83, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",6,1756287031005,1756287031148,e,69, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",7,1756287031084,1756287031236, ,32, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",8,1756287031340,1756287031417,r,82, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",9,1756287031716,1756287031827,Backspace,8, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",10,1756287031748,1756287031877,w,87, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",11,1756287031868,1756287031980,r,82, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",12,1756287031997,1756287032099,i,73, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",13,1756287032092,1756287032150,t,84, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",14,1756287032260,1756287032387,e,69, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",15,1756287032349,1756287032468, ,32, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",16,1756287032436,1756287032580,a,65, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",17,1756287032532,1756287032740, ,32, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",18,1756287033109,1756287033228,s,83, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",19,1756287033196,1756287033324,h,72, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",20,1756287033332,1756287033459,o,79, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",21,1756287033428,1756287033508,r,82, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",22,1756287033621,1756287033724,t,84, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",23,1756287033780,1756287033884, ,32, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",24,1756287034316,1756287034372,s,83, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",25,1756287034516,1756287034596,t,84, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",26,1756287034588,1756287034700,o,79, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",27,1756287034724,1756287034804,r,82, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",28,1756287034836,1756287034916,y,89, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",29,1756287034931,1756287035031, ,32, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",30,1756287034990,1756287035140,a,65, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",31,1756287035116,1756287035187,b,66, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",32,1756287035324,1756287035421,o,79, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",33,1756287035348,1756287035496,u,85, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",34,1756287035428,1756287035532,t,84, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",35,1756287035504,1756287035667, ,32, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",36,1756287035643,1756287035796,a,65, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",37,1756287035771,1756287035980, ,32, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",38,1756287035932,1756287036076,s,83, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",39,1756287036068,1756287036179,m,77, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",40,1756287036195,1756287036307,a,65, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",41,1756287036277,1756287036346,l,76, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",42,1756287036411,1756287036507,l,76, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",43,1756287036499,1756287036627, ,32, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",44,1756287036668,1756287036755,t,84, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",45,1756287036795,1756287036853,u,85, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",46,1756287036876,1756287036979,r,82, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",47,1756287037187,1756287037259,t,84, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",48,1756287037283,1756287037371,l,76, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",49,1756287037427,1756287037508,e,69, weekly, physical-keyboard
+65a3f4da297bacfcc92dead2,text-to-prompt,1,4,0,Please write a short story about a small turtle.,"[21,48]","[15,20]",50,1756287038956,1756287039045,.,190, weekly, physical-keyboard

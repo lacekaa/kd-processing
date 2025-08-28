@@ -1,0 +1,32 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+5ea56ad134f3aa550dd26320,prompt-to-text,0,2,4,The picture is not visible,"[0,4]","[11,14]",0,1756243117021,1756243117176,Shift,16, monthly, physical-keyboard
+5ea56ad134f3aa550dd26320,prompt-to-text,0,2,4,The picture is not visible,"[0,4]","[11,14]",1,1756243117106,1756243117242,T,84, monthly, physical-keyboard
+5ea56ad134f3aa550dd26320,prompt-to-text,0,2,4,The picture is not visible,"[0,4]","[11,14]",2,1756243117600,1756243117685,h,72, monthly, physical-keyboard
+5ea56ad134f3aa550dd26320,prompt-to-text,0,2,4,The picture is not visible,"[0,4]","[11,14]",3,1756243117761,1756243117830,e,69, monthly, physical-keyboard
+5ea56ad134f3aa550dd26320,prompt-to-text,0,2,4,The picture is not visible,"[0,4]","[11,14]",4,1756243117886,1756243117955, ,32, monthly, physical-keyboard
+5ea56ad134f3aa550dd26320,prompt-to-text,0,2,4,The picture is not visible,"[0,4]","[11,14]",5,1756243118265,1756243118349,p,80, monthly, physical-keyboard
+5ea56ad134f3aa550dd26320,prompt-to-text,0,2,4,The picture is not visible,"[0,4]","[11,14]",6,1756243118471,1756243118564,i,73, monthly, physical-keyboard
+5ea56ad134f3aa550dd26320,prompt-to-text,0,2,4,The picture is not visible,"[0,4]","[11,14]",7,1756243118569,1756243118639,c,67, monthly, physical-keyboard
+5ea56ad134f3aa550dd26320,prompt-to-text,0,2,4,The picture is not visible,"[0,4]","[11,14]",8,1756243118799,1756243118889,t,84, monthly, physical-keyboard
+5ea56ad134f3aa550dd26320,prompt-to-text,0,2,4,The picture is not visible,"[0,4]","[11,14]",9,1756243118923,1756243119003,u,85, monthly, physical-keyboard
+5ea56ad134f3aa550dd26320,prompt-to-text,0,2,4,The picture is not visible,"[0,4]","[11,14]",10,1756243119029,1756243119128,r,82, monthly, physical-keyboard
+5ea56ad134f3aa550dd26320,prompt-to-text,0,2,4,The picture is not visible,"[0,4]","[11,14]",11,1756243119213,1756243119317,e,69, monthly, physical-keyboard
+5ea56ad134f3aa550dd26320,prompt-to-text,0,2,4,The picture is not visible,"[0,4]","[11,14]",12,1756243119308,1756243119397, ,32, monthly, physical-keyboard
+5ea56ad134f3aa550dd26320,prompt-to-text,0,2,4,The picture is not visible,"[0,4]","[11,14]",13,1756243119532,1756243119592,i,73, monthly, physical-keyboard
+5ea56ad134f3aa550dd26320,prompt-to-text,0,2,4,The picture is not visible,"[0,4]","[11,14]",14,1756243119607,1756243119682,s,83, monthly, physical-keyboard
+5ea56ad134f3aa550dd26320,prompt-to-text,0,2,4,The picture is not visible,"[0,4]","[11,14]",15,1756243119746,1756243119811, ,32, monthly, physical-keyboard
+5ea56ad134f3aa550dd26320,prompt-to-text,0,2,4,The picture is not visible,"[0,4]","[11,14]",16,1756243119902,1756243119976,n,78, monthly, physical-keyboard
+5ea56ad134f3aa550dd26320,prompt-to-text,0,2,4,The picture is not visible,"[0,4]","[11,14]",17,1756243120092,1756243120167,o,79, monthly, physical-keyboard
+5ea56ad134f3aa550dd26320,prompt-to-text,0,2,4,The picture is not visible,"[0,4]","[11,14]",18,1756243120171,1756243120231,t,84, monthly, physical-keyboard
+5ea56ad134f3aa550dd26320,prompt-to-text,0,2,4,The picture is not visible,"[0,4]","[11,14]",19,1756243120326,1756243120406, ,32, monthly, physical-keyboard
+5ea56ad134f3aa550dd26320,prompt-to-text,0,2,4,The picture is not visible,"[0,4]","[11,14]",20,1756243120580,1756243120655,v,86, monthly, physical-keyboard
+5ea56ad134f3aa550dd26320,prompt-to-text,0,2,4,The picture is not visible,"[0,4]","[11,14]",21,1756243120665,1756243120765,i,73, monthly, physical-keyboard
+5ea56ad134f3aa550dd26320,prompt-to-text,0,2,4,The picture is not visible,"[0,4]","[11,14]",22,1756243120800,1756243120899,c,67, monthly, physical-keyboard
+5ea56ad134f3aa550dd26320,prompt-to-text,0,2,4,The picture is not visible,"[0,4]","[11,14]",23,1756243120885,1756243120970,i,73, monthly, physical-keyboard
+5ea56ad134f3aa550dd26320,prompt-to-text,0,2,4,The picture is not visible,"[0,4]","[11,14]",24,1756243121205,1756243121279,Backspace,8, monthly, physical-keyboard
+5ea56ad134f3aa550dd26320,prompt-to-text,0,2,4,The picture is not visible,"[0,4]","[11,14]",25,1756243121364,1756243121459,Backspace,8, monthly, physical-keyboard
+5ea56ad134f3aa550dd26320,prompt-to-text,0,2,4,The picture is not visible,"[0,4]","[11,14]",26,1756243121539,1756243121608,s,83, monthly, physical-keyboard
+5ea56ad134f3aa550dd26320,prompt-to-text,0,2,4,The picture is not visible,"[0,4]","[11,14]",27,1756243121653,1756243121743,i,73, monthly, physical-keyboard
+5ea56ad134f3aa550dd26320,prompt-to-text,0,2,4,The picture is not visible,"[0,4]","[11,14]",28,1756243122023,1756243122143,b,66, monthly, physical-keyboard
+5ea56ad134f3aa550dd26320,prompt-to-text,0,2,4,The picture is not visible,"[0,4]","[11,14]",29,1756243122243,1756243122318,l,76, monthly, physical-keyboard
+5ea56ad134f3aa550dd26320,prompt-to-text,0,2,4,The picture is not visible,"[0,4]","[11,14]",30,1756243122348,1756243122438,e,69, monthly, physical-keyboard

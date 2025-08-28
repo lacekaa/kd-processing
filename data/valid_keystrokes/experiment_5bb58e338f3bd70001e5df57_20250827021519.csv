@@ -1,0 +1,35 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+5bb58e338f3bd70001e5df57,prompt-to-text,0,0,2,create a text for a work email,"[20,30]","[9,13]",0,1756260861064,1756260861187,c,67, weekly, physical-keyboard
+5bb58e338f3bd70001e5df57,prompt-to-text,0,0,2,create a text for a work email,"[20,30]","[9,13]",1,1756260861275,1756260861496,r,82, weekly, physical-keyboard
+5bb58e338f3bd70001e5df57,prompt-to-text,0,0,2,create a text for a work email,"[20,30]","[9,13]",2,1756260861385,1756260861506,e,69, weekly, physical-keyboard
+5bb58e338f3bd70001e5df57,prompt-to-text,0,0,2,create a text for a work email,"[20,30]","[9,13]",3,1756260861485,1756260861601,a,65, weekly, physical-keyboard
+5bb58e338f3bd70001e5df57,prompt-to-text,0,0,2,create a text for a work email,"[20,30]","[9,13]",4,1756260861639,1756260861718,t,84, weekly, physical-keyboard
+5bb58e338f3bd70001e5df57,prompt-to-text,0,0,2,create a text for a work email,"[20,30]","[9,13]",5,1756260861736,1756260861841, ,32, weekly, physical-keyboard
+5bb58e338f3bd70001e5df57,prompt-to-text,0,0,2,create a text for a work email,"[20,30]","[9,13]",6,1756260861853,1756260861953,a,65, weekly, physical-keyboard
+5bb58e338f3bd70001e5df57,prompt-to-text,0,0,2,create a text for a work email,"[20,30]","[9,13]",7,1756260861954,1756260862049, ,32, weekly, physical-keyboard
+5bb58e338f3bd70001e5df57,prompt-to-text,0,0,2,create a text for a work email,"[20,30]","[9,13]",8,1756260862666,1756260862809,t,84, weekly, physical-keyboard
+5bb58e338f3bd70001e5df57,prompt-to-text,0,0,2,create a text for a work email,"[20,30]","[9,13]",9,1756260862781,1756260862815,e,69, weekly, physical-keyboard
+5bb58e338f3bd70001e5df57,prompt-to-text,0,0,2,create a text for a work email,"[20,30]","[9,13]",10,1756260862944,1756260863062,x,88, weekly, physical-keyboard
+5bb58e338f3bd70001e5df57,prompt-to-text,0,0,2,create a text for a work email,"[20,30]","[9,13]",11,1756260863163,1756260863254,t,84, weekly, physical-keyboard
+5bb58e338f3bd70001e5df57,prompt-to-text,0,0,2,create a text for a work email,"[20,30]","[9,13]",12,1756260863330,1756260863429, ,32, weekly, physical-keyboard
+5bb58e338f3bd70001e5df57,prompt-to-text,0,0,2,create a text for a work email,"[20,30]","[9,13]",13,1756260870583,1756260870672,f,70, weekly, physical-keyboard
+5bb58e338f3bd70001e5df57,prompt-to-text,0,0,2,create a text for a work email,"[20,30]","[9,13]",14,1756260870682,1756260870779,o,79, weekly, physical-keyboard
+5bb58e338f3bd70001e5df57,prompt-to-text,0,0,2,create a text for a work email,"[20,30]","[9,13]",15,1756260870821,1756260870889,r,82, weekly, physical-keyboard
+5bb58e338f3bd70001e5df57,prompt-to-text,0,0,2,create a text for a work email,"[20,30]","[9,13]",16,1756260870923,1756260871026, ,32, weekly, physical-keyboard
+5bb58e338f3bd70001e5df57,prompt-to-text,0,0,2,create a text for a work email,"[20,30]","[9,13]",17,1756260872246,1756260872349,a,65, weekly, physical-keyboard
+5bb58e338f3bd70001e5df57,prompt-to-text,0,0,2,create a text for a work email,"[20,30]","[9,13]",18,1756260872342,1756260872447, ,32, weekly, physical-keyboard
+5bb58e338f3bd70001e5df57,prompt-to-text,0,0,2,create a text for a work email,"[20,30]","[9,13]",19,1756260872880,1756260872968,w,87, weekly, physical-keyboard
+5bb58e338f3bd70001e5df57,prompt-to-text,0,0,2,create a text for a work email,"[20,30]","[9,13]",20,1756260873036,1756260873123,o,79, weekly, physical-keyboard
+5bb58e338f3bd70001e5df57,prompt-to-text,0,0,2,create a text for a work email,"[20,30]","[9,13]",21,1756260873144,1756260873239,r,82, weekly, physical-keyboard
+5bb58e338f3bd70001e5df57,prompt-to-text,0,0,2,create a text for a work email,"[20,30]","[9,13]",22,1756260873359,1756260873444,k,75, weekly, physical-keyboard
+5bb58e338f3bd70001e5df57,prompt-to-text,0,0,2,create a text for a work email,"[20,30]","[9,13]",23,1756260873460,1756260873563, ,32, weekly, physical-keyboard
+5bb58e338f3bd70001e5df57,prompt-to-text,0,0,2,create a text for a work email,"[20,30]","[9,13]",24,1756260873576,1756260873655,e,69, weekly, physical-keyboard
+5bb58e338f3bd70001e5df57,prompt-to-text,0,0,2,create a text for a work email,"[20,30]","[9,13]",25,1756260873685,1756260873769,m,77, weekly, physical-keyboard
+5bb58e338f3bd70001e5df57,prompt-to-text,0,0,2,create a text for a work email,"[20,30]","[9,13]",26,1756260873841,1756260873923,a,65, weekly, physical-keyboard
+5bb58e338f3bd70001e5df57,prompt-to-text,0,0,2,create a text for a work email,"[20,30]","[9,13]",27,1756260873931,1756260874007,i,73, weekly, physical-keyboard
+5bb58e338f3bd70001e5df57,prompt-to-text,0,0,2,create a text for a work email,"[20,30]","[9,13]",28,1756260874027,1756260874140,l,76, weekly, physical-keyboard
+5bb58e338f3bd70001e5df57,prompt-to-text,0,0,2,create a text for a work email,"[20,30]","[9,13]",29,1756260876288,1756260876349,3,51, weekly, physical-keyboard
+5bb58e338f3bd70001e5df57,prompt-to-text,0,0,2,create a text for a work email,"[20,30]","[9,13]",30,1756260876852,1756260876900,e,69, weekly, physical-keyboard
+5bb58e338f3bd70001e5df57,prompt-to-text,0,0,2,create a text for a work email,"[20,30]","[9,13]",31,1756260877117,1756260877217,Backspace,8, weekly, physical-keyboard
+5bb58e338f3bd70001e5df57,prompt-to-text,0,0,2,create a text for a work email,"[20,30]","[9,13]",32,1756260877272,1756260877358,Backspace,8, weekly, physical-keyboard
+5bb58e338f3bd70001e5df57,prompt-to-text,0,0,2,create a text for a work email,"[20,30]","[9,13]",33,1756260877909,1756260877971,e,69, weekly, physical-keyboard

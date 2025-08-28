@@ -1,0 +1,77 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",0,1756231550151,1756231550203,Shift,16, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",1,1756231550157,1756231550179,ArrowLeft,37, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",2,1756231550391,1756231550627,Shift,16, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",3,1756231550537,1756231550615,W,87, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",4,1756231550797,1756231550863,r,82, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",5,1756231550899,1756231550969,i,73, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",6,1756231551014,1756231551096,t,84, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",7,1756231551087,1756231551194,e,69, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",8,1756231551131,1756231551194, ,32, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",9,1756231551266,1756231551375,a,65, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",10,1756231551287,1756231551368, ,32, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",11,1756231551723,1756231551800,s,83, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",12,1756231551923,1756231551992,t,84, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",13,1756231552084,1756231552160,o,79, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",14,1756231552213,1756231552289,r,82, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",15,1756231552253,1756231552383,y,89, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",16,1756231552354,1756231552425, ,32, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",17,1756231552618,1756231552742,a,65, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",18,1756231552750,1756231552820,b,66, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",19,1756231553019,1756231553095,o,79, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",20,1756231553189,1756231553254,u,85, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",21,1756231553276,1756231553344,t,84, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",22,1756231553392,1756231553433, ,32, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",23,1756231554120,1756231554504,Backspace,8, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",24,1756231555500,1756231555559, ,32, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",25,1756231555620,1756231555708,c,67, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",26,1756231555681,1756231555810,a,65, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",27,1756231555836,1756231555963,s,83, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",28,1756231556380,1756231556447,i,73, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",29,1756231556557,1756231556620,n,78, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",30,1756231556715,1756231556791,o,79, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",31,1756231556839,1756231556913,s,83, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",32,1756231556924,1756231556999, ,32, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",33,1756231557776,1756231557836,Backspace,8, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",34,1756231558016,1756231558083,",",188, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",35,1756231558170,1756231558239, ,32, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",36,1756231558962,1756231559031,l,76, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",37,1756231559131,1756231559200,o,79, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",38,1756231559212,1756231559334,s,83, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",39,1756231559327,1756231559436,e,69, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",40,1756231559430,1756231559542,r,82, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",41,1756231559567,1756231559639,e,69, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",42,1756231559670,1756231559747,Backspace,8, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",43,1756231559833,1756231560379,Backspace,8, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",44,1756231560343,1756231560560,Backspace,8, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",45,1756231560375,1756231560716,Backspace,8, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",46,1756231560488,1756231562222,Backspace,8, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",47,1756231560634,1756231563132,Backspace,8, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",48,1756231560775,1756231560851,b,66, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",49,1756231560894,1756231560969,i,73, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",50,1756231560985,1756231561058,g,71, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",51,1756231561113,1756231561184, ,32, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",52,1756231561354,1756231561417,l,76, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",53,1756231561511,1756231561579,o,79, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",54,1756231561608,1756231561684,s,83, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",55,1756231561800,1756231561822,l,76, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",56,1756231562143,1756231564271,Backspace,8, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",57,1756231562234,1756231562373,e,69, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",58,1756231562330,1756231562466,s,83, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",59,1756231562538,1756231562614, ,32, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",60,1756231563060,1756231564386,Backspace,8, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",61,1756231563253,1756231563316,",",188, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",62,1756231563410,1756231563484, ,32, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",63,1756231563522,1756231563588,b,66, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",64,1756231563625,1756231563697,i,73, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",65,1756231563703,1756231563776,g,71, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",66,1756231563952,1756231564022,w,87, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",67,1756231564013,1756231564182, ,32, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",68,1756231564217,0,Backspace,8, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",69,1756231564333,0,Backspace,8, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",70,1756231564438,1756231564562, ,32, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",71,1756231564502,1756231564593,w,87, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",72,1756231564572,1756231564639,i,73, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",73,1756231564739,1756231564801,n,78, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",74,1756231564845,1756231564950,s,83, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,0,0,3,"Write a story about casinos, big loses, big wins.","[20,27];[8,14]","[33,38];[44,48]",75,1756231565100,1756231565173,.,190, weekly, physical-keyboard

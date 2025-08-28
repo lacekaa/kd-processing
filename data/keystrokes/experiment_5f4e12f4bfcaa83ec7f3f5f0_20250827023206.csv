@@ -1,0 +1,68 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",0,1756261870297,1756261870498,Shift,16, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",1,1756261870406,1756261870503,W,87, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",2,1756261870603,1756261870697,r,82, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",3,1756261870749,1756261870881,i,73, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",4,1756261870887,1756261870977,t,84, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",5,1756261871000,1756261871147,e,69, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",6,1756261871156,1756261871235, ,32, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",7,1756261872170,1756261872282,a,65, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",8,1756261872348,1756261872435, ,32, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",9,1756261872505,1756261872635,s,83, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",10,1756261872608,1756261872685,h,72, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",11,1756261872822,1756261872952,o,79, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",12,1756261872923,1756261873065,r,82, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",13,1756261873013,1756261873127,t,84, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",14,1756261873153,1756261873234, ,32, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",15,1756261873218,1756261873343,s,83, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",16,1756261873312,1756261873412,t,84, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",17,1756261873395,1756261873482,o,79, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",18,1756261873693,1756261873833,r,82, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",19,1756261873877,1756261873994,y,89, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",20,1756261874105,1756261874240, ,32, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",21,1756261874639,1756261874795,a,65, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",22,1756261874921,1756261875023,b,66, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",23,1756261875014,1756261875096,o,79, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",24,1756261875194,1756261875272,u,85, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",25,1756261875261,1756261875360,t,84, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",26,1756261875421,1756261875507, ,32, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",27,1756261875556,1756261875646,a,65, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",28,1756261875606,1756261875700, ,32, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",29,1756261875737,1756261875859,s,83, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",30,1756261875854,1756261875916,m,77, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",31,1756261875935,1756261876046,a,65, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",32,1756261876039,1756261876098,l,76, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",33,1756261876143,1756261876240,l,76, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",34,1756261876223,1756261876402, ,32, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",35,1756261876380,1756261876505,t,84, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",36,1756261876483,1756261876573,u,85, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",37,1756261876597,1756261876696,r,82, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",38,1756261876722,1756261876866,l,76, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",39,1756261876977,1756261877061,t,84, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",40,1756261877303,1756261877352,Backspace,8, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",41,1756261877559,1756261877645,Backspace,8, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",42,1756261877684,1756261877780,t,84, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",43,1756261877792,1756261877879,l,76, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",44,1756261877953,1756261878050,e,69, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",45,1756261896511,1756261896602,",",188, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",46,1756261896569,1756261896733, ,32, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",47,1756261896663,1756261896792,s,83, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",48,1756261896784,1756261896875,h,72, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",49,1756261897091,1756261897178,r,82, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",50,1756261897301,1756261897373,Backspace,8, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",51,1756261897445,1756261897572,o,79, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",52,1756261897512,1756261897665,r,82, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",53,1756261898109,1756261898223,Backspace,8, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",54,1756261898285,1756261898378,Backspace,8, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",55,1756261898450,1756261898534,Backspace,8, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",56,1756261898624,1756261898704,Backspace,8, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",57,1756261898782,1756261898854,Backspace,8, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",58,1756261898898,1756261898998,Backspace,8, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",59,1756261899073,1756261899134,Backspace,8, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",60,1756261899538,1756261899637,e,69, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",61,1756261912566,1756261912706, ,32, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",62,1756261912696,1756261912782,k,75, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",63,1756261912843,1756261912924,i,73, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",64,1756261912941,1756261913071,d,68, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",65,1756261913496,1756261913593,s,83, daily, physical-keyboard
+5f4e12f4bfcaa83ec7f3f5f0,text-to-prompt,1,3,5,Write a short kids' story about a small turtle,"[0,13];[20,46]","[14,19]",66,1756261913775,1756261913840,',222, daily, physical-keyboard

@@ -1,0 +1,52 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",0,1756265072832,1756265072990,CapsLock,20, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",1,1756265072917,1756265073037,T,84, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",2,1756265073093,1756265073157,h,72, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",3,1756265073173,1756265073286,e,69, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",4,1756265073238,1756265073349,r,82, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",5,1756265073361,1756265073486,e,69, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",6,1756265073447,1756265073566, ,32, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",7,1756265073599,1756265073687,i,73, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",8,1756265073698,1756265073799,s,83, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",9,1756265073759,1756265073861, ,32, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",10,1756265073872,1756265073951,n,78, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",11,1756265074056,1756265074103,o,79, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",12,1756265074134,1756265074215, ,32, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",13,1756265074361,1756265074399,i,73, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",14,1756265074609,1756265074687,Backspace,8, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",15,1756265074824,1756265074880,p,80, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",16,1756265075008,1756265075037,p,80, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",17,1756265075272,1756265075351,i,73, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",18,1756265075512,1756265075575,Backspace,8, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",19,1756265075656,1756265075711,Backspace,8, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",20,1756265075824,1756265075929,i,73, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",21,1756265075920,1756265075974,c,67, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",22,1756265076088,1756265076159,t,84, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",23,1756265076168,1756265076238,u,85, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",24,1756265076303,1756265076366,r,82, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",25,1756265076319,1756265076421,e,69, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",26,1756265076389,1756265076477, ,32, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",27,1756265076552,1756265076631,d,68, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",28,1756265076679,1756265076799,i,73, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",29,1756265076818,1756265076911,s,83, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",30,1756265076975,1756265077031,p,80, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",31,1756265077136,1756265077215,l,76, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",32,1756265077223,1756265077287,a,65, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",33,1756265077326,1756265077433,y,89, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",34,1756265077408,1756265077444,e,69, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",35,1756265077560,1756265077598,d,68, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",36,1756265077630,1756265077735, ,32, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",37,1756265077726,1756265077791,w,87, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",38,1756265077806,1756265077878,i,73, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",39,1756265077918,1756265078033,t,84, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",40,1756265078024,1756265078135,h,72, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",41,1756265078190,1756265078316, ,32, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",42,1756265078273,1756265078376,t,84, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",43,1756265078373,1756265078453,h,72, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",44,1756265078429,1756265078526,i,73, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",45,1756265078568,1756265078685,s,83, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",46,1756265078655,1756265078750, ,32, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",47,1756265079520,1756265079622,Backspace,8, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",48,1756265079745,1756265079854, ,32, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",49,1756265080254,1756265080342,Backspace,8, daily, physical-keyboard
+5ed94af267e7bf10f180c5b0,prompt-to-text,0,2,4,There is no picture displayed with this.,"[0,19]","[20,40]",50,1756265080576,1756265080654,.,190, daily, physical-keyboard

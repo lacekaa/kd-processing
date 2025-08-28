@@ -1,0 +1,37 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+5fff2877a99bcb65a14a223c,prompt-to-image,0,4,3,create an image of a car,"[0,6]","[20,24]",0,1756292263514,1756292263599,c,67, weekly, physical-keyboard
+5fff2877a99bcb65a14a223c,prompt-to-image,0,4,3,create an image of a car,"[0,6]","[20,24]",1,1756292263766,1756292263846,r,82, weekly, physical-keyboard
+5fff2877a99bcb65a14a223c,prompt-to-image,0,4,3,create an image of a car,"[0,6]","[20,24]",2,1756292263938,1756292264020,e,69, weekly, physical-keyboard
+5fff2877a99bcb65a14a223c,prompt-to-image,0,4,3,create an image of a car,"[0,6]","[20,24]",3,1756292264182,1756292264288,a,65, weekly, physical-keyboard
+5fff2877a99bcb65a14a223c,prompt-to-image,0,4,3,create an image of a car,"[0,6]","[20,24]",4,1756292264541,1756292264626,t,84, weekly, physical-keyboard
+5fff2877a99bcb65a14a223c,prompt-to-image,0,4,3,create an image of a car,"[0,6]","[20,24]",5,1756292264764,1756292264859,e,69, weekly, physical-keyboard
+5fff2877a99bcb65a14a223c,prompt-to-image,0,4,3,create an image of a car,"[0,6]","[20,24]",6,1756292265047,1756292265128, ,32, weekly, physical-keyboard
+5fff2877a99bcb65a14a223c,prompt-to-image,0,4,3,create an image of a car,"[0,6]","[20,24]",7,1756292265897,1756292265992,a,65, weekly, physical-keyboard
+5fff2877a99bcb65a14a223c,prompt-to-image,0,4,3,create an image of a car,"[0,6]","[20,24]",8,1756292266354,1756292266445,n,78, weekly, physical-keyboard
+5fff2877a99bcb65a14a223c,prompt-to-image,0,4,3,create an image of a car,"[0,6]","[20,24]",9,1756292266596,1756292266673, ,32, weekly, physical-keyboard
+5fff2877a99bcb65a14a223c,prompt-to-image,0,4,3,create an image of a car,"[0,6]","[20,24]",10,1756292267915,1756292268000,i,73, weekly, physical-keyboard
+5fff2877a99bcb65a14a223c,prompt-to-image,0,4,3,create an image of a car,"[0,6]","[20,24]",11,1756292268141,1756292268229,m,77, weekly, physical-keyboard
+5fff2877a99bcb65a14a223c,prompt-to-image,0,4,3,create an image of a car,"[0,6]","[20,24]",12,1756292268842,1756292268933,a,65, weekly, physical-keyboard
+5fff2877a99bcb65a14a223c,prompt-to-image,0,4,3,create an image of a car,"[0,6]","[20,24]",13,1756292269160,1756292269236,g,71, weekly, physical-keyboard
+5fff2877a99bcb65a14a223c,prompt-to-image,0,4,3,create an image of a car,"[0,6]","[20,24]",14,1756292269414,1756292269500,e,69, weekly, physical-keyboard
+5fff2877a99bcb65a14a223c,prompt-to-image,0,4,3,create an image of a car,"[0,6]","[20,24]",15,1756292269676,1756292269754, ,32, weekly, physical-keyboard
+5fff2877a99bcb65a14a223c,prompt-to-image,0,4,3,create an image of a car,"[0,6]","[20,24]",16,1756292270196,1756292270270,o,79, weekly, physical-keyboard
+5fff2877a99bcb65a14a223c,prompt-to-image,0,4,3,create an image of a car,"[0,6]","[20,24]",17,1756292270734,1756292270821,f,70, weekly, physical-keyboard
+5fff2877a99bcb65a14a223c,prompt-to-image,0,4,3,create an image of a car,"[0,6]","[20,24]",18,1756292270964,1756292271039, ,32, weekly, physical-keyboard
+5fff2877a99bcb65a14a223c,prompt-to-image,0,4,3,create an image of a car,"[0,6]","[20,24]",19,1756292271287,1756292271373,a,65, weekly, physical-keyboard
+5fff2877a99bcb65a14a223c,prompt-to-image,0,4,3,create an image of a car,"[0,6]","[20,24]",20,1756292271599,1756292271676, ,32, weekly, physical-keyboard
+5fff2877a99bcb65a14a223c,prompt-to-image,0,4,3,create an image of a car,"[0,6]","[20,24]",21,1756292274753,1756292274839,p,80, weekly, physical-keyboard
+5fff2877a99bcb65a14a223c,prompt-to-image,0,4,3,create an image of a car,"[0,6]","[20,24]",22,1756292275693,1756292275769,e,69, weekly, physical-keyboard
+5fff2877a99bcb65a14a223c,prompt-to-image,0,4,3,create an image of a car,"[0,6]","[20,24]",23,1756292276324,1756292276414,o,79, weekly, physical-keyboard
+5fff2877a99bcb65a14a223c,prompt-to-image,0,4,3,create an image of a car,"[0,6]","[20,24]",24,1756292276532,1756292276598,p,80, weekly, physical-keyboard
+5fff2877a99bcb65a14a223c,prompt-to-image,0,4,3,create an image of a car,"[0,6]","[20,24]",25,1756292276720,1756292276797,l,76, weekly, physical-keyboard
+5fff2877a99bcb65a14a223c,prompt-to-image,0,4,3,create an image of a car,"[0,6]","[20,24]",26,1756292277325,1756292277393,e,69, weekly, physical-keyboard
+5fff2877a99bcb65a14a223c,prompt-to-image,0,4,3,create an image of a car,"[0,6]","[20,24]",27,1756292279650,1756292279728,Backspace,8, weekly, physical-keyboard
+5fff2877a99bcb65a14a223c,prompt-to-image,0,4,3,create an image of a car,"[0,6]","[20,24]",28,1756292279816,1756292279891,Backspace,8, weekly, physical-keyboard
+5fff2877a99bcb65a14a223c,prompt-to-image,0,4,3,create an image of a car,"[0,6]","[20,24]",29,1756292279975,1756292280050,Backspace,8, weekly, physical-keyboard
+5fff2877a99bcb65a14a223c,prompt-to-image,0,4,3,create an image of a car,"[0,6]","[20,24]",30,1756292280128,1756292280200,Backspace,8, weekly, physical-keyboard
+5fff2877a99bcb65a14a223c,prompt-to-image,0,4,3,create an image of a car,"[0,6]","[20,24]",31,1756292280262,1756292280323,Backspace,8, weekly, physical-keyboard
+5fff2877a99bcb65a14a223c,prompt-to-image,0,4,3,create an image of a car,"[0,6]","[20,24]",32,1756292280416,1756292280472,Backspace,8, weekly, physical-keyboard
+5fff2877a99bcb65a14a223c,prompt-to-image,0,4,3,create an image of a car,"[0,6]","[20,24]",33,1756292281208,1756292281283,c,67, weekly, physical-keyboard
+5fff2877a99bcb65a14a223c,prompt-to-image,0,4,3,create an image of a car,"[0,6]","[20,24]",34,1756292281450,1756292281546,a,65, weekly, physical-keyboard
+5fff2877a99bcb65a14a223c,prompt-to-image,0,4,3,create an image of a car,"[0,6]","[20,24]",35,1756292281708,1756292281779,r,82, weekly, physical-keyboard

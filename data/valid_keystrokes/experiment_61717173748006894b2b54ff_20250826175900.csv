@@ -1,0 +1,78 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",0,1756231079508,1756231079665,Shift,16, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",1,1756231079617,1756231079689,W,87, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",2,1756231079840,1756231079917,r,82, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",3,1756231079943,1756231080006,i,73, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",4,1756231080046,1756231080160,t,84, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",5,1756231080135,1756231080238,e,69, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",6,1756231080219,1756231080287, ,32, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",7,1756231080399,1756231080487,a,65, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",8,1756231080440,1756231080515, ,32, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",9,1756231080739,1756231080828,s,83, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",10,1756231080951,1756231081031,t,84, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",11,1756231081062,1756231081127,o,79, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",12,1756231081143,1756231081219,r,82, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",13,1756231081284,1756231081341,a,65, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",14,1756231081286,1756231081371,y,89, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",15,1756231081366,1756231081447, ,32, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",16,1756231081702,1756231081764,Backspace,8, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",17,1756231081826,1756231081899,Backspace,8, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",18,1756231081961,1756231082021,Backspace,8, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",19,1756231082136,1756231082242,y,89, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",20,1756231082519,1756231082630, ,32, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",21,1756231082641,1756231082752,a,65, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",22,1756231082885,1756231082966,b,66, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",23,1756231083026,1756231083097,o,79, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",24,1756231083188,1756231083265,u,85, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",25,1756231083277,1756231083345,t,84, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",26,1756231083377,1756231083445, ,32, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",27,1756231083510,1756231083620,a,65, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",28,1756231083544,1756231083647, ,32, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",29,1756231085132,1756231085254,s,83, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",30,1756231085244,1756231085324,a,65, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",31,1756231085330,1756231085399,m,77, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",32,1756231085542,1756231085610,l,76, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",33,1756231085702,1756231085751,l,76, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",34,1756231086240,1756231086303,Backspace,8, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",35,1756231086397,1756231086454,Backspace,8, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",36,1756231086576,1756231086633,Backspace,8, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",37,1756231087006,1756231087063,Backspace,8, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",38,1756231087271,1756231087334,m,77, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",39,1756231087394,1756231087492,a,65, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",40,1756231087467,1756231087530,l,76, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",41,1756231087594,1756231087653,l,76, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",42,1756231087684,1756231087791, ,32, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",43,1756231087852,1756231087957,t,84, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",44,1756231087960,1756231088040,u,85, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",45,1756231088083,1756231088157,r,82, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",46,1756231088259,1756231088327,t,84, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",47,1756231088394,1756231088468,l,76, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",48,1756231088484,1756231088582,e,69, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",49,1756231088617,1756231088681, ,32, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",50,1756231090904,1756231090979,Backspace,8, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",51,1756231092486,1756231092629, ,32, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",52,1756231093107,1756231093186,a,65, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",53,1756231093839,1756231093915,Backspace,8, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",54,1756231094101,1756231094182,a,65, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",55,1756231094241,1756231094344,t,84, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",56,1756231094301,1756231094389, ,32, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",57,1756231094473,1756231094546,t,84, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",58,1756231094578,1756231094646,h,72, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",59,1756231094679,1756231094773,e,69, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",60,1756231094756,1756231094825, ,32, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",61,1756231095022,1756231095114,r,82, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",62,1756231095183,1756231095229,i,73, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",63,1756231099634,1756231099700,c,67, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",64,1756231099673,1756231099802,w,87, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",65,1756231099958,1756231100026,Backspace,8, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",66,1756231100099,1756231100172,Backspace,8, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",67,1756231100155,1756231100211,v,86, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",68,1756231100160,1756231100309,e,69, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",69,1756231100263,1756231100361,r,82, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",70,1756231100766,1756231100864,b,66, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",71,1756231100839,1756231100954,a,65, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",72,1756231100882,1756231100951,n,78, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",73,1756231101072,1756231101127,k,75, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",74,1756231101074,1756231101130,l,76, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",75,1756231101508,1756231101571,Backspace,8, daily, physical-keyboard
+61717173748006894b2b54ff,text-to-prompt,1,7,3,Write a story about a small turtle at the riverbank.,"[42,51];[22,34]","[35,41]",76,1756231102319,1756231102369,.,190, daily, physical-keyboard

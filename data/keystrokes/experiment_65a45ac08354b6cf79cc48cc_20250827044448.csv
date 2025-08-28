@@ -1,0 +1,259 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",0,1756269839690,1756269839817,CapsLock,20, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",1,1756269839802,1756269839946,C,67, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",2,1756269839914,1756269840010,CapsLock,20, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",3,1756269840361,1756269840474,r,82, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",4,1756269840410,1756269840570,e,69, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",5,1756269840522,1756269840633,a,65, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",6,1756269840649,1756269840714,t,84, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",7,1756269840794,1756269840874,e,69, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",8,1756269840922,1756269841018, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",9,1756269841178,1756269841274,a,65, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",10,1756269841306,1756269841386,n,78, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",11,1756269841482,1756269841546, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",12,1756269841834,1756269841914,i,73, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",13,1756269842074,1756269842170,m,77, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",14,1756269842378,1756269842489,g,71, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",15,1756269842458,1756269842570,a,65, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",16,1756269842618,1756269842730,e,69, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",17,1756269842826,1756269842857, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",18,1756269843018,1756269843114,Backspace,8, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",19,1756269843194,1756269843274,Backspace,8, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",20,1756269843354,1756269843385,Backspace,8, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",21,1756269843466,1756269843546,Backspace,8, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",22,1756269843722,1756269843834,a,65, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",23,1756269843850,1756269844010,g,71, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",24,1756269843962,1756269844074,e,69, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",25,1756269844106,1756269844186, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",26,1756269844282,1756269844362,o,79, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",27,1756269844378,1756269844442,f,70, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",28,1756269844506,1756269844537, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",29,1756269844602,1756269844666,a,65, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",30,1756269844698,1756269844762, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",31,1756269847850,1756269847977,r,82, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",32,1756269847914,1756269848057,e,69, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",33,1756269847962,1756269848074,a,65, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",34,1756269848106,1756269848201,l,76, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",35,1756269848249,1756269848346,l,76, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",36,1756269848377,1756269848457,y,89, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",37,1756269848490,1756269848586, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",38,1756269848810,1756269848921,t,84, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",39,1756269848890,1756269848953,a,65, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",40,1756269848970,1756269849034,l,76, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",41,1756269849098,1756269849162,l,76, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",42,1756269849290,1756269849386, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",43,1756269849722,1756269849786,b,66, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",44,1756269849850,1756269849946,u,85, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",45,1756269850010,1756269850090,i,73, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",46,1756269850202,1756269850282,l,76, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",47,1756269850298,1756269850362,d,68, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",48,1756269850378,1756269850442,i,73, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",49,1756269850522,1756269850586,n,78, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",50,1756269850618,1756269850666,g,71, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",51,1756269850698,1756269850761, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",52,1756269850954,1756269851034,b,66, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",53,1756269851050,1756269851114,u,85, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",54,1756269851290,1756269851354,i,73, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",55,1756269851466,1756269851530,l,76, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",56,1756269851546,1756269851610,t,84, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",57,1756269851658,1756269851738, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",58,1756269852201,1756269852265,e,69, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",59,1756269852297,1756269852362,n,78, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",60,1756269852410,1756269852458,t,84, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",61,1756269852490,1756269852553,i,73, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",62,1756269852586,1756269852698,r,82, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",63,1756269852650,1756269852730,e,69, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",64,1756269852746,1756269852825,l,76, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",65,1756269852873,1756269852938,y,89, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",66,1756269852970,1756269853050, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",67,1756269853098,1756269853241,f,70, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",68,1756269853194,1756269853289,r,82, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",69,1756269853260,1756269853321,o,79, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",70,1756269853418,1756269853481,m,77, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",71,1756269853562,1756269853626, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",72,1756269853706,1756269853786,l,76, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",73,1756269853802,1756269853914,e,69, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",74,1756269853866,1756269853961,g,71, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",75,1756269853977,1756269854026,o,79, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",76,1756269854650,1756269854730,.,190, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",77,1756269854794,1756269854890,Enter,13, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",78,1756269854938,1756269855065,CapsLock,20, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",79,1756269855050,1756269855178,T,84, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",80,1756269855162,1756269855273,CapsLock,20, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",81,1756269855258,1756269855338,h,72, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",82,1756269855386,1756269855450,e,69, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",83,1756269855482,1756269855546, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",84,1756269855578,1756269855658,b,66, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",85,1756269855674,1756269855754,u,85, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",86,1756269855834,1756269855898,i,73, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",87,1756269855978,1756269856058,l,76, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",88,1756269856090,1756269856170,d,68, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",89,1756269856186,1756269856234,i,73, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",90,1756269856298,1756269856378,n,78, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",91,1756269856394,1756269856458,g,71, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",92,1756269856474,1756269856538, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",93,1756269856570,1756269856682,s,83, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",94,1756269856762,1756269856826,o,79, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",95,1756269857194,1756269857306,Backspace,8, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",96,1756269857498,1756269857578,h,72, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",97,1756269857594,1756269857658,o,79, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",98,1756269857738,1756269857834,u,85, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",99,1756269857930,1756269858010,l,76, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",100,1756269858026,1756269858090,d,68, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",101,1756269858138,1756269858218, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",102,1756269858778,1756269858874,b,66, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",103,1756269858890,1756269858938,e,69, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",104,1756269858986,1756269859066, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",105,1756269861098,1756269861194,r,82, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",106,1756269861146,1756269861242,e,69, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",107,1756269861322,1756269861402,d,68, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",108,1756269862042,1756269862186, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",109,1756269862330,1756269862426,a,65, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",110,1756269862474,1756269862554,n,78, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",111,1756269862586,1756269862650,d,68, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",112,1756269862666,1756269862730, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",113,1756269863818,1756269863898,h,72, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",114,1756269864026,1756269864122,a,65, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",115,1756269864234,1756269864314,v,86, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",116,1756269864346,1756269864394,e,69, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",117,1756269864441,1756269864522, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",118,1756269864618,1756269864682,n,78, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",119,1756269864778,1756269864842,o,79, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",120,1756269864938,1756269865002, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",121,1756269865034,1756269865113,w,87, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",122,1756269865098,1756269865162,i,73, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",123,1756269865242,1756269865306,n,78, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",124,1756269865338,1756269865418,d,68, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",125,1756269865434,1756269865482,o,79, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",126,1756269865498,1756269865578,w,87, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",127,1756269865658,1756269865738,s,83, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,prompt-to-image,1,7,4,Create an image of a really tall building built entirely from lego.
+The building should be red and have no windows.,"[0,67]","[68,115]",128,1756269866217,1756269866266,.,190, weekly, physical-keyboard

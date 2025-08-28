@@ -1,0 +1,44 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",0,1756303577888,1756303578006,CapsLock,20, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",1,1756303578250,1756303578348,C,67, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",2,1756303578451,1756303578568,CapsLock,20, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",3,1756303578742,1756303578845,r,82, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",4,1756303578945,1756303579028,e,69, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",5,1756303579105,1756303579221,a,65, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",6,1756303579457,1756303579554,t,84, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",7,1756303579677,1756303579770,e,69, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",8,1756303580085,1756303580205, ,32, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",9,1756303586630,1756303586745,a,65, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",10,1756303586808,1756303586921,i,73, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",11,1756303586976,1756303587099, ,32, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",12,1756303587068,1756303587171,i,73, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",13,1756303587235,1756303587360,m,77, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",14,1756303587348,1756303587441,a,65, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",15,1756303587635,1756303587743,g,71, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",16,1756303587875,1756303587994,e,69, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",17,1756303588305,1756303588436, ,32, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",18,1756303593228,1756303593293,w,87, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",19,1756303593416,1756303593529,i,73, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",20,1756303593590,1756303593698,t,84, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",21,1756303593743,1756303593841,h,72, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",22,1756303594286,1756303594388, ,32, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",23,1756303596425,1756303596544,m,77, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",24,1756303596582,1756303596702,a,65, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",25,1756303596717,1756303596819,n,78, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",26,1756303597121,1756303597239, ,32, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",27,1756303597392,1756303597506,a,65, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",28,1756303597545,1756303597652,n,78, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",29,1756303597709,1756303597805,d,68, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",30,1756303598021,1756303598141, ,32, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",31,1756303598221,1756303598325,t,84, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",32,1756303598595,1756303598691,h,72, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",33,1756303598725,1756303598835,e,69, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",34,1756303598939,1756303599066, ,32, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",35,1756303599063,1756303599172,b,66, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",36,1756303599216,1756303599325,a,65, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",37,1756303599727,1756303599818,č,186, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",38,1756303599877,1756303599969,č,186, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",39,1756303600300,1756303600405,Backspace,8, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",40,1756303600468,1756303600551,Backspace,8, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",41,1756303600844,1756303600925,l,76, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-text,0,1,1,Create ai image with man and the ball,"[21,25];[33,37]","[10,16]",42,1756303600981,1756303601074,l,76, monthly, physical-keyboard

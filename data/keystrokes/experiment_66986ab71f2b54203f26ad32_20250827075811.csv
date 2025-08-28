@@ -1,0 +1,50 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",0,1756281421313,1756281421523,Shift,16, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",1,1756281421447,1756281421555,A,65, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",2,1756281421633,1756281421754, ,32, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",3,1756281421951,1756281422027,s,83, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",4,1756281422138,1756281422223,m,77, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",5,1756281422239,1756281422339,a,65, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",6,1756281422510,1756281422574,l,76, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",7,1756281422669,1756281422709,l,76, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",8,1756281422818,1756281422906, ,32, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",9,1756281423544,1756281423637,b,66, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",10,1756281423918,1756281423990,o,79, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",11,1756281424068,1756281424138,a,65, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",12,1756281424419,1756281424506,t,84, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",13,1756281424575,1756281424631, ,32, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",14,1756281425543,1756281425669,f,70, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",15,1756281425746,1756281425825,l,76, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",16,1756281425949,1756281425991,o,79, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",17,1756281426668,1756281426838,a,65, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",18,1756281426981,1756281427105,t,84, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",19,1756281427136,1756281427472,i,73, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",20,1756281427278,1756281427478,n,78, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",21,1756281427474,1756281427541,g,71, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",22,1756281427572,1756281427657, ,32, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",23,1756281436028,1756281436137,o,79, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",24,1756281436231,1756281436306,n,78, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",25,1756281436429,1756281436543, ,32, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",26,1756281436545,1756281436622,a,65, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",27,1756281436622,1756281436706, ,32, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",28,1756281437239,1756281437387,c,67, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",29,1756281437245,1756281437387,a,65, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",30,1756281437418,1756281437512,l,76, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",31,1756281437669,1756281437746,m,77, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",32,1756281437824,1756281437906, ,32, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",33,1756281438423,1756281438513,l,76, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",34,1756281438497,1756281438574,a,65, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",35,1756281438669,1756281438752,k,75, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",36,1756281438740,1756281438857,e,69, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",37,1756281444825,1756281444935, ,32, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",38,1756281445059,1756281445190,a,65, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",39,1756281445199,1756281445262,t,84, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",40,1756281445387,1756281445503, ,32, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",41,1756281445950,1756281446022,s,83, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",42,1756281446110,1756281446231,u,85, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",43,1756281446309,1756281446420,n,78, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",44,1756281447106,1756281447216,r,82, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",45,1756281447278,1756281447355,i,73, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",46,1756281447668,1756281447779,s,83, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",47,1756281447902,1756281447989,e,69, weekly, physical-keyboard
+66986ab71f2b54203f26ad32,prompt-to-image,0,3,6,A small boat floating on a calm lake at sunrise,"[2,21]","[32,36]",48,1756281448068,1756281448139, ,32, weekly, physical-keyboard

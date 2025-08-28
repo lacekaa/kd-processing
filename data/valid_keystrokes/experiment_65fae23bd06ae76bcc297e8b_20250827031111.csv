@@ -1,0 +1,31 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+65fae23bd06ae76bcc297e8b,prompt-to-image,11,0,0,children playing with a ball,"[8,17]","[22,24]",0,1756264154455,1756264154535,c,67, weekly, physical-keyboard
+65fae23bd06ae76bcc297e8b,prompt-to-image,11,0,0,children playing with a ball,"[8,17]","[22,24]",1,1756264154773,1756264154867,h,72, weekly, physical-keyboard
+65fae23bd06ae76bcc297e8b,prompt-to-image,11,0,0,children playing with a ball,"[8,17]","[22,24]",2,1756264155098,1756264155186,i,73, weekly, physical-keyboard
+65fae23bd06ae76bcc297e8b,prompt-to-image,11,0,0,children playing with a ball,"[8,17]","[22,24]",3,1756264155328,1756264155404,l,76, weekly, physical-keyboard
+65fae23bd06ae76bcc297e8b,prompt-to-image,11,0,0,children playing with a ball,"[8,17]","[22,24]",4,1756264155821,1756264155935,d,68, weekly, physical-keyboard
+65fae23bd06ae76bcc297e8b,prompt-to-image,11,0,0,children playing with a ball,"[8,17]","[22,24]",5,1756264156090,1756264156178,r,82, weekly, physical-keyboard
+65fae23bd06ae76bcc297e8b,prompt-to-image,11,0,0,children playing with a ball,"[8,17]","[22,24]",6,1756264156926,1756264157005,e,69, weekly, physical-keyboard
+65fae23bd06ae76bcc297e8b,prompt-to-image,11,0,0,children playing with a ball,"[8,17]","[22,24]",7,1756264157264,1756264157343,n,78, weekly, physical-keyboard
+65fae23bd06ae76bcc297e8b,prompt-to-image,11,0,0,children playing with a ball,"[8,17]","[22,24]",8,1756264157574,1756264157646, ,32, weekly, physical-keyboard
+65fae23bd06ae76bcc297e8b,prompt-to-image,11,0,0,children playing with a ball,"[8,17]","[22,24]",9,1756264159520,1756264159607,o,79, weekly, physical-keyboard
+65fae23bd06ae76bcc297e8b,prompt-to-image,11,0,0,children playing with a ball,"[8,17]","[22,24]",10,1756264160164,1756264160240,Backspace,8, weekly, physical-keyboard
+65fae23bd06ae76bcc297e8b,prompt-to-image,11,0,0,children playing with a ball,"[8,17]","[22,24]",11,1756264160949,1756264161081,p,80, weekly, physical-keyboard
+65fae23bd06ae76bcc297e8b,prompt-to-image,11,0,0,children playing with a ball,"[8,17]","[22,24]",12,1756264161310,1756264161402,l,76, weekly, physical-keyboard
+65fae23bd06ae76bcc297e8b,prompt-to-image,11,0,0,children playing with a ball,"[8,17]","[22,24]",13,1756264161983,1756264162067,a,65, weekly, physical-keyboard
+65fae23bd06ae76bcc297e8b,prompt-to-image,11,0,0,children playing with a ball,"[8,17]","[22,24]",14,1756264162376,1756264162459,y,89, weekly, physical-keyboard
+65fae23bd06ae76bcc297e8b,prompt-to-image,11,0,0,children playing with a ball,"[8,17]","[22,24]",15,1756264163258,1756264163341,i,73, weekly, physical-keyboard
+65fae23bd06ae76bcc297e8b,prompt-to-image,11,0,0,children playing with a ball,"[8,17]","[22,24]",16,1756264163615,1756264163723,n,78, weekly, physical-keyboard
+65fae23bd06ae76bcc297e8b,prompt-to-image,11,0,0,children playing with a ball,"[8,17]","[22,24]",17,1756264163894,1756264164005,g,71, weekly, physical-keyboard
+65fae23bd06ae76bcc297e8b,prompt-to-image,11,0,0,children playing with a ball,"[8,17]","[22,24]",18,1756264164205,1756264164302, ,32, weekly, physical-keyboard
+65fae23bd06ae76bcc297e8b,prompt-to-image,11,0,0,children playing with a ball,"[8,17]","[22,24]",19,1756264164502,1756264164614,w,87, weekly, physical-keyboard
+65fae23bd06ae76bcc297e8b,prompt-to-image,11,0,0,children playing with a ball,"[8,17]","[22,24]",20,1756264164956,1756264165043,i,73, weekly, physical-keyboard
+65fae23bd06ae76bcc297e8b,prompt-to-image,11,0,0,children playing with a ball,"[8,17]","[22,24]",21,1756264165373,1756264165475,t,84, weekly, physical-keyboard
+65fae23bd06ae76bcc297e8b,prompt-to-image,11,0,0,children playing with a ball,"[8,17]","[22,24]",22,1756264165612,1756264165721,h,72, weekly, physical-keyboard
+65fae23bd06ae76bcc297e8b,prompt-to-image,11,0,0,children playing with a ball,"[8,17]","[22,24]",23,1756264165933,1756264166020, ,32, weekly, physical-keyboard
+65fae23bd06ae76bcc297e8b,prompt-to-image,11,0,0,children playing with a ball,"[8,17]","[22,24]",24,1756264166308,1756264166419,a,65, weekly, physical-keyboard
+65fae23bd06ae76bcc297e8b,prompt-to-image,11,0,0,children playing with a ball,"[8,17]","[22,24]",25,1756264166643,1756264166737, ,32, weekly, physical-keyboard
+65fae23bd06ae76bcc297e8b,prompt-to-image,11,0,0,children playing with a ball,"[8,17]","[22,24]",26,1756264166861,1756264166944,b,66, weekly, physical-keyboard
+65fae23bd06ae76bcc297e8b,prompt-to-image,11,0,0,children playing with a ball,"[8,17]","[22,24]",27,1756264167229,1756264167326,a,65, weekly, physical-keyboard
+65fae23bd06ae76bcc297e8b,prompt-to-image,11,0,0,children playing with a ball,"[8,17]","[22,24]",28,1756264167761,1756264167836,l,76, weekly, physical-keyboard
+65fae23bd06ae76bcc297e8b,prompt-to-image,11,0,0,children playing with a ball,"[8,17]","[22,24]",29,1756264167973,1756264168044,l,76, weekly, physical-keyboard

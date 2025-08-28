@@ -1,0 +1,109 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",0,1756230247772,1756230247954,Shift,16, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",1,1756230247913,1756230247994,G,71, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",2,1756230248044,1756230248121,i,73, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",3,1756230248131,1756230248230,v,86, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",4,1756230248218,1756230248330,a,65, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",5,1756230248614,1756230248667,Backspace,8, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",6,1756230248692,1756230248776,e,69, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",7,1756230248766,1756230248870, ,32, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",8,1756230248896,1756230248950,m,77, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",9,1756230248905,1756230248936,n,78, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",10,1756230248977,1756230249056,e,69, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",11,1756230249391,1756230249433,Backspace,8, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",12,1756230249518,1756230249565,Backspace,8, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",13,1756230249609,1756230249681,e,69, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",14,1756230249763,1756230249838, ,32, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",15,1756230249919,1756230250022,a,65, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",16,1756230250273,1756230250341,n,78, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",17,1756230250432,1756230250516, ,32, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",18,1756230250747,1756230250814,Backspace,8, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",19,1756230250870,1756230250951,Backspace,8, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",20,1756230251026,1756230251141, ,32, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",21,1756230251233,1756230251313,v,86, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",22,1756230251296,1756230251411,e,69, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",23,1756230251427,1756230251527,g,71, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",24,1756230251542,1756230251676,a,65, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",25,1756230251641,1756230251700,n,78, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",26,1756230251787,1756230251859, ,32, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",27,1756230251957,1756230252042,d,68, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",28,1756230252073,1756230252145,i,73, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",29,1756230252173,1756230252265,e,69, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",30,1756230252357,1756230252442,a,65, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",31,1756230252722,1756230252784,Backspace,8, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",32,1756230252812,1756230252891,t,84, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",33,1756230253120,1756230253239, ,32, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",34,1756230255096,1756230255181,w,87, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",35,1756230255376,1756230255436,h,72, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",36,1756230255637,1756230255704,i,73, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",37,1756230255781,1756230255835,c,67, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",38,1756230255857,1756230255909,h,72, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",39,1756230256002,1756230256069, ,32, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",40,1756230256206,1756230256294,i,73, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",41,1756230256312,1756230256431,s,83, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",42,1756230256700,1756230256841, ,32, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",43,1756230258565,1756230258642,Backspace,8, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",44,1756230258718,1756230258799,Backspace,8, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",45,1756230258883,1756230258952,Backspace,8, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",46,1756230259056,1756230259137,Backspace,8, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",47,1756230259450,1756230259563, ,32, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",48,1756230259643,1756230259707,h,72, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",49,1756230259728,1756230259824,a,65, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",50,1756230259937,1756230260030,s,83, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",51,1756230260037,1756230260113, ,32, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",52,1756230260712,1756230260779,t,84, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",53,1756230260921,1756230260983,h,72, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",54,1756230260988,1756230261061,e,69, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",55,1756230261082,1756230261158, ,32, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",56,1756230261881,1756230261943,Backspace,8, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",57,1756230262019,1756230262074,Backspace,8, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",58,1756230262150,1756230262212,Backspace,8, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",59,1756230262234,1756230262273,Backspace,8, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",60,1756230262330,1756230262391,Backspace,8, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",61,1756230262438,1756230262489,Backspace,8, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",62,1756230262535,1756230262576,Backspace,8, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",63,1756230263088,1756230263190,a,65, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",64,1756230263283,1756230263368,v,86, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",65,1756230263353,1756230263448,e,69, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",66,1756230263467,1756230263537, ,32, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",67,1756230264131,1756230264199,t,84, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",68,1756230264280,1756230264347,h,72, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",69,1756230264356,1756230264421,e,69, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",70,1756230264451,1756230264519, ,32, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",71,1756230264594,1756230264668,s,83, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",72,1756230264694,1756230264778,a,65, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",73,1756230264766,1756230264834,m,77, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",74,1756230264904,1756230264979,e,69, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",75,1756230266213,1756230266294, ,32, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",76,1756230266489,1756230266576,c,67, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",77,1756230266568,1756230266667,a,65, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",78,1756230266622,1756230266691,l,76, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",79,1756230266776,1756230266847,o,79, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",80,1756230267058,1756230267140,r,82, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",81,1756230267333,1756230267869,Backspace,8, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",82,1756230267834,1756230268082,Backspace,8, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",83,1756230267867,1756230268232,Backspace,8, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",84,1756230268022,1756230268785,Backspace,8, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",85,1756230268177,1756230269111,Backspace,8, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",86,1756230268707,1756230269234,Backspace,8, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",87,1756230268888,1756230268941,g,71, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",88,1756230269071,1756230269775,Backspace,8, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",89,1756230269180,0,Backspace,8, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",90,1756230269439,1756230269545, ,32, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",91,1756230269692,0,Backspace,8, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",92,1756230269785,1756230269873,e,69, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",93,1756230269883,1756230269965, ,32, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",94,1756230270001,1756230270080,g,71, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",95,1756230270103,1756230270170,o,79, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",96,1756230270230,1756230270290,o,79, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",97,1756230270306,1756230270374,d,68, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",98,1756230270421,1756230270488, ,32, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",99,1756230270634,1756230270705,c,67, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",100,1756230270705,1756230270812,a,65, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",101,1756230270973,1756230271041,l,76, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",102,1756230271152,1756230271226,o,79, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",103,1756230271433,1756230271503,r,82, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",104,1756230271526,1756230271609,i,73, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",105,1756230271657,1756230271739,e,69, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",106,1756230271782,1756230271874,s,83, daily, physical-keyboard
+61717173748006894b2b54ff,prompt-to-text,1,2,3,Give me a vegan diet which have the same good calories.,"[10,20];[41,55]","[36,41]",107,1756230271901,1756230271974,.,190, daily, physical-keyboard

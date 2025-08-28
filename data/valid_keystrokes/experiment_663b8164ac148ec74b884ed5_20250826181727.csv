@@ -1,0 +1,66 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",0,1756232196209,1756232196344,Shift,16, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",1,1756232196310,1756232196332,B,66, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",2,1756232197073,1756232197123,Backspace,8, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",3,1756232197189,1756232197258,Backspace,8, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",4,1756232197551,1756232197775,Shift,16, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",5,1756232197701,1756232197755,G,71, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",6,1756232198062,1756232198136,i,73, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",7,1756232198155,1756232198256,v,86, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",8,1756232198230,1756232198311,e,69, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",9,1756232198330,1756232198400, ,32, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",10,1756232198558,1756232198627,m,77, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",11,1756232198726,1756232198838,e,69, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",12,1756232198842,1756232198920, ,32, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",13,1756232198947,1756232199038,a,65, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",14,1756232199027,1756232199093, ,32, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",15,1756232199388,1756232199512,r,82, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",16,1756232199443,1756232199562,e,69, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",17,1756232199852,1756232199912,i,73, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",18,1756232200026,1756232200097,p,80, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",19,1756232200228,1756232200330,e,69, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",20,1756232200355,1756232200420, ,32, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",21,1756232200708,1756232200753,Backspace,8, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",22,1756232200824,1756232200884,Backspace,8, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",23,1756232200955,1756232201017,Backspace,8, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",24,1756232201101,1756232201153,Backspace,8, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",25,1756232201263,1756232201307,Backspace,8, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",26,1756232201772,1756232201854,e,69, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",27,1756232201990,1756232202065,c,67, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",28,1756232202088,1756232202154,i,73, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",29,1756232202263,1756232202323,p,80, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",30,1756232202329,1756232202412,e,69, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",31,1756232202478,1756232202543, ,32, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",32,1756232202675,1756232202733,o,79, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",33,1756232202724,1756232202793,f,70, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",34,1756232202895,1756232202961, ,32, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",35,1756232202957,1756232203043,a,65, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",36,1756232203047,1756232203116, ,32, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",37,1756232204566,1756232204614,f,70, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",38,1756232204732,1756232204814,r,82, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",39,1756232204982,1756232205045,e,69, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",40,1756232205141,1756232205256,s,83, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",41,1756232205228,1756232205297,h,72, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",42,1756232205403,1756232205469, ,32, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",43,1756232205901,1756232205987,c,67, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",44,1756232206149,1756232206213,o,79, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",45,1756232206245,1756232206306,c,67, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",46,1756232206488,1756232206558,t,84, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",47,1756232206648,1756232206749,a,65, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",48,1756232206739,1756232206801,i,73, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",49,1756232206906,1756232206977,l,76, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",50,1756232207387,1756232207513, ,32, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",51,1756232207740,1756232207814,i,73, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",52,1756232207922,1756232207988,n,78, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",53,1756232208054,1756232208141, ,32, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",54,1756232208239,1756232208322,t,84, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",55,1756232208313,1756232208392,h,72, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",56,1756232208418,1756232208515,e,69, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",57,1756232208499,1756232208568, ,32, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",58,1756232208643,1756232208749,s,83, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",59,1756232208739,1756232208812,u,85, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",60,1756232208937,1756232208985,m,77, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",61,1756232209048,1756232209103,m,77, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",62,1756232209115,1756232209205,e,69, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",63,1756232209174,1756232209251,r,82, weekly, physical-keyboard
+663b8164ac148ec74b884ed5,prompt-to-text,1,2,3,Give me a recipe of a fresh coctail in the summer.,"[10,17];[43,49];[28,36]","[22,28]",64,1756232209267,1756232209324,.,190, weekly, physical-keyboard

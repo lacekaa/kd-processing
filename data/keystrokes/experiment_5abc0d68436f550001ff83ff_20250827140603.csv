@@ -1,0 +1,55 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",0,1756303523926,1756303524044,CapsLock,20, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",1,1756303524328,1756303524408,C,67, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",2,1756303524525,1756303524633,CapsLock,20, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",3,1756303524843,1756303524941,r,82, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",4,1756303525039,1756303525138,e,69, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",5,1756303526044,1756303526142,a,65, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",6,1756303526312,1756303526414,t,84, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",7,1756303526499,1756303526608,e,69, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",8,1756303526770,1756303526906, ,32, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",9,1756303526948,1756303527073,a,65, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",10,1756303527107,1756303527217,i,73, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",11,1756303527251,1756303527381, ,32, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",12,1756303527343,1756303527434,i,73, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",13,1756303527511,1756303527647,m,77, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",14,1756303527630,1756303527722,a,65, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",15,1756303527843,1756303527951,g,71, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",16,1756303528074,1756303528167,e,69, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",17,1756303528383,1756303528507, ,32, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",18,1756303528590,1756303528698,f,70, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",19,1756303528709,1756303528822,o,79, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",20,1756303528841,1756303528929,r,82, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",21,1756303528950,1756303529082, ,32, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",22,1756303529086,1756303529178,m,77, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",23,1756303529220,1756303529318,e,69, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",24,1756303529446,1756303529553,.,190, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",25,1756303529742,1756303529850, ,32, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",26,1756303529930,1756303530022,CapsLock,20, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",27,1756303530214,1756303530308,C,67, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",28,1756303530395,1756303530487,CapsLock,20, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",29,1756303530610,1756303530698,r,82, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",30,1756303530773,1756303530866,e,69, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",31,1756303530887,1756303531002,a,65, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",32,1756303531481,1756303531589,t,84, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",33,1756303531710,1756303531818,e,69, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",34,1756303531999,1756303532118, ,32, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",35,1756303532203,1756303532295,s,83, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",36,1756303532279,1756303532377,p,80, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",37,1756303532452,1756303532551,o,79, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",38,1756303532580,1756303532683,r,82, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",39,1756303532774,1756303532878,t,84, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",40,1756303532974,1756303533073, ,32, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",41,1756303533214,1756303533328,c,67, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",42,1756303533414,1756303533507,a,65, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",43,1756303533638,1756303533729,r,82, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",44,1756303534155,1756303534284, ,32, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",45,1756303534386,1756303534490,w,87, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",46,1756303534548,1756303534657,i,73, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",47,1756303534732,1756303534823,t,84, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",48,1756303534844,1756303534942,h,72, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",49,1756303535232,1756303535314, ,32, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",50,1756303536973,1756303537108,m,77, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",51,1756303537146,1756303537242,a,65, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",52,1756303537257,1756303537357,n,78, monthly, physical-keyboard
+5abc0d68436f550001ff83ff,prompt-to-image,0,0,1,Create ai image for me. Create sport car with man.,"[31,37]","[46,49]",53,1756303539663,1756303539747,.,190, monthly, physical-keyboard

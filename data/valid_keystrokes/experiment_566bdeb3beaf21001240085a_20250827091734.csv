@@ -1,0 +1,95 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",0,1756286226581,1756286227580,Shift,16, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",1,1756286227086,1756286233559,Shift,16, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",2,1756286227117,0,Shift,16, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",3,1756286227148,0,Shift,16, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",4,1756286227194,0,Shift,16, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",5,1756286227225,0,Shift,16, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",6,1756286227256,0,Shift,16, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",7,1756286227287,0,Shift,16, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",8,1756286227319,0,Shift,16, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",9,1756286227350,0,Shift,16, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",10,1756286227380,0,Shift,16, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",11,1756286227412,0,Shift,16, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",12,1756286227459,0,Shift,16, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",13,1756286227489,0,Shift,16, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",14,1756286227498,1756286227604,C,67, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",15,1756286227830,1756286227981,r,82, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",16,1756286227919,1756286228044,e,69, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",17,1756286228034,1756286228158,a,65, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",18,1756286228131,1756286228292,t,84, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",19,1756286228245,1756286228363,e,69, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",20,1756286228366,1756286228499, ,32, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",21,1756286228540,1756286228651,a,65, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",22,1756286229099,1756286229517,Backspace,8, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",23,1756286232702,1756286232925,Control,17, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",24,1756286232867,1756286232980,a,65, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",25,1756286233135,0,Shift,16, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",26,1756286233328,1756286233417,G,71, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",27,1756286233749,1756286233851,i,73, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",28,1756286233863,1756286233984,v,86, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",29,1756286233945,1756286234064,e,69, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",30,1756286234036,1756286234186, ,32, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",31,1756286234148,1756286234253,m,77, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",32,1756286234254,1756286234348,e,69, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",33,1756286234370,1756286234472, ,32, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",34,1756286234478,1756286234587,a,65, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",35,1756286234570,1756286234726, ,32, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",36,1756286234681,1756286234817,l,76, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",37,1756286234784,1756286234904,i,73, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",38,1756286234901,1756286235029,s,83, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",39,1756286235030,1756286235186,t,84, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",40,1756286235134,1756286235284, ,32, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",41,1756286235743,1756286235876,o,79, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",42,1756286235852,1756286236017,f,70, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",43,1756286236014,1756286236127, ,32, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",44,1756286236231,1756286236386,1,49, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",45,1756286236376,1756286236483,0,48, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",46,1756286236499,1756286236626, ,32, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",47,1756286236664,1756286236804,j,74, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",48,1756286236783,1756286236949,o,79, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",49,1756286236931,1756286237065,k,75, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",50,1756286237084,1756286237248,e,69, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",51,1756286237176,1756286237341,s,83, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",52,1756286237946,1756286238137,",",188, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",53,1756286238068,1756286238251, ,32, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",54,1756286238913,1756286239064,e,69, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",55,1756286240266,1756286240381,a,65, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",56,1756286240514,1756286240657,c,67, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",57,1756286240668,1756286240788,h,72, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",58,1756286241000,1756286241139, ,32, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",59,1756286241199,1756286241322,o,79, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",60,1756286241335,1756286241443,f,70, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",61,1756286241455,1756286241560, ,32, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",62,1756286241547,1756286241650,t,84, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",63,1756286241624,1756286241741,h,72, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",64,1756286241735,1756286241842,e,69, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",65,1756286241862,1756286241956,m,77, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",66,1756286241957,1756286242088, ,32, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",67,1756286242237,1756286242370,f,70, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",68,1756286242352,1756286242491,u,85, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",69,1756286242451,1756286242544,n,78, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",70,1756286242636,1756286242733,n,78, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",71,1756286242831,1756286242931,i,73, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",72,1756286242927,1756286243030,e,69, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",73,1756286242974,1756286243111,r,82, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",74,1756286243084,1756286243224, ,32, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",75,1756286243203,1756286243321,t,84, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",76,1756286243281,1756286243391,h,72, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",77,1756286243391,1756286243506,a,65, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",78,1756286243489,1756286243620,n,78, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",79,1756286243584,1756286243728, ,32, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",80,1756286243704,1756286243825,t,84, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",81,1756286243806,1756286243919,h,72, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",82,1756286243912,1756286244009,e,69, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",83,1756286243991,1756286244184, ,32, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",84,1756286244143,1756286244269,l,76, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",85,1756286244197,1756286244333,a,65, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",86,1756286244266,1756286244380,s,83, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",87,1756286244439,1756286244599,t,84, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",88,1756286244539,1756286244713, ,32, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",89,1756286244674,1756286244824,o,79, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",90,1756286244782,1756286244928,n,78, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",91,1756286245046,1756286245211,e,69, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",92,1756286245216,1756286245340,.,190, daily, physical-keyboard
+566bdeb3beaf21001240085a,prompt-to-text,1,4,4,"Give me a list of 10 jokes, each of them funnier than the last one.","[0,27]","[28,67]",93,1756286245544,0,Tab,9, daily, physical-keyboard
