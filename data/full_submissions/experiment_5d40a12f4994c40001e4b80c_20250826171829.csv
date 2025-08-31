@@ -1,0 +1,54 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",0,1756228664567,1756228664981,Shift,16, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",1,1756228664911,1756228664976,D,68, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",2,1756228665357,1756228665410,u,85, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",3,1756228666038,1756228666110,c,67, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",4,1756228666125,1756228666198,k,75, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",5,1756228666402,1756228666490,s,83, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",6,1756228666537,1756228666629, ,32, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",7,1756228668702,1756228668775,s,83, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",8,1756228668899,1756228668985,w,87, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",9,1756228669072,1756228669141,i,73, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",10,1756228669329,1756228669383,m,77, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",11,1756228669481,1756228669552,m,77, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",12,1756228669639,1756228669706,i,73, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",13,1756228669844,1756228669944,n,78, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",14,1756228670167,1756228670223,g,71, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",15,1756228670394,1756228670482, ,32, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",16,1756228671130,1756228671213,i,73, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",17,1756228671335,1756228671405,n,78, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",18,1756228671491,1756228671580, ,32, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",19,1756228671951,1756228671988,t,84, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",20,1756228672125,1756228672214,h,72, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",21,1756228672296,1756228672366,e,69, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",22,1756228672406,1756228672492, ,32, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",23,1756228672612,1756228672701,l,76, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",24,1756228672770,1756228672856,a,65, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",25,1756228672904,1756228672978,k,75, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",26,1756228673047,1756228673135,e,69, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",27,1756228673360,1756228673431,.,190, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",28,1756228673601,1756228673672, ,32, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",29,1756228674880,1756228675261,Shift,16, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",30,1756228675155,1756228675226,T,84, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",31,1756228675499,1756228675566,h,72, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",32,1756228675801,1756228675875,e,69, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",33,1756228675944,1756228676030, ,32, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",34,1756228676417,1756228676493,s,83, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",35,1756228676710,1756228676768,c,67, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",36,1756228676854,1756228676920,e,69, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",37,1756228677212,1756228677283,n,78, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",38,1756228677318,1756228677387,e,69, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",39,1756228677570,1756228677632,r,82, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",40,1756228677714,1756228677785,y,89, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",41,1756228677936,1756228678029, ,32, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",42,1756228678166,1756228678237,i,73, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",43,1756228678357,1756228678410,s,83, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",44,1756228678444,1756228678545, ,32, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",45,1756228678635,1756228678718,m,77, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",46,1756228678774,1756228678827,a,65, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",47,1756228679287,1756228679358,g,71, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",48,1756228679614,1756228679684,i,73, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",49,1756228680024,1756228680097,c,67, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",50,1756228680182,1756228680266,a,65, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",51,1756228680542,1756228680626,l,76, monthly, physical-keyboard
+5d40a12f4994c40001e4b80c,image-to-prompt,1,2,5,Ducks swimming in the lake. The scenery is magical.,"[0,27]","[28,51]",52,1756228680868,1756228680952,.,190, monthly, physical-keyboard
