@@ -1,0 +1,47 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD,PROMPT_CHAR
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",0,1756215163831,1756215164198,Shift,16, daily, physical-keyboard,0
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",1,1756215164042,1756215164162,C,67, daily, physical-keyboard,0
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",2,1756215164415,1756215164533,r,82, daily, physical-keyboard,1
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",3,1756215164714,1756215164813,e,69, daily, physical-keyboard,2
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",4,1756215164966,1756215165134,a,65, daily, physical-keyboard,3
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",5,1756215165308,1756215165410,t,84, daily, physical-keyboard,4
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",6,1756215165614,1756215165698,e,69, daily, physical-keyboard,5
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",7,1756215165972,1756215166091, ,32, daily, physical-keyboard,-1
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",8,1756215166251,1756215166371,a,65, daily, physical-keyboard,7
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",9,1756215166418,1756215166552, ,32, daily, physical-keyboard,-1
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",10,1756215166874,1756215166961,n,78, daily, physical-keyboard,9
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",11,1756215167181,1756215167253,i,73, daily, physical-keyboard,10
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",12,1756215167634,1756215167724,c,67, daily, physical-keyboard,11
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",13,1756215167954,1756215168029,e,69, daily, physical-keyboard,12
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",14,1756215168298,1756215168416, ,32, daily, physical-keyboard,-1
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",15,1756215168699,1756215168768,i,73, daily, physical-keyboard,14
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",16,1756215169022,1756215169110,m,77, daily, physical-keyboard,15
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",17,1756215169330,1756215169426,a,65, daily, physical-keyboard,16
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",18,1756215169733,1756215169820,g,71, daily, physical-keyboard,17
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",19,1756215170146,1756215170220,e,69, daily, physical-keyboard,18
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",20,1756215170912,1756215171040, ,32, daily, physical-keyboard,-1
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",21,1756215171682,1756215171758,s,83, daily, physical-keyboard,20
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",22,1756215172244,1756215172334,h,72, daily, physical-keyboard,21
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",23,1756215172644,1756215172730,o,79, daily, physical-keyboard,22
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",24,1756215173136,1756215173250,w,87, daily, physical-keyboard,23
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",25,1756215173418,1756215173501,i,73, daily, physical-keyboard,24
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",26,1756215173712,1756215173819,n,78, daily, physical-keyboard,25
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",27,1756215174129,1756215174210,g,71, daily, physical-keyboard,26
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",28,1756215174401,1756215174501, ,32, daily, physical-keyboard,-1
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",29,1756215174599,1756215174734,a,65, daily, physical-keyboard,28
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",30,1756215174844,1756215174980, ,32, daily, physical-keyboard,-1
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",31,1756215175889,1756215175969,l,76, daily, physical-keyboard,30
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",32,1756215176108,1756215176240,a,65, daily, physical-keyboard,31
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",33,1756215176680,1756215176777,k,75, daily, physical-keyboard,32
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",34,1756215177026,1756215177141,e,69, daily, physical-keyboard,33
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",35,1756215177351,1756215177475, ,32, daily, physical-keyboard,-1
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",36,1756215178727,1756215178806,w,87, daily, physical-keyboard,35
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",37,1756215179122,1756215179219,i,73, daily, physical-keyboard,36
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",38,1756215180015,1756215180079,t,84, daily, physical-keyboard,37
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",39,1756215180326,1756215180400,h,72, daily, physical-keyboard,38
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",40,1756215180649,1756215180760, ,32, daily, physical-keyboard,-1
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",41,1756215181309,1756215181390,d,68, daily, physical-keyboard,40
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",42,1756215181931,1756215182009,u,85, daily, physical-keyboard,41
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",43,1756215182399,1756215182518,c,67, daily, physical-keyboard,42
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",44,1756215182888,1756215182961,k,75, daily, physical-keyboard,43
+6635344fb4ae723326e3ce04,image-to-prompt,1,6,7,Create a nice image showing a lake with ducks,"[20,45]","[9,13]",45,1756215183579,1756215183675,s,83, daily, physical-keyboard,44

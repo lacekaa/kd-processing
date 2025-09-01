@@ -1,0 +1,51 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD,PROMPT_CHAR
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",0,1756214293596,1756214293996,Shift,16, daily, physical-keyboard,0
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",1,1756214293808,1756214293913,W,87, daily, physical-keyboard,0
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",2,1756214294700,1756214294792,r,82, daily, physical-keyboard,1
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",3,1756214295130,1756214295225,i,73, daily, physical-keyboard,2
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",4,1756214295493,1756214295585,t,84, daily, physical-keyboard,3
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",5,1756214295670,1756214295807,e,69, daily, physical-keyboard,4
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",6,1756214295964,1756214296080, ,32, daily, physical-keyboard,-1
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",7,1756214296212,1756214296366,a,65, daily, physical-keyboard,6
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",8,1756214296370,1756214296492, ,32, daily, physical-keyboard,-1
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",9,1756214296755,1756214296835,r,82, daily, physical-keyboard,8
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",10,1756214296953,1756214297047,e,69, daily, physical-keyboard,9
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",11,1756214297341,1756214297446,m,77, daily, physical-keyboard,10
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",12,1756214297625,1756214297693,i,73, daily, physical-keyboard,11
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",13,1756214297898,1756214297997,n,78, daily, physical-keyboard,12
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",14,1756214298203,1756214298358,d,68, daily, physical-keyboard,13
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",15,1756214298279,1756214298447,e,69, daily, physical-keyboard,14
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",16,1756214298545,1756214298638,r,82, daily, physical-keyboard,15
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",17,1756214298823,1756214298947, ,32, daily, physical-keyboard,-1
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",18,1756214300452,1756214300522,f,70, daily, physical-keyboard,17
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",19,1756214301046,1756214301133,o,79, daily, physical-keyboard,18
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",20,1756214301546,1756214301617,r,82, daily, physical-keyboard,19
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",21,1756214301726,1756214301849, ,32, daily, physical-keyboard,-1
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",22,1756214302132,1756214302234,h,72, daily, physical-keyboard,21
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",23,1756214303193,1756214303306,Backspace,8, daily, physical-keyboard,21
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",24,1756214304066,1756214304136,t,84, daily, physical-keyboard,21
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",25,1756214304300,1756214304417,h,72, daily, physical-keyboard,22
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",26,1756214304501,1756214304589,e,69, daily, physical-keyboard,23
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",27,1756214304732,1756214304853, ,32, daily, physical-keyboard,-1
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",28,1756214305526,1756214306252,Shift,16, daily, physical-keyboard,25
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",29,1756214305888,1756214305981,Q,81, daily, physical-keyboard,25
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",30,1756214306890,1756214306962,3,51, daily, physical-keyboard,26
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",31,1756214307325,1756214307447, ,32, daily, physical-keyboard,-1
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",32,1756214307781,1756214307924,d,68, daily, physical-keyboard,35
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",33,1756214308120,1756214308211,o,79, daily, physical-keyboard,36
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",34,1756214308503,1756214308640,c,67, daily, physical-keyboard,37
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",35,1756214308885,1756214308952,u,85, daily, physical-keyboard,38
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",36,1756214309174,1756214309274,m,77, daily, physical-keyboard,39
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",37,1756214309389,1756214309506,e,69, daily, physical-keyboard,40
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",38,1756214309624,1756214309715,n,78, daily, physical-keyboard,41
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",39,1756214309972,1756214310052,t,84, daily, physical-keyboard,42
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",40,1756214310312,1756214310416,s,83, daily, physical-keyboard,43
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",41,1756214326104,1756214326190,r,82, daily, physical-keyboard,43
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",42,1756214326295,1756214326402,e,69, daily, physical-keyboard,43
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",43,1756214326728,1756214326832,p,80, daily, physical-keyboard,43
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",44,1756214326958,1756214327036,o,79, daily, physical-keyboard,43
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",45,1756214327302,1756214327372,r,82, daily, physical-keyboard,43
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",46,1756214327505,1756214327586,t,84, daily, physical-keyboard,0
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",47,1756214327813,1756214327927, ,32, daily, physical-keyboard,-1
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",48,1756214329090,1756214329184,Backspace,8, daily, physical-keyboard,0
+6635344fb4ae723326e3ce04,text-to-prompt,0,0,7,Write a reminder for the Q3 report documents,"[8,16]","[0,5]",49,1756214330822,1756214330948, ,32, daily, physical-keyboard,-1

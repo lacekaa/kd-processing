@@ -1,0 +1,91 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD,PROMPT_CHAR
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",0,1756307706842,1756307706933,c,67, monthly, physical-keyboard,0
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",1,1756307707103,1756307707202,r,82, monthly, physical-keyboard,1
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",2,1756307707345,1756307707432,e,69, monthly, physical-keyboard,2
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",3,1756307707738,1756307707877,a,65, monthly, physical-keyboard,3
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",4,1756307708172,1756307708259,t,84, monthly, physical-keyboard,4
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",5,1756307708326,1756307708498,e,69, monthly, physical-keyboard,5
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",6,1756307708618,1756307708725, ,32, monthly, physical-keyboard,-1
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",7,1756307709289,1756307709424,a,65, monthly, physical-keyboard,7
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",8,1756307709535,1756307709610,m,77, monthly, physical-keyboard,8
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",9,1756307710444,1756307710536,Backspace,8, monthly, physical-keyboard,8
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",10,1756307711836,1756307711943,n,78, monthly, physical-keyboard,8
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",11,1756307712119,1756307712274, ,32, monthly, physical-keyboard,-1
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",12,1756307713888,1756307713979,i,73, monthly, physical-keyboard,10
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",13,1756307714189,1756307714283,m,77, monthly, physical-keyboard,11
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",14,1756307714483,1756307714634,a,65, monthly, physical-keyboard,12
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",15,1756307714790,1756307714873,g,71, monthly, physical-keyboard,13
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",16,1756307714996,1756307715147,e,69, monthly, physical-keyboard,14
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",17,1756307715155,1756307715240, ,32, monthly, physical-keyboard,-1
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",18,1756307715632,1756307715743,o,79, monthly, physical-keyboard,16
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",19,1756307716050,1756307716141,f,70, monthly, physical-keyboard,21
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",20,1756307716367,1756307716435, ,32, monthly, physical-keyboard,-1
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",21,1756307718396,1756307718549,a,65, monthly, physical-keyboard,22
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",22,1756307718657,1756307718764, ,32, monthly, physical-keyboard,-1
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",23,1756307721283,1756307721455,s,83, monthly, physical-keyboard,23
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",24,1756307721598,1756307721691,i,73, monthly, physical-keyboard,24
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",25,1756307721843,1756307721983,c,67, monthly, physical-keyboard,25
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",26,1756307722171,1756307722274,k,75, monthly, physical-keyboard,26
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",27,1756307723255,1756307723338, ,32, monthly, physical-keyboard,-1
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",28,1756307724605,1756307724736,l,76, monthly, physical-keyboard,27
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",29,1756307724895,1756307724986,a,65, monthly, physical-keyboard,28
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",30,1756307725175,1756307725319,d,68, monthly, physical-keyboard,30
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",31,1756307725506,1756307725584,y,89, monthly, physical-keyboard,31
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",32,1756307725792,1756307725899, ,32, monthly, physical-keyboard,-1
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",33,1756307726973,1756307727100,Backspace,8, monthly, physical-keyboard,31
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",34,1756307727205,1756307727309,Backspace,8, monthly, physical-keyboard,30
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",35,1756307727358,1756307727486,Backspace,8, monthly, physical-keyboard,28
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",36,1756307727595,1756307727667,Backspace,8, monthly, physical-keyboard,27
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",37,1756307728017,1756307728120,Backspace,8, monthly, physical-keyboard,26
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",38,1756307729298,1756307729377,Backspace,8, monthly, physical-keyboard,25
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",39,1756307729491,1756307729563,Backspace,8, monthly, physical-keyboard,24
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",40,1756307729657,1756307729725,Backspace,8, monthly, physical-keyboard,23
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",41,1756307729813,1756307729881,Backspace,8, monthly, physical-keyboard,22
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",42,1756307729969,1756307730104,Backspace,8, monthly, physical-keyboard,21
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",43,1756307732597,1756307732704,p,80, monthly, physical-keyboard,21
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",44,1756307732913,1756307733017,r,82, monthly, physical-keyboard,22
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",45,1756307733160,1756307733223,e,69, monthly, physical-keyboard,23
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",46,1756307733406,1756307733545,s,83, monthly, physical-keyboard,24
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",47,1756307734606,1756307734773,Backspace,8, monthly, physical-keyboard,24
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",48,1756307735561,1756307735637,g,71, monthly, physical-keyboard,24
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",49,1756307735858,1756307735945,n,78, monthly, physical-keyboard,25
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",50,1756307736209,1756307736340,a,65, monthly, physical-keyboard,26
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",51,1756307736496,1756307736591,n,78, monthly, physical-keyboard,27
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",52,1756307736825,1756307736913,t,84, monthly, physical-keyboard,28
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",53,1756307737175,1756307737278, ,32, monthly, physical-keyboard,-1
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",54,1756307738550,1756307738657,l,76, monthly, physical-keyboard,30
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",55,1756307738799,1756307738966,a,65, monthly, physical-keyboard,31
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",56,1756307739601,1756307739777,d,68, monthly, physical-keyboard,32
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",57,1756307739936,1756307739992,y,89, monthly, physical-keyboard,33
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",58,1756307740282,1756307740361, ,32, monthly, physical-keyboard,-1
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",59,1756307740789,1756307740908,i,73, monthly, physical-keyboard,35
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",60,1756307741118,1756307741197,n,78, monthly, physical-keyboard,36
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",61,1756307741332,1756307741450, ,32, monthly, physical-keyboard,-1
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",62,1756307743624,1756307743799,a,65, monthly, physical-keyboard,38
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",63,1756307745083,1756307745213, ,32, monthly, physical-keyboard,-1
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",64,1756307745590,1756307745738,s,83, monthly, physical-keyboard,40
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",65,1756307745925,1756307746008,u,85, monthly, physical-keyboard,41
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",66,1756307746257,1756307746320,o,79, monthly, physical-keyboard,42
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",67,1756307746261,1756307746303,p,80, monthly, physical-keyboard,43
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",68,1756307747454,1756307747509,Backspace,8, monthly, physical-keyboard,43
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",69,1756307748628,1756307748760,Backspace,8, monthly, physical-keyboard,42
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",70,1756307749390,1756307749485,p,80, monthly, physical-keyboard,42
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",71,1756307749752,1756307749863,e,69, monthly, physical-keyboard,43
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",72,1756307750001,1756307750140,r,82, monthly, physical-keyboard,44
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",73,1756307750278,1756307750381,m,77, monthly, physical-keyboard,45
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",74,1756307750504,1756307750627,a,65, monthly, physical-keyboard,46
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",75,1756307750905,1756307751048,r,82, monthly, physical-keyboard,47
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",76,1756307751646,1756307751767,k,75, monthly, physical-keyboard,49
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",77,1756307752151,1756307752251, ,32, monthly, physical-keyboard,-1
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",78,1756307753151,1756307753273,Backspace,8, monthly, physical-keyboard,49
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",79,1756307754051,1756307754202,e,69, monthly, physical-keyboard,49
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",80,1756307754359,1756307754445,t,84, monthly, physical-keyboard,50
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",81,1756307754658,1756307754753, ,32, monthly, physical-keyboard,-1
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",82,1756307754905,1756307755056,s,83, monthly, physical-keyboard,52
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",83,1756307755184,1756307755239,h,72, monthly, physical-keyboard,53
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",84,1756307755549,1756307755628,o,79, monthly, physical-keyboard,54
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",85,1756307756714,1756307756788,p,80, monthly, physical-keyboard,55
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",86,1756307756901,1756307756968,p,80, monthly, physical-keyboard,56
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",87,1756307757140,1756307757212,i,73, monthly, physical-keyboard,57
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",88,1756307757451,1756307757510,n,78, monthly, physical-keyboard,58
+664fa86722f5339adebd32ec,prompt-to-image,1,6,3,create an image of a pregnant lady in a supermarket shopping,"[0,51]","[52,60]",89,1756307757719,1756307757807,g,71, monthly, physical-keyboard,59

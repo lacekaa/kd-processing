@@ -1,0 +1,83 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD,PROMPT_CHAR
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",0,1756297515611,1756297515767,Shift,16, weekly, physical-keyboard,0
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",1,1756297515707,1756297515764,G,71, weekly, physical-keyboard,0
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",2,1756297515922,1756297516001,i,73, weekly, physical-keyboard,1
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",3,1756297516216,1756297516318,v,86, weekly, physical-keyboard,2
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",4,1756297516266,1756297516364,e,69, weekly, physical-keyboard,3
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",5,1756297516370,1756297516427, ,32, weekly, physical-keyboard,-1
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",6,1756297517518,1756297517588,m,77, weekly, physical-keyboard,4
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",7,1756297517597,1756297517679,e,69, weekly, physical-keyboard,6
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",8,1756297517750,1756297517830, ,32, weekly, physical-keyboard,-1
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",9,1756297517890,1756297518007,a,65, weekly, physical-keyboard,7
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",10,1756297521443,1756297522197,Backspace,8, weekly, physical-keyboard,7
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",11,1756297521955,1756297523894,Backspace,8, weekly, physical-keyboard,6
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",12,1756297521980,1756297581211,Backspace,8, weekly, physical-keyboard,4
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",13,1756297522018,1756297581353,Backspace,8, weekly, physical-keyboard,3
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",14,1756297522044,1756297581502,Backspace,8, weekly, physical-keyboard,2
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",15,1756297522078,1756297581640,Backspace,8, weekly, physical-keyboard,1
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",16,1756297522119,0,Backspace,8, weekly, physical-keyboard,0
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",17,1756297522145,0,Backspace,8, weekly, physical-keyboard,-1
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",18,1756297522185,0,Backspace,8, weekly, physical-keyboard,-1
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",19,1756297522801,1756297522929,Shift,16, weekly, physical-keyboard,0
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",20,1756297522900,1756297522987,W,87, weekly, physical-keyboard,0
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",21,1756297523133,1756297523229,r,82, weekly, physical-keyboard,1
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",22,1756297523494,1756297523552,u,85, weekly, physical-keyboard,2
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",23,1756297523792,0,Backspace,8, weekly, physical-keyboard,2
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",24,1756297523994,1756297524084,i,73, weekly, physical-keyboard,2
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",25,1756297524113,1756297524243,t,84, weekly, physical-keyboard,3
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",26,1756297524173,1756297524304,e,69, weekly, physical-keyboard,4
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",27,1756297524257,1756297524422, ,32, weekly, physical-keyboard,-1
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",28,1756297524529,1756297524602,m,77, weekly, physical-keyboard,6
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",29,1756297524878,1756297524980,e,69, weekly, physical-keyboard,7
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",30,1756297524992,1756297525064, ,32, weekly, physical-keyboard,-1
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",31,1756297525163,1756297525250,a,65, weekly, physical-keyboard,9
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",32,1756297525218,1756297525265, ,32, weekly, physical-keyboard,-1
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",33,1756297569678,1756297569751,m,77, weekly, physical-keyboard,11
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",34,1756297569800,1756297569879,o,79, weekly, physical-keyboard,12
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",35,1756297569908,1756297569986,t,84, weekly, physical-keyboard,13
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",36,1756297570019,1756297570091,i,73, weekly, physical-keyboard,14
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",37,1756297570202,1756297570292,v,86, weekly, physical-keyboard,15
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",38,1756297570334,1756297570452,a,65, weekly, physical-keyboard,16
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",39,1756297570575,1756297570633,t,84, weekly, physical-keyboard,17
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",40,1756297570632,1756297570694,i,73, weekly, physical-keyboard,18
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",41,1756297570790,1756297570855,o,79, weekly, physical-keyboard,19
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",42,1756297570962,1756297571022,n,78, weekly, physical-keyboard,20
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",43,1756297571076,1756297571172, ,32, weekly, physical-keyboard,-1
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",44,1756297571189,1756297571264,l,76, weekly, physical-keyboard,22
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",45,1756297571361,1756297571452,e,69, weekly, physical-keyboard,23
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",46,1756297571529,1756297571605,t,84, weekly, physical-keyboard,24
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",47,1756297571672,1756297571786,t,84, weekly, physical-keyboard,25
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",48,1756297571770,1756297571970,e,69, weekly, physical-keyboard,26
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",49,1756297571948,1756297572038,r,82, weekly, physical-keyboard,27
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",50,1756297572057,1756297572130, ,32, weekly, physical-keyboard,-1
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",51,1756297572247,1756297572322,f,70, weekly, physical-keyboard,29
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",52,1756297572357,1756297572437,o,79, weekly, physical-keyboard,30
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",53,1756297572491,1756297572571,r,82, weekly, physical-keyboard,31
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",54,1756297572654,1756297572803, ,32, weekly, physical-keyboard,-1
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",55,1756297572952,1756297573026,m,77, weekly, physical-keyboard,33
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",56,1756297573084,1756297573183,y,89, weekly, physical-keyboard,34
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",57,1756297573169,1756297573256, ,32, weekly, physical-keyboard,-1
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",58,1756297573498,1756297573568,j,74, weekly, physical-keyboard,36
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",59,1756297573670,1756297573726,o,79, weekly, physical-keyboard,37
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",60,1756297573758,1756297573834,b,66, weekly, physical-keyboard,38
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",61,1756297573898,1756297573978, ,32, weekly, physical-keyboard,-1
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",62,1756297574007,1756297574111,a,65, weekly, physical-keyboard,40
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",63,1756297574463,1756297574538,p,80, weekly, physical-keyboard,41
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",64,1756297574586,1756297574663,p,80, weekly, physical-keyboard,42
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",65,1756297574839,1756297574921,l,76, weekly, physical-keyboard,43
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",66,1756297575028,1756297575096,i,73, weekly, physical-keyboard,44
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",67,1756297575193,1756297575265,c,67, weekly, physical-keyboard,45
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",68,1756297575376,1756297575478,a,65, weekly, physical-keyboard,46
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",69,1756297575643,1756297575720,t,84, weekly, physical-keyboard,47
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",70,1756297575747,1756297575816,i,73, weekly, physical-keyboard,48
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",71,1756297575907,1756297575972,o,79, weekly, physical-keyboard,51
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",72,1756297576082,1756297576147,n,78, weekly, physical-keyboard,0
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",73,1756297576233,1756297576317, ,32, weekly, physical-keyboard,-1
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",74,1756297576332,1756297576430,t,84, weekly, physical-keyboard,0
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",75,1756297576439,1756297576522,o,79, weekly, physical-keyboard,0
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",76,1756297576645,1756297576706, ,32, weekly, physical-keyboard,-1
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",77,1756297581156,0,Backspace,8, weekly, physical-keyboard,0
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",78,1756297581297,0,Backspace,8, weekly, physical-keyboard,0
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",79,1756297581449,0,Backspace,8, weekly, physical-keyboard,0
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",80,1756297581581,0,Backspace,8, weekly, physical-keyboard,51
+6614435124bf16e7a24f9662,prompt-to-image,1,7,5,Write me a motivation letter for my job application.,"[11,28];[36,40]","[40,51]",81,1756297582382,1756297582441,.,190, weekly, physical-keyboard,51

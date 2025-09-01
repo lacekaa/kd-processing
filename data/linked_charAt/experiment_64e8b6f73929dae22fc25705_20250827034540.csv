@@ -1,0 +1,74 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD,PROMPT_CHAR
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",0,1756266304726,1756266304821,g,71, weekly, physical-keyboard,0
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",1,1756266304942,1756266305042,e,69, weekly, physical-keyboard,1
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",2,1756266305143,1756266305202,n,78, weekly, physical-keyboard,2
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",3,1756266305156,1756266305257,e,69, weekly, physical-keyboard,3
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",4,1756266305680,1756266305787,r,82, weekly, physical-keyboard,4
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",5,1756266305799,1756266305921,a,65, weekly, physical-keyboard,5
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",6,1756266305934,1756266306035,t,84, weekly, physical-keyboard,6
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",7,1756266306142,1756266306258,e,69, weekly, physical-keyboard,7
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",8,1756266306258,1756266306377, ,32, weekly, physical-keyboard,-1
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",9,1756266306545,1756266306639,a,65, weekly, physical-keyboard,9
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",10,1756266306659,1756266306746,n,78, weekly, physical-keyboard,10
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",11,1756266306786,1756266306894, ,32, weekly, physical-keyboard,-1
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",12,1756266306947,1756266307008,i,73, weekly, physical-keyboard,12
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",13,1756266307122,1756266307188,m,77, weekly, physical-keyboard,13
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",14,1756266307175,1756266307263,a,65, weekly, physical-keyboard,14
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",15,1756266307356,1756266307450,g,71, weekly, physical-keyboard,15
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",16,1756266307994,1756266308074,e,69, weekly, physical-keyboard,16
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",17,1756266313326,1756266313500, ,32, weekly, physical-keyboard,-1
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",18,1756266313668,1756266313755,o,79, weekly, physical-keyboard,18
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",19,1756266313802,1756266313924,f,70, weekly, physical-keyboard,19
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",20,1756266313925,1756266314071, ,32, weekly, physical-keyboard,-1
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",21,1756266314072,1756266314191,a,65, weekly, physical-keyboard,21
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",22,1756266315680,1756266315841, ,32, weekly, physical-keyboard,-1
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",23,1756266315808,1756266315928,s,83, weekly, physical-keyboard,23
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",24,1756266315949,1756266316056,i,73, weekly, physical-keyboard,24
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",25,1756266316190,1756266316276,l,76, weekly, physical-keyboard,25
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",26,1756266316223,1756266316250,;,186, weekly, physical-keyboard,26
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",27,1756266316264,1756266316371,v,86, weekly, physical-keyboard,27
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",28,1756266316492,1756266316606,e,69, weekly, physical-keyboard,28
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",29,1756266316700,1756266316800,Backspace,8, weekly, physical-keyboard,28
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",30,1756266316881,1756266316975,Backspace,8, weekly, physical-keyboard,27
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",31,1756266317063,1756266317142,Backspace,8, weekly, physical-keyboard,26
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",32,1756266317095,1756266317175,v,86, weekly, physical-keyboard,26
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",33,1756266317316,1756266317404,e,69, weekly, physical-keyboard,27
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",34,1756266317491,1756266317578,r,82, weekly, physical-keyboard,28
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",35,1756266317579,1756266317680, ,32, weekly, physical-keyboard,-1
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",36,1756266317680,1756266317799,w,87, weekly, physical-keyboard,30
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",37,1756266317766,1756266317861,a,65, weekly, physical-keyboard,31
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",38,1756266317893,1756266317981,t,84, weekly, physical-keyboard,32
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",39,1756266318108,1756266318201,c,67, weekly, physical-keyboard,33
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",40,1756266318182,1756266318282,h,72, weekly, physical-keyboard,34
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",41,1756266328083,1756266328203,",",188, weekly, physical-keyboard,35
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",42,1756266328204,1756266328309, ,32, weekly, physical-keyboard,-1
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",43,1756266328397,1756266328473,g,71, weekly, physical-keyboard,37
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",44,1756266328431,1756266328511,l,76, weekly, physical-keyboard,38
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",45,1756266328598,1756266328692,i,73, weekly, physical-keyboard,39
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",46,1756266328679,1756266328766,s,83, weekly, physical-keyboard,40
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",47,1756266328806,1756266328896,t,84, weekly, physical-keyboard,41
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",48,1756266328994,1756266329088,e,69, weekly, physical-keyboard,42
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",49,1756266329075,1756266329168,n,78, weekly, physical-keyboard,43
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",50,1756266329262,1756266329343,i,73, weekly, physical-keyboard,44
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",51,1756266329438,1756266329525,n,78, weekly, physical-keyboard,45
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",52,1756266329525,1756266329626,g,71, weekly, physical-keyboard,46
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",53,1756266329853,1756266329973, ,32, weekly, physical-keyboard,-1
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",54,1756266330067,1756266330154,i,73, weekly, physical-keyboard,48
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",55,1756266330248,1756266330335,n,78, weekly, physical-keyboard,49
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",56,1756266330315,1756266330429, ,32, weekly, physical-keyboard,-1
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",57,1756266330503,1756266330584,t,84, weekly, physical-keyboard,51
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",58,1756266330584,1756266330656,h,72, weekly, physical-keyboard,52
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",59,1756266330698,1756266330806,e,69, weekly, physical-keyboard,53
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",60,1756266330807,1756266330919, ,32, weekly, physical-keyboard,-1
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",61,1756266333394,1756266333515,s,83, weekly, physical-keyboard,55
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",62,1756266333582,1756266333682,u,85, weekly, physical-keyboard,56
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",63,1756266333803,1756266333884,n,78, weekly, physical-keyboard,57
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",64,1756266334018,1756266334098,l,76, weekly, physical-keyboard,58
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",65,1756266334205,1756266334279,i,73, weekly, physical-keyboard,59
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",66,1756266334715,1756266334789,Backspace,8, weekly, physical-keyboard,59
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",67,1756266334802,1756266334910,g,71, weekly, physical-keyboard,59
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",68,1756266335211,1756266335279,Backspace,8, weekly, physical-keyboard,59
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",69,1756266335299,1756266335399,i,73, weekly, physical-keyboard,59
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",70,1756266335399,1756266335480,g,71, weekly, physical-keyboard,60
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",71,1756266335507,1756266335580,h,72, weekly, physical-keyboard,61
+64e8b6f73929dae22fc25705,prompt-to-image,1,6,3,"generate an image of a silver watch, glistening in the sunlight","[0,35]","[37,63]",72,1756266335600,1756266335681,t,84, weekly, physical-keyboard,62
