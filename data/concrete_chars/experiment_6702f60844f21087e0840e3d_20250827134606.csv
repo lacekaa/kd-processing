@@ -1,0 +1,64 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD,PROMPT_CHAR,CONFIDENT_MARKED_CHAR,UNCONFIDENT_MARKED_CHAR
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",0,1756302319442,1756302319546,t,84, monthly, physical-keyboard,0,1,0
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",1,1756302319550,1756302319637,u,85, monthly, physical-keyboard,0,1,0
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",2,1756302320369,1756302320457,Backspace,8, monthly, physical-keyboard,0,1,0
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",3,1756302320576,1756302320657,Backspace,8, monthly, physical-keyboard,0,1,0
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",4,1756302323770,1756302323880,s,83, monthly, physical-keyboard,0,1,0
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",5,1756302323885,1756302323970,m,77, monthly, physical-keyboard,1,1,0
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",6,1756302324040,1756302324159,a,65, monthly, physical-keyboard,2,1,0
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",7,1756302324162,1756302324230,l,76, monthly, physical-keyboard,3,1,0
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",8,1756302324342,1756302324412,l,76, monthly, physical-keyboard,4,1,0
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",9,1756302324572,1756302324640, ,32, monthly, physical-keyboard,5,1,0
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",10,1756302324710,1756302324853,t,84, monthly, physical-keyboard,6,1,0
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",11,1756302324813,1756302324884,u,85, monthly, physical-keyboard,7,1,0
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",12,1756302324996,1756302325123,t,84, monthly, physical-keyboard,8,1,0
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",13,1756302326295,1756302326364,Backspace,8, monthly, physical-keyboard,8,1,0
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",14,1756302326495,1756302326596,r,82, monthly, physical-keyboard,8,1,0
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",15,1756302326746,1756302326869,t,84, monthly, physical-keyboard,9,1,0
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",16,1756302326959,1756302327059,l,76, monthly, physical-keyboard,10,1,0
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",17,1756302327138,1756302327249,e,69, monthly, physical-keyboard,11,1,0
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",18,1756302327361,1756302327451, ,32, monthly, physical-keyboard,19,1,0
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",19,1756302334608,1756302334711,w,87, monthly, physical-keyboard,20,1,0
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",20,1756302334751,1756302334822,i,73, monthly, physical-keyboard,21,1,0
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",21,1756302334946,1756302335065,t,84, monthly, physical-keyboard,22,1,0
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",22,1756302335005,1756302335085,h,72, monthly, physical-keyboard,23,1,0
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",23,1756302335235,1756302335314,i,73, monthly, physical-keyboard,24,1,0
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",24,1756302335447,1756302335526,n,78, monthly, physical-keyboard,25,1,0
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",25,1756302335667,1756302335744, ,32, monthly, physical-keyboard,26,1,0
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",26,1756302335774,1756302335917,a,65, monthly, physical-keyboard,27,1,0
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",27,1756302335897,1756302335987, ,32, monthly, physical-keyboard,28,1,0
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",28,1756302336197,1756302336297,r,82, monthly, physical-keyboard,29,1,0
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",29,1756302336300,1756302336377,i,73, monthly, physical-keyboard,30,1,0
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",30,1756302336468,1756302336599,v,86, monthly, physical-keyboard,31,1,0
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",31,1756302336738,1756302336849,e,69, monthly, physical-keyboard,32,1,0
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",32,1756302336972,1756302337071,r,82, monthly, physical-keyboard,33,1,0
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",33,1756302337732,1756302337801,b,66, monthly, physical-keyboard,34,1,0
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",34,1756302337886,1756302338004,a,65, monthly, physical-keyboard,35,1,0
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",35,1756302338007,1756302338084,n,78, monthly, physical-keyboard,36,1,0
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",36,1756302338273,1756302338366,k,75, monthly, physical-keyboard,37,1,0
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",37,1756302341957,1756302342036, ,32, monthly, physical-keyboard,38,1,0
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",38,1756302342077,1756302342177,w,87, monthly, physical-keyboard,39,0,1
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",39,1756302342248,1756302342315,i,73, monthly, physical-keyboard,40,0,1
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",40,1756302342405,1756302342527,t,84, monthly, physical-keyboard,41,0,1
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",41,1756302342530,1756302342597,h,72, monthly, physical-keyboard,42,0,1
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",42,1756302342748,1756302342827, ,32, monthly, physical-keyboard,43,0,1
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",43,1756302342948,1756302343039,m,77, monthly, physical-keyboard,44,0,1
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",44,1756302343183,1756302343268,u,85, monthly, physical-keyboard,45,0,1
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",45,1756302343287,1756302343389,d,68, monthly, physical-keyboard,46,0,1
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",46,1756302343490,1756302343620,d,68, monthly, physical-keyboard,47,0,1
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",47,1756302343913,1756302344003,y,89, monthly, physical-keyboard,48,0,1
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",48,1756302344184,1756302344282, ,32, monthly, physical-keyboard,49,0,1
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",49,1756302344322,1756302344435,g,71, monthly, physical-keyboard,50,0,1
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",50,1756302344565,1756302344685,r,82, monthly, physical-keyboard,51,0,1
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",51,1756302344691,1756302344752,o,79, monthly, physical-keyboard,52,0,1
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",52,1756302344935,1756302345016,u,85, monthly, physical-keyboard,53,0,1
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",53,1756302345148,1756302345260,n,78, monthly, physical-keyboard,54,0,1
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",54,1756302345256,1756302345346,d,68, monthly, physical-keyboard,55,0,1
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",55,1756302345488,1756302345598,s,83, monthly, physical-keyboard,56,0,1
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",56,1756302349251,1756302349348, ,32, monthly, physical-keyboard,56,0,1
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",57,1756302349614,1756302349701,l,76, monthly, physical-keyboard,56,0,1
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",58,1756302349851,1756302349924,i,73, monthly, physical-keyboard,56,0,1
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",59,1756302349919,1756302350031,v,86, monthly, physical-keyboard,56,0,1
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",60,1756302350061,1756302350144,i,73, monthly, physical-keyboard,56,0,1
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",61,1756302350301,1756302350375,n,78, monthly, physical-keyboard,56,0,1
+6702f60844f21087e0840e3d,text-to-prompt,1,3,5,small turtle living within a riverbank with muddy grounds,"[0,38]","[39,57]",62,1756302350371,1756302350481,g,71, monthly, physical-keyboard,56,0,1

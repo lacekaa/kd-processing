@@ -1,0 +1,75 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD,PROMPT_CHAR,CONFIDENT_MARKED_CHAR,UNCONFIDENT_MARKED_CHAR
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",0,1756307840884,1756307841013,w,87, monthly, physical-keyboard,0,0,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",1,1756307841248,1756307841321,g,71, monthly, physical-keyboard,0,0,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",2,1756307841978,1756307842081,Backspace,8, monthly, physical-keyboard,0,0,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",3,1756307842386,1756307842502,h,72, monthly, physical-keyboard,0,0,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",4,1756307842575,1756307842751,a,65, monthly, physical-keyboard,0,0,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",5,1756307842854,1756307842938,t,84, monthly, physical-keyboard,0,0,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",6,1756307843128,1756307843267, ,32, monthly, physical-keyboard,0,0,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",7,1756307843863,1756307843970,i,73, monthly, physical-keyboard,0,0,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",8,1756307844237,1756307844380,s,83, monthly, physical-keyboard,0,0,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",9,1756307844924,1756307846259,Backspace,8, monthly, physical-keyboard,0,0,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",10,1756307845425,1756307858889,Backspace,8, monthly, physical-keyboard,0,0,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",11,1756307845508,1756307862259,Backspace,8, monthly, physical-keyboard,0,0,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",12,1756307845592,1756307862445,Backspace,8, monthly, physical-keyboard,0,0,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",13,1756307845676,1756307862622,Backspace,8, monthly, physical-keyboard,0,0,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",14,1756307845760,1756307877988,Backspace,8, monthly, physical-keyboard,0,0,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",15,1756307845844,1756307882722,Backspace,8, monthly, physical-keyboard,0,0,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",16,1756307845928,1756307888548,Backspace,8, monthly, physical-keyboard,0,0,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",17,1756307846011,0,Backspace,8, monthly, physical-keyboard,0,0,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",18,1756307846095,0,Backspace,8, monthly, physical-keyboard,0,0,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",19,1756307846178,0,Backspace,8, monthly, physical-keyboard,0,0,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",20,1756307847253,1756307847356,e,69, monthly, physical-keyboard,0,0,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",21,1756307847702,1756307847809,x,88, monthly, physical-keyboard,1,1,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",22,1756307848071,1756307848166,p,80, monthly, physical-keyboard,2,1,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",23,1756307848281,1756307848409,l,76, monthly, physical-keyboard,3,1,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",24,1756307848640,1756307848775,a,65, monthly, physical-keyboard,4,1,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",25,1756307848887,1756307848974,i,73, monthly, physical-keyboard,5,1,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",26,1756307849164,1756307849251,n,78, monthly, physical-keyboard,6,1,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",27,1756307849385,1756307849495, ,32, monthly, physical-keyboard,7,1,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",28,1756307855675,1756307855737,t,84, monthly, physical-keyboard,8,1,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",29,1756307856007,1756307856110,h,72, monthly, physical-keyboard,9,1,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",30,1756307856379,1756307856466,i,73, monthly, physical-keyboard,10,1,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",31,1756307856677,1756307856784,s,83, monthly, physical-keyboard,11,1,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",32,1756307856850,1756307856958, ,32, monthly, physical-keyboard,12,1,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",33,1756307857928,1756307858040,e,69, monthly, physical-keyboard,13,1,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",34,1756307858762,0,Backspace,8, monthly, physical-keyboard,13,1,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",35,1756307859454,1756307859653,v,86, monthly, physical-keyboard,13,1,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",36,1756307859858,1756307859981,i,73, monthly, physical-keyboard,14,1,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",37,1756307860438,1756307860605,d,68, monthly, physical-keyboard,15,1,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",38,1756307860747,1756307860851,o,79, monthly, physical-keyboard,16,1,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",39,1756307860937,1756307861114,e,69, monthly, physical-keyboard,16,1,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",40,1756307861321,1756307861425, ,32, monthly, physical-keyboard,16,1,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",41,1756307862157,0,Backspace,8, monthly, physical-keyboard,16,1,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",42,1756307862362,0,Backspace,8, monthly, physical-keyboard,16,1,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",43,1756307862534,0,Backspace,8, monthly, physical-keyboard,16,1,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",44,1756307863416,1756307863551,e,69, monthly, physical-keyboard,16,1,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",45,1756307863677,1756307863792,o,79, monthly, physical-keyboard,17,1,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",46,1756307864043,1756307864134, ,32, monthly, physical-keyboard,18,1,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",47,1756307864891,1756307864994,t,84, monthly, physical-keyboard,19,1,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",48,1756307865380,1756307865451,o,79, monthly, physical-keyboard,20,1,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",49,1756307865751,1756307865814, ,32, monthly, physical-keyboard,21,1,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",50,1756307866468,1756307866584,m,77, monthly, physical-keyboard,22,1,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",51,1756307867226,1756307867409,e,69, monthly, physical-keyboard,23,1,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",52,1756307867579,1756307867674, ,32, monthly, physical-keyboard,24,1,0
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",53,1756307872449,1756307872546,l,76, monthly, physical-keyboard,25,0,1
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",54,1756307872697,1756307872788,i,73, monthly, physical-keyboard,26,0,1
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",55,1756307873274,1756307873425,k,75, monthly, physical-keyboard,27,0,1
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",56,1756307874097,1756307874204,e,69, monthly, physical-keyboard,28,0,1
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",57,1756307874736,1756307874927, ,32, monthly, physical-keyboard,29,0,1
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",58,1756307875319,1756307875431,i,73, monthly, physical-keyboard,30,0,1
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",59,1756307876519,1756307876626,",",188, monthly, physical-keyboard,31,0,1
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",60,1756307877832,0,Backspace,8, monthly, physical-keyboard,31,0,1
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",61,1756307881504,1756307881572,;,186, monthly, physical-keyboard,31,0,1
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",62,1756307882606,0,Backspace,8, monthly, physical-keyboard,31,0,1
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",63,1756307886147,1756307887321,Shift,16, monthly, physical-keyboard,31,0,1
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",64,1756307887184,1756307887253,"""",222, monthly, physical-keyboard,31,0,1
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",65,1756307888445,0,Backspace,8, monthly, physical-keyboard,31,0,1
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",66,1756307888902,1756307889093,',222, monthly, physical-keyboard,31,0,1
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",67,1756307889887,1756307889969,m,77, monthly, physical-keyboard,32,0,1
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",68,1756307890134,1756307890216, ,32, monthly, physical-keyboard,33,0,1
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",69,1756307892150,1756307892233,b,66, monthly, physical-keyboard,34,0,1
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",70,1756307892577,1756307892661,l,76, monthly, physical-keyboard,35,0,1
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",71,1756307892826,1756307892909,i,73, monthly, physical-keyboard,36,0,1
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",72,1756307893093,1756307893224,n,78, monthly, physical-keyboard,37,0,1
+664fa86722f5339adebd32ec,text-to-prompt,1,7,3,explain this video to me like i'm blind,"[1,24]","[25,39]",73,1756307893521,1756307893628,d,68, monthly, physical-keyboard,38,0,1

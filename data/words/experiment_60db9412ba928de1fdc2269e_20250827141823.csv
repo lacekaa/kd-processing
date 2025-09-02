@@ -1,0 +1,65 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD,PROMPT_CHAR,WORD
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",0,1756304216915,1756304217317,Shift,16, rarely, physical-keyboard,0,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",1,1756304217187,1756304217328,S,83, rarely, physical-keyboard,0,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",2,1756304217895,1756304217966,m,77, rarely, physical-keyboard,1,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",3,1756304218236,1756304218347,a,65, rarely, physical-keyboard,2,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",4,1756304218879,1756304218941,l,76, rarely, physical-keyboard,3,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",5,1756304219015,1756304219086,l,76, rarely, physical-keyboard,4,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",6,1756304219424,1756304219495, ,32, rarely, physical-keyboard,5,0
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",7,1756304219824,1756304219882,t,84, rarely, physical-keyboard,6,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",8,1756304220277,1756304220340,u,85, rarely, physical-keyboard,7,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",9,1756304220558,1756304220642,r,82, rarely, physical-keyboard,8,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",10,1756304220810,1756304220873,t,84, rarely, physical-keyboard,9,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",11,1756304221343,1756304221413,l,76, rarely, physical-keyboard,10,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",12,1756304221611,1756304221677,e,69, rarely, physical-keyboard,11,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",13,1756304221882,1756304221953, ,32, rarely, physical-keyboard,12,0
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",14,1756304222164,1756304222225,w,87, rarely, physical-keyboard,13,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",15,1756304222654,1756304222765,a,65, rarely, physical-keyboard,14,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",16,1756304223121,1756304223178,l,76, rarely, physical-keyboard,15,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",17,1756304223479,1756304223542,k,75, rarely, physical-keyboard,16,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",18,1756304223745,1756304223806,i,73, rarely, physical-keyboard,17,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",19,1756304224067,1756304224124,n,78, rarely, physical-keyboard,18,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",20,1756304224325,1756304224391,g,71, rarely, physical-keyboard,19,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",21,1756304224597,1756304224663, ,32, rarely, physical-keyboard,20,0
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",22,1756304225023,1756304225114,a,65, rarely, physical-keyboard,21,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",23,1756304225450,1756304225515,l,76, rarely, physical-keyboard,22,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",24,1756304225758,1756304225819,o,79, rarely, physical-keyboard,23,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",25,1756304226733,1756304226794,n,78, rarely, physical-keyboard,24,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",26,1756304227088,1756304227146,g,71, rarely, physical-keyboard,25,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",27,1756304227662,1756304227739, ,32, rarely, physical-keyboard,26,0
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",28,1756304227979,1756304228035,t,84, rarely, physical-keyboard,27,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",29,1756304228250,1756304228315,h,72, rarely, physical-keyboard,28,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",30,1756304228464,1756304228516,e,69, rarely, physical-keyboard,29,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",31,1756304228783,1756304228860, ,32, rarely, physical-keyboard,30,0
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",32,1756304229068,1756304229121,r,82, rarely, physical-keyboard,31,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",33,1756304229506,1756304229557,i,73, rarely, physical-keyboard,32,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",34,1756304229814,1756304229895,v,86, rarely, physical-keyboard,33,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",35,1756304230118,1756304230212,e,69, rarely, physical-keyboard,34,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",36,1756304230356,1756304230422,r,82, rarely, physical-keyboard,35,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",37,1756304230743,1756304230800,b,66, rarely, physical-keyboard,36,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",38,1756304231365,1756304231452,a,65, rarely, physical-keyboard,37,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",39,1756304231858,1756304231916,n,78, rarely, physical-keyboard,38,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",40,1756304233276,1756304233323,k,75, rarely, physical-keyboard,39,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",41,1756304241089,1756304241150,",",188, rarely, physical-keyboard,40,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",42,1756304247359,1756304247426,f,70, rarely, physical-keyboard,41,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",43,1756304248134,1756304248185,o,79, rarely, physical-keyboard,42,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",44,1756304248280,1756304248355,o,79, rarely, physical-keyboard,43,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",45,1756304248656,1756304248707,t,84, rarely, physical-keyboard,44,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",46,1756304249421,1756304249488,p,80, rarely, physical-keyboard,45,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",47,1756304249722,1756304249777,r,82, rarely, physical-keyboard,46,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",48,1756304250269,1756304250320,i,73, rarely, physical-keyboard,47,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",49,1756304250697,1756304250769,n,78, rarely, physical-keyboard,48,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",50,1756304250948,1756304250999,t,84, rarely, physical-keyboard,49,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",51,1756304251521,1756304251574,s,83, rarely, physical-keyboard,50,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",52,1756304251772,1756304251846, ,32, rarely, physical-keyboard,51,0
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",53,1756304252310,1756304252377,i,73, rarely, physical-keyboard,52,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",54,1756304252634,1756304252693,n,78, rarely, physical-keyboard,53,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",55,1756304252877,1756304252950, ,32, rarely, physical-keyboard,54,0
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",56,1756304253107,1756304253162,t,84, rarely, physical-keyboard,55,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",57,1756304253290,1756304253317,h,72, rarely, physical-keyboard,56,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",58,1756304253513,1756304253574,e,69, rarely, physical-keyboard,57,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",59,1756304253855,1756304253926, ,32, rarely, physical-keyboard,58,0
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",60,1756304254210,1756304254273,m,77, rarely, physical-keyboard,59,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",61,1756304254612,1756304254653,u,85, rarely, physical-keyboard,60,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",62,1756304254950,1756304255001,d,68, rarely, physical-keyboard,61,1
+60db9412ba928de1fdc2269e,text-to-prompt,1,1,6,"Small turtle walking along the riverbank,footprints in the mud.","[2,39]","[52,63]",63,1756304259187,1756304259254,.,190, rarely, physical-keyboard,62,1

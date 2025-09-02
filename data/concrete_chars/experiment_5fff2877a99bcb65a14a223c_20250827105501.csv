@@ -1,0 +1,22 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD,PROMPT_CHAR,CONFIDENT_MARKED_CHAR,UNCONFIDENT_MARKED_CHAR
+5fff2877a99bcb65a14a223c,prompt-to-text,0,0,3,describe yourself AI,"[0,8]","[9,18]",0,1756291977310,1756291977395,d,68, weekly, physical-keyboard,0,1,0
+5fff2877a99bcb65a14a223c,prompt-to-text,0,0,3,describe yourself AI,"[0,8]","[9,18]",1,1756291977551,1756291977608,e,69, weekly, physical-keyboard,1,1,0
+5fff2877a99bcb65a14a223c,prompt-to-text,0,0,3,describe yourself AI,"[0,8]","[9,18]",2,1756291977760,1756291977847,s,83, weekly, physical-keyboard,2,1,0
+5fff2877a99bcb65a14a223c,prompt-to-text,0,0,3,describe yourself AI,"[0,8]","[9,18]",3,1756291978008,1756291978081,c,67, weekly, physical-keyboard,3,1,0
+5fff2877a99bcb65a14a223c,prompt-to-text,0,0,3,describe yourself AI,"[0,8]","[9,18]",4,1756291978311,1756291978383,r,82, weekly, physical-keyboard,4,1,0
+5fff2877a99bcb65a14a223c,prompt-to-text,0,0,3,describe yourself AI,"[0,8]","[9,18]",5,1756291978618,1756291978731,i,73, weekly, physical-keyboard,5,1,0
+5fff2877a99bcb65a14a223c,prompt-to-text,0,0,3,describe yourself AI,"[0,8]","[9,18]",6,1756291978988,1756291979054,b,66, weekly, physical-keyboard,6,1,0
+5fff2877a99bcb65a14a223c,prompt-to-text,0,0,3,describe yourself AI,"[0,8]","[9,18]",7,1756291979245,1756291979327,e,69, weekly, physical-keyboard,7,1,0
+5fff2877a99bcb65a14a223c,prompt-to-text,0,0,3,describe yourself AI,"[0,8]","[9,18]",8,1756291979578,1756291979640, ,32, weekly, physical-keyboard,8,1,0
+5fff2877a99bcb65a14a223c,prompt-to-text,0,0,3,describe yourself AI,"[0,8]","[9,18]",9,1756291980655,1756291980723,y,89, weekly, physical-keyboard,9,0,1
+5fff2877a99bcb65a14a223c,prompt-to-text,0,0,3,describe yourself AI,"[0,8]","[9,18]",10,1756291980879,1756291980992,o,79, weekly, physical-keyboard,10,0,1
+5fff2877a99bcb65a14a223c,prompt-to-text,0,0,3,describe yourself AI,"[0,8]","[9,18]",11,1756291981263,1756291981315,u,85, weekly, physical-keyboard,11,0,1
+5fff2877a99bcb65a14a223c,prompt-to-text,0,0,3,describe yourself AI,"[0,8]","[9,18]",12,1756291981455,1756291981522,r,82, weekly, physical-keyboard,12,0,1
+5fff2877a99bcb65a14a223c,prompt-to-text,0,0,3,describe yourself AI,"[0,8]","[9,18]",13,1756291981790,1756291981870,s,83, weekly, physical-keyboard,13,0,1
+5fff2877a99bcb65a14a223c,prompt-to-text,0,0,3,describe yourself AI,"[0,8]","[9,18]",14,1756291982369,1756291982436,e,69, weekly, physical-keyboard,14,0,1
+5fff2877a99bcb65a14a223c,prompt-to-text,0,0,3,describe yourself AI,"[0,8]","[9,18]",15,1756291982949,1756291983053,l,76, weekly, physical-keyboard,15,0,1
+5fff2877a99bcb65a14a223c,prompt-to-text,0,0,3,describe yourself AI,"[0,8]","[9,18]",16,1756291983135,1756291983206,f,70, weekly, physical-keyboard,16,0,1
+5fff2877a99bcb65a14a223c,prompt-to-text,0,0,3,describe yourself AI,"[0,8]","[9,18]",17,1756291983413,1756291983480, ,32, weekly, physical-keyboard,17,0,1
+5fff2877a99bcb65a14a223c,prompt-to-text,0,0,3,describe yourself AI,"[0,8]","[9,18]",18,1756291984221,1756291984299,CapsLock,20, weekly, physical-keyboard,-1,0,0
+5fff2877a99bcb65a14a223c,prompt-to-text,0,0,3,describe yourself AI,"[0,8]","[9,18]",19,1756291984442,1756291984517,A,65, weekly, physical-keyboard,18,0,1
+5fff2877a99bcb65a14a223c,prompt-to-text,0,0,3,describe yourself AI,"[0,8]","[9,18]",20,1756291986516,1756291986635,I,73, weekly, physical-keyboard,19,0,0

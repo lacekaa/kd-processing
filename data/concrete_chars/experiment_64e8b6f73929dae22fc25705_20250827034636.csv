@@ -1,0 +1,72 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD,PROMPT_CHAR,CONFIDENT_MARKED_CHAR,UNCONFIDENT_MARKED_CHAR
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",0,1756266353704,1756266353804,w,87, weekly, physical-keyboard,0,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",1,1756266354931,1756266355072,Backspace,8, weekly, physical-keyboard,0,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",2,1756266359646,1756266359761,w,87, weekly, physical-keyboard,0,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",3,1756266359794,1756266359888,r,82, weekly, physical-keyboard,1,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",4,1756266359928,1756266360036,i,73, weekly, physical-keyboard,2,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",5,1756266360037,1756266360123,t,84, weekly, physical-keyboard,3,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",6,1756266360210,1756266360330,e,69, weekly, physical-keyboard,4,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",7,1756266360311,1756266360445, ,32, weekly, physical-keyboard,5,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",8,1756266360425,1756266360539,a,65, weekly, physical-keyboard,6,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",9,1756266360540,1756266360612, ,32, weekly, physical-keyboard,7,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",10,1756266360599,1756266360707,s,83, weekly, physical-keyboard,8,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",11,1756266360807,1756266360887,h,72, weekly, physical-keyboard,9,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",12,1756266360914,1756266361009,o,79, weekly, physical-keyboard,10,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",13,1756266361010,1756266361028,e,69, weekly, physical-keyboard,11,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",14,1756266361010,1756266361109,r,82, weekly, physical-keyboard,11,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",15,1756266361297,1756266361398,t,84, weekly, physical-keyboard,11,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",16,1756266361512,1756266361606,Backspace,8, weekly, physical-keyboard,11,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",17,1756266361680,1756266361773,Backspace,8, weekly, physical-keyboard,11,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",18,1756266361847,1756266361960,Backspace,8, weekly, physical-keyboard,11,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",19,1756266361934,1756266362048,r,82, weekly, physical-keyboard,11,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",20,1756266362094,1756266362216,t,84, weekly, physical-keyboard,12,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",21,1756266362217,1756266362370, ,32, weekly, physical-keyboard,13,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",22,1756266362471,1756266362564,s,83, weekly, physical-keyboard,14,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",23,1756266362671,1756266362739,t,84, weekly, physical-keyboard,15,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",24,1756266362792,1756266362894,o,79, weekly, physical-keyboard,16,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",25,1756266362895,1756266362981,r,82, weekly, physical-keyboard,17,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",26,1756266363108,1756266363195,y,89, weekly, physical-keyboard,18,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",27,1756266363349,1756266363476, ,32, weekly, physical-keyboard,19,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",28,1756266363497,1756266363611,a,65, weekly, physical-keyboard,20,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",29,1756266363712,1756266363792,b,66, weekly, physical-keyboard,21,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",30,1756266363759,1756266363846,o,79, weekly, physical-keyboard,22,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",31,1756266363933,1756266364021,u,85, weekly, physical-keyboard,23,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",32,1756266364022,1756266364100,t,84, weekly, physical-keyboard,24,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",33,1756266364195,1756266364296, ,32, weekly, physical-keyboard,25,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",34,1756266364296,1756266364416,a,65, weekly, physical-keyboard,26,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",35,1756266364396,1756266364489, ,32, weekly, physical-keyboard,27,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",36,1756266364651,1756266364758,t,84, weekly, physical-keyboard,28,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",37,1756266364812,1756266364913,u,85, weekly, physical-keyboard,29,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",38,1756266364914,1756266365026,r,82, weekly, physical-keyboard,30,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",39,1756266365086,1756266365181,l,76, weekly, physical-keyboard,31,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",40,1756266365390,1756266365448,Backspace,8, weekly, physical-keyboard,31,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",41,1756266365543,1756266365625,t,84, weekly, physical-keyboard,31,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",42,1756266365627,1756266365723,l,76, weekly, physical-keyboard,32,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",43,1756266365772,1756266365857,e,69, weekly, physical-keyboard,33,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",44,1756266376303,1756266376437,",",188, weekly, physical-keyboard,34,0,1
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",45,1756266376438,1756266376597, ,32, weekly, physical-keyboard,35,0,0
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",46,1756266376926,1756266377007,f,70, weekly, physical-keyboard,36,1,0
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",47,1756266377113,1756266377261,e,69, weekly, physical-keyboard,36,1,0
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",48,1756266377208,1756266377335,w,87, weekly, physical-keyboard,36,1,0
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",49,1756266379522,1756266379670,Backspace,8, weekly, physical-keyboard,36,1,0
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",50,1756266379810,1756266379931,Backspace,8, weekly, physical-keyboard,36,1,0
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",51,1756266380106,1756266380220,Backspace,8, weekly, physical-keyboard,36,1,0
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",52,1756266382037,1756266382218,a,65, weekly, physical-keyboard,36,1,0
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",53,1756266382171,1756266382292,x,88, weekly, physical-keyboard,36,1,0
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",54,1756266382466,1756266382560,Backspace,8, weekly, physical-keyboard,36,1,0
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",55,1756266382648,1756266382708,Backspace,8, weekly, physical-keyboard,36,1,0
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",56,1756266382802,1756266382916,m,77, weekly, physical-keyboard,36,1,0
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",57,1756266384103,1756266384197,Backspace,8, weekly, physical-keyboard,36,1,0
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",58,1756266384304,1756266384411,3,51, weekly, physical-keyboard,36,1,0
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",59,1756266384445,1756266384573, ,32, weekly, physical-keyboard,37,1,0
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",60,1756266384574,1756266384687,s,83, weekly, physical-keyboard,38,1,0
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",61,1756266384921,1756266385015,e,69, weekly, physical-keyboard,39,1,0
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",62,1756266385068,1756266385170,n,78, weekly, physical-keyboard,40,1,0
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",63,1756266385171,1756266385250,t,84, weekly, physical-keyboard,41,1,0
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",64,1756266385411,1756266385505,c,67, weekly, physical-keyboard,42,1,0
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",65,1756266385745,1756266385834,Backspace,8, weekly, physical-keyboard,42,1,0
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",66,1756266385807,1756266385886,e,69, weekly, physical-keyboard,42,1,0
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",67,1756266386035,1756266386121,n,78, weekly, physical-keyboard,43,1,0
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",68,1756266386141,1756266386209,c,67, weekly, physical-keyboard,44,1,0
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",69,1756266386310,1756266386458,e,69, weekly, physical-keyboard,45,1,0
+64e8b6f73929dae22fc25705,text-to-prompt,1,7,3,"write a short story about a turtle, 3 sentences","[36,47]","[0,34]",70,1756266386398,1756266386517,s,83, weekly, physical-keyboard,46,1,0

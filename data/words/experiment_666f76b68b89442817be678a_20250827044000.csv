@@ -1,0 +1,60 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD,PROMPT_CHAR,WORD
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",0,1756269553269,1756269553388,a,65, weekly, physical-keyboard,0,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",1,1756269553782,1756269553904, ,32, weekly, physical-keyboard,1,0
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",2,1756269554419,1756269554529,d,68, weekly, physical-keyboard,2,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",3,1756269555262,1756269555380,o,79, weekly, physical-keyboard,3,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",4,1756269555864,1756269555951,g,71, weekly, physical-keyboard,4,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",5,1756269556234,1756269556325, ,32, weekly, physical-keyboard,5,0
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",6,1756269556683,1756269556768,a,65, weekly, physical-keyboard,6,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",7,1756269557475,1756269557577,n,78, weekly, physical-keyboard,7,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",8,1756269557905,1756269558005,d,68, weekly, physical-keyboard,8,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",9,1756269558320,1756269558433, ,32, weekly, physical-keyboard,9,0
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",10,1756269558731,1756269558847,a,65, weekly, physical-keyboard,10,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",11,1756269559211,1756269559290, ,32, weekly, physical-keyboard,11,0
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",12,1756269559961,1756269560076,c,67, weekly, physical-keyboard,12,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",13,1756269560317,1756269560401,a,65, weekly, physical-keyboard,13,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",14,1756269561075,1756269561159,t,84, weekly, physical-keyboard,14,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",15,1756269561479,1756269561573, ,32, weekly, physical-keyboard,15,0
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",16,1756269561997,1756269562089,d,68, weekly, physical-keyboard,16,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",17,1756269562285,1756269562382,a,65, weekly, physical-keyboard,17,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",18,1756269563365,1756269563471,n,78, weekly, physical-keyboard,18,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",19,1756269563874,1756269563957,c,67, weekly, physical-keyboard,19,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",20,1756269564619,1756269564711,i,73, weekly, physical-keyboard,20,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",21,1756269565051,1756269565179,n,78, weekly, physical-keyboard,21,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",22,1756269565446,1756269565547,g,71, weekly, physical-keyboard,22,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",23,1756269565837,1756269565925, ,32, weekly, physical-keyboard,23,0
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",24,1756269566444,1756269566543,i,73, weekly, physical-keyboard,24,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",25,1756269566836,1756269566921,n,78, weekly, physical-keyboard,25,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",26,1756269567129,1756269567230, ,32, weekly, physical-keyboard,26,0
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",27,1756269567534,1756269567637,t,84, weekly, physical-keyboard,27,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",28,1756269567864,1756269567921,h,72, weekly, physical-keyboard,28,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",29,1756269568251,1756269568348,e,69, weekly, physical-keyboard,29,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",30,1756269568693,1756269568772, ,32, weekly, physical-keyboard,30,0
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",31,1756269569321,1756269569403,m,77, weekly, physical-keyboard,31,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",32,1756269569712,1756269569792,i,73, weekly, physical-keyboard,32,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",33,1756269570155,1756269570237,d,68, weekly, physical-keyboard,33,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",34,1756269570336,1756269570399,d,68, weekly, physical-keyboard,34,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",35,1756269571081,1756269571172,l,76, weekly, physical-keyboard,35,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",36,1756269571621,1756269571711,e,69, weekly, physical-keyboard,36,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",37,1756269572100,1756269572181, ,32, weekly, physical-keyboard,37,0
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",38,1756269572726,1756269572834,o,79, weekly, physical-keyboard,38,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",39,1756269573265,1756269573372,f,70, weekly, physical-keyboard,39,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",40,1756269573665,1756269573735, ,32, weekly, physical-keyboard,40,0
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",41,1756269574082,1756269574186,a,65, weekly, physical-keyboard,41,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",42,1756269574610,1756269574747, ,32, weekly, physical-keyboard,42,0
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",43,1756269575302,1756269575390,b,66, weekly, physical-keyboard,43,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",44,1756269575746,1756269575805,a,65, weekly, physical-keyboard,44,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",45,1756269576023,1756269576102,s,83, weekly, physical-keyboard,45,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",46,1756269577001,1756269577095,k,75, weekly, physical-keyboard,46,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",47,1756269577465,1756269577571,e,69, weekly, physical-keyboard,47,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",48,1756269578009,1756269578100,t,84, weekly, physical-keyboard,48,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",49,1756269578947,1756269579047,b,66, weekly, physical-keyboard,49,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",50,1756269579372,1756269579458,a,65, weekly, physical-keyboard,50,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",51,1756269580113,1756269580229,l,76, weekly, physical-keyboard,51,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",52,1756269580299,1756269580395,l,76, weekly, physical-keyboard,52,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",53,1756269580675,1756269580768, ,32, weekly, physical-keyboard,53,0
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",54,1756269581050,1756269581153,c,67, weekly, physical-keyboard,54,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",55,1756269581559,1756269581665,o,79, weekly, physical-keyboard,55,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",56,1756269581936,1756269582035,u,85, weekly, physical-keyboard,56,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",57,1756269582449,1756269582533,r,82, weekly, physical-keyboard,57,1
+666f76b68b89442817be678a,prompt-to-image,1,4,2,a dog and a cat dancing in the middle of a basketball court,"[43,53]","[31,37]",58,1756269582740,1756269582808,t,84, weekly, physical-keyboard,58,1

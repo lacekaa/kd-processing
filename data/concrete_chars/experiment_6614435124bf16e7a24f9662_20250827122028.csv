@@ -1,0 +1,61 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD,PROMPT_CHAR,CONFIDENT_MARKED_CHAR,UNCONFIDENT_MARKED_CHAR
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",0,1756297029341,1756297030072,Shift,16, weekly, physical-keyboard,0,0,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",1,1756297029852,0,Shift,16, weekly, physical-keyboard,0,0,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",2,1756297029880,0,Shift,16, weekly, physical-keyboard,0,0,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",3,1756297029900,1756297030020,W,87, weekly, physical-keyboard,0,0,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",4,1756297030747,1756297030839,r,82, weekly, physical-keyboard,1,0,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",5,1756297031273,1756297031388,i,73, weekly, physical-keyboard,2,0,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",6,1756297031567,1756297031666,t,84, weekly, physical-keyboard,3,0,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",7,1756297031811,1756297031893,e,69, weekly, physical-keyboard,4,0,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",8,1756297032062,1756297032180, ,32, weekly, physical-keyboard,5,0,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",9,1756297032983,1756297033092,m,77, weekly, physical-keyboard,6,0,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",10,1756297033342,1756297033471,e,69, weekly, physical-keyboard,7,0,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",11,1756297033561,1756297033776, ,32, weekly, physical-keyboard,8,0,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",12,1756297033808,1756297033938,s,83, weekly, physical-keyboard,8,0,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",13,1756297034858,1756297035015,Backspace,8, weekly, physical-keyboard,8,0,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",14,1756297035051,1756297035218, ,32, weekly, physical-keyboard,8,0,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",15,1756297035792,1756297035840,s,83, weekly, physical-keyboard,8,0,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",16,1756297036364,1756297036449,ó,187, weekly, physical-keyboard,8,0,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",17,1756297036531,1756297036676,ó,187, weekly, physical-keyboard,8,0,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",18,1756297037306,1756297037402,Backspace,8, weekly, physical-keyboard,8,0,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",19,1756297037477,1756297037569,Backspace,8, weekly, physical-keyboard,8,0,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",20,1756297037633,1756297037709,Backspace,8, weekly, physical-keyboard,8,0,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",21,1756297037774,1756297037855,Backspace,8, weekly, physical-keyboard,8,0,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",22,1756297038144,1756297038222,Backspace,8, weekly, physical-keyboard,8,0,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",23,1756297038833,1756297038933, ,32, weekly, physical-keyboard,8,0,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",24,1756297039584,1756297039695,a,65, weekly, physical-keyboard,9,0,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",25,1756297049828,1756297049886, ,32, weekly, physical-keyboard,10,0,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",26,1756297074466,1756297074515,c,67, weekly, physical-keyboard,11,1,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",27,1756297074945,1756297075012,o,79, weekly, physical-keyboard,12,1,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",28,1756297075308,1756297075371,c,67, weekly, physical-keyboard,13,1,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",29,1756297075675,1756297075753,t,84, weekly, physical-keyboard,14,1,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",30,1756297075965,1756297076043,a,65, weekly, physical-keyboard,15,1,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",31,1756297076377,1756297076488,i,73, weekly, physical-keyboard,16,1,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",32,1756297076450,1756297076568,l,76, weekly, physical-keyboard,17,1,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",33,1756297076666,1756297076792, ,32, weekly, physical-keyboard,18,1,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",34,1756297209064,1756297209123,w,87, weekly, physical-keyboard,19,1,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",35,1756297209603,1756297209686,h,72, weekly, physical-keyboard,20,0,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",36,1756297209737,1756297209850,i,73, weekly, physical-keyboard,21,0,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",37,1756297210069,1756297210149,c,67, weekly, physical-keyboard,22,0,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",38,1756297210238,1756297210362,h,72, weekly, physical-keyboard,23,0,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",39,1756297210456,1756297210585, ,32, weekly, physical-keyboard,24,0,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",40,1756297210725,1756297210829,i,73, weekly, physical-keyboard,25,0,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",41,1756297211452,1756297211539,s,83, weekly, physical-keyboard,26,0,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",42,1756297211629,1756297211760, ,32, weekly, physical-keyboard,27,0,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",43,1756297211852,1756297211934,c,67, weekly, physical-keyboard,28,1,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",44,1756297212571,1756297212649,o,79, weekly, physical-keyboard,29,1,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",45,1756297212717,1756297212801,o,79, weekly, physical-keyboard,30,1,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",46,1756297212908,1756297213007,l,76, weekly, physical-keyboard,31,1,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",47,1756297213209,1756297213319, ,32, weekly, physical-keyboard,32,1,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",48,1756297213618,1756297213694,a,65, weekly, physical-keyboard,33,1,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",49,1756297214020,1756297214113,t,84, weekly, physical-keyboard,34,0,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",50,1756297214174,1756297214262, ,32, weekly, physical-keyboard,35,0,0
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",51,1756297214453,1756297214546,s,83, weekly, physical-keyboard,36,0,1
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",52,1756297215387,1756297215458,u,85, weekly, physical-keyboard,37,0,1
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",53,1756297215592,1756297215652,m,77, weekly, physical-keyboard,38,0,1
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",54,1756297215710,1756297215783,m,77, weekly, physical-keyboard,39,0,1
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",55,1756297216071,1756297216172,e,69, weekly, physical-keyboard,40,0,1
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",56,1756297216139,1756297216224,r,82, weekly, physical-keyboard,41,0,1
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",57,1756297217041,1756297217098,-,189, weekly, physical-keyboard,42,0,1
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",58,1756297217346,1756297217412,Backspace,8, weekly, physical-keyboard,42,0,1
+6614435124bf16e7a24f9662,prompt-to-image,0,5,5,Write me a coctail which is cool at summer.,"[11,19];[28,33]","[36,42]",59,1756297217558,1756297217617,.,190, weekly, physical-keyboard,42,0,1

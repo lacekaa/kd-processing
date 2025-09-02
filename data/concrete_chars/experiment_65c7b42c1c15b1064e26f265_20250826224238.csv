@@ -1,0 +1,26 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD,PROMPT_CHAR,CONFIDENT_MARKED_CHAR,UNCONFIDENT_MARKED_CHAR
+65c7b42c1c15b1064e26f265,text-to-prompt,1,7,2,hjgjghjghjgjgjhghjghjnghj,"[0,25]","[0,25]",0,1756248125299,1756248125304,h,72, daily, physical-keyboard,0,1,1
+65c7b42c1c15b1064e26f265,text-to-prompt,1,7,2,hjgjghjghjgjgjhghjghjnghj,"[0,25]","[0,25]",1,1756248125305,1756248125844,j,74, daily, physical-keyboard,1,1,1
+65c7b42c1c15b1064e26f265,text-to-prompt,1,7,2,hjgjghjghjgjgjhghjghjnghj,"[0,25]","[0,25]",2,1756248125842,1756248125844,g,71, daily, physical-keyboard,2,1,1
+65c7b42c1c15b1064e26f265,text-to-prompt,1,7,2,hjgjghjghjgjgjhghjghjnghj,"[0,25]","[0,25]",3,1756248125847,1756248125852,j,74, daily, physical-keyboard,3,1,1
+65c7b42c1c15b1064e26f265,text-to-prompt,1,7,2,hjgjghjghjgjgjhghjghjnghj,"[0,25]","[0,25]",4,1756248125850,1756248125861,g,71, daily, physical-keyboard,4,1,1
+65c7b42c1c15b1064e26f265,text-to-prompt,1,7,2,hjgjghjghjgjgjhghjghjnghj,"[0,25]","[0,25]",5,1756248125856,1756248125865,h,72, daily, physical-keyboard,5,1,1
+65c7b42c1c15b1064e26f265,text-to-prompt,1,7,2,hjgjghjghjgjgjhghjghjnghj,"[0,25]","[0,25]",6,1756248125861,1756248125865,j,74, daily, physical-keyboard,6,1,1
+65c7b42c1c15b1064e26f265,text-to-prompt,1,7,2,hjgjghjghjgjgjhghjghjnghj,"[0,25]","[0,25]",7,1756248126381,1756248126391,g,71, daily, physical-keyboard,7,1,1
+65c7b42c1c15b1064e26f265,text-to-prompt,1,7,2,hjgjghjghjgjgjhghjghjnghj,"[0,25]","[0,25]",8,1756248126383,1756248126395,h,72, daily, physical-keyboard,8,1,1
+65c7b42c1c15b1064e26f265,text-to-prompt,1,7,2,hjgjghjghjgjgjhghjghjnghj,"[0,25]","[0,25]",9,1756248126391,1756248126395,j,74, daily, physical-keyboard,9,1,1
+65c7b42c1c15b1064e26f265,text-to-prompt,1,7,2,hjgjghjghjgjgjhghjghjnghj,"[0,25]","[0,25]",10,1756248126393,1756248126397,g,71, daily, physical-keyboard,10,1,1
+65c7b42c1c15b1064e26f265,text-to-prompt,1,7,2,hjgjghjghjgjgjhghjghjnghj,"[0,25]","[0,25]",11,1756248126395,1756248126917,j,74, daily, physical-keyboard,11,1,1
+65c7b42c1c15b1064e26f265,text-to-prompt,1,7,2,hjgjghjghjgjgjhghjghjnghj,"[0,25]","[0,25]",12,1756248126910,1756248126920,g,71, daily, physical-keyboard,12,1,1
+65c7b42c1c15b1064e26f265,text-to-prompt,1,7,2,hjgjghjghjgjgjhghjghjnghj,"[0,25]","[0,25]",13,1756248126921,1756248126926,j,74, daily, physical-keyboard,13,1,1
+65c7b42c1c15b1064e26f265,text-to-prompt,1,7,2,hjgjghjghjgjgjhghjghjnghj,"[0,25]","[0,25]",14,1756248126924,1756248126926,h,72, daily, physical-keyboard,14,1,1
+65c7b42c1c15b1064e26f265,text-to-prompt,1,7,2,hjgjghjghjgjgjhghjghjnghj,"[0,25]","[0,25]",15,1756248126933,1756248126943,g,71, daily, physical-keyboard,15,1,1
+65c7b42c1c15b1064e26f265,text-to-prompt,1,7,2,hjgjghjghjgjgjhghjghjnghj,"[0,25]","[0,25]",16,1756248126935,1756248126946,h,72, daily, physical-keyboard,16,1,1
+65c7b42c1c15b1064e26f265,text-to-prompt,1,7,2,hjgjghjghjgjgjhghjghjnghj,"[0,25]","[0,25]",17,1756248126944,1756248127464,j,74, daily, physical-keyboard,17,1,1
+65c7b42c1c15b1064e26f265,text-to-prompt,1,7,2,hjgjghjghjgjgjhghjghjnghj,"[0,25]","[0,25]",18,1756248127461,1756248127949,g,71, daily, physical-keyboard,18,1,1
+65c7b42c1c15b1064e26f265,text-to-prompt,1,7,2,hjgjghjghjgjgjhghjghjnghj,"[0,25]","[0,25]",19,1756248127942,1756248127959,h,72, daily, physical-keyboard,19,1,1
+65c7b42c1c15b1064e26f265,text-to-prompt,1,7,2,hjgjghjghjgjgjhghjghjnghj,"[0,25]","[0,25]",20,1756248127953,1756248127968,j,74, daily, physical-keyboard,20,1,1
+65c7b42c1c15b1064e26f265,text-to-prompt,1,7,2,hjgjghjghjgjgjhghjghjnghj,"[0,25]","[0,25]",21,1756248127964,1756248127977,n,78, daily, physical-keyboard,21,1,1
+65c7b42c1c15b1064e26f265,text-to-prompt,1,7,2,hjgjghjghjgjgjhghjghjnghj,"[0,25]","[0,25]",22,1756248127980,1756248127995,g,71, daily, physical-keyboard,22,1,1
+65c7b42c1c15b1064e26f265,text-to-prompt,1,7,2,hjgjghjghjgjgjhghjghjnghj,"[0,25]","[0,25]",23,1756248127984,1756248128002,h,72, daily, physical-keyboard,23,1,1
+65c7b42c1c15b1064e26f265,text-to-prompt,1,7,2,hjgjghjghjgjgjhghjghjnghj,"[0,25]","[0,25]",24,1756248127999,1756248128446,j,74, daily, physical-keyboard,24,1,1

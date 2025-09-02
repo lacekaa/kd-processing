@@ -1,7 +1,7 @@
 PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD,PROMPT_CHAR
-6081728972120aa7f9685791,prompt-to-image,1,5,6,"Futuristic urban landscape at night, urban atmosphere, cool tones, flying cars","[0,35]","[37,53];[67,78]",0,1755621670458,0,Alt,18, weekly, physical-keyboard,-1
-6081728972120aa7f9685791,prompt-to-image,1,5,6,"Futuristic urban landscape at night, urban atmosphere, cool tones, flying cars","[0,35]","[37,53];[67,78]",1,1755621672300,0,Alt,18, weekly, physical-keyboard,-1
-6081728972120aa7f9685791,prompt-to-image,1,5,6,"Futuristic urban landscape at night, urban atmosphere, cool tones, flying cars","[0,35]","[37,53];[67,78]",2,1755621673404,1755621673614,Meta,91, weekly, physical-keyboard,-1
+6081728972120aa7f9685791,prompt-to-image,1,5,6,"Futuristic urban landscape at night, urban atmosphere, cool tones, flying cars","[0,35]","[37,53];[67,78]",0,1755621670458,0,Alt,18, weekly, physical-keyboard,0
+6081728972120aa7f9685791,prompt-to-image,1,5,6,"Futuristic urban landscape at night, urban atmosphere, cool tones, flying cars","[0,35]","[37,53];[67,78]",1,1755621672300,0,Alt,18, weekly, physical-keyboard,0
+6081728972120aa7f9685791,prompt-to-image,1,5,6,"Futuristic urban landscape at night, urban atmosphere, cool tones, flying cars","[0,35]","[37,53];[67,78]",2,1755621673404,1755621673614,Meta,91, weekly, physical-keyboard,0
 6081728972120aa7f9685791,prompt-to-image,1,5,6,"Futuristic urban landscape at night, urban atmosphere, cool tones, flying cars","[0,35]","[37,53];[67,78]",3,1755621674073,1755621674812,Shift,16, weekly, physical-keyboard,0
 6081728972120aa7f9685791,prompt-to-image,1,5,6,"Futuristic urban landscape at night, urban atmosphere, cool tones, flying cars","[0,35]","[37,53];[67,78]",4,1755621674586,0,Shift,16, weekly, physical-keyboard,0
 6081728972120aa7f9685791,prompt-to-image,1,5,6,"Futuristic urban landscape at night, urban atmosphere, cool tones, flying cars","[0,35]","[37,53];[67,78]",5,1755621674617,0,Shift,16, weekly, physical-keyboard,0

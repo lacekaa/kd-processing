@@ -1,0 +1,90 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD,PROMPT_CHAR,WORD
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",0,1755624138248,1755624138594,Shift,16, weekly, physical-keyboard,0,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",1,1755624138509,1755624138598,G,71, weekly, physical-keyboard,0,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",2,1755624138797,1755624138859,i,73, weekly, physical-keyboard,1,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",3,1755624138928,1755624139003,v,86, weekly, physical-keyboard,2,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",4,1755624139131,1755624139193,e,69, weekly, physical-keyboard,3,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",5,1755624139260,1755624139343, ,32, weekly, physical-keyboard,4,0
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",6,1755624139419,1755624139502,m,77, weekly, physical-keyboard,5,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",7,1755624139529,1755624139622,e,69, weekly, physical-keyboard,6,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",8,1755624139651,1755624139734, ,32, weekly, physical-keyboard,7,0
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",9,1755624140168,1755624140304,a,65, weekly, physical-keyboard,8,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",10,1755624140357,1755624140420, ,32, weekly, physical-keyboard,9,0
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",11,1755624140883,1755624140957,t,84, weekly, physical-keyboard,10,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",12,1755624141176,1755624141274,w,87, weekly, physical-keyboard,11,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",13,1755624141307,1755624141377,o,79, weekly, physical-keyboard,12,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",14,1755624141479,1755624141534, ,32, weekly, physical-keyboard,13,0
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",15,1755624141670,1755624141777,l,76, weekly, physical-keyboard,14,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",16,1755624142198,1755624142264,i,73, weekly, physical-keyboard,15,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",17,1755624142443,1755624142456,n,78, weekly, physical-keyboard,16,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",18,1755624142553,1755624142644,e,69, weekly, physical-keyboard,17,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",19,1755624142745,1755624142865,s,83, weekly, physical-keyboard,17,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",20,1755624142881,1755624142945, ,32, weekly, physical-keyboard,17,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",21,1755624143064,1755624143234,s,83, weekly, physical-keyboard,17,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",22,1755624144696,1755624144758,t,84, weekly, physical-keyboard,17,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",23,1755624144829,1755624144885,o,79, weekly, physical-keyboard,17,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",24,1755624144945,1755624144997,r,82, weekly, physical-keyboard,17,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",25,1755624145151,1755624145213,y,89, weekly, physical-keyboard,17,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",26,1755624145293,1755624145373, ,32, weekly, physical-keyboard,17,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",27,1755624145693,1755624146429,Backspace,8, weekly, physical-keyboard,17,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",28,1755624146201,1755624149232,Backspace,8, weekly, physical-keyboard,17,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",29,1755624146231,1755624161688,Backspace,8, weekly, physical-keyboard,17,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",30,1755624146263,0,Backspace,8, weekly, physical-keyboard,17,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",31,1755624146292,0,Backspace,8, weekly, physical-keyboard,17,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",32,1755624146322,0,Backspace,8, weekly, physical-keyboard,17,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",33,1755624146353,0,Backspace,8, weekly, physical-keyboard,17,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",34,1755624146386,0,Backspace,8, weekly, physical-keyboard,17,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",35,1755624146414,0,Backspace,8, weekly, physical-keyboard,17,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",36,1755624147092,1755624147163,e,69, weekly, physical-keyboard,17,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",37,1755624147253,1755624147339, ,32, weekly, physical-keyboard,18,0
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",38,1755624147424,1755624147487,s,83, weekly, physical-keyboard,19,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",39,1755624147600,1755624147664,t,84, weekly, physical-keyboard,20,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",40,1755624147783,1755624147867,o,79, weekly, physical-keyboard,21,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",41,1755624147932,1755624147999,r,82, weekly, physical-keyboard,22,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",42,1755624148126,1755624148184,y,89, weekly, physical-keyboard,23,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",43,1755624148224,1755624148286, ,32, weekly, physical-keyboard,24,0
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",44,1755624148367,1755624148488,a,65, weekly, physical-keyboard,25,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",45,1755624148490,1755624148547,b,66, weekly, physical-keyboard,26,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",46,1755624148816,1755624148867,u,85, weekly, physical-keyboard,27,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",47,1755624149171,0,Backspace,8, weekly, physical-keyboard,27,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",48,1755624149418,1755624149505,o,79, weekly, physical-keyboard,27,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",49,1755624149641,1755624149716,u,85, weekly, physical-keyboard,28,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",50,1755624149819,1755624149901,t,84, weekly, physical-keyboard,29,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",51,1755624149903,1755624149992, ,32, weekly, physical-keyboard,30,0
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",52,1755624150095,1755624150188,a,65, weekly, physical-keyboard,31,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",53,1755624150202,1755624150272, ,32, weekly, physical-keyboard,32,0
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",54,1755624150738,1755624150816,t,84, weekly, physical-keyboard,33,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",55,1755624150964,1755624151023,u,85, weekly, physical-keyboard,34,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",56,1755624151112,1755624151175,r,82, weekly, physical-keyboard,35,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",57,1755624151493,1755624151587,t,84, weekly, physical-keyboard,36,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",58,1755624152176,1755624152258,l,76, weekly, physical-keyboard,37,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",59,1755624152327,1755624152420,e,69, weekly, physical-keyboard,38,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",60,1755624152467,1755624152521, ,32, weekly, physical-keyboard,39,0
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",61,1755624152631,1755624152732,w,87, weekly, physical-keyboard,40,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",62,1755624152849,1755624152965,a,65, weekly, physical-keyboard,41,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",63,1755624153004,1755624153066,l,76, weekly, physical-keyboard,42,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",64,1755624153259,1755624153317,k,75, weekly, physical-keyboard,43,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",65,1755624153514,1755624153582,i,73, weekly, physical-keyboard,44,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",66,1755624153633,1755624153717,n,78, weekly, physical-keyboard,45,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",67,1755624153721,1755624153798,g,71, weekly, physical-keyboard,46,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",68,1755624153861,1755624153883, ,32, weekly, physical-keyboard,47,0
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",69,1755624153984,1755624154073,a,65, weekly, physical-keyboard,48,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",70,1755624154140,1755624154208,l,76, weekly, physical-keyboard,49,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",71,1755624154310,1755624154377,o,79, weekly, physical-keyboard,50,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",72,1755624154486,1755624154545,n,78, weekly, physical-keyboard,51,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",73,1755624154692,1755624154760,g,71, weekly, physical-keyboard,52,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",74,1755624154826,1755624154875, ,32, weekly, physical-keyboard,53,0
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",75,1755624154939,1755624155020,a,65, weekly, physical-keyboard,54,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",76,1755624155021,1755624155086, ,32, weekly, physical-keyboard,55,0
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",77,1755624155182,1755624155247,r,82, weekly, physical-keyboard,56,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",78,1755624155276,1755624155346,i,73, weekly, physical-keyboard,57,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",79,1755624155454,1755624155521,v,86, weekly, physical-keyboard,58,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",80,1755624155645,1755624155693,e,69, weekly, physical-keyboard,59,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",81,1755624155800,1755624155865,r,82, weekly, physical-keyboard,60,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",82,1755624155964,1755624156014,b,66, weekly, physical-keyboard,61,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",83,1755624156050,1755624156157,a,65, weekly, physical-keyboard,62,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",84,1755624156177,1755624156226,n,78, weekly, physical-keyboard,63,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",85,1755624156343,1755624156396,k,75, weekly, physical-keyboard,64,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",86,1755624157446,1755624157508,",",188, weekly, physical-keyboard,65,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",87,1755624161632,0,Backspace,8, weekly, physical-keyboard,65,1
+5962a9280b835400010a7617,text-to-prompt,1,3,5,Give me a two line story about a turtle walking along a riverbank.,"[33,65]","[10,24]",88,1755624161979,1755624162014,.,190, weekly, physical-keyboard,65,1

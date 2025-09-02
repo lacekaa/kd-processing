@@ -1,0 +1,23 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD,PROMPT_CHAR,CONFIDENT_MARKED_CHAR,UNCONFIDENT_MARKED_CHAR
+663068f52490bf6d13f95968,prompt-to-image,0,4,3,Capital of Austriali,"[0,7]","[11,20]",0,1756263977218,1756263977394,Shift,16, daily, physical-keyboard,0,1,0
+663068f52490bf6d13f95968,prompt-to-image,0,4,3,Capital of Austriali,"[0,7]","[11,20]",1,1756263977313,1756263977404,C,67, daily, physical-keyboard,0,1,0
+663068f52490bf6d13f95968,prompt-to-image,0,4,3,Capital of Austriali,"[0,7]","[11,20]",2,1756263977552,1756263977653,a,65, daily, physical-keyboard,1,1,0
+663068f52490bf6d13f95968,prompt-to-image,0,4,3,Capital of Austriali,"[0,7]","[11,20]",3,1756263977656,1756263977738,p,80, daily, physical-keyboard,2,1,0
+663068f52490bf6d13f95968,prompt-to-image,0,4,3,Capital of Austriali,"[0,7]","[11,20]",4,1756263977844,1756263977920,i,73, daily, physical-keyboard,3,1,0
+663068f52490bf6d13f95968,prompt-to-image,0,4,3,Capital of Austriali,"[0,7]","[11,20]",5,1756263977983,1756263978054,t,84, daily, physical-keyboard,4,1,0
+663068f52490bf6d13f95968,prompt-to-image,0,4,3,Capital of Austriali,"[0,7]","[11,20]",6,1756263978228,1756263978329,a,65, daily, physical-keyboard,5,1,0
+663068f52490bf6d13f95968,prompt-to-image,0,4,3,Capital of Austriali,"[0,7]","[11,20]",7,1756263978288,1756263978394,l,76, daily, physical-keyboard,6,1,0
+663068f52490bf6d13f95968,prompt-to-image,0,4,3,Capital of Austriali,"[0,7]","[11,20]",8,1756263978445,1756263978536, ,32, daily, physical-keyboard,7,1,0
+663068f52490bf6d13f95968,prompt-to-image,0,4,3,Capital of Austriali,"[0,7]","[11,20]",9,1756263978600,1756263978661,o,79, daily, physical-keyboard,8,0,0
+663068f52490bf6d13f95968,prompt-to-image,0,4,3,Capital of Austriali,"[0,7]","[11,20]",10,1756263978693,1756263978798,f,70, daily, physical-keyboard,9,0,0
+663068f52490bf6d13f95968,prompt-to-image,0,4,3,Capital of Austriali,"[0,7]","[11,20]",11,1756263978817,1756263978902, ,32, daily, physical-keyboard,10,0,0
+663068f52490bf6d13f95968,prompt-to-image,0,4,3,Capital of Austriali,"[0,7]","[11,20]",12,1756263979068,1756263979239,Shift,16, daily, physical-keyboard,11,0,1
+663068f52490bf6d13f95968,prompt-to-image,0,4,3,Capital of Austriali,"[0,7]","[11,20]",13,1756263979216,1756263979307,A,65, daily, physical-keyboard,11,0,1
+663068f52490bf6d13f95968,prompt-to-image,0,4,3,Capital of Austriali,"[0,7]","[11,20]",14,1756263979405,1756263979483,u,85, daily, physical-keyboard,12,0,1
+663068f52490bf6d13f95968,prompt-to-image,0,4,3,Capital of Austriali,"[0,7]","[11,20]",15,1756263979522,1756263979589,s,83, daily, physical-keyboard,13,0,1
+663068f52490bf6d13f95968,prompt-to-image,0,4,3,Capital of Austriali,"[0,7]","[11,20]",16,1756263979749,1756263979806,t,84, daily, physical-keyboard,14,0,1
+663068f52490bf6d13f95968,prompt-to-image,0,4,3,Capital of Austriali,"[0,7]","[11,20]",17,1756263979933,1756263979991,r,82, daily, physical-keyboard,15,0,1
+663068f52490bf6d13f95968,prompt-to-image,0,4,3,Capital of Austriali,"[0,7]","[11,20]",18,1756263980052,1756263980125,i,73, daily, physical-keyboard,16,0,1
+663068f52490bf6d13f95968,prompt-to-image,0,4,3,Capital of Austriali,"[0,7]","[11,20]",19,1756263980246,1756263980346,a,65, daily, physical-keyboard,17,0,1
+663068f52490bf6d13f95968,prompt-to-image,0,4,3,Capital of Austriali,"[0,7]","[11,20]",20,1756263980369,1756263980469,l,76, daily, physical-keyboard,18,0,1
+663068f52490bf6d13f95968,prompt-to-image,0,4,3,Capital of Austriali,"[0,7]","[11,20]",21,1756263980581,1756263980636,i,73, daily, physical-keyboard,19,0,1
