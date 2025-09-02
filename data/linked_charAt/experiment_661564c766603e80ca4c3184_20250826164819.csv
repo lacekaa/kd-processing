@@ -5,14 +5,14 @@ PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYP
 661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",3,1756226739667,1756226739748,i,73, weekly, physical-keyboard,2
 661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",4,1756226739770,1756226739873,t,84, weekly, physical-keyboard,3
 661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",5,1756226739843,1756226739935,e,69, weekly, physical-keyboard,4
-661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",6,1756226739900,1756226739970, ,32, weekly, physical-keyboard,-1
+661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",6,1756226739900,1756226739970, ,32, weekly, physical-keyboard,5
 661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",7,1756226740821,1756226740923,m,77, weekly, physical-keyboard,5
 661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",8,1756226740911,1756226741034,r,82, weekly, physical-keyboard,5
-661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",9,1756226741041,1756226741169, ,32, weekly, physical-keyboard,-1
+661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",9,1756226741041,1756226741169, ,32, weekly, physical-keyboard,5
 661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",10,1756226741217,1756226741355,s,83, weekly, physical-keyboard,5
 661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",11,1756226741483,1756226741505,m,77, weekly, physical-keyboard,5
 661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",12,1756226768122,1756226768210,a,65, weekly, physical-keyboard,6
-661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",13,1756226768248,1756226768339, ,32, weekly, physical-keyboard,-1
+661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",13,1756226768248,1756226768339, ,32, weekly, physical-keyboard,7
 661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",14,1756226768705,1756226768796,w,87, weekly, physical-keyboard,8
 661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",15,1756226769570,1756226769644,o,79, weekly, physical-keyboard,9
 661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",16,1756226769653,1756226769743,r,82, weekly, physical-keyboard,10
@@ -20,36 +20,36 @@ PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYP
 661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",18,1756226770087,1756226770168,o,79, weekly, physical-keyboard,12
 661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",19,1756226771030,1756226771111,u,85, weekly, physical-keyboard,13
 661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",20,1756226771544,1756226771645,t,84, weekly, physical-keyboard,14
-661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",21,1756226772916,1756226773032, ,32, weekly, physical-keyboard,-1
+661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",21,1756226772916,1756226773032, ,32, weekly, physical-keyboard,15
 661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",22,1756226773731,1756226773797,p,80, weekly, physical-keyboard,16
 661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",23,1756226773897,1756226773970,l,76, weekly, physical-keyboard,17
 661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",24,1756226774070,1756226774155,a,65, weekly, physical-keyboard,18
 661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",25,1756226774153,1756226774232,n,78, weekly, physical-keyboard,19
-661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",26,1756226774317,1756226774404, ,32, weekly, physical-keyboard,-1
+661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",26,1756226774317,1756226774404, ,32, weekly, physical-keyboard,20
 661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",27,1756226774449,1756226774516,t,84, weekly, physical-keyboard,21
 661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",28,1756226774727,1756226774779,h,72, weekly, physical-keyboard,22
 661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",29,1756226774923,1756226775056,a,65, weekly, physical-keyboard,23
 661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",30,1756226775018,1756226775128,t,84, weekly, physical-keyboard,24
-661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",31,1756226775130,1756226775201, ,32, weekly, physical-keyboard,-1
+661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",31,1756226775130,1756226775201, ,32, weekly, physical-keyboard,25
 661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",32,1756226775287,1756226775399,w,87, weekly, physical-keyboard,26
 661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",33,1756226775392,1756226775463,i,73, weekly, physical-keyboard,27
 661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",34,1756226775594,1756226775663,l,76, weekly, physical-keyboard,28
 661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",35,1756226775726,1756226775802,l,76, weekly, physical-keyboard,29
-661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",36,1756226775869,1756226775966, ,32, weekly, physical-keyboard,-1
+661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",36,1756226775869,1756226775966, ,32, weekly, physical-keyboard,30
 661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",37,1756226776118,1756226776214,h,72, weekly, physical-keyboard,31
 661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",38,1756226776204,1756226776290,e,69, weekly, physical-keyboard,32
 661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",39,1756226776310,1756226776370,l,76, weekly, physical-keyboard,33
 661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",40,1756226776458,1756226776530,p,80, weekly, physical-keyboard,34
-661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",41,1756226776626,1756226776746, ,32, weekly, physical-keyboard,-1
+661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",41,1756226776626,1756226776746, ,32, weekly, physical-keyboard,35
 661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",42,1756226777133,1756226777222,m,77, weekly, physical-keyboard,36
 661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",43,1756226777239,1756226777331,e,69, weekly, physical-keyboard,37
-661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",44,1756226777343,1756226777415, ,32, weekly, physical-keyboard,-1
+661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",44,1756226777343,1756226777415, ,32, weekly, physical-keyboard,38
 661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",45,1756226777995,1756226778083,b,66, weekly, physical-keyboard,39
 661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",46,1756226778374,1756226778448,u,85, weekly, physical-keyboard,40
 661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",47,1756226778546,1756226778607,i,73, weekly, physical-keyboard,41
 661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",48,1756226778714,1756226778790,l,76, weekly, physical-keyboard,42
 661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",49,1756226778800,1756226778873,d,68, weekly, physical-keyboard,43
-661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",50,1756226778916,1756226778991, ,32, weekly, physical-keyboard,-1
+661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",50,1756226778916,1756226778991, ,32, weekly, physical-keyboard,44
 661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",51,1756226779092,1756226779156,m,77, weekly, physical-keyboard,45
 661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",52,1756226779279,1756226779354,u,85, weekly, physical-keyboard,46
 661564c766603e80ca4c3184,prompt-to-image,0,4,3,Write a workout plan that will help me build muscle.,"[8,20];[45,51]","[39,45];[45,51]",53,1756226779437,1756226779537,s,83, weekly, physical-keyboard,47

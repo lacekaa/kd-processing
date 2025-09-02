@@ -2,30 +2,30 @@ PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYP
 6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",0,1756305801299,1756305801579,Shift,16, daily, physical-keyboard,0
 6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",1,1756305801507,1756305801597,M,77, daily, physical-keyboard,0
 6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",2,1756305801628,1756305801754,a,65, daily, physical-keyboard,1
-6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",3,1756305801967,1756305802041,k,75, daily, physical-keyboard,5
-6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",4,1756305802055,1756305802112,e,69, daily, physical-keyboard,7
-6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",5,1756305802159,1756305802246, ,32, daily, physical-keyboard,-1
-6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",6,1756305802798,1756305802859,Backspace,8, daily, physical-keyboard,7
-6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",7,1756305803133,1756305803275, ,32, daily, physical-keyboard,-1
-6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",8,1756305803286,1756305803426,a,65, daily, physical-keyboard,7
-6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",9,1756305803414,1756305803525,l,76, daily, physical-keyboard,8
-6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",10,1756305803805,1756305803925, ,32, daily, physical-keyboard,-1
-6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",11,1756305803983,1756305804063,Backspace,8, daily, physical-keyboard,8
-6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",12,1756305804158,1756305804210,Backspace,8, daily, physical-keyboard,7
+6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",3,1756305801967,1756305802041,k,75, daily, physical-keyboard,2
+6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",4,1756305802055,1756305802112,e,69, daily, physical-keyboard,3
+6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",5,1756305802159,1756305802246, ,32, daily, physical-keyboard,4
+6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",6,1756305802798,1756305802859,Backspace,8, daily, physical-keyboard,4
+6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",7,1756305803133,1756305803275, ,32, daily, physical-keyboard,4
+6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",8,1756305803286,1756305803426,a,65, daily, physical-keyboard,5
+6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",9,1756305803414,1756305803525,l,76, daily, physical-keyboard,5
+6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",10,1756305803805,1756305803925, ,32, daily, physical-keyboard,5
+6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",11,1756305803983,1756305804063,Backspace,8, daily, physical-keyboard,5
+6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",12,1756305804158,1756305804210,Backspace,8, daily, physical-keyboard,5
 6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",13,1756305804317,1756305804366,Backspace,8, daily, physical-keyboard,5
 6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",14,1756305804720,1756305804810,a,65, daily, physical-keyboard,5
-6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",15,1756305804937,1756305805055, ,32, daily, physical-keyboard,-1
+6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",15,1756305804937,1756305805055, ,32, daily, physical-keyboard,6
 6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",16,1756305805457,1756305805533,l,76, daily, physical-keyboard,7
 6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",17,1756305805617,1756305805692,i,73, daily, physical-keyboard,8
 6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",18,1756305805634,1756305805708,s,83, daily, physical-keyboard,9
 6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",19,1756305805773,1756305805879,t,84, daily, physical-keyboard,10
-6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",20,1756305805866,1756305805941, ,32, daily, physical-keyboard,-1
+6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",20,1756305805866,1756305805941, ,32, daily, physical-keyboard,11
 6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",21,1756305806208,1756305806307,a,65, daily, physical-keyboard,12
 6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",22,1756305806564,1756305806665,b,66, daily, physical-keyboard,13
 6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",23,1756305806798,1756305806862,o,79, daily, physical-keyboard,14
 6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",24,1756305806967,1756305807050,u,85, daily, physical-keyboard,15
 6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",25,1756305807052,1756305807157,t,84, daily, physical-keyboard,16
-6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",26,1756305807118,1756305807245, ,32, daily, physical-keyboard,-1
+6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",26,1756305807118,1756305807245, ,32, daily, physical-keyboard,17
 6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",27,1756305807204,1756305807285,i,73, daily, physical-keyboard,18
 6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",28,1756305807781,1756305807835,Backspace,8, daily, physical-keyboard,18
 6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",29,1756305808151,1756305808459,Shift,16, daily, physical-keyboard,18
@@ -35,32 +35,32 @@ PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYP
 6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",33,1756305809305,1756305809387,m,77, daily, physical-keyboard,19
 6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",34,1756305809427,1756305809516,d,68, daily, physical-keyboard,20
 6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",35,1756305809576,1756305809650,b,66, daily, physical-keyboard,21
-6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",36,1756305809755,1756305809828, ,32, daily, physical-keyboard,-1
+6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",36,1756305809755,1756305809828, ,32, daily, physical-keyboard,22
 6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",37,1756305810064,1756305810135,b,66, daily, physical-keyboard,23
 6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",38,1756305810102,1756305810314,e,69, daily, physical-keyboard,24
 6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",39,1756305810215,1756305810323,s,83, daily, physical-keyboard,25
-6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",40,1756305810273,1756305810417,t,84, daily, physical-keyboard,28
-6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",41,1756305810430,1756305810496, ,32, daily, physical-keyboard,-1
-6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",42,1756305810811,1756305810894,s,83, daily, physical-keyboard,29
-6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",43,1756305811004,1756305811121,e,69, daily, physical-keyboard,30
-6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",44,1756305811073,1756305811163,r,82, daily, physical-keyboard,31
-6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",45,1756305811189,1756305811255,i,73, daily, physical-keyboard,32
-6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",46,1756305811277,1756305811391,e,69, daily, physical-keyboard,34
-6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",47,1756305811372,1756305811429,s,83, daily, physical-keyboard,35
-6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",48,1756305811505,1756305811569,Backspace,8, daily, physical-keyboard,35
-6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",49,1756305811611,1756305811665,Backspace,8, daily, physical-keyboard,34
-6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",50,1756305811710,1756305811761,Backspace,8, daily, physical-keyboard,32
-6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",51,1756305811798,1756305811846,Backspace,8, daily, physical-keyboard,31
-6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",52,1756305811908,1756305811963,Backspace,8, daily, physical-keyboard,30
-6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",53,1756305812000,1756305812053,Backspace,8, daily, physical-keyboard,29
-6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",54,1756305812119,1756305812159,Backspace,8, daily, physical-keyboard,28
-6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",55,1756305812507,1756305812634, ,32, daily, physical-keyboard,-1
+6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",40,1756305810273,1756305810417,t,84, daily, physical-keyboard,26
+6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",41,1756305810430,1756305810496, ,32, daily, physical-keyboard,27
+6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",42,1756305810811,1756305810894,s,83, daily, physical-keyboard,27
+6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",43,1756305811004,1756305811121,e,69, daily, physical-keyboard,27
+6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",44,1756305811073,1756305811163,r,82, daily, physical-keyboard,27
+6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",45,1756305811189,1756305811255,i,73, daily, physical-keyboard,27
+6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",46,1756305811277,1756305811391,e,69, daily, physical-keyboard,27
+6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",47,1756305811372,1756305811429,s,83, daily, physical-keyboard,27
+6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",48,1756305811505,1756305811569,Backspace,8, daily, physical-keyboard,27
+6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",49,1756305811611,1756305811665,Backspace,8, daily, physical-keyboard,27
+6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",50,1756305811710,1756305811761,Backspace,8, daily, physical-keyboard,27
+6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",51,1756305811798,1756305811846,Backspace,8, daily, physical-keyboard,27
+6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",52,1756305811908,1756305811963,Backspace,8, daily, physical-keyboard,27
+6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",53,1756305812000,1756305812053,Backspace,8, daily, physical-keyboard,27
+6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",54,1756305812119,1756305812159,Backspace,8, daily, physical-keyboard,27
+6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",55,1756305812507,1756305812634, ,32, daily, physical-keyboard,27
 6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",56,1756305812769,1756305812900,r,82, daily, physical-keyboard,28
 6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",57,1756305812866,1756305812982,a,65, daily, physical-keyboard,29
 6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",58,1756305813086,1756305813166,t,84, daily, physical-keyboard,30
 6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",59,1756305813204,1756305813322,e,69, daily, physical-keyboard,31
 6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",60,1756305813320,1756305813409,d,68, daily, physical-keyboard,32
-6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",61,1756305813413,1756305813488, ,32, daily, physical-keyboard,-1
+6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",61,1756305813413,1756305813488, ,32, daily, physical-keyboard,33
 6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",62,1756305813539,1756305813660,s,83, daily, physical-keyboard,34
 6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",63,1756305813631,1756305813773,e,69, daily, physical-keyboard,35
 6538097b8793d9b90adc4667,prompt-to-image,0,6,4,Make a list about imdb best rated series.,"[34,40];[7,12]","[23,33];[18,23]",64,1756305813748,1756305813867,r,82, daily, physical-keyboard,36

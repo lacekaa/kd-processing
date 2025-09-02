@@ -7,10 +7,10 @@ PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYP
 663068f52490bf6d13f95968,prompt-to-image,0,4,3,Capital of Austriali,"[0,7]","[11,20]",5,1756263977983,1756263978054,t,84, daily, physical-keyboard,4
 663068f52490bf6d13f95968,prompt-to-image,0,4,3,Capital of Austriali,"[0,7]","[11,20]",6,1756263978228,1756263978329,a,65, daily, physical-keyboard,5
 663068f52490bf6d13f95968,prompt-to-image,0,4,3,Capital of Austriali,"[0,7]","[11,20]",7,1756263978288,1756263978394,l,76, daily, physical-keyboard,6
-663068f52490bf6d13f95968,prompt-to-image,0,4,3,Capital of Austriali,"[0,7]","[11,20]",8,1756263978445,1756263978536, ,32, daily, physical-keyboard,-1
+663068f52490bf6d13f95968,prompt-to-image,0,4,3,Capital of Austriali,"[0,7]","[11,20]",8,1756263978445,1756263978536, ,32, daily, physical-keyboard,7
 663068f52490bf6d13f95968,prompt-to-image,0,4,3,Capital of Austriali,"[0,7]","[11,20]",9,1756263978600,1756263978661,o,79, daily, physical-keyboard,8
 663068f52490bf6d13f95968,prompt-to-image,0,4,3,Capital of Austriali,"[0,7]","[11,20]",10,1756263978693,1756263978798,f,70, daily, physical-keyboard,9
-663068f52490bf6d13f95968,prompt-to-image,0,4,3,Capital of Austriali,"[0,7]","[11,20]",11,1756263978817,1756263978902, ,32, daily, physical-keyboard,-1
+663068f52490bf6d13f95968,prompt-to-image,0,4,3,Capital of Austriali,"[0,7]","[11,20]",11,1756263978817,1756263978902, ,32, daily, physical-keyboard,10
 663068f52490bf6d13f95968,prompt-to-image,0,4,3,Capital of Austriali,"[0,7]","[11,20]",12,1756263979068,1756263979239,Shift,16, daily, physical-keyboard,11
 663068f52490bf6d13f95968,prompt-to-image,0,4,3,Capital of Austriali,"[0,7]","[11,20]",13,1756263979216,1756263979307,A,65, daily, physical-keyboard,11
 663068f52490bf6d13f95968,prompt-to-image,0,4,3,Capital of Austriali,"[0,7]","[11,20]",14,1756263979405,1756263979483,u,85, daily, physical-keyboard,12

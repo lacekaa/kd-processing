@@ -7,10 +7,10 @@ PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYP
 663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",5,1756264101895,1756264101974,t,84, daily, physical-keyboard,4
 663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",6,1756264102147,1756264102251,a,65, daily, physical-keyboard,5
 663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",7,1756264102249,1756264102368,l,76, daily, physical-keyboard,6
-663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",8,1756264102400,1756264102491, ,32, daily, physical-keyboard,-1
+663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",8,1756264102400,1756264102491, ,32, daily, physical-keyboard,7
 663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",9,1756264102550,1756264102625,o,79, daily, physical-keyboard,8
 663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",10,1756264102676,1756264102756,f,70, daily, physical-keyboard,9
-663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",11,1756264102749,1756264102836, ,32, daily, physical-keyboard,-1
+663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",11,1756264102749,1756264102836, ,32, daily, physical-keyboard,10
 663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",12,1756264102970,1756264103749,Shift,16, daily, physical-keyboard,11
 663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",13,1756264103189,1756264103261,U,85, daily, physical-keyboard,11
 663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",14,1756264103299,1756264103354,S,83, daily, physical-keyboard,12

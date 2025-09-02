@@ -9,7 +9,7 @@ PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYP
 60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",7,1756304712197,1756304712279,o,79, rarely, physical-keyboard,6
 60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",8,1756304712332,1756304712424,o,79, rarely, physical-keyboard,7
 60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",9,1756304712654,1756304712722,l,76, rarely, physical-keyboard,8
-60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",10,1756304742716,1756304742823, ,32, rarely, physical-keyboard,-1
+60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",10,1756304742716,1756304742823, ,32, rarely, physical-keyboard,9
 60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",11,1756304743098,1756304743196,s,83, rarely, physical-keyboard,10
 60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",12,1756304743698,1756304743774,e,69, rarely, physical-keyboard,11
 60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",13,1756304744183,1756304744254,t,84, rarely, physical-keyboard,12
@@ -22,7 +22,7 @@ PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYP
 60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",20,1756304747074,1756304747157,a,65, rarely, physical-keyboard,19
 60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",21,1756304747416,1756304747489,k,75, rarely, physical-keyboard,20
 60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",22,1756304747717,1756304747774,e,69, rarely, physical-keyboard,21
-60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",23,1756304756777,1756304756870, ,32, rarely, physical-keyboard,-1
+60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",23,1756304756777,1756304756870, ,32, rarely, physical-keyboard,22
 60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",24,1756304758163,1756304758252,r,82, rarely, physical-keyboard,23
 60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",25,1756304758520,1756304758599,e,69, rarely, physical-keyboard,24
 60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",26,1756304758829,1756304758890,f,70, rarely, physical-keyboard,25
@@ -33,14 +33,14 @@ PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYP
 60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",31,1756304760870,1756304760941,i,73, rarely, physical-keyboard,30
 60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",32,1756304761246,1756304761307,n,78, rarely, physical-keyboard,31
 60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",33,1756304761492,1756304761538,g,71, rarely, physical-keyboard,32
-60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",34,1756304761733,1756304761783, ,32, rarely, physical-keyboard,-1
+60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",34,1756304761733,1756304761783, ,32, rarely, physical-keyboard,33
 60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",35,1756304762301,1756304762371,i,73, rarely, physical-keyboard,34
 60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",36,1756304762592,1756304762643,n,78, rarely, physical-keyboard,35
-60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",37,1756304762854,1756304762929, ,32, rarely, physical-keyboard,-1
+60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",37,1756304762854,1756304762929, ,32, rarely, physical-keyboard,36
 60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",38,1756304763140,1756304763211,t,84, rarely, physical-keyboard,37
 60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",39,1756304763351,1756304763428,h,72, rarely, physical-keyboard,38
 60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",40,1756304763574,1756304763634,e,69, rarely, physical-keyboard,39
-60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",41,1756304763794,1756304763854, ,32, rarely, physical-keyboard,-1
+60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",41,1756304763794,1756304763854, ,32, rarely, physical-keyboard,40
 60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",42,1756304764354,1756304764420,l,76, rarely, physical-keyboard,41
 60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",43,1756304764665,1756304764732,i,73, rarely, physical-keyboard,42
 60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",44,1756304764956,1756304765014,g,71, rarely, physical-keyboard,43
@@ -52,7 +52,7 @@ PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYP
 60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",50,1756304773578,1756304773632,c,67, rarely, physical-keyboard,49
 60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",51,1756304773938,1756304774010,k,75, rarely, physical-keyboard,50
 60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",52,1756304774305,1756304774358,s,83, rarely, physical-keyboard,51
-60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",53,1756304774707,1756304774780, ,32, rarely, physical-keyboard,-1
+60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",53,1756304774707,1756304774780, ,32, rarely, physical-keyboard,52
 60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",54,1756304775476,1756304775535,s,83, rarely, physical-keyboard,53
 60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",55,1756304775712,1756304775771,w,87, rarely, physical-keyboard,54
 60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",56,1756304776935,1756304777006,i,73, rarely, physical-keyboard,55
@@ -61,7 +61,7 @@ PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYP
 60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",59,1756304777819,1756304777886,i,73, rarely, physical-keyboard,58
 60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",60,1756304778289,1756304778359,n,78, rarely, physical-keyboard,59
 60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",61,1756304778512,1756304778554,g,71, rarely, physical-keyboard,60
-60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",62,1756304778728,1756304778779, ,32, rarely, physical-keyboard,-1
+60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",62,1756304778728,1756304778779, ,32, rarely, physical-keyboard,61
 60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",63,1756304779424,1756304779466,l,76, rarely, physical-keyboard,62
 60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",64,1756304779776,1756304779817,a,65, rarely, physical-keyboard,63
 60db9412ba928de1fdc2269e,image-to-prompt,1,4,6,"Calm,cool setting,lake reflecting in the light,ducks swimming lazily.","[0,45]","[48,69]",65,1756304780267,1756304780343,z,90, rarely, physical-keyboard,64

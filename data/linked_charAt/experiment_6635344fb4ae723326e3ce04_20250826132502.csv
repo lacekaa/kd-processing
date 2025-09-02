@@ -5,35 +5,35 @@ PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYP
 6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",3,1756214635356,1756214635451,i,73, daily, physical-keyboard,2
 6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",4,1756214635749,1756214635832,t,84, daily, physical-keyboard,3
 6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",5,1756214635872,1756214635961,e,69, daily, physical-keyboard,4
-6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",6,1756214636075,1756214636202, ,32, daily, physical-keyboard,-1
+6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",6,1756214636075,1756214636202, ,32, daily, physical-keyboard,5
 6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",7,1756214636303,1756214636441,a,65, daily, physical-keyboard,6
-6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",8,1756214636466,1756214636589, ,32, daily, physical-keyboard,-1
+6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",8,1756214636466,1756214636589, ,32, daily, physical-keyboard,7
 6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",9,1756214636666,1756214636766,s,83, daily, physical-keyboard,8
 6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",10,1756214636919,1756214637007,h,72, daily, physical-keyboard,9
 6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",11,1756214637256,1756214637345,o,79, daily, physical-keyboard,10
 6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",12,1756214637747,1756214637823,r,82, daily, physical-keyboard,11
 6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",13,1756214637927,1756214638004,t,84, daily, physical-keyboard,12
-6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",14,1756214638050,1756214638158, ,32, daily, physical-keyboard,-1
+6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",14,1756214638050,1756214638158, ,32, daily, physical-keyboard,13
 6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",15,1756214638236,1756214638304,t,84, daily, physical-keyboard,14
 6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",16,1756214638416,1756214638494,e,69, daily, physical-keyboard,15
 6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",17,1756214638748,1756214638822,x,88, daily, physical-keyboard,16
 6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",18,1756214639070,1756214639142,t,84, daily, physical-keyboard,17
-6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",19,1756214639244,1756214639364, ,32, daily, physical-keyboard,-1
+6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",19,1756214639244,1756214639364, ,32, daily, physical-keyboard,18
 6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",20,1756214641390,1756214641494,a,65, daily, physical-keyboard,19
 6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",21,1756214641715,1756214641792,b,66, daily, physical-keyboard,20
 6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",22,1756214642113,1756214642217,o,79, daily, physical-keyboard,21
 6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",23,1756214642381,1756214642460,u,85, daily, physical-keyboard,22
 6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",24,1756214642718,1756214642800,t,84, daily, physical-keyboard,23
-6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",25,1756214642887,1756214643010, ,32, daily, physical-keyboard,-1
+6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",25,1756214642887,1756214643010, ,32, daily, physical-keyboard,24
 6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",26,1756214643113,1756214643197,a,65, daily, physical-keyboard,25
-6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",27,1756214643237,1756214643364, ,32, daily, physical-keyboard,-1
+6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",27,1756214643237,1756214643364, ,32, daily, physical-keyboard,26
 6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",28,1756214643687,1756214643776,t,84, daily, physical-keyboard,27
 6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",29,1756214644334,1756214644425,u,85, daily, physical-keyboard,28
 6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",30,1756214644747,1756214644831,r,82, daily, physical-keyboard,29
 6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",31,1756214645759,1756214645823,t,84, daily, physical-keyboard,30
 6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",32,1756214646403,1756214646493,l,76, daily, physical-keyboard,31
 6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",33,1756214646626,1756214646702,e,69, daily, physical-keyboard,32
-6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",34,1756214646814,1756214646937, ,32, daily, physical-keyboard,-1
+6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",34,1756214646814,1756214646937, ,32, daily, physical-keyboard,33
 6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",35,1756214665110,1756214665204,w,87, daily, physical-keyboard,34
 6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",36,1756214665370,1756214665463,a,65, daily, physical-keyboard,35
 6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",37,1756214666018,1756214666129,l,76, daily, physical-keyboard,36
@@ -41,17 +41,17 @@ PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYP
 6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",39,1756214666837,1756214666905,i,73, daily, physical-keyboard,38
 6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",40,1756214667082,1756214667176,n,78, daily, physical-keyboard,39
 6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",41,1756214667389,1756214667483,g,71, daily, physical-keyboard,40
-6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",42,1756214667507,1756214667630, ,32, daily, physical-keyboard,-1
+6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",42,1756214667507,1756214667630, ,32, daily, physical-keyboard,41
 6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",43,1756214667854,1756214667947,a,65, daily, physical-keyboard,42
 6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",44,1756214668097,1756214668178,l,76, daily, physical-keyboard,43
 6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",45,1756214668277,1756214668348,o,79, daily, physical-keyboard,44
 6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",46,1756214668535,1756214668623,n,78, daily, physical-keyboard,45
 6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",47,1756214668845,1756214668938,g,71, daily, physical-keyboard,46
-6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",48,1756214668957,1756214669080, ,32, daily, physical-keyboard,-1
+6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",48,1756214668957,1756214669080, ,32, daily, physical-keyboard,47
 6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",49,1756214669212,1756214669281,t,84, daily, physical-keyboard,48
 6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",50,1756214669462,1756214669553,h,72, daily, physical-keyboard,49
 6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",51,1756214669620,1756214669697,e,69, daily, physical-keyboard,50
-6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",52,1756214669755,1756214669861, ,32, daily, physical-keyboard,-1
+6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",52,1756214669755,1756214669861, ,32, daily, physical-keyboard,51
 6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",53,1756214669991,1756214670075,r,82, daily, physical-keyboard,52
 6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",54,1756214670420,1756214670495,i,73, daily, physical-keyboard,53
 6635344fb4ae723326e3ce04,text-to-prompt,1,2,7,Write a short text about a turtle walking along the riverbank,"[25,61]","[8,13]",55,1756214670764,1756214670853,v,86, daily, physical-keyboard,54

@@ -9,7 +9,7 @@ PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYP
 60db9412ba928de1fdc2269e,prompt-to-text,1,7,6,"Breathing heavily,panicking,respiratory failure,ambulance hospital.","[1,47]","[48,57]",7,1756305131375,1756305131452,i,73, rarely, physical-keyboard,6
 60db9412ba928de1fdc2269e,prompt-to-text,1,7,6,"Breathing heavily,panicking,respiratory failure,ambulance hospital.","[1,47]","[48,57]",8,1756305131827,1756305131904,n,78, rarely, physical-keyboard,7
 60db9412ba928de1fdc2269e,prompt-to-text,1,7,6,"Breathing heavily,panicking,respiratory failure,ambulance hospital.","[1,47]","[48,57]",9,1756305132184,1756305132237,g,71, rarely, physical-keyboard,8
-60db9412ba928de1fdc2269e,prompt-to-text,1,7,6,"Breathing heavily,panicking,respiratory failure,ambulance hospital.","[1,47]","[48,57]",10,1756305133266,1756305133374, ,32, rarely, physical-keyboard,-1
+60db9412ba928de1fdc2269e,prompt-to-text,1,7,6,"Breathing heavily,panicking,respiratory failure,ambulance hospital.","[1,47]","[48,57]",10,1756305133266,1756305133374, ,32, rarely, physical-keyboard,9
 60db9412ba928de1fdc2269e,prompt-to-text,1,7,6,"Breathing heavily,panicking,respiratory failure,ambulance hospital.","[1,47]","[48,57]",11,1756305134096,1756305134177,h,72, rarely, physical-keyboard,10
 60db9412ba928de1fdc2269e,prompt-to-text,1,7,6,"Breathing heavily,panicking,respiratory failure,ambulance hospital.","[1,47]","[48,57]",12,1756305134658,1756305134716,e,69, rarely, physical-keyboard,11
 60db9412ba928de1fdc2269e,prompt-to-text,1,7,6,"Breathing heavily,panicking,respiratory failure,ambulance hospital.","[1,47]","[48,57]",13,1756305135206,1756305135282,a,65, rarely, physical-keyboard,12
@@ -39,7 +39,7 @@ PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYP
 60db9412ba928de1fdc2269e,prompt-to-text,1,7,6,"Breathing heavily,panicking,respiratory failure,ambulance hospital.","[1,47]","[48,57]",37,1756305217264,1756305217345,o,79, rarely, physical-keyboard,36
 60db9412ba928de1fdc2269e,prompt-to-text,1,7,6,"Breathing heavily,panicking,respiratory failure,ambulance hospital.","[1,47]","[48,57]",38,1756305217939,1756305217985,r,82, rarely, physical-keyboard,37
 60db9412ba928de1fdc2269e,prompt-to-text,1,7,6,"Breathing heavily,panicking,respiratory failure,ambulance hospital.","[1,47]","[48,57]",39,1756305218814,1756305218885,y,89, rarely, physical-keyboard,38
-60db9412ba928de1fdc2269e,prompt-to-text,1,7,6,"Breathing heavily,panicking,respiratory failure,ambulance hospital.","[1,47]","[48,57]",40,1756305220733,1756305220819, ,32, rarely, physical-keyboard,-1
+60db9412ba928de1fdc2269e,prompt-to-text,1,7,6,"Breathing heavily,panicking,respiratory failure,ambulance hospital.","[1,47]","[48,57]",40,1756305220733,1756305220819, ,32, rarely, physical-keyboard,39
 60db9412ba928de1fdc2269e,prompt-to-text,1,7,6,"Breathing heavily,panicking,respiratory failure,ambulance hospital.","[1,47]","[48,57]",41,1756305220990,1756305221046,f,70, rarely, physical-keyboard,40
 60db9412ba928de1fdc2269e,prompt-to-text,1,7,6,"Breathing heavily,panicking,respiratory failure,ambulance hospital.","[1,47]","[48,57]",42,1756305221478,1756305221576,a,65, rarely, physical-keyboard,41
 60db9412ba928de1fdc2269e,prompt-to-text,1,7,6,"Breathing heavily,panicking,respiratory failure,ambulance hospital.","[1,47]","[48,57]",43,1756305221839,1756305221911,i,73, rarely, physical-keyboard,42
@@ -57,7 +57,7 @@ PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYP
 60db9412ba928de1fdc2269e,prompt-to-text,1,7,6,"Breathing heavily,panicking,respiratory failure,ambulance hospital.","[1,47]","[48,57]",55,1756305227866,1756305227929,n,78, rarely, physical-keyboard,54
 60db9412ba928de1fdc2269e,prompt-to-text,1,7,6,"Breathing heavily,panicking,respiratory failure,ambulance hospital.","[1,47]","[48,57]",56,1756305228113,1756305228174,c,67, rarely, physical-keyboard,55
 60db9412ba928de1fdc2269e,prompt-to-text,1,7,6,"Breathing heavily,panicking,respiratory failure,ambulance hospital.","[1,47]","[48,57]",57,1756305228441,1756305228496,e,69, rarely, physical-keyboard,56
-60db9412ba928de1fdc2269e,prompt-to-text,1,7,6,"Breathing heavily,panicking,respiratory failure,ambulance hospital.","[1,47]","[48,57]",58,1756305228794,1756305228854, ,32, rarely, physical-keyboard,-1
+60db9412ba928de1fdc2269e,prompt-to-text,1,7,6,"Breathing heavily,panicking,respiratory failure,ambulance hospital.","[1,47]","[48,57]",58,1756305228794,1756305228854, ,32, rarely, physical-keyboard,57
 60db9412ba928de1fdc2269e,prompt-to-text,1,7,6,"Breathing heavily,panicking,respiratory failure,ambulance hospital.","[1,47]","[48,57]",59,1756305229234,1756305229285,h,72, rarely, physical-keyboard,58
 60db9412ba928de1fdc2269e,prompt-to-text,1,7,6,"Breathing heavily,panicking,respiratory failure,ambulance hospital.","[1,47]","[48,57]",60,1756305230144,1756305230205,o,79, rarely, physical-keyboard,59
 60db9412ba928de1fdc2269e,prompt-to-text,1,7,6,"Breathing heavily,panicking,respiratory failure,ambulance hospital.","[1,47]","[48,57]",61,1756305230461,1756305230517,s,83, rarely, physical-keyboard,60
