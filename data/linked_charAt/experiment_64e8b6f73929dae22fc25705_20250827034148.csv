@@ -9,7 +9,7 @@ PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYP
 64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",7,1756266088022,1756266088190,a,65, weekly, physical-keyboard,0
 64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",8,1756266088156,1756266088290, ,32, weekly, physical-keyboard,0
 64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",9,1756266088210,1756266088229,s,83, weekly, physical-keyboard,0
-64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",10,1756266088860,1756266089671,Control,17, weekly, physical-keyboard,0
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",10,1756266088860,1756266089671,Control,17, weekly, physical-keyboard,-1
 64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",11,1756266089082,1756266089176,Backspace,8, weekly, physical-keyboard,0
 64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",12,1756266089283,1756266089336,Backspace,8, weekly, physical-keyboard,0
 64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",13,1756266089451,1756266089498,Backspace,8, weekly, physical-keyboard,0

@@ -15,7 +15,7 @@ PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYP
 5fff2877a99bcb65a14a223c,text-to-prompt,1,7,3,create an image of a small turtle,"[0,7]","[27,33]",13,1756292389777,1756292389844,g,71, weekly, physical-keyboard,15
 5fff2877a99bcb65a14a223c,text-to-prompt,1,7,3,create an image of a small turtle,"[0,7]","[27,33]",14,1756292389992,1756292390068,e,69, weekly, physical-keyboard,15
 5fff2877a99bcb65a14a223c,text-to-prompt,1,7,3,create an image of a small turtle,"[0,7]","[27,33]",15,1756292390752,1756292390838, ,32, weekly, physical-keyboard,15
-5fff2877a99bcb65a14a223c,text-to-prompt,1,7,3,create an image of a small turtle,"[0,7]","[27,33]",16,1756292391400,1756292391892,Control,17, weekly, physical-keyboard,15
+5fff2877a99bcb65a14a223c,text-to-prompt,1,7,3,create an image of a small turtle,"[0,7]","[27,33]",16,1756292391400,1756292391892,Control,17, weekly, physical-keyboard,-1
 5fff2877a99bcb65a14a223c,text-to-prompt,1,7,3,create an image of a small turtle,"[0,7]","[27,33]",17,1756292391750,1756292391847,v,86, weekly, physical-keyboard,15
 5fff2877a99bcb65a14a223c,text-to-prompt,1,7,3,create an image of a small turtle,"[0,7]","[27,33]",18,1756292395797,1756292395865,Backspace,8, weekly, physical-keyboard,15
 5fff2877a99bcb65a14a223c,text-to-prompt,1,7,3,create an image of a small turtle,"[0,7]","[27,33]",19,1756292395958,1756292396024,Backspace,8, weekly, physical-keyboard,15

@@ -14,8 +14,8 @@ PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYP
 673d0377254c407e5da57f97,text-to-prompt,0,3,4,create a reminder list of all the due submissions,"[9,22]","[34,50]",12,1756290953578,1756290953676,t,84, weekly, physical-keyboard,9,1,0
 673d0377254c407e5da57f97,text-to-prompt,0,3,4,create a reminder list of all the due submissions,"[9,22]","[34,50]",13,1756290953744,1756290953822, ,32, weekly, physical-keyboard,9,1,0
 673d0377254c407e5da57f97,text-to-prompt,0,3,4,create a reminder list of all the due submissions,"[9,22]","[34,50]",14,1756290954285,1756290954362,o,79, weekly, physical-keyboard,9,1,0
-673d0377254c407e5da57f97,text-to-prompt,0,3,4,create a reminder list of all the due submissions,"[9,22]","[34,50]",15,1756290954544,1756290954610,f,70, weekly, physical-keyboard,9,1,0
-673d0377254c407e5da57f97,text-to-prompt,0,3,4,create a reminder list of all the due submissions,"[9,22]","[34,50]",16,1756290954832,1756290954966, ,32, weekly, physical-keyboard,9,1,0
+673d0377254c407e5da57f97,text-to-prompt,0,3,4,create a reminder list of all the due submissions,"[9,22]","[34,50]",15,1756290954544,1756290954610,f,70, weekly, physical-keyboard,48,0,1
+673d0377254c407e5da57f97,text-to-prompt,0,3,4,create a reminder list of all the due submissions,"[9,22]","[34,50]",16,1756290954832,1756290954966, ,32, weekly, physical-keyboard,48,0,1
 673d0377254c407e5da57f97,text-to-prompt,0,3,4,create a reminder list of all the due submissions,"[9,22]","[34,50]",17,1756290958830,1756290960779,Control,17, weekly, physical-keyboard,-1,0,0
 673d0377254c407e5da57f97,text-to-prompt,0,3,4,create a reminder list of all the due submissions,"[9,22]","[34,50]",18,1756290959342,0,Control,17, weekly, physical-keyboard,-1,0,0
 673d0377254c407e5da57f97,text-to-prompt,0,3,4,create a reminder list of all the due submissions,"[9,22]","[34,50]",19,1756290959374,0,Control,17, weekly, physical-keyboard,-1,0,0
@@ -33,8 +33,8 @@ PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYP
 673d0377254c407e5da57f97,text-to-prompt,0,3,4,create a reminder list of all the due submissions,"[9,22]","[34,50]",31,1756290960231,0,Shift,16, weekly, physical-keyboard,9,1,0
 673d0377254c407e5da57f97,text-to-prompt,0,3,4,create a reminder list of all the due submissions,"[9,22]","[34,50]",32,1756290960262,0,Shift,16, weekly, physical-keyboard,9,1,0
 673d0377254c407e5da57f97,text-to-prompt,0,3,4,create a reminder list of all the due submissions,"[9,22]","[34,50]",33,1756290960293,0,Shift,16, weekly, physical-keyboard,9,1,0
-673d0377254c407e5da57f97,text-to-prompt,0,3,4,create a reminder list of all the due submissions,"[9,22]","[34,50]",34,1756290960316,1756290960432,ArrowLeft,37, weekly, physical-keyboard,-1,0,0
-673d0377254c407e5da57f97,text-to-prompt,0,3,4,create a reminder list of all the due submissions,"[9,22]","[34,50]",35,1756290960552,1756290960640,ArrowLeft,37, weekly, physical-keyboard,-1,0,0
+673d0377254c407e5da57f97,text-to-prompt,0,3,4,create a reminder list of all the due submissions,"[9,22]","[34,50]",34,1756290960316,1756290960432,ArrowLeft,37, weekly, physical-keyboard,9,1,0
+673d0377254c407e5da57f97,text-to-prompt,0,3,4,create a reminder list of all the due submissions,"[9,22]","[34,50]",35,1756290960552,1756290960640,ArrowLeft,37, weekly, physical-keyboard,9,1,0
 673d0377254c407e5da57f97,text-to-prompt,0,3,4,create a reminder list of all the due submissions,"[9,22]","[34,50]",36,1756290961099,1756290961218,r,82, weekly, physical-keyboard,9,1,0
 673d0377254c407e5da57f97,text-to-prompt,0,3,4,create a reminder list of all the due submissions,"[9,22]","[34,50]",37,1756290961242,1756290961346,e,69, weekly, physical-keyboard,10,1,0
 673d0377254c407e5da57f97,text-to-prompt,0,3,4,create a reminder list of all the due submissions,"[9,22]","[34,50]",38,1756290961354,1756290961452,m,77, weekly, physical-keyboard,11,1,0

@@ -1,65 +1,65 @@
-PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD,PROMPT_CHAR,WORD
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",0,1756289224782,1756289224886,d,68, monthly, physical-keyboard,13,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",1,1756289224953,1756289225063,e,69, monthly, physical-keyboard,14,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",2,1756289225310,1756289225479,s,83, monthly, physical-keyboard,15,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",3,1756289225792,1756289225888,c,67, monthly, physical-keyboard,16,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",4,1756289226101,1756289226248,r,82, monthly, physical-keyboard,17,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",5,1756289226345,1756289226429,i,73, monthly, physical-keyboard,18,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",6,1756289226635,1756289226755,b,66, monthly, physical-keyboard,19,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",7,1756289226786,1756289226889,e,69, monthly, physical-keyboard,20,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",8,1756289226915,1756289227059, ,32, monthly, physical-keyboard,23,0
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",9,1756289227630,1756289227772,a,65, monthly, physical-keyboard,24,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",10,1756289227778,1756289227882, ,32, monthly, physical-keyboard,25,0
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",11,1756289227924,1756289228056,s,83, monthly, physical-keyboard,26,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",12,1756289228071,1756289228155,m,77, monthly, physical-keyboard,27,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",13,1756289228241,1756289228369,a,65, monthly, physical-keyboard,28,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",14,1756289228405,1756289228471,l,76, monthly, physical-keyboard,29,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",15,1756289228560,1756289228640,l,76, monthly, physical-keyboard,30,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",16,1756289228874,1756289228974, ,32, monthly, physical-keyboard,31,0
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",17,1756289229365,1756289229438,t,84, monthly, physical-keyboard,32,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",18,1756289229644,1756289229716,u,85, monthly, physical-keyboard,33,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",19,1756289229856,1756289229969,r,82, monthly, physical-keyboard,34,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",20,1756289230201,1756289230316,t,84, monthly, physical-keyboard,35,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",21,1756289230499,1756289230631,l,76, monthly, physical-keyboard,36,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",22,1756289230827,1756289230961,e,69, monthly, physical-keyboard,37,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",23,1756289231105,1756289231273, ,32, monthly, physical-keyboard,38,0
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",24,1756289234776,1756289234891,e,69, monthly, physical-keyboard,39,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",25,1756289235295,1756289235455,x,88, monthly, physical-keyboard,40,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",26,1756289235506,1756289235603,p,80, monthly, physical-keyboard,41,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",27,1756289235761,1756289235849,l,76, monthly, physical-keyboard,42,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",28,1756289235989,1756289236077,o,79, monthly, physical-keyboard,43,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",29,1756289236166,1756289236306,r,82, monthly, physical-keyboard,44,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",30,1756289236320,1756289236429,i,73, monthly, physical-keyboard,45,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",31,1756289236670,1756289236778,n,78, monthly, physical-keyboard,46,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",32,1756289236838,1756289236959,g,71, monthly, physical-keyboard,47,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",33,1756289237052,1756289237183, ,32, monthly, physical-keyboard,48,0
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",34,1756289237800,1756289237964,a,65, monthly, physical-keyboard,49,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",35,1756289238059,1756289238205, ,32, monthly, physical-keyboard,50,0
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",36,1756289239105,1756289239224,r,82, monthly, physical-keyboard,51,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",37,1756289239240,1756289239349,i,73, monthly, physical-keyboard,52,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",38,1756289239593,1756289239671,v,86, monthly, physical-keyboard,53,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",39,1756289239686,1756289239809,e,69, monthly, physical-keyboard,54,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",40,1756289239933,1756289240030,r,82, monthly, physical-keyboard,55,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",41,1756289240069,1756289240165,b,66, monthly, physical-keyboard,56,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",42,1756289240810,1756289240975,a,65, monthly, physical-keyboard,57,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",43,1756289240965,1756289241069,n,78, monthly, physical-keyboard,58,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",44,1756289241253,1756289241369,k,75, monthly, physical-keyboard,59,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",45,1756289243966,1756289244145,a,65, monthly, physical-keyboard,59,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",46,1756289244530,1756289244669, ,32, monthly, physical-keyboard,59,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",47,1756289244820,1756289244951,s,83, monthly, physical-keyboard,59,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",48,1756289246658,1756289246751,h,72, monthly, physical-keyboard,59,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",49,1756289247140,1756289247240,o,79, monthly, physical-keyboard,59,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",50,1756289247274,1756289247419,r,82, monthly, physical-keyboard,59,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",51,1756289247656,1756289247785,t,84, monthly, physical-keyboard,59,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",52,1756289247657,1756289247784,r,82, monthly, physical-keyboard,59,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",53,1756289249781,1756289249888,Backspace,8, monthly, physical-keyboard,59,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",54,1756289250156,1756289250223, ,32, monthly, physical-keyboard,59,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",55,1756289250766,1756289250894,t,84, monthly, physical-keyboard,59,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",56,1756289250897,1756289250998,e,69, monthly, physical-keyboard,59,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",57,1756289251375,1756289251536,x,88, monthly, physical-keyboard,59,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",58,1756289251507,1756289251622,t,84, monthly, physical-keyboard,59,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",59,1756289252302,1756289252418, ,32, monthly, physical-keyboard,59,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",60,1756289256605,1756289256713,Backspace,8, monthly, physical-keyboard,59,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",61,1756289257005,1756289257103,i,73, monthly, physical-keyboard,59,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",62,1756289257249,1756289257324,n,78, monthly, physical-keyboard,59,1
-60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",63,1756289257425,1756289257545,g,71, monthly, physical-keyboard,59,1
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD,PROMPT_CHAR,CONFIDENT_MARKED_CHAR,UNCONFIDENT_MARKED_CHAR,WORD
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",0,1756289224782,1756289224886,d,68, monthly, physical-keyboard,13,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",1,1756289224953,1756289225063,e,69, monthly, physical-keyboard,14,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",2,1756289225310,1756289225479,s,83, monthly, physical-keyboard,15,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",3,1756289225792,1756289225888,c,67, monthly, physical-keyboard,16,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",4,1756289226101,1756289226248,r,82, monthly, physical-keyboard,17,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",5,1756289226345,1756289226429,i,73, monthly, physical-keyboard,18,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",6,1756289226635,1756289226755,b,66, monthly, physical-keyboard,19,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",7,1756289226786,1756289226889,e,69, monthly, physical-keyboard,20,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",8,1756289226915,1756289227059, ,32, monthly, physical-keyboard,23,1,0,0
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",9,1756289227630,1756289227772,a,65, monthly, physical-keyboard,24,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",10,1756289227778,1756289227882, ,32, monthly, physical-keyboard,25,1,0,0
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",11,1756289227924,1756289228056,s,83, monthly, physical-keyboard,26,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",12,1756289228071,1756289228155,m,77, monthly, physical-keyboard,27,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",13,1756289228241,1756289228369,a,65, monthly, physical-keyboard,28,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",14,1756289228405,1756289228471,l,76, monthly, physical-keyboard,29,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",15,1756289228560,1756289228640,l,76, monthly, physical-keyboard,30,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",16,1756289228874,1756289228974, ,32, monthly, physical-keyboard,31,1,0,0
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",17,1756289229365,1756289229438,t,84, monthly, physical-keyboard,32,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",18,1756289229644,1756289229716,u,85, monthly, physical-keyboard,33,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",19,1756289229856,1756289229969,r,82, monthly, physical-keyboard,34,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",20,1756289230201,1756289230316,t,84, monthly, physical-keyboard,35,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",21,1756289230499,1756289230631,l,76, monthly, physical-keyboard,36,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",22,1756289230827,1756289230961,e,69, monthly, physical-keyboard,37,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",23,1756289231105,1756289231273, ,32, monthly, physical-keyboard,38,1,0,0
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",24,1756289234776,1756289234891,e,69, monthly, physical-keyboard,39,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",25,1756289235295,1756289235455,x,88, monthly, physical-keyboard,40,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",26,1756289235506,1756289235603,p,80, monthly, physical-keyboard,41,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",27,1756289235761,1756289235849,l,76, monthly, physical-keyboard,42,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",28,1756289235989,1756289236077,o,79, monthly, physical-keyboard,43,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",29,1756289236166,1756289236306,r,82, monthly, physical-keyboard,44,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",30,1756289236320,1756289236429,i,73, monthly, physical-keyboard,45,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",31,1756289236670,1756289236778,n,78, monthly, physical-keyboard,46,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",32,1756289236838,1756289236959,g,71, monthly, physical-keyboard,47,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",33,1756289237052,1756289237183, ,32, monthly, physical-keyboard,48,1,0,0
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",34,1756289237800,1756289237964,a,65, monthly, physical-keyboard,49,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",35,1756289238059,1756289238205, ,32, monthly, physical-keyboard,50,1,0,0
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",36,1756289239105,1756289239224,r,82, monthly, physical-keyboard,51,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",37,1756289239240,1756289239349,i,73, monthly, physical-keyboard,52,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",38,1756289239593,1756289239671,v,86, monthly, physical-keyboard,53,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",39,1756289239686,1756289239809,e,69, monthly, physical-keyboard,54,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",40,1756289239933,1756289240030,r,82, monthly, physical-keyboard,55,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",41,1756289240069,1756289240165,b,66, monthly, physical-keyboard,56,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",42,1756289240810,1756289240975,a,65, monthly, physical-keyboard,57,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",43,1756289240965,1756289241069,n,78, monthly, physical-keyboard,58,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",44,1756289241253,1756289241369,k,75, monthly, physical-keyboard,59,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",45,1756289243966,1756289244145,a,65, monthly, physical-keyboard,59,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",46,1756289244530,1756289244669, ,32, monthly, physical-keyboard,59,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",47,1756289244820,1756289244951,s,83, monthly, physical-keyboard,59,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",48,1756289246658,1756289246751,h,72, monthly, physical-keyboard,59,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",49,1756289247140,1756289247240,o,79, monthly, physical-keyboard,59,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",50,1756289247274,1756289247419,r,82, monthly, physical-keyboard,59,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",51,1756289247656,1756289247785,t,84, monthly, physical-keyboard,59,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",52,1756289247657,1756289247784,r,82, monthly, physical-keyboard,59,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",53,1756289249781,1756289249888,Backspace,8, monthly, physical-keyboard,59,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",54,1756289250156,1756289250223, ,32, monthly, physical-keyboard,59,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",55,1756289250766,1756289250894,t,84, monthly, physical-keyboard,59,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",56,1756289250897,1756289250998,e,69, monthly, physical-keyboard,59,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",57,1756289251375,1756289251536,x,88, monthly, physical-keyboard,59,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",58,1756289251507,1756289251622,t,84, monthly, physical-keyboard,59,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",59,1756289252302,1756289252418, ,32, monthly, physical-keyboard,59,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",60,1756289256605,1756289256713,Backspace,8, monthly, physical-keyboard,59,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",61,1756289257005,1756289257103,i,73, monthly, physical-keyboard,59,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",62,1756289257249,1756289257324,n,78, monthly, physical-keyboard,59,1,0,1
+60bf706fc3b12a3c4f11a487,text-to-prompt,1,1,6,a short text describing a small turtle exploring a riverbank,"[13,60]","[0,12]",63,1756289257425,1756289257545,g,71, monthly, physical-keyboard,59,1,0,1

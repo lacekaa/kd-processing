@@ -30,15 +30,15 @@ PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYP
 673d0377254c407e5da57f97,prompt-to-image,1,7,4,create a picture of obama shaking hand with trump,"[20,26]","[26,38]",28,1756291137970,1756291138102,o,79, weekly, physical-keyboard,17,0,0
 673d0377254c407e5da57f97,prompt-to-image,1,7,4,create a picture of obama shaking hand with trump,"[20,26]","[26,38]",29,1756291138164,1756291138242,b,66, weekly, physical-keyboard,17,0,0
 673d0377254c407e5da57f97,prompt-to-image,1,7,4,create a picture of obama shaking hand with trump,"[20,26]","[26,38]",30,1756291138559,1756291138616,a,65, weekly, physical-keyboard,17,0,0
-673d0377254c407e5da57f97,prompt-to-image,1,7,4,create a picture of obama shaking hand with trump,"[20,26]","[26,38]",31,1756291138901,1756291138976,a,65, weekly, physical-keyboard,17,0,0
-673d0377254c407e5da57f97,prompt-to-image,1,7,4,create a picture of obama shaking hand with trump,"[20,26]","[26,38]",32,1756291139269,1756291139326,Backspace,8, weekly, physical-keyboard,17,0,0
-673d0377254c407e5da57f97,prompt-to-image,1,7,4,create a picture of obama shaking hand with trump,"[20,26]","[26,38]",33,1756291139496,1756291139562,m,77, weekly, physical-keyboard,17,0,0
-673d0377254c407e5da57f97,prompt-to-image,1,7,4,create a picture of obama shaking hand with trump,"[20,26]","[26,38]",34,1756291139603,1756291139710,a,65, weekly, physical-keyboard,17,0,0
-673d0377254c407e5da57f97,prompt-to-image,1,7,4,create a picture of obama shaking hand with trump,"[20,26]","[26,38]",35,1756291139751,1756291139832, ,32, weekly, physical-keyboard,17,0,0
+673d0377254c407e5da57f97,prompt-to-image,1,7,4,create a picture of obama shaking hand with trump,"[20,26]","[26,38]",31,1756291138901,1756291138976,a,65, weekly, physical-keyboard,48,0,0
+673d0377254c407e5da57f97,prompt-to-image,1,7,4,create a picture of obama shaking hand with trump,"[20,26]","[26,38]",32,1756291139269,1756291139326,Backspace,8, weekly, physical-keyboard,48,0,0
+673d0377254c407e5da57f97,prompt-to-image,1,7,4,create a picture of obama shaking hand with trump,"[20,26]","[26,38]",33,1756291139496,1756291139562,m,77, weekly, physical-keyboard,48,0,0
+673d0377254c407e5da57f97,prompt-to-image,1,7,4,create a picture of obama shaking hand with trump,"[20,26]","[26,38]",34,1756291139603,1756291139710,a,65, weekly, physical-keyboard,48,0,0
+673d0377254c407e5da57f97,prompt-to-image,1,7,4,create a picture of obama shaking hand with trump,"[20,26]","[26,38]",35,1756291139751,1756291139832, ,32, weekly, physical-keyboard,48,0,0
 673d0377254c407e5da57f97,prompt-to-image,1,7,4,create a picture of obama shaking hand with trump,"[20,26]","[26,38]",36,1756291141013,1756291141984,Control,17, weekly, physical-keyboard,-1,0,0
 673d0377254c407e5da57f97,prompt-to-image,1,7,4,create a picture of obama shaking hand with trump,"[20,26]","[26,38]",37,1756291141115,1756291141975,Shift,16, weekly, physical-keyboard,17,0,0
-673d0377254c407e5da57f97,prompt-to-image,1,7,4,create a picture of obama shaking hand with trump,"[20,26]","[26,38]",38,1756291141329,1756291141466,ArrowLeft,37, weekly, physical-keyboard,-1,0,0
-673d0377254c407e5da57f97,prompt-to-image,1,7,4,create a picture of obama shaking hand with trump,"[20,26]","[26,38]",39,1756291141619,1756291141721,ArrowLeft,37, weekly, physical-keyboard,-1,0,0
+673d0377254c407e5da57f97,prompt-to-image,1,7,4,create a picture of obama shaking hand with trump,"[20,26]","[26,38]",38,1756291141329,1756291141466,ArrowLeft,37, weekly, physical-keyboard,17,0,0
+673d0377254c407e5da57f97,prompt-to-image,1,7,4,create a picture of obama shaking hand with trump,"[20,26]","[26,38]",39,1756291141619,1756291141721,ArrowLeft,37, weekly, physical-keyboard,17,0,0
 673d0377254c407e5da57f97,prompt-to-image,1,7,4,create a picture of obama shaking hand with trump,"[20,26]","[26,38]",40,1756291142063,1756291142175,Backspace,8, weekly, physical-keyboard,17,0,0
 673d0377254c407e5da57f97,prompt-to-image,1,7,4,create a picture of obama shaking hand with trump,"[20,26]","[26,38]",41,1756291143207,1756291143311,o,79, weekly, physical-keyboard,17,0,0
 673d0377254c407e5da57f97,prompt-to-image,1,7,4,create a picture of obama shaking hand with trump,"[20,26]","[26,38]",42,1756291143405,1756291143468,f,70, weekly, physical-keyboard,18,0,0

@@ -1,17 +1,17 @@
-PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD,PROMPT_CHAR,WORD
-663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",0,1756264101087,1756264101289,Shift,16, daily, physical-keyboard,0,1
-663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",1,1756264101236,1756264101320,C,67, daily, physical-keyboard,0,1
-663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",2,1756264101489,1756264101571,a,65, daily, physical-keyboard,1,1
-663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",3,1756264101581,1756264101672,p,80, daily, physical-keyboard,2,1
-663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",4,1756264101786,1756264101865,i,73, daily, physical-keyboard,3,1
-663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",5,1756264101895,1756264101974,t,84, daily, physical-keyboard,4,1
-663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",6,1756264102147,1756264102251,a,65, daily, physical-keyboard,5,1
-663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",7,1756264102249,1756264102368,l,76, daily, physical-keyboard,6,1
-663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",8,1756264102400,1756264102491, ,32, daily, physical-keyboard,7,0
-663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",9,1756264102550,1756264102625,o,79, daily, physical-keyboard,8,1
-663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",10,1756264102676,1756264102756,f,70, daily, physical-keyboard,9,1
-663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",11,1756264102749,1756264102836, ,32, daily, physical-keyboard,10,0
-663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",12,1756264102970,1756264103749,Shift,16, daily, physical-keyboard,11,1
-663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",13,1756264103189,1756264103261,U,85, daily, physical-keyboard,11,1
-663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",14,1756264103299,1756264103354,S,83, daily, physical-keyboard,12,1
-663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",15,1756264103493,1756264103621,A,65, daily, physical-keyboard,13,1
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD,PROMPT_CHAR,CONFIDENT_MARKED_CHAR,UNCONFIDENT_MARKED_CHAR,WORD
+663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",0,1756264101087,1756264101289,Shift,16, daily, physical-keyboard,0,1,0,1
+663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",1,1756264101236,1756264101320,C,67, daily, physical-keyboard,0,1,0,1
+663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",2,1756264101489,1756264101571,a,65, daily, physical-keyboard,1,1,0,1
+663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",3,1756264101581,1756264101672,p,80, daily, physical-keyboard,2,1,0,1
+663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",4,1756264101786,1756264101865,i,73, daily, physical-keyboard,3,1,0,1
+663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",5,1756264101895,1756264101974,t,84, daily, physical-keyboard,4,1,0,1
+663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",6,1756264102147,1756264102251,a,65, daily, physical-keyboard,5,1,0,1
+663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",7,1756264102249,1756264102368,l,76, daily, physical-keyboard,6,1,0,1
+663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",8,1756264102400,1756264102491, ,32, daily, physical-keyboard,7,1,0,0
+663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",9,1756264102550,1756264102625,o,79, daily, physical-keyboard,8,0,0,1
+663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",10,1756264102676,1756264102756,f,70, daily, physical-keyboard,9,0,0,1
+663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",11,1756264102749,1756264102836, ,32, daily, physical-keyboard,10,0,0,0
+663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",12,1756264102970,1756264103749,Shift,16, daily, physical-keyboard,11,0,1,1
+663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",13,1756264103189,1756264103261,U,85, daily, physical-keyboard,11,0,1,1
+663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",14,1756264103299,1756264103354,S,83, daily, physical-keyboard,12,0,1,1
+663068f52490bf6d13f95968,prompt-to-image,1,6,3,Capital of USA,"[0,7]","[11,14]",15,1756264103493,1756264103621,A,65, daily, physical-keyboard,13,0,1,1

@@ -1,66 +1,66 @@
-PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD,PROMPT_CHAR,WORD
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",0,1756213212563,1756213212811,Shift,16, weekly, physical-keyboard,0,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",1,1756213212783,1756213212908,W,87, weekly, physical-keyboard,0,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",2,1756213213754,1756213213846,r,82, weekly, physical-keyboard,1,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",3,1756213213865,1756213213960,i,73, weekly, physical-keyboard,2,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",4,1756213214045,1756213214065,t,84, weekly, physical-keyboard,3,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",5,1756213214368,1756213214459,e,69, weekly, physical-keyboard,4,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",6,1756213214500,1756213214573, ,32, weekly, physical-keyboard,5,0
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",7,1756213215871,1756213216000,a,65, weekly, physical-keyboard,6,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",8,1756213216021,1756213216102, ,32, weekly, physical-keyboard,7,0
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",9,1756213218516,1756213218593,s,83, weekly, physical-keyboard,8,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",10,1756213218718,1756213218790,t,84, weekly, physical-keyboard,9,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",11,1756213218806,1756213218899,o,79, weekly, physical-keyboard,10,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",12,1756213218893,1756213218985,r,82, weekly, physical-keyboard,11,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",13,1756213219024,1756213219098,y,89, weekly, physical-keyboard,12,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",14,1756213219097,1756213219177, ,32, weekly, physical-keyboard,13,0
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",15,1756213219304,1756213219419,a,65, weekly, physical-keyboard,14,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",16,1756213219471,1756213219533,b,66, weekly, physical-keyboard,15,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",17,1756213219712,1756213219786,o,79, weekly, physical-keyboard,16,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",18,1756213219943,1756213220021,u,85, weekly, physical-keyboard,17,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",19,1756213220058,1756213220139,t,84, weekly, physical-keyboard,18,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",20,1756213220205,1756213220288, ,32, weekly, physical-keyboard,19,0
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",21,1756213221697,1756213221791,a,65, weekly, physical-keyboard,20,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",22,1756213221775,1756213221853, ,32, weekly, physical-keyboard,21,0
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",23,1756213221934,1756213222009,s,83, weekly, physical-keyboard,22,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",24,1756213222025,1756213222114,m,77, weekly, physical-keyboard,23,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",25,1756213222135,1756213222226,a,65, weekly, physical-keyboard,24,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",26,1756213222250,1756213222313,l,76, weekly, physical-keyboard,25,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",27,1756213222398,1756213222463,l,76, weekly, physical-keyboard,26,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",28,1756213222441,1756213222510, ,32, weekly, physical-keyboard,27,0
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",29,1756213222593,1756213222673,t,84, weekly, physical-keyboard,28,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",30,1756213222684,1756213222768,u,85, weekly, physical-keyboard,29,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",31,1756213223316,1756213223434,r,82, weekly, physical-keyboard,30,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",32,1756213223598,1756213223697,t,84, weekly, physical-keyboard,31,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",33,1756213224253,1756213224336,l,76, weekly, physical-keyboard,32,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",34,1756213224333,1756213224416,e,69, weekly, physical-keyboard,33,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",35,1756213224473,1756213224550, ,32, weekly, physical-keyboard,34,0
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",36,1756213225024,1756213225091,w,87, weekly, physical-keyboard,35,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",37,1756213225192,1756213225305,a,65, weekly, physical-keyboard,36,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",38,1756213225319,1756213225405,l,76, weekly, physical-keyboard,37,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",39,1756213225492,1756213225566,k,75, weekly, physical-keyboard,38,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",40,1756213225648,1756213225719,i,73, weekly, physical-keyboard,39,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",41,1756213225840,1756213225914,n,78, weekly, physical-keyboard,40,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",42,1756213225896,1756213225964,g,71, weekly, physical-keyboard,41,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",43,1756213226002,1756213226088, ,32, weekly, physical-keyboard,41,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",44,1756213226499,1756213226605,a,65, weekly, physical-keyboard,41,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",45,1756213226585,1756213226659,l,76, weekly, physical-keyboard,41,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",46,1756213226743,1756213226814,o,79, weekly, physical-keyboard,41,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",47,1756213226937,1756213227013,n,78, weekly, physical-keyboard,41,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",48,1756213226974,1756213227041,g,71, weekly, physical-keyboard,41,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",49,1756213227099,1756213227172, ,32, weekly, physical-keyboard,41,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",50,1756213227232,1756213227321,t,84, weekly, physical-keyboard,41,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",51,1756213227358,1756213227451,h,72, weekly, physical-keyboard,41,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",52,1756213227508,1756213227616,e,69, weekly, physical-keyboard,41,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",53,1756213227613,1756213227691, ,32, weekly, physical-keyboard,41,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",54,1756213227988,1756213228804,Backspace,8, weekly, physical-keyboard,41,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",55,1756213228503,0,Backspace,8, weekly, physical-keyboard,41,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",56,1756213228534,0,Backspace,8, weekly, physical-keyboard,41,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",57,1756213228565,0,Backspace,8, weekly, physical-keyboard,41,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",58,1756213228596,0,Backspace,8, weekly, physical-keyboard,41,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",59,1756213228627,0,Backspace,8, weekly, physical-keyboard,41,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",60,1756213228660,0,Backspace,8, weekly, physical-keyboard,41,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",61,1756213228691,0,Backspace,8, weekly, physical-keyboard,41,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",62,1756213228722,0,Backspace,8, weekly, physical-keyboard,41,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",63,1756213228752,0,Backspace,8, weekly, physical-keyboard,41,1
-67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",64,1756213228799,0,Backspace,8, weekly, physical-keyboard,41,1
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD,PROMPT_CHAR,CONFIDENT_MARKED_CHAR,UNCONFIDENT_MARKED_CHAR,WORD
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",0,1756213212563,1756213212811,Shift,16, weekly, physical-keyboard,0,1,0,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",1,1756213212783,1756213212908,W,87, weekly, physical-keyboard,0,1,0,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",2,1756213213754,1756213213846,r,82, weekly, physical-keyboard,1,1,0,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",3,1756213213865,1756213213960,i,73, weekly, physical-keyboard,2,1,0,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",4,1756213214045,1756213214065,t,84, weekly, physical-keyboard,3,1,0,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",5,1756213214368,1756213214459,e,69, weekly, physical-keyboard,4,1,0,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",6,1756213214500,1756213214573, ,32, weekly, physical-keyboard,5,1,0,0
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",7,1756213215871,1756213216000,a,65, weekly, physical-keyboard,6,1,0,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",8,1756213216021,1756213216102, ,32, weekly, physical-keyboard,7,1,0,0
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",9,1756213218516,1756213218593,s,83, weekly, physical-keyboard,8,1,0,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",10,1756213218718,1756213218790,t,84, weekly, physical-keyboard,9,1,0,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",11,1756213218806,1756213218899,o,79, weekly, physical-keyboard,10,1,0,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",12,1756213218893,1756213218985,r,82, weekly, physical-keyboard,11,1,0,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",13,1756213219024,1756213219098,y,89, weekly, physical-keyboard,12,1,0,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",14,1756213219097,1756213219177, ,32, weekly, physical-keyboard,13,1,0,0
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",15,1756213219304,1756213219419,a,65, weekly, physical-keyboard,14,1,0,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",16,1756213219471,1756213219533,b,66, weekly, physical-keyboard,15,1,0,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",17,1756213219712,1756213219786,o,79, weekly, physical-keyboard,16,1,0,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",18,1756213219943,1756213220021,u,85, weekly, physical-keyboard,17,1,0,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",19,1756213220058,1756213220139,t,84, weekly, physical-keyboard,18,1,0,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",20,1756213220205,1756213220288, ,32, weekly, physical-keyboard,19,1,0,0
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",21,1756213221697,1756213221791,a,65, weekly, physical-keyboard,20,1,0,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",22,1756213221775,1756213221853, ,32, weekly, physical-keyboard,21,1,0,0
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",23,1756213221934,1756213222009,s,83, weekly, physical-keyboard,22,1,0,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",24,1756213222025,1756213222114,m,77, weekly, physical-keyboard,23,1,0,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",25,1756213222135,1756213222226,a,65, weekly, physical-keyboard,24,1,0,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",26,1756213222250,1756213222313,l,76, weekly, physical-keyboard,25,1,0,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",27,1756213222398,1756213222463,l,76, weekly, physical-keyboard,26,1,0,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",28,1756213222441,1756213222510, ,32, weekly, physical-keyboard,27,1,0,0
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",29,1756213222593,1756213222673,t,84, weekly, physical-keyboard,28,1,0,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",30,1756213222684,1756213222768,u,85, weekly, physical-keyboard,29,1,0,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",31,1756213223316,1756213223434,r,82, weekly, physical-keyboard,30,1,0,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",32,1756213223598,1756213223697,t,84, weekly, physical-keyboard,31,1,0,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",33,1756213224253,1756213224336,l,76, weekly, physical-keyboard,32,1,0,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",34,1756213224333,1756213224416,e,69, weekly, physical-keyboard,33,1,0,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",35,1756213224473,1756213224550, ,32, weekly, physical-keyboard,34,1,0,0
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",36,1756213225024,1756213225091,w,87, weekly, physical-keyboard,35,0,1,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",37,1756213225192,1756213225305,a,65, weekly, physical-keyboard,36,0,1,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",38,1756213225319,1756213225405,l,76, weekly, physical-keyboard,37,0,1,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",39,1756213225492,1756213225566,k,75, weekly, physical-keyboard,38,0,1,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",40,1756213225648,1756213225719,i,73, weekly, physical-keyboard,39,0,1,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",41,1756213225840,1756213225914,n,78, weekly, physical-keyboard,40,0,1,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",42,1756213225896,1756213225964,g,71, weekly, physical-keyboard,41,0,1,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",43,1756213226002,1756213226088, ,32, weekly, physical-keyboard,41,0,1,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",44,1756213226499,1756213226605,a,65, weekly, physical-keyboard,41,0,1,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",45,1756213226585,1756213226659,l,76, weekly, physical-keyboard,41,0,1,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",46,1756213226743,1756213226814,o,79, weekly, physical-keyboard,41,0,1,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",47,1756213226937,1756213227013,n,78, weekly, physical-keyboard,41,0,1,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",48,1756213226974,1756213227041,g,71, weekly, physical-keyboard,41,0,1,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",49,1756213227099,1756213227172, ,32, weekly, physical-keyboard,41,0,1,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",50,1756213227232,1756213227321,t,84, weekly, physical-keyboard,41,0,1,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",51,1756213227358,1756213227451,h,72, weekly, physical-keyboard,41,0,1,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",52,1756213227508,1756213227616,e,69, weekly, physical-keyboard,41,0,1,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",53,1756213227613,1756213227691, ,32, weekly, physical-keyboard,41,0,1,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",54,1756213227988,1756213228804,Backspace,8, weekly, physical-keyboard,41,0,1,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",55,1756213228503,0,Backspace,8, weekly, physical-keyboard,41,0,1,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",56,1756213228534,0,Backspace,8, weekly, physical-keyboard,41,0,1,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",57,1756213228565,0,Backspace,8, weekly, physical-keyboard,41,0,1,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",58,1756213228596,0,Backspace,8, weekly, physical-keyboard,41,0,1,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",59,1756213228627,0,Backspace,8, weekly, physical-keyboard,41,0,1,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",60,1756213228660,0,Backspace,8, weekly, physical-keyboard,41,0,1,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",61,1756213228691,0,Backspace,8, weekly, physical-keyboard,41,0,1,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",62,1756213228722,0,Backspace,8, weekly, physical-keyboard,41,0,1,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",63,1756213228752,0,Backspace,8, weekly, physical-keyboard,41,0,1,1
+67430c9cce2366e644146584,text-to-prompt,1,1,6,Write a story about a small turtle walking,"[0,34]","[35,42]",64,1756213228799,0,Backspace,8, weekly, physical-keyboard,41,0,1,1
