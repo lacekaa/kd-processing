@@ -1,0 +1,5 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+distance,1,0,1,"CONFIDENT,NONE","[65,72];[137,144]"
+image,1,1,0,"CONFIDENT,UNCONFIDENT","[19,23];[213,217]"
+lake,1,1,1,"CONFIDENT,UNCONFIDENT,NONE","[35,38];[113,116];[232,235]"
+add,0,1,1,"UNCONFIDENT,NONE","[119,121];[169,171]"

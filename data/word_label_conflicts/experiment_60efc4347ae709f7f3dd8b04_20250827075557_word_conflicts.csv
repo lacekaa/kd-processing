@@ -1,0 +1,2 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+paragraph,1,1,0,"CONFIDENT,UNCONFIDENT","[34,42];[152,160]"

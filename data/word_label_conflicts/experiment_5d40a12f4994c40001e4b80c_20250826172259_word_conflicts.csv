@@ -1,0 +1,2 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+poem,1,0,1,"CONFIDENT,NONE","[16,19];[39,42]"

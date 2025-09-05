@@ -1,0 +1,2 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+people,0,1,1,"UNCONFIDENT,NONE","[115,120];[169,174]"

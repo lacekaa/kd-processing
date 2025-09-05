@@ -1,0 +1,5 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+bench,1,0,1,"CONFIDENT,NONE","[112,116];[268,272]"
+park,1,0,1,"CONFIDENT,NONE","[107,110];[263,266]"
+woman,1,0,1,"CONFIDENT,NONE","[60,64];[286,290]"
+sitting,0,1,1,"UNCONFIDENT,NONE","[94,100];[239,245]"

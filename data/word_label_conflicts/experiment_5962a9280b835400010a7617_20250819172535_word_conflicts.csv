@@ -1,0 +1,5 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+can,1,0,1,"CONFIDENT,NONE","[51,53];[116,118]"
+found,1,0,1,"CONFIDENT,NONE","[58,62];[129,133]"
+which,1,0,1,"CONFIDENT,NONE","[37,41];[140,144]"
+turtles,1,1,0,"CONFIDENT,UNCONFIDENT","[20,26];[43,49]"

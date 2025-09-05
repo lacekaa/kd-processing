@@ -1,0 +1,4 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+realistic,1,0,1,"CONFIDENT,NONE","[131,139];[240,248]"
+sky,1,1,0,"CONFIDENT,UNCONFIDENT","[191,193]"
+dog,0,1,1,"UNCONFIDENT,NONE","[81,83];[444,446]"

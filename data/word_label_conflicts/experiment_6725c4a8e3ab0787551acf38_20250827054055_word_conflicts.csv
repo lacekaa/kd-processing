@@ -1,0 +1,6 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+leaves,1,0,1,"CONFIDENT,NONE","[128,133];[306,311]"
+trees,1,0,1,"CONFIDENT,NONE","[71,75];[144,148]"
+water,1,0,1,"CONFIDENT,NONE","[117,121];[169,173]"
+small,0,1,2,"UNCONFIDENT,NONE","[54,58];[224,228];[363,367]"
+turtle,0,1,1,"UNCONFIDENT,NONE","[230,235];[318,323]"

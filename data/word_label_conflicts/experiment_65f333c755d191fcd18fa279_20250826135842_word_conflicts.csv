@@ -1,0 +1,4 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+glass,1,0,1,"CONFIDENT,NONE","[141,145];[190,194]"
+table,1,0,1,"CONFIDENT,NONE","[56,60];[323,327]"
+top,1,0,1,"CONFIDENT,NONE","[103,105];[154,156]"

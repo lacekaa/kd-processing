@@ -1,0 +1,9 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+front,1,0,2,"CONFIDENT,NONE","[223,227];[255,259];[306,310]"
+windows,1,0,1,"CONFIDENT,NONE","[283,289];[352,358]"
+woman,1,0,1,"CONFIDENT,NONE","[39,43];[365,369]"
+office,1,1,0,"CONFIDENT,UNCONFIDENT","[59,64];[534,539]"
+sitting,1,1,2,"CONFIDENT,UNCONFIDENT,NONE","[45,51];[75,81];[212,218];[523,529]"
+black,0,1,1,"UNCONFIDENT,NONE","[192,196];[380,384]"
+desks,0,1,1,"UNCONFIDENT,NONE","[119,123];[171,175]"
+they're,0,1,1,"UNCONFIDENT,NONE","[204,210];[515,521]"

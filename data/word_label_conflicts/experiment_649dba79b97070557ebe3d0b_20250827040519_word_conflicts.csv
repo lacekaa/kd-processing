@@ -1,0 +1,6 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+pine,1,0,1,"CONFIDENT,NONE","[84,87];[118,121]"
+river,1,0,3,"CONFIDENT,NONE","[35,39];[59,63];[218,222];[290,294]"
+slowly,1,0,1,"CONFIDENT,NONE","[44,49];[195,200]"
+light,0,1,1,"UNCONFIDENT,NONE","[386,390];[418,422]"
+should,0,1,6,"UNCONFIDENT,NONE","[108,113];[171,176];[237,242];[302,307];[364,369];[424,429];[497,502]"

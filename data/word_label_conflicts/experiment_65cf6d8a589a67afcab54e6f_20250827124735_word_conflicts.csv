@@ -1,0 +1,2 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+like,0,1,1,"UNCONFIDENT,NONE","[8,11];[222,225]"

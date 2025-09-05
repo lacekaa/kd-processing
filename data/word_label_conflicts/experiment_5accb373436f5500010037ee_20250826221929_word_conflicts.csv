@@ -1,0 +1,3 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+office,1,0,1,"CONFIDENT,NONE","[32,37];[201,206]"
+modern,0,1,1,"UNCONFIDENT,NONE","[164,169];[194,199]"

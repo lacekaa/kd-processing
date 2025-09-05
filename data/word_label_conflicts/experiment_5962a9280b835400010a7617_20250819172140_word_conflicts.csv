@@ -1,0 +1,4 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+image,1,0,1,"CONFIDENT,NONE","[13,17];[124,128]"
+should,1,1,0,"CONFIDENT,UNCONFIDENT","[90,95];[265,270]"
+river,1,1,2,"CONFIDENT,UNCONFIDENT,NONE","[40,44];[84,88];[141,145];[297,301]"

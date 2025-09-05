@@ -1,0 +1,6 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+desks,1,0,2,"CONFIDENT,NONE","[61,65];[72,76];[258,262]"
+sitting,1,1,0,"CONFIDENT,UNCONFIDENT","[46,52];[328,334]"
+two,2,1,0,"CONFIDENT,UNCONFIDENT","[35,37];[57,59];[348,350]"
+should,0,1,1,"UNCONFIDENT,NONE","[78,83];[146,151]"
+white,0,1,1,"UNCONFIDENT,NONE","[161,165];[378,382]"

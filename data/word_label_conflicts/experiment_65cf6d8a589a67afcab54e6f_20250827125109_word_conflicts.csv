@@ -1,0 +1,2 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+article,1,0,1,"CONFIDENT,NONE","[36,42];[108,114]"

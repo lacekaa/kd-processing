@@ -1,0 +1,9 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+cartoon,1,1,0,"CONFIDENT,UNCONFIDENT","[114,120]"
+character,1,1,0,"CONFIDENT,UNCONFIDENT","[128,136]"
+gas,1,1,0,"CONFIDENT,UNCONFIDENT","[166,168]"
+gear,1,1,0,"CONFIDENT,UNCONFIDENT","[155,158]"
+mask,1,1,0,"CONFIDENT,UNCONFIDENT","[170,173]"
+skunk,1,1,0,"CONFIDENT,UNCONFIDENT","[122,126]"
+tactical,1,1,0,"CONFIDENT,UNCONFIDENT","[146,153]"
+wearing,1,1,0,"CONFIDENT,UNCONFIDENT","[138,144]"

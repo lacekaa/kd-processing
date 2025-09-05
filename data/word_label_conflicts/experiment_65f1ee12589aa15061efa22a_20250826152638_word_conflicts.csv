@@ -1,0 +1,6 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+files,1,1,0,"CONFIDENT,UNCONFIDENT","[305,309];[584,588]"
+office,3,1,0,"CONFIDENT,UNCONFIDENT","[76,81];[94,99];[436,441];[670,675]"
+open,2,1,0,"CONFIDENT,UNCONFIDENT","[71,74];[387,390];[590,593]"
+space,3,1,0,"CONFIDENT,UNCONFIDENT","[83,87];[101,105];[443,447];[735,739]"
+which,1,2,0,"CONFIDENT,UNCONFIDENT","[425,429];[620,624];[694,698]"

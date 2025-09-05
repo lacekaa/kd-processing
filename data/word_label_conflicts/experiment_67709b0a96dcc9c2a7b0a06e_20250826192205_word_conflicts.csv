@@ -1,0 +1,2 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+time,1,0,1,"CONFIDENT,NONE","[4,7];[61,64]"

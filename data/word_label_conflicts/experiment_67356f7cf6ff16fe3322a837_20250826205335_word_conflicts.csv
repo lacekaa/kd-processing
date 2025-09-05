@@ -1,0 +1,4 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+ducks,1,1,0,"CONFIDENT,UNCONFIDENT","[49,53]"
+river,2,1,0,"CONFIDENT,UNCONFIDENT","[12,16];[71,75]"
+swimming,1,1,0,"CONFIDENT,UNCONFIDENT","[55,62]"

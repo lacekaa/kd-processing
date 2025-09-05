@@ -1,0 +1,4 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+women,1,0,2,"CONFIDENT,NONE","[12,16];[179,183];[429,433]"
+blue,1,1,1,"CONFIDENT,UNCONFIDENT,NONE","[51,54];[145,148];[294,297]"
+other,0,1,2,"UNCONFIDENT,NONE","[112,116];[241,245];[319,323]"

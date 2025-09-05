@@ -1,0 +1,4 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+ancient,1,1,0,"CONFIDENT,UNCONFIDENT","[27,33];[123,129]"
+wonders,1,1,0,"CONFIDENT,UNCONFIDENT","[35,41];[131,137]"
+world,2,1,0,"CONFIDENT,UNCONFIDENT","[13,17];[50,54];[146,150]"

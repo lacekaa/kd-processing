@@ -1,0 +1,2 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+friday,0,1,1,"UNCONFIDENT,NONE","[27,32];[106,111]"

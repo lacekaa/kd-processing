@@ -1,0 +1,4 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+should,1,1,5,"CONFIDENT,UNCONFIDENT,NONE","[82,87];[119,124];[182,187];[234,239];[292,297];[340,345];[394,399]"
+background,0,1,1,"UNCONFIDENT,NONE","[317,326];[370,379]"
+visible,0,1,1,"UNCONFIDENT,NONE","[302,308];[355,361]"

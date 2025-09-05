@@ -1,0 +1,7 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+boy,1,1,0,"CONFIDENT,UNCONFIDENT","[86,88]"
+computers,1,1,0,"CONFIDENT,UNCONFIDENT","[118,126]"
+girl,1,1,0,"CONFIDENT,UNCONFIDENT","[96,99]"
+introducing,1,1,0,"CONFIDENT,UNCONFIDENT","[59,69]"
+room,1,1,0,"CONFIDENT,UNCONFIDENT","[78,81]"
+working,1,1,0,"CONFIDENT,UNCONFIDENT","[101,107]"

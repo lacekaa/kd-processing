@@ -1,0 +1,5 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+scenario,1,0,1,"CONFIDENT,NONE","[325,332];[381,388]"
+tone,1,0,1,"CONFIDENT,NONE","[233,236];[254,257]"
+children,1,1,0,"CONFIDENT,UNCONFIDENT","[25,32];[339,346]"
+should,0,1,1,"UNCONFIDENT,NONE","[238,243];[348,353]"

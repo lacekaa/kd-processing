@@ -1,0 +1,2 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+house,2,1,0,"CONFIDENT,UNCONFIDENT","[36,40];[65,69];[148,152]"

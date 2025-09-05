@@ -1,0 +1,4 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+camera,1,1,0,"CONFIDENT,UNCONFIDENT","[62,67]"
+positioned,1,1,0,"CONFIDENT,UNCONFIDENT","[79,88]"
+should,1,1,0,"CONFIDENT,UNCONFIDENT","[69,74]"

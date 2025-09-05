@@ -1,0 +1,4 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+place,2,1,0,"CONFIDENT,UNCONFIDENT","[109,113];[201,205];[230,234]"
+should,2,1,0,"CONFIDENT,UNCONFIDENT","[64,69];[141,146];[179,184]"
+truck,3,1,0,"CONFIDENT,UNCONFIDENT","[22,26];[96,100];[135,139];[221,225]"

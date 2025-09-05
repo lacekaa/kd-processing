@@ -1,0 +1,2 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+green,1,0,1,"CONFIDENT,NONE","[43,47];[100,104]"

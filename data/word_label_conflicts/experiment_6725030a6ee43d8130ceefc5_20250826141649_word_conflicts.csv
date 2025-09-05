@@ -1,0 +1,6 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+make,1,0,1,"CONFIDENT,NONE","[81,84];[144,147]"
+cigarette,1,1,0,"CONFIDENT,UNCONFIDENT","[120,128]"
+hand,1,1,0,"CONFIDENT,UNCONFIDENT","[109,112]"
+one,1,1,0,"CONFIDENT,UNCONFIDENT","[105,107]"
+other,1,1,0,"CONFIDENT,UNCONFIDENT","[137,141]"

@@ -1,0 +1,3 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+small,0,1,2,"UNCONFIDENT,NONE","[103,107];[137,141];[167,171]"
+turtle,0,1,1,"UNCONFIDENT,NONE","[109,114];[173,178]"

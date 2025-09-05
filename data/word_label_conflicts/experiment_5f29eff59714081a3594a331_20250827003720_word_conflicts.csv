@@ -1,0 +1,3 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+walking,1,0,1,"CONFIDENT,NONE","[27,33];[136,142]"
+leaving,1,1,0,"CONFIDENT,UNCONFIDENT","[50,56]"

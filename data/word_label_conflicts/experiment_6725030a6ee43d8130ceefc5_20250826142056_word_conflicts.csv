@@ -1,0 +1,2 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+story,1,0,3,"CONFIDENT,NONE","[10,14];[63,67];[128,132];[174,178]"

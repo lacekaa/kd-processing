@@ -1,0 +1,3 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+people,1,1,0,"CONFIDENT,UNCONFIDENT","[185,190];[290,295]"
+until,1,1,0,"CONFIDENT,UNCONFIDENT","[101,105]"

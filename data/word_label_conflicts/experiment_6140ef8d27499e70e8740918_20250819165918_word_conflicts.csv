@@ -1,0 +1,3 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+write,1,0,1,"CONFIDENT,NONE","[10,14];[191,195]"
+ask,2,1,0,"CONFIDENT,UNCONFIDENT","[75,77];[150,152];[253,255]"

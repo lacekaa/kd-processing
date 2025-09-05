@@ -1,0 +1,2 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+evil,1,0,2,"CONFIDENT,NONE","[50,53];[63,66];[140,143]"

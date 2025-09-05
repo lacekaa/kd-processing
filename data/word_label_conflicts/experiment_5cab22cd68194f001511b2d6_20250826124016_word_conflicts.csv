@@ -1,0 +1,2 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+whilst,1,1,0,"CONFIDENT,UNCONFIDENT","[231,236]"

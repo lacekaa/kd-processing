@@ -1,0 +1,5 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+across,1,0,1,"CONFIDENT,NONE","[47,52];[207,212]"
+river,1,0,1,"CONFIDENT,NONE","[41,45];[218,222]"
+sky,0,1,1,"UNCONFIDENT,NONE","[113,115];[276,278]"
+trees,0,1,1,"UNCONFIDENT,NONE","[125,129];[262,266]"

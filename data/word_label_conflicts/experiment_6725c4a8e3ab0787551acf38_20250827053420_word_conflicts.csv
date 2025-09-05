@@ -1,0 +1,5 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+dog,1,0,1,"CONFIDENT,NONE","[18,20];[133,135]"
+field,1,0,1,"CONFIDENT,NONE","[40,44];[51,55]"
+jumping,1,1,0,"CONFIDENT,UNCONFIDENT","[22,28];[203,209]"
+corn,1,1,1,"CONFIDENT,UNCONFIDENT,NONE","[35,38];[80,83];[219,222]"

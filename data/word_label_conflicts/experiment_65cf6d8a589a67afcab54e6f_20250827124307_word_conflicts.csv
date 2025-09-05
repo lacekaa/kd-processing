@@ -1,0 +1,2 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+photorealistic,0,1,1,"UNCONFIDENT,NONE","[0,13];[207,220]"

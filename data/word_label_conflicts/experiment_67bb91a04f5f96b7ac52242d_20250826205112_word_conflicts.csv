@@ -1,0 +1,3 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+river,1,1,1,"CONFIDENT,UNCONFIDENT,NONE","[26,30];[195,199];[229,233]"
+bank,0,1,1,"UNCONFIDENT,NONE","[201,204];[257,260]"

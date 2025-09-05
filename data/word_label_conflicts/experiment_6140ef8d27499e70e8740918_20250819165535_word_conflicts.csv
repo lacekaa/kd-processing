@@ -1,0 +1,4 @@
+word,n_confident,n_unconfident,n_none,labels,occurrences
+main,1,0,2,"CONFIDENT,NONE","[54,57];[247,250];[358,361]"
+story,2,0,3,"CONFIDENT,NONE","[29,33];[96,100];[121,125];[414,418];[586,590]"
+work,1,0,1,"CONFIDENT,NONE","[506,509];[573,576]"
