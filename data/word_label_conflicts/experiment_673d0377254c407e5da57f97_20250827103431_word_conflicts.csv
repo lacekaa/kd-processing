@@ -1,3 +1,0 @@
-word,n_confident,n_unconfident,n_none,labels,occurrences
-pond,1,0,1,"CONFIDENT,NONE","[20,23];[83,86]"
-inside,1,1,0,"CONFIDENT,UNCONFIDENT","[25,30];[69,74]"

@@ -1,3 +1,0 @@
-word,n_confident,n_unconfident,n_none,labels,occurrences
-girl,1,1,0,"CONFIDENT,UNCONFIDENT","[139,142];[274,277]"
-should,3,1,0,"CONFIDENT,UNCONFIDENT","[108,113];[189,194];[284,289];[365,370]"

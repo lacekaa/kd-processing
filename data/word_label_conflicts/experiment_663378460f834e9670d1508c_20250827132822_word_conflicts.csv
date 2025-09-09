@@ -1,4 +1,0 @@
-word,n_confident,n_unconfident,n_none,labels,occurrences
-cat,1,0,2,"CONFIDENT,NONE","[34,36];[183,185];[301,303]"
-forest,1,0,2,"CONFIDENT,NONE","[63,68];[192,197];[221,226]"
-cats,0,1,1,"UNCONFIDENT,NONE","[150,153];[351,354]"

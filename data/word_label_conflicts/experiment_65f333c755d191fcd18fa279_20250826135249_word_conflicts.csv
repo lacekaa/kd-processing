@@ -1,4 +1,0 @@
-word,n_confident,n_unconfident,n_none,labels,occurrences
-ufo,1,0,1,"CONFIDENT,NONE","[83,85];[121,123]"
-infinite,0,1,1,"UNCONFIDENT,NONE","[51,58];[181,188]"
-space,0,1,2,"UNCONFIDENT,NONE","[60,64];[110,114];[190,194]"

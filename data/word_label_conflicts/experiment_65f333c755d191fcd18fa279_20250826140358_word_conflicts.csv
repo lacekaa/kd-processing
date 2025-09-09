@@ -1,3 +1,0 @@
-word,n_confident,n_unconfident,n_none,labels,occurrences
-desk,1,0,1,"CONFIDENT,NONE","[80,83];[191,194]"
-windows,1,1,0,"CONFIDENT,UNCONFIDENT","[37,43];[114,120]"

@@ -1,6 +1,0 @@
-word,n_confident,n_unconfident,n_none,labels,occurrences
-land,1,1,0,"CONFIDENT,UNCONFIDENT","[37,40]"
-left,1,1,0,"CONFIDENT,UNCONFIDENT","[49,52]"
-middle,1,1,0,"CONFIDENT,UNCONFIDENT","[81,86]"
-right,1,1,0,"CONFIDENT,UNCONFIDENT","[58,62]"
-water,1,2,0,"CONFIDENT,UNCONFIDENT","[68,72];[123,127]"

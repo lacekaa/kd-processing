@@ -1,3 +1,0 @@
-word,n_confident,n_unconfident,n_none,labels,occurrences
-some,1,0,1,"CONFIDENT,NONE","[48,51];[207,210]"
-african,1,1,0,"CONFIDENT,UNCONFIDENT","[23,29];[273,279]"

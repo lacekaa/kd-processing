@@ -1,5 +1,0 @@
-word,n_confident,n_unconfident,n_none,labels,occurrences
-chair,2,0,2,"CONFIDENT,NONE","[56,60];[204,208];[262,266];[305,309]"
-main,1,0,1,"CONFIDENT,NONE","[192,195];[250,253]"
-table,1,1,0,"CONFIDENT,UNCONFIDENT","[116,120];[355,359]"
-office,5,1,1,"CONFIDENT,UNCONFIDENT,NONE","[15,20];[49,54];[103,108];[135,140];[197,202];[255,260];[348,353]"

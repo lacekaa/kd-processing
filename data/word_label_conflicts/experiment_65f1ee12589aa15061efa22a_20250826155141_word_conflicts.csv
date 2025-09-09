@@ -1,3 +1,0 @@
-word,n_confident,n_unconfident,n_none,labels,occurrences
-along,1,0,1,"CONFIDENT,NONE","[51,55];[195,199]"
-riverbank,1,0,1,"CONFIDENT,NONE","[61,69];[205,213]"

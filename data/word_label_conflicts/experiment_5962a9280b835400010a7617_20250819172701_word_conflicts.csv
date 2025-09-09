@@ -1,4 +1,0 @@
-word,n_confident,n_unconfident,n_none,labels,occurrences
-cup,1,0,2,"CONFIDENT,NONE","[28,30];[109,111];[153,155]"
-tea,1,0,2,"CONFIDENT,NONE","[24,26];[105,107];[149,151]"
-tornado,1,0,1,"CONFIDENT,NONE","[39,45];[131,137]"

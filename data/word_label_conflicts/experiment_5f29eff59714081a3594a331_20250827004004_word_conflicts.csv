@@ -1,3 +1,0 @@
-word,n_confident,n_unconfident,n_none,labels,occurrences
-messi,1,1,0,"CONFIDENT,UNCONFIDENT","[23,27];[56,60]"
-ronaldo,1,1,0,"CONFIDENT,UNCONFIDENT","[47,53];[69,75]"

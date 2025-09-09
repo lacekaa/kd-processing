@@ -1,3 +1,0 @@
-word,n_confident,n_unconfident,n_none,labels,occurrences
-where,1,0,1,"CONFIDENT,NONE","[104,108];[170,174]"
-river,0,1,1,"UNCONFIDENT,NONE","[22,26];[130,134]"

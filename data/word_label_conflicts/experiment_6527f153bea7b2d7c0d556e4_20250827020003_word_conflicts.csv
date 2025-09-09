@@ -1,9 +1,0 @@
-word,n_confident,n_unconfident,n_none,labels,occurrences
-professional,1,0,1,"CONFIDENT,NONE","[8,19];[172,183]"
-boss,1,1,0,"CONFIDENT,UNCONFIDENT","[34,37];[150,153]"
-letter,1,1,0,"CONFIDENT,UNCONFIDENT","[21,26];[74,79]"
-off,1,1,1,"CONFIDENT,UNCONFIDENT,NONE","[55,57];[126,128];[247,249]"
-requesting,1,1,1,"CONFIDENT,UNCONFIDENT,NONE","[39,48];[110,119];[227,236]"
-time,1,1,1,"CONFIDENT,UNCONFIDENT,NONE","[50,53];[121,124];[242,245]"
-i'm,0,1,1,"UNCONFIDENT,NONE","[106,108];[223,225]"
-include,0,1,1,"UNCONFIDENT,NONE","[81,87];[193,199]"

@@ -1,5 +1,0 @@
-word,n_confident,n_unconfident,n_none,labels,occurrences
-office,1,0,1,"CONFIDENT,NONE","[57,62];[389,394]"
-table,1,0,2,"CONFIDENT,NONE","[84,88];[357,361];[369,373]"
-tables,1,0,1,"CONFIDENT,NONE","[42,47];[314,319]"
-each,2,1,4,"CONFIDENT,UNCONFIDENT,NONE","[79,82];[138,141];[162,165];[252,255];[297,300];[384,387];[442,445]"

@@ -1,3 +1,0 @@
-word,n_confident,n_unconfident,n_none,labels,occurrences
-city,1,0,1,"CONFIDENT,NONE","[19,22];[59,62]"
-cyberpunk,1,1,0,"CONFIDENT,UNCONFIDENT","[9,17];[258,266]"

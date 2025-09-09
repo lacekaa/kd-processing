@@ -1,3 +1,0 @@
-word,n_confident,n_unconfident,n_none,labels,occurrences
-intel,1,0,1,"CONFIDENT,NONE","[50,54];[111,115]"
-processors,1,1,1,"CONFIDENT,UNCONFIDENT,NONE","[60,69];[93,102];[126,135]"

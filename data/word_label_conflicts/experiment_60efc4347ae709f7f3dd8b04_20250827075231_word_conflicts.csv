@@ -1,5 +1,0 @@
-word,n_confident,n_unconfident,n_none,labels,occurrences
-avoid,1,1,0,"CONFIDENT,UNCONFIDENT","[150,154]"
-jargons,2,1,0,"CONFIDENT,UNCONFIDENT","[171,177];[194,200]"
-much,1,1,0,"CONFIDENT,UNCONFIDENT","[166,169]"
-using,2,1,0,"CONFIDENT,UNCONFIDENT","[108,112];[156,160]"

@@ -1,3 +1,0 @@
-word,n_confident,n_unconfident,n_none,labels,occurrences
-lot,1,0,1,"CONFIDENT,NONE","[71,73];[119,121]"
-city,1,1,0,"CONFIDENT,UNCONFIDENT","[40,43];[95,98]"

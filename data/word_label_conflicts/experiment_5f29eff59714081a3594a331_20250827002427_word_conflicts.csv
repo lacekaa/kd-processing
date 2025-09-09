@@ -1,9 +1,0 @@
-word,n_confident,n_unconfident,n_none,labels,occurrences
-chairs,1,1,0,"CONFIDENT,UNCONFIDENT","[58,63]"
-ergonomic,1,1,0,"CONFIDENT,UNCONFIDENT","[48,56]"
-facing,1,1,0,"CONFIDENT,UNCONFIDENT","[65,70]"
-large,1,1,0,"CONFIDENT,UNCONFIDENT","[74,78]"
-man,1,1,0,"CONFIDENT,UNCONFIDENT","[25,27]"
-sit,1,1,0,"CONFIDENT,UNCONFIDENT","[41,43]"
-window,1,1,0,"CONFIDENT,UNCONFIDENT","[80,85]"
-woman,1,1,0,"CONFIDENT,UNCONFIDENT","[35,39]"

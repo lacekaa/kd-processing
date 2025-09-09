@@ -1,3 +1,0 @@
-word,n_confident,n_unconfident,n_none,labels,occurrences
-all,1,0,1,"CONFIDENT,NONE","[32,34];[90,92]"
-email,0,1,1,"UNCONFIDENT,NONE","[16,20];[169,173]"

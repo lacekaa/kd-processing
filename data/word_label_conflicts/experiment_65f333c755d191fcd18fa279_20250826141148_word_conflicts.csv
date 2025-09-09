@@ -1,2 +1,0 @@
-word,n_confident,n_unconfident,n_none,labels,occurrences
-lake,1,2,0,"CONFIDENT,UNCONFIDENT","[46,49];[113,116];[202,205]"

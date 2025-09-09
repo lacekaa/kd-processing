@@ -1,3 +1,0 @@
-word,n_confident,n_unconfident,n_none,labels,occurrences
-desks,0,1,1,"UNCONFIDENT,NONE","[109,113];[142,146]"
-work,0,1,1,"UNCONFIDENT,NONE","[104,107];[218,221]"

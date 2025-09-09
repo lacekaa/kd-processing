@@ -1,3 +1,0 @@
-word,n_confident,n_unconfident,n_none,labels,occurrences
-trees,1,0,1,"CONFIDENT,NONE","[49,53];[169,173]"
-like,0,1,1,"UNCONFIDENT,NONE","[78,81];[123,126]"

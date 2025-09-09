@@ -1,4 +1,0 @@
-word,n_confident,n_unconfident,n_none,labels,occurrences
-people,1,1,0,"CONFIDENT,UNCONFIDENT","[47,52];[166,171]"
-working,1,1,1,"CONFIDENT,UNCONFIDENT,NONE","[78,84];[91,97];[201,207]"
-two,0,1,1,"UNCONFIDENT,NONE","[43,45];[143,145]"
