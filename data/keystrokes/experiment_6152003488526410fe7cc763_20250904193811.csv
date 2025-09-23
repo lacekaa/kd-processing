@@ -1,0 +1,68 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",0,1757014633753,1757014633841,w,87, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",1,1757014634174,1757014634276,r,82, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",2,1757014634338,1757014634413,i,73, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",3,1757014634428,1757014634531,t,84, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",4,1757014634667,1757014634817,e,69, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",5,1757014635013,1757014635147, ,32, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",6,1757014635163,1757014635308,a,65, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",7,1757014635252,1757014635384, ,32, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",8,1757014638733,1757014638791,f,70, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",9,1757014638774,1757014638923,a,65, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",10,1757014638820,1757014638910,b,66, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",11,1757014639047,1757014639121,l,76, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",12,1757014639182,1757014639240,e,69, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",13,1757014639225,1757014639346, ,32, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",14,1757014639918,1757014640036,o,79, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",15,1757014640697,1757014640798,f,70, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",16,1757014640788,1757014640904, ,32, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",17,1757014640996,1757014641127,a,65, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",18,1757014641099,1757014641251, ,32, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",19,1757014641793,1757014641909,t,84, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",20,1757014641897,1757014641970,i,73, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",21,1757014642106,1757014642196,n,78, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",22,1757014642363,1757014642462,y,89, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",23,1757014642453,1757014642602, ,32, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",24,1757014642813,1757014642946,t,84, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",25,1757014642992,1757014643050,u,85, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",26,1757014643819,1757014643951,r,82, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",27,1757014645856,1757014645960,u,85, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",28,1757014646204,1757014646336,r,82, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",29,1757014646712,1757014646784,Backspace,8, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",30,1757014646862,1757014646977,Backspace,8, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",31,1757014646965,1757014647098,t,84, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",32,1757014647328,1757014647403,b,66, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",33,1757014647553,1757014647640,l,76, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",34,1757014647628,1757014647761,e,69, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",35,1757014647821,1757014647911,Backspace,8, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",36,1757014648002,1757014648074,Backspace,8, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",37,1757014648165,1757014648269,Backspace,8, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",38,1757014648242,1757014648344,l,76, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",39,1757014648329,1757014648494,e,69, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",40,1757014648467,1757014648583,",",188, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",41,1757014648542,1757014648691, ,32, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",42,1757014655924,1757014655997,v,86, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",43,1757014656011,1757014656113,e,69, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",44,1757014656222,1757014656326,r,82, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",45,1757014656356,1757014656471,y,89, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",46,1757014656447,1757014656593, ,32, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",47,1757014672919,1757014673080,c,67, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",48,1757014673022,1757014673097,o,79, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",49,1757014673217,1757014673306,n,78, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",50,1757014673501,1757014673637,t,84, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",51,1757014673754,1757014673918,e,69, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",52,1757014674176,1757014674296,m,77, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",53,1757014674641,1757014674714,p,80, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",54,1757014674850,1757014674936,l,76, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",55,1757014674911,1757014675013,a,65, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",56,1757014675090,1757014675191,t,84, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",57,1757014675167,1757014675251,i,73, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",58,1757014675313,1757014675402,v,86, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",59,1757014675527,1757014675656,e,69, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",60,1757014675630,1757014675779, ,32, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",61,1757014678304,1757014678418,s,83, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",62,1757014678541,1757014678660,t,84, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",63,1757014678648,1757014678734,o,79, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",64,1757014679037,1757014679169,r,82, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",65,1757014679125,1757014679227,y,89, weekly, physical-keyboard
+6152003488526410fe7cc763,text-to-prompt,1,7,3,"write a fable of a tiny turtle, very contemplative story","[0,30]","[31,57]",66,1757014679306,1757014679471, ,32, weekly, physical-keyboard

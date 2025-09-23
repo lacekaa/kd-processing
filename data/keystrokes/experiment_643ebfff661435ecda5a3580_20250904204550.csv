@@ -1,0 +1,41 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+643ebfff661435ecda5a3580,text-to-prompt,0,1,5,All my documents are ready to go.,"[4,16]","[21,33]",0,1757018677363,1757018677532,a,65, never, physical-keyboard
+643ebfff661435ecda5a3580,text-to-prompt,0,1,5,All my documents are ready to go.,"[4,16]","[21,33]",1,1757018677633,1757018677758,l,76, never, physical-keyboard
+643ebfff661435ecda5a3580,text-to-prompt,0,1,5,All my documents are ready to go.,"[4,16]","[21,33]",2,1757018677841,1757018677978,l,76, never, physical-keyboard
+643ebfff661435ecda5a3580,text-to-prompt,0,1,5,All my documents are ready to go.,"[4,16]","[21,33]",3,1757018678860,1757018678946,Backspace,8, never, physical-keyboard
+643ebfff661435ecda5a3580,text-to-prompt,0,1,5,All my documents are ready to go.,"[4,16]","[21,33]",4,1757018679070,1757018679182,Backspace,8, never, physical-keyboard
+643ebfff661435ecda5a3580,text-to-prompt,0,1,5,All my documents are ready to go.,"[4,16]","[21,33]",5,1757018679274,1757018679357,Backspace,8, never, physical-keyboard
+643ebfff661435ecda5a3580,text-to-prompt,0,1,5,All my documents are ready to go.,"[4,16]","[21,33]",6,1757018680399,1757018680852,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,text-to-prompt,0,1,5,All my documents are ready to go.,"[4,16]","[21,33]",7,1757018680734,1757018680903,A,65, never, physical-keyboard
+643ebfff661435ecda5a3580,text-to-prompt,0,1,5,All my documents are ready to go.,"[4,16]","[21,33]",8,1757018681184,1757018681328,l,76, never, physical-keyboard
+643ebfff661435ecda5a3580,text-to-prompt,0,1,5,All my documents are ready to go.,"[4,16]","[21,33]",9,1757018681428,1757018681548,l,76, never, physical-keyboard
+643ebfff661435ecda5a3580,text-to-prompt,0,1,5,All my documents are ready to go.,"[4,16]","[21,33]",10,1757018681743,1757018681900, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,text-to-prompt,0,1,5,All my documents are ready to go.,"[4,16]","[21,33]",11,1757018682263,1757018682381,m,77, never, physical-keyboard
+643ebfff661435ecda5a3580,text-to-prompt,0,1,5,All my documents are ready to go.,"[4,16]","[21,33]",12,1757018682768,1757018682883,y,89, never, physical-keyboard
+643ebfff661435ecda5a3580,text-to-prompt,0,1,5,All my documents are ready to go.,"[4,16]","[21,33]",13,1757018683042,1757018683173, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,text-to-prompt,0,1,5,All my documents are ready to go.,"[4,16]","[21,33]",14,1757018683499,1757018683685,d,68, never, physical-keyboard
+643ebfff661435ecda5a3580,text-to-prompt,0,1,5,All my documents are ready to go.,"[4,16]","[21,33]",15,1757018683704,1757018683842,o,79, never, physical-keyboard
+643ebfff661435ecda5a3580,text-to-prompt,0,1,5,All my documents are ready to go.,"[4,16]","[21,33]",16,1757018683964,1757018684126,c,67, never, physical-keyboard
+643ebfff661435ecda5a3580,text-to-prompt,0,1,5,All my documents are ready to go.,"[4,16]","[21,33]",17,1757018684453,1757018684590,u,85, never, physical-keyboard
+643ebfff661435ecda5a3580,text-to-prompt,0,1,5,All my documents are ready to go.,"[4,16]","[21,33]",18,1757018685015,1757018685178,m,77, never, physical-keyboard
+643ebfff661435ecda5a3580,text-to-prompt,0,1,5,All my documents are ready to go.,"[4,16]","[21,33]",19,1757018685202,1757018685444,e,69, never, physical-keyboard
+643ebfff661435ecda5a3580,text-to-prompt,0,1,5,All my documents are ready to go.,"[4,16]","[21,33]",20,1757018685411,1757018685616,n,78, never, physical-keyboard
+643ebfff661435ecda5a3580,text-to-prompt,0,1,5,All my documents are ready to go.,"[4,16]","[21,33]",21,1757018685617,1757018685778,t,84, never, physical-keyboard
+643ebfff661435ecda5a3580,text-to-prompt,0,1,5,All my documents are ready to go.,"[4,16]","[21,33]",22,1757018686260,1757018686441,s,83, never, physical-keyboard
+643ebfff661435ecda5a3580,text-to-prompt,0,1,5,All my documents are ready to go.,"[4,16]","[21,33]",23,1757018686626,1757018686793, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,text-to-prompt,0,1,5,All my documents are ready to go.,"[4,16]","[21,33]",24,1757018687355,1757018687563,a,65, never, physical-keyboard
+643ebfff661435ecda5a3580,text-to-prompt,0,1,5,All my documents are ready to go.,"[4,16]","[21,33]",25,1757018687647,1757018687810,r,82, never, physical-keyboard
+643ebfff661435ecda5a3580,text-to-prompt,0,1,5,All my documents are ready to go.,"[4,16]","[21,33]",26,1757018687774,1757018687974,e,69, never, physical-keyboard
+643ebfff661435ecda5a3580,text-to-prompt,0,1,5,All my documents are ready to go.,"[4,16]","[21,33]",27,1757018688164,1757018688364, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,text-to-prompt,0,1,5,All my documents are ready to go.,"[4,16]","[21,33]",28,1757018688808,1757018688953,r,82, never, physical-keyboard
+643ebfff661435ecda5a3580,text-to-prompt,0,1,5,All my documents are ready to go.,"[4,16]","[21,33]",29,1757018688954,1757018689222,e,69, never, physical-keyboard
+643ebfff661435ecda5a3580,text-to-prompt,0,1,5,All my documents are ready to go.,"[4,16]","[21,33]",30,1757018689196,1757018689389,a,65, never, physical-keyboard
+643ebfff661435ecda5a3580,text-to-prompt,0,1,5,All my documents are ready to go.,"[4,16]","[21,33]",31,1757018689532,1757018689753,d,68, never, physical-keyboard
+643ebfff661435ecda5a3580,text-to-prompt,0,1,5,All my documents are ready to go.,"[4,16]","[21,33]",32,1757018689931,1757018689992,y,89, never, physical-keyboard
+643ebfff661435ecda5a3580,text-to-prompt,0,1,5,All my documents are ready to go.,"[4,16]","[21,33]",33,1757018690674,1757018690829, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,text-to-prompt,0,1,5,All my documents are ready to go.,"[4,16]","[21,33]",34,1757018690956,1757018691095,t,84, never, physical-keyboard
+643ebfff661435ecda5a3580,text-to-prompt,0,1,5,All my documents are ready to go.,"[4,16]","[21,33]",35,1757018691096,1757018691239,o,79, never, physical-keyboard
+643ebfff661435ecda5a3580,text-to-prompt,0,1,5,All my documents are ready to go.,"[4,16]","[21,33]",36,1757018691352,1757018691497, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,text-to-prompt,0,1,5,All my documents are ready to go.,"[4,16]","[21,33]",37,1757018691731,1757018691844,g,71, never, physical-keyboard
+643ebfff661435ecda5a3580,text-to-prompt,0,1,5,All my documents are ready to go.,"[4,16]","[21,33]",38,1757018691941,1757018692050,o,79, never, physical-keyboard
+643ebfff661435ecda5a3580,text-to-prompt,0,1,5,All my documents are ready to go.,"[4,16]","[21,33]",39,1757018693718,1757018693828,.,190, never, physical-keyboard

@@ -1,0 +1,58 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",0,1757005791128,1757005791329,Shift,16, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",1,1757005791256,1757005791352,I,73, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",2,1757005791361,1757005791471, ,32, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",3,1757005791525,1757005791607,n,78, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",4,1757005791649,1757005791676,e,69, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",5,1757005791740,1757005791895,e,69, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",6,1757005791895,1757005791986,d,68, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",7,1757005792027,1757005792123, ,32, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",8,1757005792119,1757005792228,a,65, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",9,1757005792228,1757005792338, ,32, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",10,1757005792361,1757005792447,t,84, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",11,1757005792447,1757005792548,e,69, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",12,1757005792721,1757005792844,x,88, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",13,1757005792867,1757005792954,t,84, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",14,1757005792954,1757005793063, ,32, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",15,1757005793132,1757005793232,w,87, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",16,1757005793237,1757005793305,i,73, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",17,1757005793378,1757005793492,t,84, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",18,1757005793510,1757005793561,h,72, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",19,1757005794067,1757005794181, ,32, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",20,1757005794528,1757005794638,d,68, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",21,1757005794610,1757005794683,e,69, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",22,1757005794825,1757005794902,t,84, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",23,1757005794902,1757005795021,a,65, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",24,1757005795044,1757005795149,i,73, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",25,1757005795098,1757005795231,l,76, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",26,1757005795317,1757005795413,s,83, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",27,1757005795491,1757005795582, ,32, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",28,1757005795687,1757005795778,o,79, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",29,1757005795833,1757005795924,f,70, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",30,1757005796239,1757005796294,Backspace,8, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",31,1757005796376,1757005796467,Backspace,8, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",32,1757005796527,1757005796664,a,65, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",33,1757005797006,1757005797147,b,66, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",34,1757005797097,1757005797234,o,79, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",35,1757005797175,1757005797279,u,85, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",36,1757005797266,1757005797352,t,84, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",37,1757005797394,1757005797462, ,32, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",38,1757005797485,1757005797548,t,84, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",39,1757005797531,1757005797640,h,72, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",40,1757005797695,1757005797791,e,69, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",41,1757005797695,1757005797791, ,32, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",42,1757005797928,1757005798070,Shift,16, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",43,1757005798038,1757005798129,R,82, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",44,1757005798129,1757005798216,o,79, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",45,1757005798216,1757005798325,m,77, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",46,1757005798338,1757005798430,a,65, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",47,1757005798421,1757005798513,n,78, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",48,1757005798539,1757005798617, ,32, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",49,1757005798654,1757005798776,Shift,16, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",50,1757005798768,1757005798836,E,69, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",51,1757005798814,1757005798946,m,77, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",52,1757005798919,1757005799059,p,80, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",53,1757005799019,1757005799133,i,73, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",54,1757005799046,1757005799173,r,82, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",55,1757005799147,1757005799256,e,69, monthly, physical-keyboard
+5883a935c0c9a10001df6345,prompt-to-text,0,0,3,I need a text with details about the Roman Empire.,"[37,49];[19,26]","[9,13]",56,1757005799238,1757005799357,.,190, monthly, physical-keyboard

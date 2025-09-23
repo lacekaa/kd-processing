@@ -1,0 +1,181 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",0,1757019392091,1757019392205,i,73, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",1,1757019392535,1757019392710, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",2,1757019392824,1757019393012,w,87, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",3,1757019394039,1757019394202,a,65, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",4,1757019394200,1757019394277,n,78, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",5,1757019394819,1757019394943,t,84, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",6,1757019395258,1757019395392, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",7,1757019395938,1757019396079,t,84, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",8,1757019396124,1757019396248,o,79, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",9,1757019396568,1757019396700, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",10,1757019397189,1757019397357,a,65, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",11,1757019397540,1757019397663,p,80, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",12,1757019397945,1757019398125,a,65, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",13,1757019398124,1757019398210,i,73, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",14,1757019398495,1757019398626,n,78, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",15,1757019398946,1757019399041,t,84, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",16,1757019399115,1757019399237, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",17,1757019399585,1757019399764,a,65, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",18,1757019399763,1757019399869, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",19,1757019400059,1757019400174,n,78, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",20,1757019400509,1757019400633,i,73, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",21,1757019401061,1757019401203,c,67, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",22,1757019401331,1757019401448,e,69, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",23,1757019401523,1757019401627, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",24,1757019401812,1757019401962,s,83, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",25,1757019402641,1757019402736,c,67, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",26,1757019402980,1757019403149,e,69, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",27,1757019403239,1757019403353,n,78, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",28,1757019403515,1757019403649,e,69, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",29,1757019403707,1757019403812, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",30,1757019404798,1757019404921,o,79, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",31,1757019405037,1757019405144,f,70, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",32,1757019405298,1757019405422, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",33,1757019405639,1757019405835,a,65, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",34,1757019405865,1757019405978, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",35,1757019408304,1757019408456,Backspace,8, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",36,1757019408616,1757019408738,Backspace,8, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",37,1757019409662,1757019409829,d,68, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",38,1757019410073,1757019410178,u,85, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",39,1757019410723,1757019410849,c,67, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",40,1757019411757,1757019411863,k,75, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",41,1757019412175,1757019412332,s,83, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",42,1757019412401,1757019412514, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",43,1757019413280,1757019413405,o,79, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",44,1757019413761,1757019413878,n,78, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",45,1757019414061,1757019414192, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",46,1757019414443,1757019414593,a,65, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",47,1757019414641,1757019414736, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",48,1757019415579,1757019415683,p,80, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",49,1757019415948,1757019416053,o,79, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",50,1757019416470,1757019416603,n,78, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",51,1757019416793,1757019416954,d,68, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",52,1757019420034,1757019421138,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",53,1757019420554,1757019422717,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",54,1757019420589,1757019423111,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",55,1757019420621,1757019423404,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",56,1757019420655,1757019423908,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",57,1757019420690,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",58,1757019420724,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",59,1757019420759,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",60,1757019420794,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",61,1757019420828,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",62,1757019420862,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",63,1757019420897,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",64,1757019420931,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",65,1757019420964,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",66,1757019420998,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",67,1757019421033,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",68,1757019421068,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",69,1757019421102,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",70,1757019421134,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",71,1757019421733,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",72,1757019422252,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",73,1757019422288,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",74,1757019422322,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",75,1757019422355,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",76,1757019422389,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",77,1757019422422,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",78,1757019422457,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",79,1757019422490,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",80,1757019422527,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",81,1757019422561,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",82,1757019422594,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",83,1757019422628,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",84,1757019422664,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",85,1757019422698,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",86,1757019423023,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",87,1757019423290,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",88,1757019423756,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",89,1757019424834,1757019424965,Backspace,8, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",90,1757019425732,1757019427628,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",91,1757019426253,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",92,1757019426288,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",93,1757019426322,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",94,1757019426354,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",95,1757019426390,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",96,1757019426423,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",97,1757019426458,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",98,1757019426491,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",99,1757019426527,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",100,1757019426560,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",101,1757019426595,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",102,1757019426629,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",103,1757019426662,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",104,1757019426698,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",105,1757019426733,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",106,1757019426766,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",107,1757019426799,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",108,1757019426835,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",109,1757019426870,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",110,1757019426902,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",111,1757019426936,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",112,1757019426972,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",113,1757019427006,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",114,1757019427041,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",115,1757019427073,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",116,1757019427109,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",117,1757019427143,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",118,1757019427178,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",119,1757019427211,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",120,1757019427246,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",121,1757019427280,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",122,1757019427313,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",123,1757019427347,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",124,1757019427381,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",125,1757019427417,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",126,1757019427451,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",127,1757019427484,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",128,1757019427520,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",129,1757019427554,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",130,1757019427589,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",131,1757019427623,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",132,1757019428573,1757019428705, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",133,1757019429013,1757019429145,h,72, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",134,1757019429285,1757019429454,a,65, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",135,1757019429674,1757019429824,v,86, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",136,1757019429951,1757019430120,e,69, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",137,1757019430184,1757019430308, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",138,1757019430799,1757019430948,y,89, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",139,1757019431004,1757019431081,o,79, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",140,1757019431295,1757019431384,u,85, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",141,1757019431566,1757019431643, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",142,1757019431805,1757019431946,g,71, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",143,1757019432004,1757019432127,o,79, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",144,1757019432285,1757019432452,t,84, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",145,1757019432480,1757019432557, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",146,1757019432911,1757019433008,i,73, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",147,1757019433220,1757019433315,m,77, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",148,1757019433452,1757019433602,a,65, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",149,1757019433683,1757019433788,g,71, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",150,1757019433933,1757019434086,e,69, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",151,1757019434350,1757019434536,s,83, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",152,1757019436155,1757019436529,Shift,16, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",153,1757019437364,1757019437771,Shift,16, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",154,1757019437709,1757019437793,?,191, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",155,1757019439629,1757019439735,Backspace,8, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",156,1757019440561,1757019442404,Shift,16, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",157,1757019441079,0,Shift,16, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",158,1757019441113,0,Shift,16, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",159,1757019441147,0,Shift,16, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",160,1757019441182,0,Shift,16, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",161,1757019441216,0,Shift,16, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",162,1757019441250,0,Shift,16, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",163,1757019441284,0,Shift,16, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",164,1757019441319,0,Shift,16, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",165,1757019441353,0,Shift,16, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",166,1757019441387,0,Shift,16, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",167,1757019441422,0,Shift,16, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",168,1757019441455,0,Shift,16, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",169,1757019441490,0,Shift,16, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",170,1757019441524,0,Shift,16, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",171,1757019441559,0,Shift,16, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",172,1757019441590,0,Shift,16, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",173,1757019441626,0,Shift,16, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",174,1757019441661,0,Shift,16, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",175,1757019441695,0,Shift,16, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",176,1757019441727,0,Shift,16, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",177,1757019441762,0,Shift,16, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",178,1757019441797,0,Shift,16, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,1,6,7,i want to paint a nice scene of ducks on a pond have you got images?,"[32,38]","[53,57]",179,1757019441813,1757019442062,?,191, never, physical-keyboard

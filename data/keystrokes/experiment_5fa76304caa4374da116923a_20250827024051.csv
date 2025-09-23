@@ -1,0 +1,397 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",0,1756262376632,1756262377143,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",1,1756262376983,1756262377190,W,87, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",2,1756262377574,1756262377670,r,82, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",3,1756262377671,1756262377798,i,73, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",4,1756262377800,1756262377910,t,84, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",5,1756262377912,1756262378054,e,69, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",6,1756262377991,1756262378118, ,32, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",7,1756262378374,1756262378550,a,65, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",8,1756262378552,1756262378678, ,32, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",9,1756262379111,1756262379270,s,83, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",10,1756262379223,1756262379398,m,77, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",11,1756262379831,1756262380005,a,65, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",12,1756262379975,1756262380054,l,76, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",13,1756262380150,1756262380262,l,76, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",14,1756262380294,1756262380406, ,32, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",15,1756262380439,1756262380582,s,83, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",16,1756262380585,1756262380662,r,82, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",17,1756262380589,1756262380679,t,84, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",18,1756262380664,1756262380822,o,79, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",19,1756262381335,1756262381430,Backspace,8, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",20,1756262381527,1756262381606,Backspace,8, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",21,1756262381671,1756262381734,Backspace,8, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",22,1756262381959,1756262382054,t,84, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",23,1756262382023,1756262382182,o,79, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",24,1756262382295,1756262382438,r,82, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",25,1756262382391,1756262382486,y,89, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",26,1756262382567,1756262382694, ,32, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",27,1756262382759,1756262382902,a,65, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",28,1756262382999,1756262383126,b,66, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",29,1756262383095,1756262383238,o,79, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",30,1756262383191,1756262383302,u,85, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",31,1756262383304,1756262383446,t,84, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",32,1756262383431,1756262383558, ,32, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",33,1756262383639,1756262383782,a,65, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",34,1756262383784,1756262383926, ,32, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",35,1756262383959,1756262384054,t,84, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",36,1756262384071,1756262384166,u,85, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",37,1756262384247,1756262384374,r,82, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",38,1756262384695,1756262384790,Backspace,8, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",39,1756262385175,1756262385302,r,82, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",40,1756262385447,1756262385558,t,84, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",41,1756262385543,1756262385670,l,76, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",42,1756262385719,1756262385862,e,69, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",43,1756262385975,1756262386070, ,32, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",44,1756262388072,1756262388262,w,87, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",45,1756262388743,1756262388901,a,65, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",46,1756262388871,1756262388982,l,76, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",47,1756262389063,1756262389142,k,75, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",48,1756262389255,1756262389334,i,73, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",49,1756262389575,1756262389670,n,78, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",50,1756262390039,1756262390198,g,71, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",51,1756262390807,1756262390950, ,32, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",52,1756262391175,1756262391318,a,65, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",53,1756262391287,1756262391366,l,76, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",54,1756262391463,1756262391558,o,79, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",55,1756262391623,1756262391702,n,78, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",56,1756262391704,1756262391830,g,71, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",57,1756262391832,1756262391958, ,32, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",58,1756262393879,1756262394053,a,65, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",59,1756262394023,1756262394150, ,32, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",60,1756262394152,1756262394262,r,82, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",61,1756262394231,1756262394342,i,73, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",62,1756262394455,1756262394550,v,86, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",63,1756262394631,1756262394774,e,69, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",64,1756262394711,1756262394838,r,82, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",65,1756262394999,1756262395094,b,66, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",66,1756262395143,1756262395286,a,65, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",67,1756262395239,1756262395334,n,78, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",68,1756262395383,1756262395478,k,75, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",69,1756262395847,1756262396167,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",70,1756262396023,1756262396168,.,190, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",71,1756262400663,1756262400822,Enter,13, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",72,1756262402023,1756262404486,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",73,1756262402519,1756262423686,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",74,1756262402550,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",75,1756262402597,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",76,1756262402628,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",77,1756262402660,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",78,1756262402692,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",79,1756262402722,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",80,1756262402753,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",81,1756262402785,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",82,1756262402818,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",83,1756262402847,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",84,1756262402881,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",85,1756262402928,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",86,1756262402959,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",87,1756262402991,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",88,1756262403022,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",89,1756262403053,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",90,1756262403084,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",91,1756262403116,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",92,1756262403147,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",93,1756262403178,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",94,1756262403225,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",95,1756262403256,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",96,1756262403287,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",97,1756262403319,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",98,1756262403350,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",99,1756262403382,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",100,1756262403414,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",101,1756262403445,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",102,1756262403476,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",103,1756262403507,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",104,1756262403554,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",105,1756262403585,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",106,1756262403616,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",107,1756262403648,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",108,1756262403680,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",109,1756262403710,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",110,1756262403742,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",111,1756262403773,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",112,1756262403804,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",113,1756262403851,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",114,1756262403884,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",115,1756262403916,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",116,1756262403947,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",117,1756262403979,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",118,1756262404010,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",119,1756262404041,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",120,1756262404072,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",121,1756262404103,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",122,1756262404135,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",123,1756262404182,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",124,1756262404213,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",125,1756262404244,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",126,1756262404275,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",127,1756262404307,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",128,1756262404338,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",129,1756262404369,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",130,1756262404402,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",131,1756262404407,1756262404566,T,84, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",132,1756262404582,1756262404678,h,72, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",133,1756262404711,1756262404838,e,69, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",134,1756262404806,1756262404934, ,32, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",135,1756262404935,1756262405030,t,84, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",136,1756262405110,1756262405206,u,85, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",137,1756262405208,1756262405334,r,82, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",138,1756262405542,1756262405638,t,84, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",139,1756262405640,1756262405750,l,76, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",140,1756262405752,1756262405910,e,69, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",141,1756262405927,1756262405990, ,32, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",142,1756262406359,1756262406454,t,84, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",143,1756262406438,1756262406518,h,72, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",144,1756262406583,1756262406726,e,69, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",145,1756262406663,1756262406758,n,78, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",146,1756262406791,1756262406886, ,32, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",147,1756262406983,1756262407126,s,83, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",148,1756262407111,1756262407238,t,84, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",149,1756262407335,1756262407350,o,79, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",150,1756262410936,1756262411062,p,80, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",151,1756262411064,1756262411206,s,83, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",152,1756262411223,1756262411367, ,32, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",153,1756262411368,1756262411494,t,84, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",154,1756262411446,1756262411574,o,79, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",155,1756262411607,1756262411750, ,32, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",156,1756262411895,1756262412006,w,87, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",157,1756262412231,1756262412422,a,65, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",158,1756262412375,1756262412518,t,84, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",159,1756262412727,1756262412870,c,67, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",160,1756262412791,1756262412902,h,72, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",161,1756262412999,1756262413126, ,32, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",162,1756262413991,1756262414150,f,70, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",163,1756262414103,1756262414166,l,76, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",164,1756262414263,1756262414358,o,79, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",165,1756262414487,1756262414630,a,65, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",166,1756262414679,1756262414774,t,84, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",167,1756262414776,1756262414854,i,73, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",168,1756262414919,1756262415030,n,78, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",169,1756262415032,1756262415159,g,71, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",170,1756262415160,1756262415254, ,32, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",171,1756262415335,1756262415446,l,76, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",172,1756262415495,1756262415606,e,69, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",173,1756262415799,1756262415910,a,65, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",174,1756262417047,1756262417174,v,86, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",175,1756262417239,1756262417302,e,69, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",176,1756262417399,1756262417494,s,83, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",177,1756262417783,1756262417926, ,32, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",178,1756262418087,1756262418197,a,65, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",179,1756262418183,1756262418294,n,78, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",180,1756262418391,1756262418502,d,68, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",181,1756262418504,1756262418582, ,32, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",182,1756262420279,1756262420406,t,84, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",183,1756262420375,1756262420454,h,72, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",184,1756262420487,1756262420614,e,69, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",185,1756262420599,1756262420726,n,78, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",186,1756262420728,1756262420822, ,32, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",187,1756262420935,1756262421078,c,67, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",188,1756262421031,1756262421126,o,79, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",189,1756262421175,1756262421270,n,78, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",190,1756262421495,1756262421638,t,84, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",191,1756262421640,1756262421718,i,73, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",192,1756262421815,1756262421894,n,78, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",193,1756262422023,1756262422102,u,85, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",194,1756262422279,1756262422406,e,69, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",195,1756262422487,1756262422614,s,83, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",196,1756262423127,0,Shift,16, rarely, physical-keyboard
+5fa76304caa4374da116923a,text-to-prompt,1,2,7,Write a small story about a turtle walking along a riverbank.
+The turtle then stops to watch floating leaves and then continues.,"[0,60]","[84,108]",197,1756262423495,1756262423654,.,190, rarely, physical-keyboard

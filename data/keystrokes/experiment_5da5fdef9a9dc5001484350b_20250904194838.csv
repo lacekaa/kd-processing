@@ -1,0 +1,54 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",0,1757015285636,1757015285866,Shift,16, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",1,1757015285797,1757015285916,C,67, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",2,1757015286167,1757015286303,r,82, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",3,1757015286304,1757015286423,e,69, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",4,1757015286625,1757015286710,a,65, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",5,1757015286802,1757015286920,t,84, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",6,1757015287053,1757015287178,e,69, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",7,1757015287299,1757015287408, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",8,1757015287528,1757015287637,a,65, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",9,1757015287865,1757015287949,n,78, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",10,1757015288182,1757015288285, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",11,1757015288802,1757015288903,i,73, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",12,1757015289179,1757015289254,m,77, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",13,1757015289527,1757015289618,a,65, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",14,1757015289703,1757015289813,g,71, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",15,1757015289989,1757015290065,e,69, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",16,1757015290419,1757015290512, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",17,1757015290813,1757015290943,o,79, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",18,1757015291222,1757015291307,f,70, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",19,1757015291593,1757015291632, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",20,1757015292454,1757015292556,a,65, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",21,1757015293463,1757015293526, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",22,1757015295084,1757015295196,l,76, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",23,1757015295431,1757015295533,a,65, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",24,1757015295674,1757015295784,k,75, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",25,1757015295884,1757015295993,e,69, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",26,1757015296120,1757015296229, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",27,1757015296416,1757015296502,a,65, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",28,1757015296940,1757015297052,n,78, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",29,1757015297209,1757015297292,d,68, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",30,1757015297523,1757015297612, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",31,1757015297942,1757015298088,t,84, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",32,1757015298095,1757015298246,h,72, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",33,1757015298422,1757015298507,e,69, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",34,1757015298770,1757015298877, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",35,1757015299065,1757015299183,s,83, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",36,1757015299318,1757015299427,u,85, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",37,1757015299801,1757015299885,r,82, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",38,1757015299959,1757015300094,r,82, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",39,1757015300725,1757015300836,o,79, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",40,1757015300889,1757015301048,u,85, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",41,1757015301048,1757015301156,n,78, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",42,1757015301460,1757015301570,d,68, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",43,1757015301688,1757015301806,i,73, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",44,1757015302110,1757015302212,n,78, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",45,1757015303232,1757015303325,d,68, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",46,1757015303554,1757015303631, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",47,1757015303942,1757015304049,f,70, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",48,1757015304010,1757015304095,o,79, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",49,1757015304262,1757015304362,r,82, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",50,1757015304522,1757015304583,e,69, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",51,1757015304788,1757015304876,s,83, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,1,7,0,Create an image of a lake and the surrounding forest,"[21,26];[34,52]","[0,7]",52,1757015305162,1757015305254,t,84, daily, physical-keyboard

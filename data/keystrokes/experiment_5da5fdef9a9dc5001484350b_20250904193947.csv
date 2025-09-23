@@ -1,0 +1,62 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",0,1757014742761,1757014742906,Shift,16, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",1,1757014742837,1757014742939,C,67, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",2,1757014743259,1757014743379,r,82, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",3,1757014743395,1757014743520,e,69, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",4,1757014743790,1757014743979,a,65, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",5,1757014744097,1757014744249,t,84, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",6,1757014744313,1757014744439,e,69, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",7,1757014746128,1757014746424,Shift,16, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",8,1757014746323,1757014746450,A,65, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",9,1757014747764,1757014747858, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",10,1757014749512,1757014749698,Backspace,8, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",11,1757014750170,1757014750253,n,78, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",12,1757014750411,1757014750488, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",13,1757014750685,1757014750800,i,73, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",14,1757014750786,1757014750852,m,77, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",15,1757014751342,1757014751450,a,65, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",16,1757014751407,1757014751485,g,71, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",17,1757014751655,1757014751763,e,69, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",18,1757014751924,1757014752006, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",19,1757014752278,1757014752345,o,79, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",20,1757014752598,1757014752649,f,70, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",21,1757014753367,1757014753449, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",22,1757014753601,1757014753694,a,65, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",23,1757014754004,1757014754082, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",24,1757014756530,1757014756623,w,87, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",25,1757014756963,1757014757048,o,79, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",26,1757014757375,1757014757481,m,77, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",27,1757014757600,1757014757746,a,65, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",28,1757014757753,1757014757856,n,78, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",29,1757014758429,1757014758477, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",30,1757014759088,1757014759145,s,83, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",31,1757014759414,1757014759541,i,73, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",32,1757014759799,1757014759883,t,84, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",33,1757014760009,1757014760142,t,84, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",34,1757014760148,1757014760293,i,73, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",35,1757014760739,1757014760809,n,78, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",36,1757014761102,1757014761206,g,71, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",37,1757014761692,1757014761752, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",38,1757014762152,1757014762275,o,79, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",39,1757014762309,1757014762393,n,78, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",40,1757014762599,1757014762655, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",41,1757014762836,1757014762917,b,66, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",42,1757014763130,1757014763221,e,69, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",43,1757014763313,1757014763442,n,78, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",44,1757014763627,1757014763759,c,67, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",45,1757014763904,1757014763999,h,72, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",46,1757014764293,1757014764334, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",47,1757014764697,1757014764823,a,65, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",48,1757014764799,1757014764892,t,84, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",49,1757014764994,1757014765119, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",50,1757014765214,1757014765346,a,65, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",51,1757014765417,1757014765509, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",52,1757014766039,1757014766125,p,80, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",53,1757014766620,1757014766830,a,65, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",54,1757014767861,1757014767956,y,89, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",55,1757014768705,1757014768848,Backspace,8, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",56,1757014769254,1757014769346,r,82, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",57,1757014769887,1757014769962,k,75, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",58,1757014770368,1757014770477,.,190, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",59,1757014774718,1757014774811,a,65, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-image,1,1,0,An image of a woman sitting on a bench at a park.,"[14,20];[44,48];[33,39]","[3,9]",60,1757014774947,1757014775021, ,32, daily, physical-keyboard

@@ -1,0 +1,25 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+66929a6a268ccf0d6fce0d52,text-to-prompt,0,0,7,will do that of course,"[5,8]","[16,22]",0,1757018828458,1757018828610,w,87, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,0,0,7,will do that of course,"[5,8]","[16,22]",1,1757018828672,1757018828766,i,73, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,0,0,7,will do that of course,"[5,8]","[16,22]",2,1757018829206,1757018829302,l,76, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,0,0,7,will do that of course,"[5,8]","[16,22]",3,1757018829426,1757018829531,l,76, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,0,0,7,will do that of course,"[5,8]","[16,22]",4,1757018829768,1757018829883, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,0,0,7,will do that of course,"[5,8]","[16,22]",5,1757018830086,1757018830200,d,68, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,0,0,7,will do that of course,"[5,8]","[16,22]",6,1757018830388,1757018830535,o,79, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,0,0,7,will do that of course,"[5,8]","[16,22]",7,1757018830768,1757018830883, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,0,0,7,will do that of course,"[5,8]","[16,22]",8,1757018831341,1757018831436,t,84, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,0,0,7,will do that of course,"[5,8]","[16,22]",9,1757018831526,1757018831614,h,72, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,0,0,7,will do that of course,"[5,8]","[16,22]",10,1757018832295,1757018832462,a,65, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,0,0,7,will do that of course,"[5,8]","[16,22]",11,1757018832487,1757018832603,t,84, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,0,0,7,will do that of course,"[5,8]","[16,22]",12,1757018833052,1757018833292, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,0,0,7,will do that of course,"[5,8]","[16,22]",13,1757018834075,1757018834180,o,79, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,0,0,7,will do that of course,"[5,8]","[16,22]",14,1757018834363,1757018834512,f,70, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,0,0,7,will do that of course,"[5,8]","[16,22]",15,1757018834593,1757018834699, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,0,0,7,will do that of course,"[5,8]","[16,22]",16,1757018834964,1757018835144,c,67, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,0,0,7,will do that of course,"[5,8]","[16,22]",17,1757018835244,1757018835365,o,79, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,0,0,7,will do that of course,"[5,8]","[16,22]",18,1757018835695,1757018835837,u,85, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,0,0,7,will do that of course,"[5,8]","[16,22]",19,1757018836176,1757018836300,s,83, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,0,0,7,will do that of course,"[5,8]","[16,22]",20,1757018836330,1757018836435,e,69, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,0,0,7,will do that of course,"[5,8]","[16,22]",21,1757018838448,1757018838579,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,0,0,7,will do that of course,"[5,8]","[16,22]",22,1757018838721,1757018838889,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,0,0,7,will do that of course,"[5,8]","[16,22]",23,1757018839918,1757018840053,r,82, never, physical-keyboard

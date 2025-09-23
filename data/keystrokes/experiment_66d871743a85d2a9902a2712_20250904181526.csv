@@ -1,0 +1,69 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",0,1757009596471,1757009596629,Shift,16, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",1,1757009596592,1757009596681,G,71, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",2,1757009596741,1757009596811,i,73, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",3,1757009596807,1757009596882,v,86, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",4,1757009596846,1757009596985,e,69, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",5,1757009596919,1757009596986, ,32, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",6,1757009596984,1757009596986,n,78, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",7,1757009597030,1757009597110,e,69, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",8,1757009597249,1757009597314,Backspace,8, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",9,1757009597383,1757009597448,Backspace,8, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",10,1757009597608,1757009597677,m,77, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",11,1757009597646,1757009597725,e,69, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",12,1757009597768,1757009597845, ,32, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",13,1757009597840,1757009597966,a,65, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",14,1757009597936,1757009598010, ,32, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",15,1757009598542,1757009598622,g,71, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",16,1757009598640,1757009598698,o,79, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",17,1757009598771,1757009598830,o,79, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",18,1757009598842,1757009598941,d,68, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",19,1757009598960,1757009599087, ,32, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",20,1757009599088,1757009599186,r,82, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",21,1757009599162,1757009599265,e,69, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",22,1757009599424,1757009599514,i,73, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",23,1757009599696,1757009599760,Backspace,8, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",24,1757009599798,1757009599873,c,67, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",25,1757009599895,1757009599972,i,73, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",26,1757009600087,1757009600156,p,80, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",27,1757009600173,1757009600259,e,69, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",28,1757009600289,1757009600376, ,32, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",29,1757009600492,1757009600571,f,70, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",30,1757009600612,1757009600679,o,79, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",31,1757009600698,1757009600771,r,82, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",32,1757009600817,1757009600899, ,32, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",33,1757009600993,1757009601054,m,77, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",34,1757009601151,1757009601222,o,79, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",35,1757009601405,1757009601465,r,82, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",36,1757009601501,1757009601553,n,78, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",37,1757009601645,1757009601703,i,73, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",38,1757009601792,1757009601850,n,78, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",39,1757009601901,1757009601964,g,71, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",40,1757009601951,1757009602019, ,32, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",41,1757009602635,1757009602725,e,69, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",42,1757009602922,1757009602968,Backspace,8, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",43,1757009603077,1757009603130,Backspace,8, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",44,1757009604056,1757009604155, ,32, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",45,1757009604926,1757009605027,w,87, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",46,1757009605340,1757009605405,Backspace,8, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",47,1757009605559,1757009605622,i,73, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",48,1757009605728,1757009605801,n,78, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",49,1757009605831,1757009605904,c,67, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",50,1757009605933,1757009605999,l,76, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",51,1757009606096,1757009606152,u,85, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",52,1757009606115,1757009606149,i,73, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",53,1757009606150,1757009606254,d,68, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",54,1757009606222,1757009606322,e,69, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",55,1757009606375,1757009606397, ,32, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",56,1757009606574,1757009606637,Backspace,8, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",57,1757009606698,1757009606764,Backspace,8, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",58,1757009606844,1757009606882,Backspace,8, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",59,1757009607036,1757009607074,Backspace,8, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",60,1757009607242,1757009607360,d,68, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",61,1757009607311,1757009607407,e,69, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",62,1757009607372,1757009607452, ,32, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",63,1757009607606,1757009607675,e,69, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",64,1757009607735,1757009607874,g,71, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",65,1757009608083,1757009608155,g,71, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",66,1757009608145,1757009608247,s,83, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-image,0,0,1,Give me a good recipe for morning include eggs.,"[15,22];[26,34];[42,46]","[10,15]",67,1757009609142,1757009609194,.,190, monthly, physical-keyboard

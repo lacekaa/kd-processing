@@ -1,0 +1,64 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",0,1757018284154,1757018284454,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",1,1757018284414,1757018284532,T,84, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",2,1757018284792,1757018284986,y,89, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",3,1757018285372,1757018285560,p,80, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",4,1757018285761,1757018285946,i,73, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",5,1757018286261,1757018286442,n,78, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",6,1757018287439,1757018287581,g,71, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",7,1757018287728,1757018287918, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",8,1757018288194,1757018288385,s,83, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",9,1757018288443,1757018288614,i,73, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",10,1757018288647,1757018288802,s,83, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",11,1757018289543,1757018289676,Backspace,8, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",12,1757018289759,1757018289980,d,68, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",13,1757018290074,1757018290292, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",14,1757018290292,1757018290483,e,69, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",15,1757018291056,1757018291190,Backspace,8, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",16,1757018291272,1757018291386,Backspace,8, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",17,1757018291776,1757018291945,e,69, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",18,1757018292045,1757018292223, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",19,1757018293029,1757018293170,b,66, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",20,1757018293320,1757018293451,y,89, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",21,1757018293586,1757018293779, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",22,1757018293824,1757018294052,s,83, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",23,1757018294018,1757018294208,i,73, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",24,1757018294703,1757018294836,d,68, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",25,1757018295006,1757018295167,e,69, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",26,1757018298562,1757018298791, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",27,1757018300301,1757018300463,w,87, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",28,1757018300797,1757018300970,i,73, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",29,1757018301057,1757018301269,d,68, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",30,1757018302552,1757018302669,Backspace,8, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",31,1757018302837,1757018303000,t,84, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",32,1757018303058,1757018303227,h,72, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",33,1757018303348,1757018303539, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",34,1757018303947,1757018304193,c,67, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",35,1757018304189,1757018304362,o,79, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",36,1757018304546,1757018304677,n,78, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",37,1757018304771,1757018304884,n,78, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",38,1757018304967,1757018305101,e,69, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",39,1757018305328,1757018305495,c,67, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",40,1757018305762,1757018305936,t,84, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",41,1757018306011,1757018306190,i,73, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",42,1757018306483,1757018306680,n,78, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",43,1757018306929,1757018307080,g,71, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",44,1757018307227,1757018307405, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",45,1757018307542,1757018307733,d,68, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",46,1757018307846,1757018308066,e,69, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",47,1757018308149,1757018308395,s,83, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",48,1757018308848,1757018308988,k,75, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",49,1757018311064,1757018311176,.,190, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",50,1757018318662,1757018318830,h,72, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",51,1757018318867,1757018319014,e,69, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",52,1757018319065,1757018319217,y,89, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",53,1757018319331,1757018319516, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",54,1757018321218,1757018321448,a,65, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",55,1757018321479,1757018321666,r,82, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",56,1757018321621,1757018321863,e,69, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",57,1757018322513,1757018322623, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",58,1757018324376,1757018324464,t,84, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",59,1757018335630,1757018335789,Backspace,8, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",60,1757018336823,1757018336938,a,65, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",61,1757018340409,1757018340513, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,image-to-prompt,0,0,5,They are typing side by side with a connecting desk.,"[9,29]","[36,52]",62,1757018344716,1757018344808, ,32, never, physical-keyboard

@@ -1,0 +1,55 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",0,1757011980494,1757011980870,Shift,16, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",1,1757011980734,1757011980902,W,87, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",2,1757011981662,1757011981806,r,82, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",3,1757011981894,1757011982054,i,73, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",4,1757011982031,1757011982126,t,84, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",5,1757011982127,1757011982223,e,69, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",6,1757011982246,1757011982374, ,32, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",7,1757011983247,1757011983398,a,65, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",8,1757011983422,1757011983542, ,32, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",9,1757011984998,1757011985110,Backspace,8, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",10,1757011985223,1757011985334,Backspace,8, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",11,1757011985902,1757011986022,t,84, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",12,1757011986214,1757011986359,w,87, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",13,1757011986398,1757011986590,o,79, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",14,1757011986591,1757011986678, ,32, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",15,1757011987407,1757011987494,Backspace,8, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",16,1757011987590,1757011987678,Backspace,8, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",17,1757011987798,1757011987926,Backspace,8, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",18,1757011988030,1757011988166,Backspace,8, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",19,1757011988167,1757011988310,a,65, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",20,1757011988366,1757011988494, ,32, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",21,1757011988798,1757011988926,t,84, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",22,1757011988974,1757011989134,w,87, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",23,1757011989135,1757011989301,o,79, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",24,1757011989279,1757011989382, ,32, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",25,1757011989550,1757011989789,s,83, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",26,1757011989686,1757011989854,e,69, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",27,1757011989821,1757011989974,n,78, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",28,1757011990078,1757011990150,t,84, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",29,1757011990190,1757011990270,e,69, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",30,1757011990870,1757011991022,n,78, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",31,1757011991045,1757011991158,c,67, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",32,1757011991302,1757011991406,e,69, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",33,1757011991438,1757011991526, ,32, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",34,1757011991685,1757011991934,s,83, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",35,1757011991862,1757011991965,t,84, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",36,1757011992013,1757011992174,o,79, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",37,1757011992175,1757011992270,r,82, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",38,1757011992326,1757011992406,y,89, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",39,1757011992438,1757011992518, ,32, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",40,1757011992582,1757011992726,a,65, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",41,1757011992727,1757011992845,b,66, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",42,1757011992774,1757011992918,o,79, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",43,1757011992919,1757011992998,u,85, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",44,1757011992975,1757011993070,t,84, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",45,1757011993071,1757011993126, ,32, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",46,1757011993173,1757011993302,a,65, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",47,1757011993278,1757011993397, ,32, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",48,1757011993798,1757011993950,t,84, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",49,1757011993926,1757011994062,u,85, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",50,1757011994077,1757011994214,r,82, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",51,1757011994486,1757011994598,t,84, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",52,1757011994654,1757011994822,l,76, rarely, physical-keyboard
+647869e6f69318bacc341d53,text-to-prompt,1,7,2,Write a two sentence story about a turtle,"[35,41]","[8,26]",53,1757011994838,1757011994941,e,69, rarely, physical-keyboard

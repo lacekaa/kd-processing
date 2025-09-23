@@ -1,0 +1,39 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+6713ff833df413a8e1d83bf8,text-to-prompt,0,1,5,Warning from boss to upload a file.,"[0,17]","[18,35]",0,1756994675033,1756994675424,Shift,16, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,0,1,5,Warning from boss to upload a file.,"[0,17]","[18,35]",1,1756994675401,1756994675481,W,87, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,0,1,5,Warning from boss to upload a file.,"[0,17]","[18,35]",2,1756994675552,1756994675656,a,65, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,0,1,5,Warning from boss to upload a file.,"[0,17]","[18,35]",3,1756994675864,1756994675952,r,82, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,0,1,5,Warning from boss to upload a file.,"[0,17]","[18,35]",4,1756994676129,1756994676201,n,78, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,0,1,5,Warning from boss to upload a file.,"[0,17]","[18,35]",5,1756994676297,1756994676392,i,73, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,0,1,5,Warning from boss to upload a file.,"[0,17]","[18,35]",6,1756994676505,1756994676585,n,78, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,0,1,5,Warning from boss to upload a file.,"[0,17]","[18,35]",7,1756994676712,1756994676768,g,71, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,0,1,5,Warning from boss to upload a file.,"[0,17]","[18,35]",8,1756994676897,1756994676984, ,32, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,0,1,5,Warning from boss to upload a file.,"[0,17]","[18,35]",9,1756994677121,1756994677184,f,70, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,0,1,5,Warning from boss to upload a file.,"[0,17]","[18,35]",10,1756994677264,1756994677336,r,82, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,0,1,5,Warning from boss to upload a file.,"[0,17]","[18,35]",11,1756994677552,1756994677616,o,79, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,0,1,5,Warning from boss to upload a file.,"[0,17]","[18,35]",12,1756994677793,1756994677857,m,77, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,0,1,5,Warning from boss to upload a file.,"[0,17]","[18,35]",13,1756994677969,1756994678057, ,32, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,0,1,5,Warning from boss to upload a file.,"[0,17]","[18,35]",14,1756994678249,1756994678312,b,66, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,0,1,5,Warning from boss to upload a file.,"[0,17]","[18,35]",15,1756994678561,1756994678632,o,79, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,0,1,5,Warning from boss to upload a file.,"[0,17]","[18,35]",16,1756994678832,1756994678896,s,83, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,0,1,5,Warning from boss to upload a file.,"[0,17]","[18,35]",17,1756994678985,1756994679057,s,83, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,0,1,5,Warning from boss to upload a file.,"[0,17]","[18,35]",18,1756994679144,1756994679240, ,32, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,0,1,5,Warning from boss to upload a file.,"[0,17]","[18,35]",19,1756994679337,1756994679417,t,84, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,0,1,5,Warning from boss to upload a file.,"[0,17]","[18,35]",20,1756994679488,1756994679560,o,79, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,0,1,5,Warning from boss to upload a file.,"[0,17]","[18,35]",21,1756994679720,1756994679825, ,32, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,0,1,5,Warning from boss to upload a file.,"[0,17]","[18,35]",22,1756994681992,1756994682080,u,85, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,0,1,5,Warning from boss to upload a file.,"[0,17]","[18,35]",23,1756994682424,1756994682496,p,80, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,0,1,5,Warning from boss to upload a file.,"[0,17]","[18,35]",24,1756994682608,1756994682688,l,76, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,0,1,5,Warning from boss to upload a file.,"[0,17]","[18,35]",25,1756994682793,1756994682864,o,79, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,0,1,5,Warning from boss to upload a file.,"[0,17]","[18,35]",26,1756994682960,1756994683056,u,85, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,0,1,5,Warning from boss to upload a file.,"[0,17]","[18,35]",27,1756994683184,1756994683256,d,68, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,0,1,5,Warning from boss to upload a file.,"[0,17]","[18,35]",28,1756994683304,1756994683392, ,32, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,0,1,5,Warning from boss to upload a file.,"[0,17]","[18,35]",29,1756994683496,1756994683576,a,65, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,0,1,5,Warning from boss to upload a file.,"[0,17]","[18,35]",30,1756994683608,1756994683688, ,32, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,0,1,5,Warning from boss to upload a file.,"[0,17]","[18,35]",31,1756994684777,1756994684872,f,70, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,0,1,5,Warning from boss to upload a file.,"[0,17]","[18,35]",32,1756994684896,1756994684960,i,73, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,0,1,5,Warning from boss to upload a file.,"[0,17]","[18,35]",33,1756994685049,1756994685144,l,76, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,0,1,5,Warning from boss to upload a file.,"[0,17]","[18,35]",34,1756994685136,1756994685232,e,69, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,0,1,5,Warning from boss to upload a file.,"[0,17]","[18,35]",35,1756994688425,1756994688568,Backspace,8, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,0,1,5,Warning from boss to upload a file.,"[0,17]","[18,35]",36,1756994688632,1756994688712,a,65, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,0,1,5,Warning from boss to upload a file.,"[0,17]","[18,35]",37,1756994691456,1756994691553,.,190, rarely, physical-keyboard

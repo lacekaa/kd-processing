@@ -1,0 +1,24 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+66e2a65068f02ee11a049e70,image-to-prompt,0,0,4,Office meeting session,"[0,22]","[15,22]",0,1757003530846,1757003531236,Shift,16, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,0,0,4,Office meeting session,"[0,22]","[15,22]",1,1757003531199,1757003531376,O,79, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,0,0,4,Office meeting session,"[0,22]","[15,22]",2,1757003531720,1757003531822,f,70, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,0,0,4,Office meeting session,"[0,22]","[15,22]",3,1757003531899,1757003532022,f,70, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,0,0,4,Office meeting session,"[0,22]","[15,22]",4,1757003532082,1757003532222,i,73, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,0,0,4,Office meeting session,"[0,22]","[15,22]",5,1757003532451,1757003532576,c,67, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,0,0,4,Office meeting session,"[0,22]","[15,22]",6,1757003532661,1757003532828,e,69, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,0,0,4,Office meeting session,"[0,22]","[15,22]",7,1757003532791,1757003532980, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,0,0,4,Office meeting session,"[0,22]","[15,22]",8,1757003533895,1757003534052,m,77, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,0,0,4,Office meeting session,"[0,22]","[15,22]",9,1757003534201,1757003534306,e,69, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,0,0,4,Office meeting session,"[0,22]","[15,22]",10,1757003534388,1757003534549,e,69, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,0,0,4,Office meeting session,"[0,22]","[15,22]",11,1757003534786,1757003534946,t,84, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,0,0,4,Office meeting session,"[0,22]","[15,22]",12,1757003534998,1757003535126,i,73, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,0,0,4,Office meeting session,"[0,22]","[15,22]",13,1757003535224,1757003535426,n,78, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,0,0,4,Office meeting session,"[0,22]","[15,22]",14,1757003535419,1757003535579,g,71, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,0,0,4,Office meeting session,"[0,22]","[15,22]",15,1757003535646,1757003535868, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,0,0,4,Office meeting session,"[0,22]","[15,22]",16,1757003536549,1757003536737,s,83, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,0,0,4,Office meeting session,"[0,22]","[15,22]",17,1757003536869,1757003536980,e,69, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,0,0,4,Office meeting session,"[0,22]","[15,22]",18,1757003537116,1757003537224,s,83, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,0,0,4,Office meeting session,"[0,22]","[15,22]",19,1757003537322,1757003537463,s,83, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,0,0,4,Office meeting session,"[0,22]","[15,22]",20,1757003537521,1757003537641,i,73, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,0,0,4,Office meeting session,"[0,22]","[15,22]",21,1757003537730,1757003537887,o,79, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,0,0,4,Office meeting session,"[0,22]","[15,22]",22,1757003538043,1757003538237,n,78, daily, physical-keyboard

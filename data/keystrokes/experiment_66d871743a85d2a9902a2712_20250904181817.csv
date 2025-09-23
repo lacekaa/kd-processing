@@ -1,0 +1,61 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",0,1757009867370,1757009867527,Shift,16, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",1,1757009867474,1757009867522,G,71, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",2,1757009867652,1757009867722,i,73, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",3,1757009867733,1757009867810,v,86, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",4,1757009867788,1757009867882,e,69, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",5,1757009867847,1757009867923, ,32, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",6,1757009868090,1757009868154,m,77, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",7,1757009868193,1757009868275,e,69, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",8,1757009868386,1757009868463, ,32, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",9,1757009868529,1757009868623,a,65, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",10,1757009868582,1757009868668, ,32, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",11,1757009869774,1757009870639,Backspace,8, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",12,1757009870274,0,Backspace,8, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",13,1757009870321,0,Backspace,8, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",14,1757009870353,0,Backspace,8, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",15,1757009870384,0,Backspace,8, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",16,1757009870415,0,Backspace,8, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",17,1757009870447,0,Backspace,8, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",18,1757009870479,0,Backspace,8, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",19,1757009870510,0,Backspace,8, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",20,1757009870541,0,Backspace,8, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",21,1757009870573,0,Backspace,8, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",22,1757009870605,0,Backspace,8, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",23,1757009870637,0,Backspace,8, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",24,1757009870942,1757009871509,Shift,16, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",25,1757009871373,1757009871435,H,72, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",26,1757009871589,1757009871672,o,79, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",27,1757009871643,1757009871731,w,87, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",28,1757009871801,1757009871878, ,32, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",29,1757009871959,1757009872030,t,84, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",30,1757009872098,1757009872156,o,79, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",31,1757009872273,1757009872334, ,32, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",32,1757009872424,1757009872515,t,84, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",33,1757009872551,1757009872628,e,69, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",34,1757009872712,1757009872793,a,65, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",35,1757009873246,1757009873364,c,67, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",36,1757009873385,1757009873448,h,72, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",37,1757009873565,1757009873617, ,32, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",38,1757009874795,1757009874865,a,65, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",39,1757009874871,1757009874950, ,32, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",40,1757009875239,1757009875324,d,68, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",41,1757009875339,1757009875375,o,79, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",42,1757009875517,1757009875590,g,71, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",43,1757009875615,1757009875685, ,32, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",44,1757009876012,1757009876087,t,84, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",45,1757009876331,1757009876388,o,79, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",46,1757009876423,1757009876518, ,32, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",47,1757009888450,1757009888522,l,76, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",48,1757009888603,1757009888672,i,73, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",49,1757009888678,1757009888765,s,83, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",50,1757009888784,1757009888903,t,84, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",51,1757009888877,1757009888976,e,69, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",52,1757009888949,1757009889017,n,78, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",53,1757009889078,1757009889161, ,32, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",54,1757009889189,1757009889255,t,84, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",55,1757009889284,1757009889363,o,79, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",56,1757009889407,1757009889520, ,32, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",57,1757009889575,1757009889652,m,77, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",58,1757009889642,1757009889738,e,69, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,1,3,1,How to teach a dog to listen to me.,"[7,13];[15,19];[22,29]","[32,34]",59,1757009889777,1757009889834,.,190, monthly, physical-keyboard

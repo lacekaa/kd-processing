@@ -1,0 +1,41 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+6713ff833df413a8e1d83bf8,text-to-prompt,1,3,5,5 minutes in turtle's life.,"[12,27]","[0,9]",0,1756994779909,1756994780389,Shift,16, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,1,3,5,5 minutes in turtle's life.,"[12,27]","[0,9]",1,1756994780390,1756994780461,w,87, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,1,3,5,5 minutes in turtle's life.,"[12,27]","[0,9]",2,1756994780941,1756994781052,Backspace,8, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,1,3,5,5 minutes in turtle's life.,"[12,27]","[0,9]",3,1756994781117,1756994781205,Backspace,8, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,1,3,5,5 minutes in turtle's life.,"[12,27]","[0,9]",4,1756994781277,1756994781381,Backspace,8, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,1,3,5,5 minutes in turtle's life.,"[12,27]","[0,9]",5,1756994781877,1756994782117,Shift,16, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,1,3,5,5 minutes in turtle's life.,"[12,27]","[0,9]",6,1756994782077,1756994782205,A,65, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,1,3,5,5 minutes in turtle's life.,"[12,27]","[0,9]",7,1756994785197,1756994785389,Backspace,8, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,1,3,5,5 minutes in turtle's life.,"[12,27]","[0,9]",8,1756994785733,1756994785812,5,53, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,1,3,5,5 minutes in turtle's life.,"[12,27]","[0,9]",9,1756994785892,1756994785964, ,32, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,1,3,5,5 minutes in turtle's life.,"[12,27]","[0,9]",10,1756994786101,1756994786181,m,77, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,1,3,5,5 minutes in turtle's life.,"[12,27]","[0,9]",11,1756994786300,1756994786364,i,73, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,1,3,5,5 minutes in turtle's life.,"[12,27]","[0,9]",12,1756994786541,1756994786628,n,78, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,1,3,5,5 minutes in turtle's life.,"[12,27]","[0,9]",13,1756994786797,1756994786869,u,85, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,1,3,5,5 minutes in turtle's life.,"[12,27]","[0,9]",14,1756994787061,1756994787148,t,84, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,1,3,5,5 minutes in turtle's life.,"[12,27]","[0,9]",15,1756994787261,1756994787340,e,69, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,1,3,5,5 minutes in turtle's life.,"[12,27]","[0,9]",16,1756994787423,1756994787508,s,83, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,1,3,5,5 minutes in turtle's life.,"[12,27]","[0,9]",17,1756994787621,1756994787700, ,32, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,1,3,5,5 minutes in turtle's life.,"[12,27]","[0,9]",18,1756994787853,1756994787916,i,73, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,1,3,5,5 minutes in turtle's life.,"[12,27]","[0,9]",19,1756994788029,1756994788117,n,78, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,1,3,5,5 minutes in turtle's life.,"[12,27]","[0,9]",20,1756994788229,1756994788308,a,65, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,1,3,5,5 minutes in turtle's life.,"[12,27]","[0,9]",21,1756994788340,1756994788420, ,32, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,1,3,5,5 minutes in turtle's life.,"[12,27]","[0,9]",22,1756994790045,1756994790172,Backspace,8, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,1,3,5,5 minutes in turtle's life.,"[12,27]","[0,9]",23,1756994790260,1756994790356,Backspace,8, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,1,3,5,5 minutes in turtle's life.,"[12,27]","[0,9]",24,1756994791133,1756994791260, ,32, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,1,3,5,5 minutes in turtle's life.,"[12,27]","[0,9]",25,1756994792516,1756994792596,t,84, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,1,3,5,5 minutes in turtle's life.,"[12,27]","[0,9]",26,1756994792676,1756994792749,u,85, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,1,3,5,5 minutes in turtle's life.,"[12,27]","[0,9]",27,1756994792869,1756994792964,r,82, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,1,3,5,5 minutes in turtle's life.,"[12,27]","[0,9]",28,1756994793061,1756994793164,t,84, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,1,3,5,5 minutes in turtle's life.,"[12,27]","[0,9]",29,1756994793372,1756994793460,l,76, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,1,3,5,5 minutes in turtle's life.,"[12,27]","[0,9]",30,1756994793557,1756994793652,e,69, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,1,3,5,5 minutes in turtle's life.,"[12,27]","[0,9]",31,1756994794548,1756994795028,Shift,16, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,1,3,5,5 minutes in turtle's life.,"[12,27]","[0,9]",32,1756994794988,1756994795076,',49, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,1,3,5,5 minutes in turtle's life.,"[12,27]","[0,9]",33,1756994795293,1756994795380,s,83, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,1,3,5,5 minutes in turtle's life.,"[12,27]","[0,9]",34,1756994795468,1756994795540, ,32, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,1,3,5,5 minutes in turtle's life.,"[12,27]","[0,9]",35,1756994795684,1756994795756,l,76, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,1,3,5,5 minutes in turtle's life.,"[12,27]","[0,9]",36,1756994795853,1756994795940,i,73, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,1,3,5,5 minutes in turtle's life.,"[12,27]","[0,9]",37,1756994796020,1756994796084,f,70, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,1,3,5,5 minutes in turtle's life.,"[12,27]","[0,9]",38,1756994796165,1756994796244,e,69, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,text-to-prompt,1,3,5,5 minutes in turtle's life.,"[12,27]","[0,9]",39,1756994797068,1756994797132,.,190, rarely, physical-keyboard

@@ -1,0 +1,100 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",0,1757018594617,1757018594736,m,77, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",1,1757018594696,1757018594808,e,69, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",2,1757018594760,1757018594872, ,32, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",3,1757018595040,1757018595144,c,67, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",4,1757018595144,1757018595296,o,79, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",5,1757018595224,1757018595328,n,78, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",6,1757018595592,1757018595704,t,84, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",7,1757018595776,1757018595920,a,65, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",8,1757018595896,1757018595992, ,32, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",9,1757018596264,1757018596456,Backspace,8, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",10,1757018596520,1757018596688,Backspace,8, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",11,1757018596768,1757018596889,Backspace,8, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",12,1757018596920,1757018597032,Backspace,8, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",13,1757018597080,1757018597184,Backspace,8, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",14,1757018597240,1757018597360,Backspace,8, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",15,1757018597360,1757018597496,e,69, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",16,1757018597472,1757018597592, ,32, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",17,1757018597768,1757018597888,c,67, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",18,1757018597824,1757018598016,o,79, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",19,1757018597984,1757018598096,n,78, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",20,1757018598112,1757018598208,t,84, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",21,1757018598256,1757018598432,a,65, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",22,1757018598352,1757018598480, ,32, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",23,1757018598560,1757018598704,a,65, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",24,1757018598640,1757018598744, ,32, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",25,1757018599264,1757018599392,h,72, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",26,1757018599360,1757018599448,i,73, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",27,1757018599488,1757018599584,s,83, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",28,1757018599736,1757018599816,t,84, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",29,1757018599912,1757018600048,a,65, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",30,1757018600392,1757018600512,Backspace,8, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",31,1757018600927,1757018601007,i,73, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",32,1757018601279,1757018601359,Backspace,8, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",33,1757018601479,1757018601591,o,79, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",34,1757018601751,1757018601863,i,73, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",35,1757018601895,1757018601967,o,79, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",36,1757018602311,1757018602391,Backspace,8, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",37,1757018602488,1757018602583,Backspace,8, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",38,1757018602567,1757018602655,r,82, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",39,1757018602767,1757018602903,i,73, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",40,1757018603007,1757018603215,a,65, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",41,1757018603175,1757018603327, ,32, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",42,1757018603543,1757018603775,d,68, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",43,1757018603655,1757018603815,e,69, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",44,1757018603775,1757018603903, ,32, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",45,1757018603951,1757018604007,u,85, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",46,1757018604111,1757018604207,m,77, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",47,1757018604239,1757018604335, ,32, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",48,1757018604415,1757018604543,p,80, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",49,1757018604663,1757018604735,i,73, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",50,1757018604927,1757018605007,l,76, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",51,1757018605111,1757018605207,o,79, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",52,1757018605247,1757018605327,t,84, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",53,1757018605575,1757018605671,o,79, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",54,1757018605695,1757018605767, ,32, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",55,1757018605847,1757018605935,q,81, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",56,1757018605991,1757018606079,u,85, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",57,1757018606063,1757018606175,e,69, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",58,1757018606175,1757018606287, ,32, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",59,1757018606407,1757018606487,v,86, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",60,1757018606599,1757018606671,e,69, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",61,1757018606711,1757018606831,n,78, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",62,1757018606831,1757018606935,c,67, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",63,1757018606935,1757018607055,e,69, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",64,1757018607215,1757018607328,u,85, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",65,1757018607367,1757018607465, ,32, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",66,1757018607584,1757018607655,u,85, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",67,1757018607767,1757018607879,m,77, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",68,1757018607839,1757018607975,a,65, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",69,1757018607919,1757018608031, ,32, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",70,1757018608111,1757018608199,c,67, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",71,1757018608247,1757018608359,o,79, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",72,1757018608399,1757018608439,r,82, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",73,1757018608543,1757018608615,r,82, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",74,1757018608767,1757018608855,i,73, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",75,1757018609055,1757018609223,d,68, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",76,1757018609239,1757018609423,a,65, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",77,1757018609391,1757018609455, ,32, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",78,1757018609769,1757018609863,p,80, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",79,1757018609791,1757018609975,o,79, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",80,1757018610015,1757018610151, ,32, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",81,1757018610864,1757018610975,Backspace,8, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",82,1757018611063,1757018611167,Backspace,8, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",83,1757018611239,1757018611335,Backspace,8, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",84,1757018611647,1757018611743,e,69, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",85,1757018611815,1757018611943,m,77, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",86,1757018612239,1757018612295,Backspace,8, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",87,1757018612359,1757018612455,Backspace,8, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",88,1757018612559,1757018612647,c,67, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",89,1757018612703,1757018612847,o,79, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",90,1757018612815,1757018613015,m,77, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",91,1757018613015,1757018613111, ,32, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",92,1757018613455,1757018613527,e,69, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",93,1757018613599,1757018613743,m,77, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",94,1757018613687,1757018613823,o,79, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",95,1757018614375,1757018614480,ç,186, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",96,1757018614456,1757018614535,Dead,222, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",97,1757018614608,1757018614679,ã,65, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,0,6,4,me conte a história de um piloto que venceu uma corrida com emoção,"[0,55]","[56,66]",98,1757018614744,1757018614807,o,79, rarely, physical-keyboard

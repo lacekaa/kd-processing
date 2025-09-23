@@ -1,0 +1,613 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",0,1756269553002,1756269553130,CapsLock,20, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",1,1756269553451,1756269553579,W,87, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",2,1756269553531,1756269553658,CapsLock,20, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",3,1756269553706,1756269553818,r,82, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",4,1756269553898,1756269553962,i,73, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",5,1756269554043,1756269554154,t,84, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",6,1756269554106,1756269554202,e,69, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",7,1756269554235,1756269554330, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",8,1756269554459,1756269554570,m,77, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",9,1756269554619,1756269554714,e,69, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",10,1756269554763,1756269554842, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",11,1756269554939,1756269554986,a,65, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",12,1756269555051,1756269555115, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",13,1756269556666,1756269556730,3,51, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",14,1756269556810,1756269556922, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",15,1756269556955,1756269557114,s,83, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",16,1756269557082,1756269557163,e,69, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",17,1756269557498,1756269557562,Backspace,8, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",18,1756269557642,1756269557739,Backspace,8, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",19,1756269557803,1756269557850,Backspace,8, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",20,1756269557930,1756269558010,Backspace,8, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",21,1756269558298,1756269558378,t,84, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",22,1756269558474,1756269558554,h,72, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",23,1756269558666,1756269558746,r,82, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",24,1756269558842,1756269558922,e,69, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",25,1756269558987,1756269559082,e,69, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",26,1756269559146,1756269559275, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",27,1756269559499,1756269559610,s,83, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",28,1756269559563,1756269559658,e,69, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",29,1756269559707,1756269559787,n,78, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",30,1756269559867,1756269559962,t,84, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",31,1756269559931,1756269560026,e,69, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",32,1756269560107,1756269560170,n,78, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",33,1756269560218,1756269560346,c,67, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",34,1756269560315,1756269560410,e,69, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",35,1756269561418,1756269561546, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",36,1756269562171,1756269562266,s,83, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",37,1756269562379,1756269562458,t,84, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",38,1756269562491,1756269562570,o,79, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",39,1756269562587,1756269562714,r,82, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",40,1756269562667,1756269562762,y,89, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",41,1756269563418,1756269563546, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",42,1756269563562,1756269563659,a,65, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",43,1756269563771,1756269563882,b,66, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",44,1756269563866,1756269563962,o,79, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",45,1756269564058,1756269564122,u,85, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",46,1756269564138,1756269564218,t,84, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",47,1756269564250,1756269564330, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",48,1756269564346,1756269564442,a,65, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",49,1756269564443,1756269564523, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",50,1756269565850,1756269565930,m,77, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",51,1756269566155,1756269566234,Backspace,8, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",52,1756269566282,1756269566362,s,83, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",53,1756269566378,1756269566474,m,77, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",54,1756269566491,1756269566570,a,65, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",55,1756269566587,1756269566650,l,76, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",56,1756269566731,1756269566778,l,76, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",57,1756269566890,1756269566938, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",58,1756269566970,1756269567050,t,84, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",59,1756269567066,1756269567146,u,85, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",60,1756269567243,1756269567322,r,82, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",61,1756269567402,1756269567482,t,84, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",62,1756269567499,1756269567578,l,76, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",63,1756269567627,1756269567706,e,69, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",64,1756269567754,1756269567818, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",65,1756269582042,1756269582202,w,87, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",66,1756269582170,1756269582282,a,65, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",67,1756269582490,1756269582587,l,76, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",68,1756269582667,1756269582762,k,75, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",69,1756269582938,1756269583018,i,73, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",70,1756269583130,1756269583194,n,78, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",71,1756269583226,1756269583291,g,71, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",72,1756269583323,1756269583386, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",73,1756269584314,1756269584410,a,65, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",74,1756269584427,1756269584506,l,76, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",75,1756269584938,1756269585034,o,79, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",76,1756269585146,1756269585210,n,78, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",77,1756269585258,1756269585338,g,71, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",78,1756269585355,1756269585418, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",79,1756269585562,1756269585658,t,84, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",80,1756269586522,1756269586633,Backspace,8, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",81,1756269586714,1756269586810,a,65, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",82,1756269586826,1756269586922, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",83,1756269587451,1756269587546,r,82, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",84,1756269587594,1756269587690,i,73, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",85,1756269587787,1756269587930,v,86, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",86,1756269587947,1756269588057,e,69, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",87,1756269588043,1756269588122,r,82, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",88,1756269588186,1756269588298,b,66, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",89,1756269588314,1756269588378,a,65, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",90,1756269588411,1756269588490,n,78, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",91,1756269588586,1756269588666,k,75, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",92,1756269589194,1756269589274,.,190, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",93,1756269589370,1756269589466,Enter,13, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",94,1756269592603,1756269592698,CapsLock,20, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",95,1756269592938,1756269593018,M,77, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",96,1756269593003,1756269593114,CapsLock,20, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",97,1756269593162,1756269593258,e,69, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",98,1756269593306,1756269593386,n,78, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",99,1756269593434,1756269593498,t,84, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",100,1756269593514,1756269593578,i,73, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",101,1756269593674,1756269593738,o,79, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",102,1756269593835,1756269593882,n,78, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",103,1756269593962,1756269594026, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",104,1756269594074,1756269594138,t,84, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",105,1756269594186,1756269594250,h,72, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",106,1756269594267,1756269594362,e,69, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",107,1756269594378,1756269594426, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",108,1756269594698,1756269594778,t,84, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",109,1756269594826,1756269594922,u,85, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",110,1756269594970,1756269595050,r,82, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",111,1756269595163,1756269595226,t,84, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",112,1756269595243,1756269595322,l,76, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",113,1756269595354,1756269595434,e,69, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",114,1756269595450,1756269595529, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",115,1756269596346,1756269596490,w,87, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",116,1756269596458,1756269596554,a,65, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",117,1756269596618,1756269596714,t,84, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",118,1756269596842,1756269596954,c,67, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",119,1756269596986,1756269597066,h,72, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",120,1756269597163,1756269597226,i,73, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",121,1756269597290,1756269597370,n,78, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",122,1756269597387,1756269597450,g,71, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",123,1756269597498,1756269597546, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",124,1756269604811,1756269604890,t,84, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",125,1756269604954,1756269605034,h,72, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",126,1756269605050,1756269605114,e,69, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",127,1756269605146,1756269605209, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",128,1756269605323,1756269605402,l,76, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",129,1756269605418,1756269605514,e,69, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",130,1756269605450,1756269605578,a,65, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",131,1756269605706,1756269605834,v,86, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",132,1756269605802,1756269605914,e,69, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",133,1756269605978,1756269606058,s,83, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",134,1756269606122,1756269606234, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",135,1756269606666,1756269606746,f,70, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",136,1756269606762,1756269606827,l,76, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",137,1756269606890,1756269606986,o,79, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",138,1756269606938,1756269607049,a,65, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",139,1756269607034,1756269607130,t,84, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",140,1756269607114,1756269607178,i,73, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",141,1756269607275,1756269607338,n,78, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",142,1756269607355,1756269607418,g,71, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",143,1756269607434,1756269607514, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",144,1756269607610,1756269607690,o,79, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",145,1756269607786,1756269607834,n,78, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",146,1756269607930,1756269607994, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",147,1756269608154,1756269608298,w,87, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",148,1756269608250,1756269608346,a,65, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",149,1756269608410,1756269608490,t,84, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",150,1756269608554,1756269608666,e,69, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",151,1756269608619,1756269608730,r,82, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",152,1756269610810,1756269610906,.,190, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",153,1756269610970,1756269611082,Enter,13, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",154,1756269611210,1756269611354,CapsLock,20, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",155,1756269613658,1756269613770,A,65, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",156,1756269613739,1756269613850,CapsLock,20, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",157,1756269613882,1756269613978,l,76, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",158,1756269614058,1756269614123,o,79, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",159,1756269614538,1756269614634,Backspace,8, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",160,1756269614651,1756269614730,s,83, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",161,1756269614746,1756269614826,o,79, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",162,1756269614923,1756269614986, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",163,1756269615066,1756269615130,m,77, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",164,1756269615147,1756269615226,e,69, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",165,1756269615258,1756269615306,n,78, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",166,1756269615370,1756269615434,t,84, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",167,1756269615450,1756269615482,i,73, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",168,1756269615562,1756269615642,o,79, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",169,1756269615723,1756269615770,n,78, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",170,1756269615850,1756269615914, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",171,1756269616010,1756269616074,i,73, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",172,1756269616106,1756269616185,t,84, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",173,1756269616171,1756269616234, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",174,1756269616346,1756269616426,l,76, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",175,1756269616443,1756269616570,e,69, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",176,1756269616522,1756269616618,a,65, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",177,1756269616906,1756269617002,v,86, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",178,1756269617034,1756269617098,i,73, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",179,1756269617194,1756269617242,n,78, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",180,1756269617274,1756269617338,g,71, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",181,1756269617370,1756269617418, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",182,1756269618346,1756269618426,f,70, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",183,1756269618458,1756269618522,o,79, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",184,1756269618657,1756269618665,o,79, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",185,1756269618714,1756269618794,t,84, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",186,1756269618986,1756269619082,p,80, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",187,1756269619114,1756269619194,r,82, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",188,1756269619242,1756269619322,i,73, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",189,1756269619418,1756269619482,n,78, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",190,1756269619514,1756269619578,t,84, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",191,1756269620650,1756269620730,s,83, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",192,1756269620794,1756269620874, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",193,1756269621306,1756269621402,i,73, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",194,1756269621514,1756269621562,n,78, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",195,1756269621658,1756269621722, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",196,1756269621754,1756269621802,t,84, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",197,1756269621834,1756269621914,h,72, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",198,1756269621931,1756269622010,e,69, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",199,1756269622010,1756269622074, ,32, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",200,1756269622170,1756269622234,m,77, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",201,1756269622314,1756269622394,u,85, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",202,1756269622410,1756269622474,d,68, weekly, physical-keyboard
+65a45ac08354b6cf79cc48cc,text-to-prompt,1,5,4,Write me a three sentence story about a small turtle walking along a riverbank.
+Mention the turtle watching the leaves floating on water.
+Also mention it leaving footprints in the mud.,"[0,79]","[138,184]",203,1756269622954,1756269623002,.,190, weekly, physical-keyboard

@@ -1,0 +1,69 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",0,1757011329635,1757011329850,w,87, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",1,1757011329890,1757011330074,i,73, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",2,1757011330098,1757011330225,r,82, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",3,1757011330698,1757011330762,Backspace,8, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",4,1757011330874,1757011331003,Backspace,8, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",5,1757011331003,1757011331066,r,82, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",6,1757011331138,1757011331289,i,73, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",7,1757011331266,1757011331370,t,84, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",8,1757011331346,1757011331474,e,69, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",9,1757011331449,1757011331553, ,32, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",10,1757011332274,1757011332306,e,69, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",11,1757011332778,1757011332890,Backspace,8, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",12,1757011332922,1757011333098,a,65, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",13,1757011333074,1757011333217,n,78, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",14,1757011333249,1757011333353, ,32, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",15,1757011333481,1757011333642,e,69, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",16,1757011333554,1757011333690,-,173, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",17,1757011333850,1757011334002,m,77, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",18,1757011334002,1757011334138,a,65, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",19,1757011334082,1757011334202,i,73, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",20,1757011334258,1757011334457,l,76, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",21,1757011334434,1757011334562, ,32, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",22,1757011334793,1757011334905,i,73, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",23,1757011334882,1757011335073,n,78, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",24,1757011335089,1757011335226,v,86, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",25,1757011335227,1757011335385,i,73, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",26,1757011335682,1757011335762,t,84, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",27,1757011335793,1757011335994,i,73, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",28,1757011335970,1757011336171,n,78, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",29,1757011336041,1757011336170,g,71, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",30,1757011336226,1757011336322, ,32, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",31,1757011336674,1757011336785,m,77, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",32,1757011336905,1757011336986,y,89, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",33,1757011337065,1757011337193, ,32, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",34,1757011337449,1757011337578,f,70, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",35,1757011338098,1757011338274,r,82, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",36,1757011338250,1757011338401,i,73, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",37,1757011338377,1757011338489,e,69, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",38,1757011338491,1757011338641,n,78, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",39,1757011338658,1757011338833,d,68, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",40,1757011338810,1757011338969,s,83, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",41,1757011338970,1757011339082, ,32, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",42,1757011339145,1757011339202,t,84, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",43,1757011339217,1757011339377,o,79, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",44,1757011339306,1757011339401, ,32, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",45,1757011339513,1757011339610,m,77, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",46,1757011339730,1757011339809,y,89, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",47,1757011339881,1757011339969, ,32, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",48,1757011340882,1757011340985,5,101, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",49,1757011341170,1757011341265,0,96, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",50,1757011342994,1757011343105,t,84, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",51,1757011343154,1757011343249,h,72, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",52,1757011343353,1757011343506, ,32, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",53,1757011345146,1757011345273,b,66, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",54,1757011345609,1757011345778,i,73, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",55,1757011345889,1757011345977,r,82, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",56,1757011346266,1757011346337,t,84, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",57,1757011346385,1757011346521,h,72, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",58,1757011346537,1757011346666,d,68, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",59,1757011346681,1757011346833,a,65, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",60,1757011346761,1757011346835,y,89, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",61,1757011346897,1757011346969, ,32, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",62,1757011347465,1757011347673,p,80, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",63,1757011347569,1757011347761,a,65, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",64,1757011347705,1757011347793,r,82, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",65,1757011347921,1757011348073,t,84, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",66,1757011348105,1757011348193,y,89, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,0,0,2,write an e-mail inviting my friends to my 50th birthday party,"[56,61]","[28,35]",67,1757011349960,1757011350073,Enter,13, rarely, physical-keyboard

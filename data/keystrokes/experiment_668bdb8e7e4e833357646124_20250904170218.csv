@@ -1,0 +1,38 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+668bdb8e7e4e833357646124,text-to-prompt,1,3,5,A tourtle begins a quiet journey.,"[0,33]","[19,24]",0,1757005307599,1757005307666,CapsLock,20, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,1,3,5,A tourtle begins a quiet journey.,"[0,33]","[19,24]",1,1757005307798,1757005307854,A,65, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,1,3,5,A tourtle begins a quiet journey.,"[0,33]","[19,24]",2,1757005307970,1757005308039,CapsLock,20, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,1,3,5,A tourtle begins a quiet journey.,"[0,33]","[19,24]",3,1757005308107,1757005308178, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,1,3,5,A tourtle begins a quiet journey.,"[0,33]","[19,24]",4,1757005309099,1757005309159,t,84, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,1,3,5,A tourtle begins a quiet journey.,"[0,33]","[19,24]",5,1757005309287,1757005309351,o,79, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,1,3,5,A tourtle begins a quiet journey.,"[0,33]","[19,24]",6,1757005309583,1757005309663,u,85, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,1,3,5,A tourtle begins a quiet journey.,"[0,33]","[19,24]",7,1757005309960,1757005310036,t,84, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,1,3,5,A tourtle begins a quiet journey.,"[0,33]","[19,24]",8,1757005310612,1757005310696,Backspace,8, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,1,3,5,A tourtle begins a quiet journey.,"[0,33]","[19,24]",9,1757005310752,1757005310824,r,82, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,1,3,5,A tourtle begins a quiet journey.,"[0,33]","[19,24]",10,1757005310944,1757005311012,t,84, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,1,3,5,A tourtle begins a quiet journey.,"[0,33]","[19,24]",11,1757005311360,1757005311432,l,76, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,1,3,5,A tourtle begins a quiet journey.,"[0,33]","[19,24]",12,1757005311512,1757005311588,e,69, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,1,3,5,A tourtle begins a quiet journey.,"[0,33]","[19,24]",13,1757005311641,1757005311729, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,1,3,5,A tourtle begins a quiet journey.,"[0,33]","[19,24]",14,1757005315395,1757005315451,b,66, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,1,3,5,A tourtle begins a quiet journey.,"[0,33]","[19,24]",15,1757005315967,1757005316027,e,69, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,1,3,5,A tourtle begins a quiet journey.,"[0,33]","[19,24]",16,1757005316335,1757005316387,g,71, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,1,3,5,A tourtle begins a quiet journey.,"[0,33]","[19,24]",17,1757005316571,1757005316639,i,73, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,1,3,5,A tourtle begins a quiet journey.,"[0,33]","[19,24]",18,1757005316815,1757005316887,n,78, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,1,3,5,A tourtle begins a quiet journey.,"[0,33]","[19,24]",19,1757005317016,1757005317079,s,83, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,1,3,5,A tourtle begins a quiet journey.,"[0,33]","[19,24]",20,1757005317147,1757005317216, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,1,3,5,A tourtle begins a quiet journey.,"[0,33]","[19,24]",21,1757005317320,1757005317456,a,65, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,1,3,5,A tourtle begins a quiet journey.,"[0,33]","[19,24]",22,1757005317532,1757005317608, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,1,3,5,A tourtle begins a quiet journey.,"[0,33]","[19,24]",23,1757005318224,1757005318288,q,81, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,1,3,5,A tourtle begins a quiet journey.,"[0,33]","[19,24]",24,1757005318580,1757005318648,u,85, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,1,3,5,A tourtle begins a quiet journey.,"[0,33]","[19,24]",25,1757005318796,1757005318868,i,73, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,1,3,5,A tourtle begins a quiet journey.,"[0,33]","[19,24]",26,1757005319373,1757005319441,e,69, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,1,3,5,A tourtle begins a quiet journey.,"[0,33]","[19,24]",27,1757005319613,1757005319677,t,84, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,1,3,5,A tourtle begins a quiet journey.,"[0,33]","[19,24]",28,1757005319773,1757005319853, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,1,3,5,A tourtle begins a quiet journey.,"[0,33]","[19,24]",29,1757005322439,1757005322503,j,74, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,1,3,5,A tourtle begins a quiet journey.,"[0,33]","[19,24]",30,1757005322751,1757005322819,o,79, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,1,3,5,A tourtle begins a quiet journey.,"[0,33]","[19,24]",31,1757005323119,1757005323171,u,85, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,1,3,5,A tourtle begins a quiet journey.,"[0,33]","[19,24]",32,1757005323463,1757005323531,r,82, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,1,3,5,A tourtle begins a quiet journey.,"[0,33]","[19,24]",33,1757005323835,1757005323903,n,78, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,1,3,5,A tourtle begins a quiet journey.,"[0,33]","[19,24]",34,1757005323992,1757005324068,e,69, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,1,3,5,A tourtle begins a quiet journey.,"[0,33]","[19,24]",35,1757005324340,1757005324412,y,89, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,1,3,5,A tourtle begins a quiet journey.,"[0,33]","[19,24]",36,1757005325664,1757005325724,.,190, weekly, physical-keyboard

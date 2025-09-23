@@ -1,0 +1,75 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",0,1756272407658,1756272407932,Shift,16, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",1,1756272407780,1756272407877,W,87, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",2,1756272408409,1756272408513,h,72, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",3,1756272408772,1756272408937,e,69, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",4,1756272411230,1756272411296,n,78, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",5,1756272411591,1756272411687, ,32, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",6,1756272412054,1756272412133,i,73, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",7,1756272412549,1756272412646,s,83, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",8,1756272412726,1756272412854, ,32, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",9,1756272413046,1756272413160,t,84, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",10,1756272413293,1756272413372,h,72, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",11,1756272413593,1756272413633,e,69, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",12,1756272413734,1756272413824, ,32, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",13,1756272413888,1756272413972,d,68, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",14,1756272414070,1756272414189,e,69, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",15,1756272414368,1756272414429,a,65, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",16,1756272414671,1756272414774,d,68, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",17,1756272414907,1756272415002,l,76, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",18,1756272415156,1756272415247,i,73, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",19,1756272415323,1756272415435,n,78, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",20,1756272415502,1756272415629,e,69, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",21,1756272415672,1756272415799, ,32, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",22,1756272415972,1756272416042,f,70, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",23,1756272416145,1756272416273,o,79, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",24,1756272416346,1756272416453,r,82, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",25,1756272417866,1756272417986, ,32, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",26,1756272418857,1756272418953,t,84, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",27,1756272419036,1756272419129,h,72, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",28,1756272419421,1756272419507,e,69, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",29,1756272419666,1756272419758, ,32, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",30,1756272420231,1756272420459,Shift,16, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",31,1756272420385,1756272420537,Q,81, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",32,1756272421932,1756272422047,3,51, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",33,1756272422135,1756272422226, ,32, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",34,1756272422669,1756272422780,r,82, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",35,1756272422954,1756272423064,e,69, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",36,1756272423393,1756272423491,p,80, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",37,1756272423599,1756272423730,o,79, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",38,1756272423841,1756272423942,r,82, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",39,1756272424117,1756272424180,t,84, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",40,1756272430139,1756272430220, ,32, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",41,1756272430417,1756272430481,a,65, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",42,1756272430621,1756272430722,n,78, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",43,1756272430763,1756272430854,d,68, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",44,1756272430985,1756272431082, ,32, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",45,1756272431191,1756272431331,w,87, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",46,1756272431408,1756272431515,h,72, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",47,1756272431666,1756272431747,e,69, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",48,1756272431871,1756272431953,r,82, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",49,1756272432212,1756272432345,e,69, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",50,1756272432568,1756272432640, ,32, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",51,1756272432733,1756272432916,s,83, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",52,1756272432877,1756272432943,h,72, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",53,1756272433245,1756272433321,o,79, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",54,1756272433581,1756272433662,u,85, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",55,1756272434015,1756272434121,l,76, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",56,1756272434627,1756272434704,d,68, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",57,1756272434860,1756272434974, ,32, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",58,1756272435036,1756272435159,w,87, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",59,1756272435273,1756272435351,e,69, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",60,1756272435461,1756272435602, ,32, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",61,1756272435654,1756272435770,s,83, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",62,1756272435966,1756272436057,u,85, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",63,1756272436126,1756272436223,b,66, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",64,1756272436520,1756272436682,m,77, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",65,1756272436699,1756272436850,i,73, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",66,1756272437123,1756272437217,t,84, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",67,1756272437318,1756272437380, ,32, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",68,1756272438446,1756272438563,t,84, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",69,1756272438666,1756272438771,h,72, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",70,1756272438907,1756272439032,e,69, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",71,1756272439113,1756272439214,m,77, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",72,1756272439721,1756272439913,Shift,16, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,0,4,1,When is the deadline for the Q3 report and where should we submit them?,"[29,38]","[12,21]",73,1756272439805,1756272440031,?,191, weekly, physical-keyboard

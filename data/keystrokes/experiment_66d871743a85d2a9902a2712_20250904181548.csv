@@ -1,0 +1,49 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",0,1757009730517,1757009730680,Shift,16, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",1,1757009730607,1757009730677,G,71, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",2,1757009730786,1757009730859,i,73, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",3,1757009730855,1757009730937,v,86, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",4,1757009730929,1757009731025,e,69, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",5,1757009731089,1757009731227, ,32, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",6,1757009731268,1757009731342,m,77, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",7,1757009731358,1757009731440,e,69, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",8,1757009731450,1757009731511, ,32, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",9,1757009731541,1757009731650,a,65, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",10,1757009731597,1757009731665, ,32, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",11,1757009731793,1757009731872,w,87, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",12,1757009731915,1757009732001,o,79, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",13,1757009732030,1757009732107,r,82, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",14,1757009732604,1757009732695,k,75, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",15,1757009732807,1757009732884,o,79, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",16,1757009732988,1757009733053,u,85, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",17,1757009733082,1757009733136,t,84, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",18,1757009733173,1757009733237, ,32, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",19,1757009733599,1757009733663,r,82, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",20,1757009733750,1757009733784,o,79, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",21,1757009733751,1757009733782,i,73, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",22,1757009734161,1757009734238,Backspace,8, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",23,1757009734568,1757009734652,u,85, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",24,1757009734705,1757009734795,t,84, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",25,1757009734877,1757009734923,i,73, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",26,1757009735024,1757009735080,n,78, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",27,1757009735086,1757009735172,e,69, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",28,1757009735192,1757009735262, ,32, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",29,1757009735581,1757009735653,f,70, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",30,1757009735676,1757009735742,o,79, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",31,1757009735808,1757009735877,r,82, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",32,1757009736790,1757009736938, ,32, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",33,1757009737104,1757009737199,1,49, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",34,1757009737408,1757009737514, ,32, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",35,1757009737575,1757009737650,h,72, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",36,1757009737668,1757009737724,o,79, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",37,1757009737847,1757009737945,u,85, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",38,1757009737941,1757009738022,r,82, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",39,1757009738160,1757009738233, ,32, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",40,1757009738441,1757009738509,w,87, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",41,1757009738691,1757009738760,o,79, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",42,1757009738853,1757009738928,k,75, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",43,1757009739095,1757009739151,Backspace,8, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",44,1757009739240,1757009739304,Backspace,8, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",45,1757009739381,1757009739443,Backspace,8, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",46,1757009739569,1757009739621,Backspace,8, monthly, physical-keyboard
+66d871743a85d2a9902a2712,prompt-to-text,0,1,1,Give me a workout routine for 1 hour.,"[10,18];[18,26];[30,37]","[26,30]",47,1757009740525,1757009740579,.,190, monthly, physical-keyboard

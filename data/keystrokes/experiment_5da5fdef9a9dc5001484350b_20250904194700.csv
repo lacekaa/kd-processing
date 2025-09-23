@@ -1,0 +1,47 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",0,1757015186159,1757015186381,Shift,16, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",1,1757015186314,1757015186404,W,87, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",2,1757015187146,1757015187239,r,82, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",3,1757015187426,1757015187528,i,73, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",4,1757015188598,1757015188684,t,84, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",5,1757015188838,1757015188969,e,69, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",6,1757015189071,1757015189190, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",7,1757015189453,1757015189543,a,65, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",8,1757015189765,1757015189871, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",9,1757015190254,1757015190328,s,83, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",10,1757015190574,1757015190699,o,79, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",11,1757015190896,1757015190969,n,78, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",12,1757015191156,1757015191232,g,71, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",13,1757015191526,1757015191601, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",14,1757015191989,1757015192084,a,65, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",15,1757015192538,1757015192708,b,66, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",16,1757015193147,1757015193264,u,85, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",17,1757015193519,1757015193603,t,84, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",18,1757015194405,1757015194487,Backspace,8, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",19,1757015194597,1757015194690,Backspace,8, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",20,1757015195138,1757015195232,o,79, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",21,1757015195883,1757015195963,u,85, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",22,1757015196278,1757015196369,t,84, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",23,1757015196860,1757015196937, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",24,1757015201427,1757015201537,a,65, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",25,1757015201764,1757015201821, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",26,1757015202245,1757015202312,f,70, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",27,1757015202397,1757015202481,o,79, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",28,1757015202650,1757015202732,r,82, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",29,1757015203198,1757015203310,b,66, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",30,1757015203434,1757015203493,i,73, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",31,1757015203728,1757015203796,d,68, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",32,1757015203916,1757015203991,d,68, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",33,1757015204236,1757015204345,e,69, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",34,1757015204465,1757015204540,n,78, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",35,1757015204883,1757015204971, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",36,1757015205105,1757015205174,l,76, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",37,1757015205375,1757015205501,o,79, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",38,1757015205662,1757015205752,v,86, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",39,1757015206115,1757015206243,e,69, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",40,1757015206446,1757015206539, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",41,1757015206689,1757015206773,s,83, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",42,1757015207467,1757015207610,t,84, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",43,1757015207603,1757015207696,o,79, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",44,1757015207964,1757015208033,r,82, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,1,5,0,Write a song about a forbidden love story,"[8,13];[21,41]","[0,6]",45,1757015208168,1757015208233,y,89, daily, physical-keyboard

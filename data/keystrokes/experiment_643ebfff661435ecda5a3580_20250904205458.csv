@@ -1,0 +1,62 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",0,1757019243595,1757019243952,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",1,1757019243878,1757019244027,W,87, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",2,1757019244107,1757019244331,a,65, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",3,1757019244337,1757019244523,l,76, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",4,1757019244682,1757019244821,k,75, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",5,1757019245006,1757019245164,i,73, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",6,1757019245333,1757019245504,n,78, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",7,1757019245590,1757019245737,g,71, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",8,1757019245796,1757019245975, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",9,1757019246029,1757019246209,a,65, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",10,1757019246258,1757019246445,l,76, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",11,1757019246567,1757019246743,o,79, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",12,1757019246878,1757019247017,n,78, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",13,1757019247253,1757019247401,g,71, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",14,1757019247506,1757019247683, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",15,1757019248103,1757019248316,t,84, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",16,1757019248322,1757019248475,h,72, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",17,1757019248531,1757019248711,e,69, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",18,1757019248748,1757019248943, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",19,1757019249303,1757019249465,b,66, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",20,1757019249588,1757019249798,e,69, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",21,1757019249755,1757019250021,a,65, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",22,1757019250349,1757019250569,c,67, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",23,1757019250693,1757019250860,h,72, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",24,1757019252674,1757019252851, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",25,1757019253072,1757019253263,a,65, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",26,1757019253294,1757019253458,n,78, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",27,1757019253810,1757019253995,d,68, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",28,1757019254096,1757019254299, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",29,1757019254468,1757019254625,l,76, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",30,1757019254894,1757019254999,o,79, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",31,1757019255109,1757019255229,o,79, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",32,1757019255500,1757019255634,k,75, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",33,1757019255736,1757019255928,i,73, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",34,1757019256000,1757019256166,n,78, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",35,1757019256215,1757019256356,g,71, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",36,1757019256441,1757019256609, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",37,1757019256796,1757019257020,u,85, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",38,1757019257135,1757019257309,p,80, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",39,1757019257478,1757019257629, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",40,1757019257894,1757019258124,a,65, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",41,1757019258223,1757019258376,t,84, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",42,1757019258448,1757019258626, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",43,1757019259442,1757019259649,a,65, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",44,1757019259836,1757019260011,n,78, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",45,1757019260152,1757019260326, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",46,1757019260570,1757019261275,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",47,1757019261052,1757019261237,A,65, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",48,1757019261834,1757019262062, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",49,1757019262191,1757019262333,f,70, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",50,1757019262438,1757019262585,r,82, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",51,1757019263507,1757019263711,a,65, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",52,1757019264716,1757019264833,m,77, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",53,1757019264954,1757019265114,e,69, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",54,1757019265230,1757019265405, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",55,1757019265938,1757019266137,h,72, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",56,1757019266175,1757019266408,o,79, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",57,1757019266383,1757019266549,u,85, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",58,1757019266593,1757019266844,s,83, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",59,1757019266838,1757019266966,e,69, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-image,0,5,5,Walking along the beach and looking up at an A frame house.,"[0,23]","[45,59]",60,1757019267964,1757019268036,.,190, never, physical-keyboard

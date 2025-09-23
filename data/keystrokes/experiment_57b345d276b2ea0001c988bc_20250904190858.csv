@@ -1,0 +1,16 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+57b345d276b2ea0001c988bc,prompt-to-image,1,6,3,A beach scene,"[2,8]","[8,13]",0,1757012922057,1757012922186,CapsLock,20, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,1,6,3,A beach scene,"[2,8]","[8,13]",1,1757012922196,1757012922292,A,65, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,1,6,3,A beach scene,"[2,8]","[8,13]",2,1757012922318,1757012922396,CapsLock,20, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,1,6,3,A beach scene,"[2,8]","[8,13]",3,1757012922678,1757012922727, ,32, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,1,6,3,A beach scene,"[2,8]","[8,13]",4,1757012925174,1757012925249,b,66, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,1,6,3,A beach scene,"[2,8]","[8,13]",5,1757012925351,1757012925434,e,69, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,1,6,3,A beach scene,"[2,8]","[8,13]",6,1757012925751,1757012925824,a,65, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,1,6,3,A beach scene,"[2,8]","[8,13]",7,1757012926207,1757012926303,c,67, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,1,6,3,A beach scene,"[2,8]","[8,13]",8,1757012926862,1757012926932,h,72, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,1,6,3,A beach scene,"[2,8]","[8,13]",9,1757012927366,1757012927439, ,32, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,1,6,3,A beach scene,"[2,8]","[8,13]",10,1757012927726,1757012927810,s,83, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,1,6,3,A beach scene,"[2,8]","[8,13]",11,1757012927930,1757012927980,c,67, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,1,6,3,A beach scene,"[2,8]","[8,13]",12,1757012928097,1757012928187,e,69, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,1,6,3,A beach scene,"[2,8]","[8,13]",13,1757012928498,1757012928543,n,78, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,1,6,3,A beach scene,"[2,8]","[8,13]",14,1757012928889,1757012928959,e,69, never, physical-keyboard

@@ -1,0 +1,43 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+668bdb8e7e4e833357646124,prompt-to-image,0,5,5,A city floating in the clouds at sunset.,"[0,29]","[30,39]",0,1757005449528,1757005449592,CapsLock,20, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,0,5,5,A city floating in the clouds at sunset.,"[0,29]","[30,39]",1,1757005449696,1757005449756,A,65, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,0,5,5,A city floating in the clouds at sunset.,"[0,29]","[30,39]",2,1757005449869,1757005449925,CapsLock,20, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,0,5,5,A city floating in the clouds at sunset.,"[0,29]","[30,39]",3,1757005449997,1757005450072, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,0,5,5,A city floating in the clouds at sunset.,"[0,29]","[30,39]",4,1757005450192,1757005450264,c,67, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,0,5,5,A city floating in the clouds at sunset.,"[0,29]","[30,39]",5,1757005450529,1757005450584,i,73, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,0,5,5,A city floating in the clouds at sunset.,"[0,29]","[30,39]",6,1757005450816,1757005450873,t,84, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,0,5,5,A city floating in the clouds at sunset.,"[0,29]","[30,39]",7,1757005450973,1757005451028,y,89, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,0,5,5,A city floating in the clouds at sunset.,"[0,29]","[30,39]",8,1757005451108,1757005451208, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,0,5,5,A city floating in the clouds at sunset.,"[0,29]","[30,39]",9,1757005453106,1757005453173,f,70, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,0,5,5,A city floating in the clouds at sunset.,"[0,29]","[30,39]",10,1757005453249,1757005453310,l,76, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,0,5,5,A city floating in the clouds at sunset.,"[0,29]","[30,39]",11,1757005453386,1757005453446,o,79, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,0,5,5,A city floating in the clouds at sunset.,"[0,29]","[30,39]",12,1757005453707,1757005453770,a,65, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,0,5,5,A city floating in the clouds at sunset.,"[0,29]","[30,39]",13,1757005453983,1757005454042,t,84, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,0,5,5,A city floating in the clouds at sunset.,"[0,29]","[30,39]",14,1757005454226,1757005454291,i,73, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,0,5,5,A city floating in the clouds at sunset.,"[0,29]","[30,39]",15,1757005454510,1757005454579,n,78, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,0,5,5,A city floating in the clouds at sunset.,"[0,29]","[30,39]",16,1757005454763,1757005454835,g,71, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,0,5,5,A city floating in the clouds at sunset.,"[0,29]","[30,39]",17,1757005456000,1757005456092, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,0,5,5,A city floating in the clouds at sunset.,"[0,29]","[30,39]",18,1757005456420,1757005456483,i,73, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,0,5,5,A city floating in the clouds at sunset.,"[0,29]","[30,39]",19,1757005456616,1757005456672,n,78, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,0,5,5,A city floating in the clouds at sunset.,"[0,29]","[30,39]",20,1757005456780,1757005456880, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,0,5,5,A city floating in the clouds at sunset.,"[0,29]","[30,39]",21,1757005457088,1757005457156,t,84, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,0,5,5,A city floating in the clouds at sunset.,"[0,29]","[30,39]",22,1757005457280,1757005457344,h,72, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,0,5,5,A city floating in the clouds at sunset.,"[0,29]","[30,39]",23,1757005457412,1757005457481,e,69, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,0,5,5,A city floating in the clouds at sunset.,"[0,29]","[30,39]",24,1757005457549,1757005457625, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,0,5,5,A city floating in the clouds at sunset.,"[0,29]","[30,39]",25,1757005457889,1757005457961,c,67, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,0,5,5,A city floating in the clouds at sunset.,"[0,29]","[30,39]",26,1757005458085,1757005458153,l,76, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,0,5,5,A city floating in the clouds at sunset.,"[0,29]","[30,39]",27,1757005458245,1757005458321,o,79, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,0,5,5,A city floating in the clouds at sunset.,"[0,29]","[30,39]",28,1757005458649,1757005458717,u,85, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,0,5,5,A city floating in the clouds at sunset.,"[0,29]","[30,39]",29,1757005458961,1757005459033,d,68, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,0,5,5,A city floating in the clouds at sunset.,"[0,29]","[30,39]",30,1757005459157,1757005459241,s,83, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,0,5,5,A city floating in the clouds at sunset.,"[0,29]","[30,39]",31,1757005460162,1757005460250, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,0,5,5,A city floating in the clouds at sunset.,"[0,29]","[30,39]",32,1757005460846,1757005460910,a,65, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,0,5,5,A city floating in the clouds at sunset.,"[0,29]","[30,39]",33,1757005461282,1757005461354,t,84, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,0,5,5,A city floating in the clouds at sunset.,"[0,29]","[30,39]",34,1757005461438,1757005461522, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,0,5,5,A city floating in the clouds at sunset.,"[0,29]","[30,39]",35,1757005463015,1757005463087,s,83, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,0,5,5,A city floating in the clouds at sunset.,"[0,29]","[30,39]",36,1757005463219,1757005463295,u,85, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,0,5,5,A city floating in the clouds at sunset.,"[0,29]","[30,39]",37,1757005463463,1757005463531,n,78, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,0,5,5,A city floating in the clouds at sunset.,"[0,29]","[30,39]",38,1757005463660,1757005463732,s,83, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,0,5,5,A city floating in the clouds at sunset.,"[0,29]","[30,39]",39,1757005464104,1757005464168,e,69, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,0,5,5,A city floating in the clouds at sunset.,"[0,29]","[30,39]",40,1757005464356,1757005464428,t,84, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,0,5,5,A city floating in the clouds at sunset.,"[0,29]","[30,39]",41,1757005466037,1757005466113,.,190, weekly, physical-keyboard

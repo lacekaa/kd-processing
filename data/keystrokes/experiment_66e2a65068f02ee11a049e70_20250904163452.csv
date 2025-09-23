@@ -1,0 +1,44 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",0,1757003653242,1757003654024,Shift,16, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",1,1757003653731,0,Shift,16, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",2,1757003653760,0,Shift,16, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",3,1757003653790,0,Shift,16, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",4,1757003653820,0,Shift,16, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",5,1757003653850,0,Shift,16, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",6,1757003653879,0,Shift,16, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",7,1757003653896,1757003654060,N,78, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",8,1757003654745,1757003654886,a,65, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",9,1757003655580,1757003655751,t,84, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",10,1757003656127,1757003656282,u,85, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",11,1757003656466,1757003656581,r,82, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",12,1757003656697,1757003656789,e,69, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",13,1757003657374,1757003657653, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",14,1757003658605,1757003658700,a,65, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",15,1757003659175,1757003659273,t,84, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",16,1757003659727,1757003659884, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",17,1757003660104,1757003660244,i,73, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",18,1757003660423,1757003660542,t,84, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",19,1757003660779,1757003660894,s,83, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",20,1757003661269,1757003661480, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",21,1757003661650,1757003661794,b,66, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",22,1757003662038,1757003662162,e,69, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",23,1757003662283,1757003662401,s,83, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",24,1757003662726,1757003662841,t,84, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",25,1757003663369,1757003663620, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",26,1757003667615,1757003667713,a,65, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",27,1757003668273,1757003668374,r,82, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",28,1757003668790,1757003669025,o,79, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",29,1757003669006,1757003669108,u,85, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",30,1757003669470,1757003669641,n,78, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",31,1757003669917,1757003670007,d,68, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",32,1757003670242,1757003670466, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",33,1757003670621,1757003670709,t,84, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",34,1757003670829,1757003670980,h,72, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",35,1757003671230,1757003671246,e,69, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",36,1757003671784,1757003672005, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",37,1757003672719,1757003672814,w,87, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",38,1757003673216,1757003673394,o,79, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",39,1757003674938,1757003675076,r,82, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",40,1757003675970,1757003676109,l,76, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",41,1757003676445,1757003676548,d,68, daily, physical-keyboard
+66e2a65068f02ee11a049e70,image-to-prompt,1,1,4,Nature at its best around the world.,"[0,18]","[30,36]",42,1757003677692,1757003677808,.,190, daily, physical-keyboard

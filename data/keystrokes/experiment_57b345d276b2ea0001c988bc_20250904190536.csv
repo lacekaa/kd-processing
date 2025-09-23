@@ -1,0 +1,13 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+57b345d276b2ea0001c988bc,prompt-to-text,1,2,3,Television,"[0,5]","[6,10]",0,1757012702587,1757012702698,CapsLock,20, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-text,1,2,3,Television,"[0,5]","[6,10]",1,1757012703866,1757012703986,T,84, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-text,1,2,3,Television,"[0,5]","[6,10]",2,1757012704062,1757012704151,CapsLock,20, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-text,1,2,3,Television,"[0,5]","[6,10]",3,1757012704583,1757012704729,e,69, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-text,1,2,3,Television,"[0,5]","[6,10]",4,1757012704934,1757012705074,l,76, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-text,1,2,3,Television,"[0,5]","[6,10]",5,1757012705154,1757012705229,e,69, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-text,1,2,3,Television,"[0,5]","[6,10]",6,1757012705606,1757012705676,v,86, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-text,1,2,3,Television,"[0,5]","[6,10]",7,1757012706182,1757012706276,i,73, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-text,1,2,3,Television,"[0,5]","[6,10]",8,1757012706363,1757012706478,s,83, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-text,1,2,3,Television,"[0,5]","[6,10]",9,1757012706483,1757012706588,i,73, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-text,1,2,3,Television,"[0,5]","[6,10]",10,1757012706548,1757012706684,o,79, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-text,1,2,3,Television,"[0,5]","[6,10]",11,1757012706895,1757012706979,n,78, never, physical-keyboard

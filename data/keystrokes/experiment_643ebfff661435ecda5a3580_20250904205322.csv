@@ -1,0 +1,75 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",0,1757019143868,1757019145624,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",1,1757019144358,1757019162273,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",2,1757019144387,0,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",3,1757019144417,0,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",4,1757019144447,0,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",5,1757019144477,0,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",6,1757019144506,0,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",7,1757019144536,0,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",8,1757019144565,0,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",9,1757019144597,0,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",10,1757019144629,0,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",11,1757019144661,0,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",12,1757019144688,0,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",13,1757019144718,0,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",14,1757019144747,0,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",15,1757019144777,0,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",16,1757019144807,0,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",17,1757019144837,0,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",18,1757019144868,0,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",19,1757019144896,0,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",20,1757019144935,0,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",21,1757019144954,0,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",22,1757019144985,0,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",23,1757019145015,0,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",24,1757019145045,0,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",25,1757019145073,0,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",26,1757019145103,0,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",27,1757019145133,0,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",28,1757019145165,0,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",29,1757019145193,0,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",30,1757019145223,0,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",31,1757019145251,0,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",32,1757019145281,0,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",33,1757019145310,0,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",34,1757019145339,0,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",35,1757019145369,0,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",36,1757019145399,0,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",37,1757019145406,1757019145548,W,87, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",38,1757019146049,1757019146211,h,72, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",39,1757019146264,1757019146395,a,65, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",40,1757019146479,1757019146535,q,81, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",41,1757019146596,1757019146813,t,84, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",42,1757019146936,1757019147164, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",43,1757019147903,1757019148015,Backspace,8, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",44,1757019148127,1757019148242,Backspace,8, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",45,1757019148404,1757019148538,Backspace,8, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",46,1757019149331,1757019149489,t,84, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",47,1757019149545,1757019149723, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",48,1757019149872,1757019150059,s,83, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",49,1757019150090,1757019150281,i,73, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",50,1757019150489,1757019150681,x,88, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",51,1757019152163,1757019152276,Backspace,8, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",52,1757019153072,1757019153260,z,90, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",53,1757019153452,1757019153625,e,69, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",54,1757019153759,1757019153924, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",55,1757019154490,1757019154649,p,80, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",56,1757019154853,1757019154986,o,79, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",57,1757019155074,1757019155205,o,79, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",58,1757019155703,1757019155909,d,68, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",59,1757019156007,1757019156179,l,76, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",60,1757019156569,1757019156713,e,69, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",61,1757019156853,1757019157018, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",62,1757019157367,1757019157661,c,67, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",63,1757019157639,1757019157908,a,65, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",64,1757019157993,1757019158166,m,77, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",65,1757019158685,1757019158850,e,69, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",66,1757019159033,1757019159186, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",67,1757019160175,1757019160385,f,70, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",68,1757019160380,1757019160582,i,73, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",69,1757019160498,1757019160673,r,82, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",70,1757019160780,1757019160965,s,83, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",71,1757019161068,1757019161211,t,84, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",72,1757019161809,0,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,0,4,5,What size poodle came first?,"[22,28]","[5,16]",73,1757019162097,1757019162197,?,191, never, physical-keyboard

@@ -1,0 +1,106 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",0,1756994714663,1756994714903,Shift,16, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",1,1756994714863,1756994714951,B,66, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",2,1756994715111,1756994715191,e,69, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",3,1756994715583,1756994715671,a,65, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",4,1756994716279,1756994716343,u,85, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",5,1756994716535,1756994716607,t,84, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",6,1756994716671,1756994716743,i,73, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",7,1756994716952,1756994717039,f,70, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",8,1756994717119,1756994717191,u,85, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",9,1756994717343,1756994717423,l,76, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",10,1756994717576,1756994717663, ,32, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",11,1756994717847,1756994717911,g,71, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",12,1756994718072,1756994718151,r,82, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",13,1756994718239,1756994718319,e,69, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",14,1756994718391,1756994718471,e,69, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",15,1756994718663,1756994718743,n,78, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",16,1756994718839,1756994718919,e,69, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",17,1756994719015,1756994719087,r,82, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",18,1756994719615,1756994719687,y,89, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",19,1756994719784,1756994719863, ,32, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",20,1756994719999,1756994720071,n,78, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",21,1756994720136,1756994720231,e,69, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",22,1756994722887,1756994722959,x,88, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",23,1756994723191,1756994723263,t,84, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",24,1756994723767,1756994723855, ,32, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",25,1756994723951,1756994724023,t,84, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",26,1756994724079,1756994724150,o,79, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",27,1756994724319,1756994724398, ,32, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",28,1756994724503,1756994724574,a,65, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",29,1756994724631,1756994724695, ,32, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",30,1756994724823,1756994724910,a,65, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",31,1756994724879,1756994724958,l,76, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",32,1756994725111,1756994725207,k,75, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",33,1756994725295,1756994725383,e,69, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",34,1756994727023,1756994727143,Backspace,8, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",35,1756994727215,1756994727327,Backspace,8, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",36,1756994727399,1756994727479,Backspace,8, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",37,1756994727583,1756994727655,Backspace,8, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",38,1756994728295,1756994728367,l,76, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",39,1756994728423,1756994728511,a,65, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",40,1756994728575,1756994728655,k,75, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",41,1756994728735,1756994728823,e,69, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",42,1756994728871,1756994728967, ,32, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",43,1756994729039,1756994729110,t,84, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",44,1756994729199,1756994729295,h,72, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",45,1756994729407,1756994729470,t,84, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",46,1756994729414,1756994729518,a,65, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",47,1756994729679,1756994729766, ,32, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",48,1756994729887,1756994729958,h,72, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",49,1756994730014,1756994730094,a,65, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",50,1756994730183,1756994730279,s,83, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",51,1756994730334,1756994730415, ,32, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",52,1756994730511,1756994730590,w,87, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",53,1756994730679,1756994730743,i,73, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",54,1756994730862,1756994730942,l,76, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",55,1756994730982,1756994731046,d,68, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",56,1756994731151,1756994731238, ,32, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",57,1756994731287,1756994731367,d,68, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",58,1756994731470,1756994731534,u,85, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",59,1756994731743,1756994731823,c,67, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",60,1756994731935,1756994732014,k,75, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",61,1756994732151,1756994732238,s,83, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",62,1756994732319,1756994732382, ,32, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",63,1756994732550,1756994732646,i,73, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",64,1756994732790,1756994732838,j,74, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",65,1756994732791,1756994732854,n,78, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",66,1756994732966,1756994733055, ,32, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",67,1756994733190,1756994733262,i,73, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",68,1756994733310,1756994733390,t,84, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",69,1756994733863,1756994734894,ArrowLeft,37, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",70,1756994734373,1756994737687,ArrowLeft,37, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",71,1756994734404,1756994737862,ArrowLeft,37, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",72,1756994734436,1756994737990,ArrowLeft,37, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",73,1756994734466,1756994738166,ArrowLeft,37, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",74,1756994734499,0,ArrowLeft,37, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",75,1756994734531,0,ArrowLeft,37, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",76,1756994734562,0,ArrowLeft,37, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",77,1756994734608,0,ArrowLeft,37, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",78,1756994734639,0,ArrowLeft,37, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",79,1756994734670,0,ArrowLeft,37, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",80,1756994734702,0,ArrowLeft,37, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",81,1756994734732,0,ArrowLeft,37, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",82,1756994734763,0,ArrowLeft,37, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",83,1756994734794,0,ArrowLeft,37, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",84,1756994734826,0,ArrowLeft,37, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",85,1756994734873,0,ArrowLeft,37, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",86,1756994735222,1756994735367,ArrowRight,39, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",87,1756994735463,1756994735558,ArrowRight,39, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",88,1756994735655,1756994735742,ArrowRight,39, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",89,1756994735839,1756994735942,ArrowRight,39, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",90,1756994737575,0,ArrowLeft,37, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",91,1756994737758,0,ArrowLeft,37, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",92,1756994737894,0,ArrowLeft,37, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",93,1756994738078,0,ArrowLeft,37, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",94,1756994738727,1756994738830,s,83, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",95,1756994739038,1756994739142,w,87, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",96,1756994739343,1756994739414,i,73, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",97,1756994739566,1756994739638,m,77, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",98,1756994739710,1756994739790,m,77, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",99,1756994739887,1756994739982,i,73, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",100,1756994740094,1756994740174,n,78, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",101,1756994740270,1756994740326,g,71, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",102,1756994740430,1756994740502, ,32, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",103,1756994743102,1756994743190,Backspace,8, rarely, physical-keyboard
+6713ff833df413a8e1d83bf8,image-to-prompt,1,2,5,Beautiful greenery next to a lake thta has swimming wild ducks in it.,"[0,18]","[29,33]",104,1756994744775,1756994744854,.,190, rarely, physical-keyboard

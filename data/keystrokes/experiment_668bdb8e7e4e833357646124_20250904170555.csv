@@ -1,0 +1,42 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+668bdb8e7e4e833357646124,prompt-to-text,1,6,5,describe a place where silence has color.,"[0,16]","[17,40]",0,1757005512895,1757005512963,d,68, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,1,6,5,describe a place where silence has color.,"[0,16]","[17,40]",1,1757005513063,1757005513127,e,69, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,1,6,5,describe a place where silence has color.,"[0,16]","[17,40]",2,1757005513243,1757005513327,s,83, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,1,6,5,describe a place where silence has color.,"[0,16]","[17,40]",3,1757005513703,1757005513763,c,67, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,1,6,5,describe a place where silence has color.,"[0,16]","[17,40]",4,1757005513995,1757005514067,r,82, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,1,6,5,describe a place where silence has color.,"[0,16]","[17,40]",5,1757005514379,1757005514447,i,73, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,1,6,5,describe a place where silence has color.,"[0,16]","[17,40]",6,1757005514711,1757005514775,b,66, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,1,6,5,describe a place where silence has color.,"[0,16]","[17,40]",7,1757005514844,1757005514920,e,69, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,1,6,5,describe a place where silence has color.,"[0,16]","[17,40]",8,1757005514988,1757005515088, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,1,6,5,describe a place where silence has color.,"[0,16]","[17,40]",9,1757005517713,1757005517785,a,65, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,1,6,5,describe a place where silence has color.,"[0,16]","[17,40]",10,1757005518357,1757005518429, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,1,6,5,describe a place where silence has color.,"[0,16]","[17,40]",11,1757005518633,1757005518697,p,80, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,1,6,5,describe a place where silence has color.,"[0,16]","[17,40]",12,1757005518785,1757005518841,l,76, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,1,6,5,describe a place where silence has color.,"[0,16]","[17,40]",13,1757005518914,1757005518966,a,65, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,1,6,5,describe a place where silence has color.,"[0,16]","[17,40]",14,1757005519394,1757005519438,c,67, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,1,6,5,describe a place where silence has color.,"[0,16]","[17,40]",15,1757005519586,1757005519650,e,69, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,1,6,5,describe a place where silence has color.,"[0,16]","[17,40]",16,1757005519710,1757005519786, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,1,6,5,describe a place where silence has color.,"[0,16]","[17,40]",17,1757005520130,1757005520194,w,87, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,1,6,5,describe a place where silence has color.,"[0,16]","[17,40]",18,1757005520258,1757005520318,h,72, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,1,6,5,describe a place where silence has color.,"[0,16]","[17,40]",19,1757005520410,1757005520474,e,69, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,1,6,5,describe a place where silence has color.,"[0,16]","[17,40]",20,1757005520566,1757005520652,r,82, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,1,6,5,describe a place where silence has color.,"[0,16]","[17,40]",21,1757005520722,1757005520787,e,69, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,1,6,5,describe a place where silence has color.,"[0,16]","[17,40]",22,1757005520846,1757005520938, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,1,6,5,describe a place where silence has color.,"[0,16]","[17,40]",23,1757005521399,1757005521455,s,83, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,1,6,5,describe a place where silence has color.,"[0,16]","[17,40]",24,1757005521591,1757005521659,i,73, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,1,6,5,describe a place where silence has color.,"[0,16]","[17,40]",25,1757005521771,1757005521843,l,76, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,1,6,5,describe a place where silence has color.,"[0,16]","[17,40]",26,1757005521923,1757005521983,e,69, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,1,6,5,describe a place where silence has color.,"[0,16]","[17,40]",27,1757005522755,1757005522823,n,78, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,1,6,5,describe a place where silence has color.,"[0,16]","[17,40]",28,1757005522907,1757005522971,c,67, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,1,6,5,describe a place where silence has color.,"[0,16]","[17,40]",29,1757005523143,1757005523223,e,69, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,1,6,5,describe a place where silence has color.,"[0,16]","[17,40]",30,1757005523340,1757005523408, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,1,6,5,describe a place where silence has color.,"[0,16]","[17,40]",31,1757005525217,1757005525281,h,72, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,1,6,5,describe a place where silence has color.,"[0,16]","[17,40]",32,1757005525325,1757005525381,a,65, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,1,6,5,describe a place where silence has color.,"[0,16]","[17,40]",33,1757005525577,1757005525649,s,83, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,1,6,5,describe a place where silence has color.,"[0,16]","[17,40]",34,1757005525705,1757005525781, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,1,6,5,describe a place where silence has color.,"[0,16]","[17,40]",35,1757005525905,1757005525969,c,67, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,1,6,5,describe a place where silence has color.,"[0,16]","[17,40]",36,1757005526093,1757005526157,o,79, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,1,6,5,describe a place where silence has color.,"[0,16]","[17,40]",37,1757005526253,1757005526313,l,76, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,1,6,5,describe a place where silence has color.,"[0,16]","[17,40]",38,1757005526401,1757005526457,o,79, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,1,6,5,describe a place where silence has color.,"[0,16]","[17,40]",39,1757005526577,1757005526645,r,82, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,1,6,5,describe a place where silence has color.,"[0,16]","[17,40]",40,1757005527074,1757005527141,.,190, weekly, physical-keyboard

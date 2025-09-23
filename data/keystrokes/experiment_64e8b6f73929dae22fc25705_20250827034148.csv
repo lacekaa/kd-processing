@@ -1,0 +1,52 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",0,1756266087051,1756266087144,c,67, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",1,1756266087284,1756266087364,r,82, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",2,1756266087452,1756266087565,e,69, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",3,1756266087525,1756266087613,a,65, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",4,1756266087687,1756266087746,t,84, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",5,1756266087840,1756266087954,e,69, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",6,1756266087928,1756266088048, ,32, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",7,1756266088022,1756266088190,a,65, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",8,1756266088156,1756266088290, ,32, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",9,1756266088210,1756266088229,s,83, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",10,1756266088860,1756266089671,Control,17, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",11,1756266089082,1756266089176,Backspace,8, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",12,1756266089283,1756266089336,Backspace,8, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",13,1756266089451,1756266089498,Backspace,8, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",14,1756266089780,1756266089866,w,87, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",15,1756266089967,1756266090067,r,82, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",16,1756266090162,1756266090282,i,73, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",17,1756266090241,1756266090343,t,84, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",18,1756266090450,1756266090586,e,69, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",19,1756266090586,1756266090732, ,32, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",20,1756266091764,1756266091865,a,65, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",21,1756266091851,1756266092006, ,32, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",22,1756266091939,1756266092053,s,83, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",23,1756266092160,1756266092261,h,72, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",24,1756266092274,1756266092381,o,79, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",25,1756266092401,1756266092503,r,82, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",26,1756266092806,1756266092912,t,84, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",27,1756266093039,1756266093159, ,32, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",28,1756266093313,1756266093407,t,84, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",29,1756266093529,1756266093610,e,69, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",30,1756266093729,1756266093823,x,88, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",31,1756266093972,1756266094065,t,84, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",32,1756266094086,1756266094254, ,32, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",33,1756266094207,1756266094306,a,65, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",34,1756266094455,1756266094561,b,66, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",35,1756266094588,1756266094683,o,79, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",36,1756266094818,1756266094903,u,85, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",37,1756266094884,1756266094997,t,84, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",38,1756266095456,1756266095647, ,32, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",39,1756266096637,1756266096708,t,84, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",40,1756266096811,1756266096869,y,89, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",41,1756266096889,1756266096976,p,80, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",42,1756266097018,1756266097131,e,69, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",43,1756266097145,1756266097272,s,83, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",44,1756266097291,1756266097420, ,32, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",45,1756266097452,1756266097527,o,79, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",46,1756266097528,1756266097614,f,70, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",47,1756266097600,1756266097708, ,32, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",48,1756266097809,1756266097874,t,84, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",49,1756266097977,1756266098089,e,69, weekly, physical-keyboard
+64e8b6f73929dae22fc25705,prompt-to-text,1,2,3,write a short text about types of tea,"[0,37]","[7,20]",50,1756266098035,1756266098129,a,65, weekly, physical-keyboard

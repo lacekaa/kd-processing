@@ -1,0 +1,69 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",0,1757003940888,1757003941024,s,83, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",1,1757003941269,1757003941423,t,84, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",2,1757003941773,1757003941984,o,79, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",3,1757003942170,1757003942281,t,84, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",4,1757003942370,1757003942469,y,89, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",5,1757003942784,1757003943064, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",6,1757003943858,1757003943949,Backspace,8, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",7,1757003944074,1757003944146,Backspace,8, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",8,1757003944256,1757003944349,Backspace,8, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",9,1757003945185,1757003945303,r,82, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",10,1757003945504,1757003945603,y,89, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",11,1757003945899,1757003946116, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",12,1757003946683,1757003946824,o,79, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",13,1757003947011,1757003947130,f,70, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",14,1757003947271,1757003947418, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",15,1757003947634,1757003947739,a,65, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",16,1757003948050,1757003948254, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",17,1757003948469,1757003948505,t,84, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",18,1757003948794,1757003948931,u,85, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",19,1757003949077,1757003949178,r,82, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",20,1757003949477,1757003949585,t,84, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",21,1757003949957,1757003950143,l,76, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",22,1757003950400,1757003950492,e,69, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",23,1757003950915,1757003951139, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",24,1757003952221,1757003952320,w,87, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",25,1757003952718,1757003952833,h,72, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",26,1757003953070,1757003953176,p,80, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",27,1757003955643,1757003955746,Backspace,8, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",28,1757003956588,1757003956682,o,79, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",29,1757003957021,1757003957151, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",30,1757003957473,1757003957586,w,87, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",31,1757003957645,1757003957767,a,65, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",32,1757003958236,1757003958459,l,76, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",33,1757003958417,1757003958591,k,75, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",34,1757003958839,1757003958934,e,69, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",35,1757003959040,1757003959140,d,68, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",36,1757003959343,1757003959525, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",37,1757003959906,1757003959994,t,84, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",38,1757003960098,1757003960258,h,72, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",39,1757003960443,1757003960545,r,82, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",40,1757003961020,1757003961266,o,79, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",41,1757003961237,1757003961369,u,85, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",42,1757003961553,1757003961657,g,71, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",43,1757003961734,1757003961851,h,72, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",44,1757003962069,1757003962295, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",45,1757003962838,1757003962993,m,77, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",46,1757003963140,1757003963264,u,85, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",47,1757003963481,1757003963595,d,68, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",48,1757003963779,1757003963982, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",49,1757003967032,1757003967206,l,76, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",50,1757003967498,1757003967606,e,69, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",51,1757003967743,1757003967821,a,65, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",52,1757003968522,1757003968615,v,86, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",53,1757003968827,1757003969006,i,73, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",54,1757003969065,1757003969244,n,78, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",55,1757003969362,1757003969464,g,71, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",56,1757003969630,1757003969833, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",57,1757003970438,1757003970519,f,70, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",58,1757003970843,1757003970974,o,79, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",59,1757003971047,1757003971145,o,79, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",60,1757003971350,1757003971472,t,84, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",61,1757003972839,1757003972986,p,80, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",62,1757003973256,1757003973354,r,82, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",63,1757003973852,1757003973964,i,73, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",64,1757003974108,1757003974302,n,78, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",65,1757003974499,1757003974575,t,84, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",66,1757003974754,1757003974836,s,83, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,1,5,4,story of a turtle who walked through mud leaving footprints.,"[0,17]","[36,60]",67,1757003976100,1757003976180,.,190, daily, physical-keyboard

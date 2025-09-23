@@ -1,0 +1,64 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",0,1757010583653,1757010583948,CapsLock,20, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",1,1757010583784,1757010583915,C,67, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",2,1757010584131,1757010584274,r,82, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",3,1757010584226,1757010584390,e,69, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",4,1757010584486,1757010584602,a,65, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",5,1757010586065,1757010586241,t,84, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",6,1757010586257,1757010586397,e,69, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",7,1757010592437,1757010592534, ,32, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",8,1757010592983,1757010593119,a,65, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",9,1757010593108,1757010593227, ,32, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",10,1757010593250,1757010593357,s,83, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",11,1757010593365,1757010593453,h,72, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",12,1757010593574,1757010593637,o,79, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",13,1757010593645,1757010593817,r,82, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",14,1757010593806,1757010593922,t,84, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",15,1757010593926,1757010594037, ,32, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",16,1757010595501,1757010595695,s,83, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",17,1757010595631,1757010595756,t,84, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",18,1757010595760,1757010595855,o,79, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",19,1757010595894,1757010596042,r,82, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",20,1757010596870,1757010596993,y,89, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",21,1757010597162,1757010597274, ,32, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",22,1757010597413,1757010597556,a,65, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",23,1757010598067,1757010598168,b,66, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",24,1757010598172,1757010598279,o,79, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",25,1757010598550,1757010598673,u,85, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",26,1757010598689,1757010598833,t,84, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",27,1757010598943,1757010599071, ,32, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",28,1757010599185,1757010599325,a,65, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",29,1757010599293,1757010599369, ,32, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",30,1757010599753,1757010599877,t,84, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",31,1757010599918,1757010600035,u,85, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",32,1757010600123,1757010600199,r,82, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",33,1757010600391,1757010600463,t,84, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",34,1757010600567,1757010600703,l,76, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",35,1757010603697,1757010603836,e,69, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",36,1757010604398,1757010604493,",",188, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",37,1757010604550,1757010604636, ,32, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",38,1757010609707,1757010609763,s,83, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",39,1757010609866,1757010609982,o,79, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",40,1757010610278,1757010610322,Backspace,8, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",41,1757010610632,1757010610708,h,72, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",42,1757010610695,1757010610787,o,79, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",43,1757010610926,1757010611028,u,85, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",44,1757010611176,1757010611260,l,76, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",45,1757010612154,1757010612249,d,68, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",46,1757010612364,1757010612484, ,32, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",47,1757010612698,1757010612769,b,66, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",48,1757010612906,1757010613039,e,69, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",49,1757010613026,1757010613116, ,32, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",50,1757010614016,1757010614115,c,67, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",51,1757010614417,1757010614561,a,65, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",52,1757010614795,1757010615022,l,76, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",53,1757010617213,1757010617404,m,77, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",54,1757010618130,1757010618314, ,32, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",55,1757010620294,1757010620471,a,65, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",56,1757010620467,1757010620565,n,78, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",57,1757010620589,1757010620733,d,68, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",58,1757010620716,1757010620835, ,32, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",59,1757010620921,1757010621019,e,69, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",60,1757010621155,1757010621342,a,65, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",61,1757010621271,1757010621438,s,83, weekly, physical-keyboard
+667ed7eb53e109339bf80baa,text-to-prompt,1,2,7,"Create a short story about a turtle, should be calm and easy","[0,35]","[37,60]",62,1757010621363,1757010621467,y,89, weekly, physical-keyboard

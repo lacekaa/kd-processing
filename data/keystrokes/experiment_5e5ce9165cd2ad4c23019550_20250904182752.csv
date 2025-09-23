@@ -1,0 +1,71 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",0,1757010428840,1757010429071,Shift,16, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",1,1757010429005,1757010429119,W,87, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",2,1757010429304,1757010429430,r,82, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",3,1757010429428,1757010429564,i,73, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",4,1757010429561,1757010429688,t,84, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",5,1757010429654,1757010429801,e,69, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",6,1757010429803,1757010429897, ,32, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",7,1757010429971,1757010430096,a,65, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",8,1757010430063,1757010430183, ,32, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",9,1757010430804,1757010430962,s,83, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",10,1757010430913,1757010431025,h,72, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",11,1757010430991,1757010431163,o,79, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",12,1757010431061,1757010431151,r,82, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",13,1757010431253,1757010431365,t,84, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",14,1757010431371,1757010431463, ,32, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",15,1757010431487,1757010431595,s,83, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",16,1757010431561,1757010431661,t,84, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",17,1757010431681,1757010431798,o,79, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",18,1757010431801,1757010431898,r,82, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",19,1757010431976,1757010432101,y,89, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",20,1757010432083,1757010432193, ,32, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",21,1757010432188,1757010432291,a,65, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",22,1757010432390,1757010432478,b,66, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",23,1757010432466,1757010432637,o,79, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",24,1757010432585,1757010432706,u,85, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",25,1757010432647,1757010432775,t,84, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",26,1757010432788,1757010432888, ,32, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",27,1757010433406,1757010433545,a,65, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",28,1757010433569,1757010433662, ,32, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",29,1757010433640,1757010433744,t,84, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",30,1757010433776,1757010433911,u,85, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",31,1757010433882,1757010433965,r,82, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",32,1757010434091,1757010434187,t,84, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",33,1757010434209,1757010434304,h,72, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",34,1757010434335,1757010434478,e,69, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",35,1757010434714,1757010434826,Backspace,8, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",36,1757010435002,1757010435146,l,76, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",37,1757010435089,1757010435173,e,69, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",38,1757010435192,1757010435271, ,32, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",39,1757010435595,1757010435651,Backspace,8, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",40,1757010435750,1757010435820,Backspace,8, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",41,1757010435925,1757010436004,Backspace,8, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",42,1757010436101,1757010436254,Backspace,8, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",43,1757010436491,1757010436631,l,76, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",44,1757010436593,1757010436690,e,69, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",45,1757010436692,1757010436793, ,32, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",46,1757010436933,1757010437053,w,87, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",47,1757010436995,1757010437136,a,65, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",48,1757010437209,1757010437397,l,76, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",49,1757010437501,1757010437621,k,75, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",50,1757010437813,1757010437999,i,73, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",51,1757010438027,1757010438150,n,78, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",52,1757010438336,1757010438463,g,71, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",53,1757010438548,1757010438669, ,32, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",54,1757010439653,1757010439787,a,65, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",55,1757010439738,1757010439810,l,76, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",56,1757010439923,1757010440097,o,79, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",57,1757010440057,1757010440174,n,78, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",58,1757010440115,1757010440242,g,71, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",59,1757010440235,1757010440320, ,32, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",60,1757010440378,1757010440487,t,84, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",61,1757010440456,1757010440569,h,72, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",62,1757010440563,1757010440661,e,69, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",63,1757010440640,1757010440741, ,32, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",64,1757010440803,1757010440897,r,82, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",65,1757010440911,1757010441020,i,73, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",66,1757010441059,1757010441151,v,86, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",67,1757010441140,1757010441291,e,69, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",68,1757010441293,1757010441376,r,82, rarely, physical-keyboard
+5e5ce9165cd2ad4c23019550,text-to-prompt,1,7,3,Write a short story about a turtle walking along the river.,"[0,34]","[35,59]",69,1757010442859,1757010442934,.,190, rarely, physical-keyboard

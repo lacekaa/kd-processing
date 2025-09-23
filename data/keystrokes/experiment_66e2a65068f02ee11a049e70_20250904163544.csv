@@ -1,0 +1,49 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",0,1757003708769,1757003708903,b,66, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",1,1757003709232,1757003709363,e,69, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",2,1757003709478,1757003709576,a,65, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",3,1757003710023,1757003710275,u,85, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",4,1757003710390,1757003710510,t,84, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",5,1757003710999,1757003711137,i,73, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",6,1757003711317,1757003711431,f,70, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",7,1757003711802,1757003711886,u,85, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",8,1757003712142,1757003712260,l,76, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",9,1757003712575,1757003712781, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",10,1757003713465,1757003713603,a,65, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",11,1757003714032,1757003714150,r,82, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",12,1757003714779,1757003714894,c,67, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",13,1757003715058,1757003715198,h,72, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",14,1757003715396,1757003715578,i,73, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",15,1757003715787,1757003715858,t,84, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",16,1757003716048,1757003716133,e,69, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",17,1757003716407,1757003716551,c,67, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",18,1757003716767,1757003716888,t,84, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",19,1757003717222,1757003717431, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",20,1757003718727,1757003718831,t,84, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",21,1757003718952,1757003719103,h,72, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",22,1757003719302,1757003719420,a,65, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",23,1757003719663,1757003719829,t,84, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",24,1757003720146,1757003720301, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",25,1757003720559,1757003720690,c,67, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",26,1757003720876,1757003720975,a,65, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",27,1757003721342,1757003721467,t,84, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",28,1757003721604,1757003721726,c,67, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",29,1757003721884,1757003722064,h,72, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",30,1757003722262,1757003722386,e,69, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",31,1757003722520,1757003722621,s,83, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",32,1757003722998,1757003723231, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",33,1757003723832,1757003723943,y,89, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",34,1757003724114,1757003724376,o,79, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",35,1757003724333,1757003724471,u,85, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",36,1757003724658,1757003724753,r,82, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",37,1757003725065,1757003725227, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",38,1757003725568,1757003725693,e,69, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",39,1757003725997,1757003726137,y,89, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",40,1757003726352,1757003726468,e,69, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",41,1757003726944,1757003727036,s,83, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",42,1757003727519,1757003727662,i,73, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",43,1757003727865,1757003727973,g,71, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",44,1757003728053,1757003728181,h,72, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",45,1757003728319,1757003728420,t,84, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",46,1757003728943,1757003729171, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,0,2,4,beautiful architect that catches your eyesight .,"[0,20]","[38,47]",47,1757003730633,1757003730731,.,190, daily, physical-keyboard

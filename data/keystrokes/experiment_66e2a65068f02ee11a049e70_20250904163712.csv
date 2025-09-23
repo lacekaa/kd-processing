@@ -1,0 +1,55 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",0,1757003791205,1757003791404,p,80, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",1,1757003791384,1757003791550,l,76, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",2,1757003791853,1757003791964,e,69, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",3,1757003792081,1757003792195,a,65, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",4,1757003792283,1757003792381,s,83, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",5,1757003792478,1757003792586,e,69, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",6,1757003792950,1757003793140, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",7,1757003793792,1757003793896,s,83, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",8,1757003794251,1757003794362,u,85, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",9,1757003794605,1757003794700,b,66, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",10,1757003795022,1757003795153,m,77, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",11,1757003795375,1757003795476,i,73, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",12,1757003795633,1757003795721,t,84, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",13,1757003795971,1757003796201, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",14,1757003796774,1757003796872,d,68, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",15,1757003797203,1757003797291,i,73, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",16,1757003797506,1757003797643,c,67, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",17,1757003797972,1757003798083,u,85, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",18,1757003798521,1757003798524,m,77, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",19,1757003798935,1757003799000,e,69, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",20,1757003799444,1757003799579,n,78, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",21,1757003799733,1757003799858,t,84, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",22,1757003799987,1757003800092,s,83, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",23,1757003800280,1757003800503, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",24,1757003801443,1757003801585,b,66, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",25,1757003801678,1757003801799,y,89, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",26,1757003801942,1757003802089, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",27,1757003802231,1757003802351,f,70, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",28,1757003802467,1757003802562,r,82, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",29,1757003802871,1757003803038,i,73, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",30,1757003803262,1757003803357,d,68, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",31,1757003803515,1757003803613,a,65, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",32,1757003804086,1757003804183,y,89, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",33,1757003804432,1757003804635, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",34,1757003805745,1757003805829,e,69, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",35,1757003806181,1757003806328,l,76, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",36,1757003806583,1757003806698,s,83, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",37,1757003806784,1757003806907,e,69, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",38,1757003807112,1757003807299, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",39,1757003807791,1757003807907,y,89, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",40,1757003808052,1757003808279,o,79, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",41,1757003808223,1757003808345,u,85, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",42,1757003808589,1757003808753, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",43,1757003809119,1757003809231,a,65, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",44,1757003809409,1757003809547,r,82, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",45,1757003809644,1757003809735,e,69, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",46,1757003810110,1757003810307, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",47,1757003810702,1757003810800,f,70, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",48,1757003811080,1757003811224,i,73, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",49,1757003811411,1757003811510,r,82, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",50,1757003811632,1757003811717,e,69, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",51,1757003811979,1757003812057,d,68, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",52,1757003817966,1757003818048,Backspace,8, daily, physical-keyboard
+66e2a65068f02ee11a049e70,text-to-prompt,0,3,4,please submit documents by friday else you are fired,"[0,33]","[47,52]",53,1757003818350,1757003818452,o,79, daily, physical-keyboard

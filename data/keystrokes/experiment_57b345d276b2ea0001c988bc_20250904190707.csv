@@ -1,0 +1,39 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+57b345d276b2ea0001c988bc,prompt-to-image,0,4,3,A picture of the countryside,"[17,28]","[2,9]",0,1757012803933,1757012804060,CapsLock,20, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,0,4,3,A picture of the countryside,"[17,28]","[2,9]",1,1757012804116,1757012804210,A,65, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,0,4,3,A picture of the countryside,"[17,28]","[2,9]",2,1757012804152,1757012804175,Q,81, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,0,4,3,A picture of the countryside,"[17,28]","[2,9]",3,1757012804247,1757012804333,CapsLock,20, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,0,4,3,A picture of the countryside,"[17,28]","[2,9]",4,1757012804837,1757012804948,Backspace,8, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,0,4,3,A picture of the countryside,"[17,28]","[2,9]",5,1757012805302,1757012805342, ,32, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,0,4,3,A picture of the countryside,"[17,28]","[2,9]",6,1757012806145,1757012806245,c,67, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,0,4,3,A picture of the countryside,"[17,28]","[2,9]",7,1757012807445,1757012807523,Backspace,8, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,0,4,3,A picture of the countryside,"[17,28]","[2,9]",8,1757012807729,1757012807804,p,80, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,0,4,3,A picture of the countryside,"[17,28]","[2,9]",9,1757012808016,1757012808115,i,73, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,0,4,3,A picture of the countryside,"[17,28]","[2,9]",10,1757012808346,1757012808436,c,67, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,0,4,3,A picture of the countryside,"[17,28]","[2,9]",11,1757012809104,1757012809178,t,84, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,0,4,3,A picture of the countryside,"[17,28]","[2,9]",12,1757012809358,1757012809439,u,85, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,0,4,3,A picture of the countryside,"[17,28]","[2,9]",13,1757012809867,1757012809935,r,82, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,0,4,3,A picture of the countryside,"[17,28]","[2,9]",14,1757012810026,1757012810110,e,69, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,0,4,3,A picture of the countryside,"[17,28]","[2,9]",15,1757012810140,1757012810180, ,32, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,0,4,3,A picture of the countryside,"[17,28]","[2,9]",16,1757012810652,1757012810762,o,79, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,0,4,3,A picture of the countryside,"[17,28]","[2,9]",17,1757012810893,1757012810984,f,70, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,0,4,3,A picture of the countryside,"[17,28]","[2,9]",18,1757012811034,1757012811113, ,32, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,0,4,3,A picture of the countryside,"[17,28]","[2,9]",19,1757012811249,1757012811359,t,84, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,0,4,3,A picture of the countryside,"[17,28]","[2,9]",20,1757012811390,1757012811474,h,72, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,0,4,3,A picture of the countryside,"[17,28]","[2,9]",21,1757012811570,1757012811675,e,69, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,0,4,3,A picture of the countryside,"[17,28]","[2,9]",22,1757012811680,1757012811750, ,32, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,0,4,3,A picture of the countryside,"[17,28]","[2,9]",23,1757012811973,1757012812081,c,67, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,0,4,3,A picture of the countryside,"[17,28]","[2,9]",24,1757012812162,1757012812247,o,79, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,0,4,3,A picture of the countryside,"[17,28]","[2,9]",25,1757012812407,1757012812512,u,85, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,0,4,3,A picture of the countryside,"[17,28]","[2,9]",26,1757012812667,1757012812702,m,77, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,0,4,3,A picture of the countryside,"[17,28]","[2,9]",27,1757012812673,1757012812713,n,78, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,0,4,3,A picture of the countryside,"[17,28]","[2,9]",28,1757012813585,1757012813675,Backspace,8, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,0,4,3,A picture of the countryside,"[17,28]","[2,9]",29,1757012814018,1757012814061,Backspace,8, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,0,4,3,A picture of the countryside,"[17,28]","[2,9]",30,1757012814971,1757012815104,n,78, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,0,4,3,A picture of the countryside,"[17,28]","[2,9]",31,1757012815382,1757012815497,t,84, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,0,4,3,A picture of the countryside,"[17,28]","[2,9]",32,1757012815607,1757012815697,r,82, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,0,4,3,A picture of the countryside,"[17,28]","[2,9]",33,1757012815733,1757012815838,y,89, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,0,4,3,A picture of the countryside,"[17,28]","[2,9]",34,1757012816194,1757012816347,s,83, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,0,4,3,A picture of the countryside,"[17,28]","[2,9]",35,1757012816520,1757012816620,i,73, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,0,4,3,A picture of the countryside,"[17,28]","[2,9]",36,1757012816650,1757012816735,d,68, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-image,0,4,3,A picture of the countryside,"[17,28]","[2,9]",37,1757012816841,1757012816899,e,69, never, physical-keyboard

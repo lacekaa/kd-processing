@@ -1,0 +1,45 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",0,1757005038634,1757005038703,CapsLock,20, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",1,1757005038807,1757005038875,M,77, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",2,1757005038939,1757005039007,CapsLock,20, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",3,1757005039107,1757005039171,o,79, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",4,1757005039327,1757005039391,u,85, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",5,1757005039683,1757005039743,n,78, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",6,1757005040015,1757005040071,t,84, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",7,1757005040179,1757005040239,a,65, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",8,1757005040531,1757005040595,i,73, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",9,1757005040748,1757005040828,n,78, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",10,1757005042897,1757005042981, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",11,1757005043797,1757005043857,l,76, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",12,1757005043909,1757005043973,a,65, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",13,1757005044065,1757005044121,k,75, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",14,1757005044253,1757005044293,e,69, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",15,1757005044441,1757005044509, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",16,1757005044577,1757005044650,w,87, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",17,1757005044754,1757005044814,i,73, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",18,1757005045030,1757005045086,t,84, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",19,1757005045234,1757005045302,h,72, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",20,1757005045446,1757005045554, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",21,1757005047439,1757005047511,d,68, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",22,1757005047815,1757005047875,u,85, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",23,1757005048220,1757005048292,c,67, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",24,1757005048388,1757005048452,k,75, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",25,1757005048772,1757005048848,s,83, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",26,1757005048924,1757005048992, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",27,1757005049092,1757005049164,a,65, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",28,1757005049296,1757005049360,n,78, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",29,1757005049444,1757005049512,d,68, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",30,1757005049544,1757005049616, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",31,1757005049908,1757005049973,p,80, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",32,1757005050121,1757005050189,i,73, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",33,1757005050341,1757005050413,n,78, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",34,1757005050533,1757005050601,e,69, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",35,1757005050705,1757005050777, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",36,1757005052398,1757005052462,t,84, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",37,1757005052558,1757005052618,r,82, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",38,1757005052858,1757005052930,e,69, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",39,1757005053010,1757005053086,e,69, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",40,1757005053190,1757005053278,s,83, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",41,1757005053654,1757005053794, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",42,1757005054482,1757005054562,Backspace,8, weekly, physical-keyboard
+668bdb8e7e4e833357646124,image-to-prompt,1,2,5,Mountain lake with ducks and pine trees.,"[9,39]","[0,8]",43,1757005054859,1757005054923,.,190, weekly, physical-keyboard

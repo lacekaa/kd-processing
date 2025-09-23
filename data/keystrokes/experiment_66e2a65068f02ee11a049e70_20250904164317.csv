@@ -1,0 +1,57 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",0,1757004149221,1757004149362,m,77, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",1,1757004149817,1757004149929,a,65, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",2,1757004150405,1757004150624,k,75, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",3,1757004150813,1757004150925,e,69, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",4,1757004151172,1757004151412, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",5,1757004151727,1757004151833,a,65, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",6,1757004152345,1757004152482,n,78, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",7,1757004152590,1757004152776, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",8,1757004153053,1757004153203,i,73, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",9,1757004153450,1757004153607,m,77, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",10,1757004154030,1757004154121,a,65, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",11,1757004154673,1757004154811,g,71, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",12,1757004154973,1757004155069,e,69, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",13,1757004155370,1757004155537, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",14,1757004156099,1757004156253,o,79, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",15,1757004156534,1757004156600,f,70, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",16,1757004156819,1757004157031, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",17,1757004157592,1757004157770,a,65, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",18,1757004157955,1757004158099,e,69, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",19,1757004158252,1757004158377,r,82, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",20,1757004159485,1757004159610,o,79, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",21,1757004159741,1757004159944,p,80, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",22,1757004159941,1757004160207,l,76, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",23,1757004160647,1757004160808,a,65, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",24,1757004161950,1757004162124,n,78, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",25,1757004162530,1757004162643,e,69, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",26,1757004163033,1757004163321, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",27,1757004164921,1757004164990,f,70, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",28,1757004165581,1757004165750,l,76, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",29,1757004166061,1757004166146,y,89, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",30,1757004166304,1757004166488,i,73, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",31,1757004166613,1757004166986,n,78, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",32,1757004167368,1757004167448,g,71, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",33,1757004167627,1757004167892, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",34,1757004169351,1757004169430,t,84, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",35,1757004169548,1757004169673,h,72, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",36,1757004169814,1757004169896,r,82, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",37,1757004170524,1757004170649,o,79, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",38,1757004170818,1757004170952,u,85, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",39,1757004171189,1757004171292,g,71, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",40,1757004171374,1757004171492,h,72, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",41,1757004171649,1757004171890, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",42,1757004172711,1757004172819,s,83, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",43,1757004173195,1757004173366,t,84, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",44,1757004173499,1757004173591,r,82, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",45,1757004174247,1757004174405,o,79, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",46,1757004174542,1757004174748,n,78, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",47,1757004174892,1757004174971,g,71, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",48,1757004175134,1757004175265, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",49,1757004175581,1757004175728,w,87, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",50,1757004176346,1757004176484,i,73, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",51,1757004176585,1757004176814,n,78, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",52,1757004177463,1757004177613,d,68, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",53,1757004177719,1757004177817,s,83, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",54,1757004178104,1757004178272, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-image,1,7,4,make an image of aeroplane flying through strong winds .,"[0,33]","[42,56]",55,1757004181265,1757004181340,.,190, daily, physical-keyboard

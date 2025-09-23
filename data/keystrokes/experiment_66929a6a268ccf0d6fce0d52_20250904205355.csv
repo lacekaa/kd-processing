@@ -1,0 +1,62 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",0,1757019190824,1757019190959,h,72, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",1,1757019191071,1757019191176,a,65, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",2,1757019191426,1757019191543,v,86, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",3,1757019191771,1757019191904,e,69, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",4,1757019191961,1757019192048, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",5,1757019192480,1757019192603,y,89, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",6,1757019192623,1757019192755,o,79, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",7,1757019193082,1757019193186,u,85, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",8,1757019193403,1757019193490, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",9,1757019193973,1757019194095,g,71, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",10,1757019194142,1757019194239,o,79, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",11,1757019194425,1757019194511,t,84, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",12,1757019194611,1757019194708, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",13,1757019195069,1757019195192,a,65, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",14,1757019195212,1757019195291, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",15,1757019198562,1757019198640,s,83, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",16,1757019198843,1757019198930,p,80, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",17,1757019199287,1757019199373,i,73, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",18,1757019199689,1757019199785,n,78, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",19,1757019200008,1757019200104,a,65, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",20,1757019200329,1757019200427,c,67, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",21,1757019200813,1757019200954,h,72, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",22,1757019201179,1757019201320, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",23,1757019201923,1757019202020,e,69, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",24,1757019202278,1757019202395,w,87, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",25,1757019203049,1757019203155,i,73, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",26,1757019203471,1757019203603,p,80, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",27,1757019203746,1757019203890,w,87, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",28,1757019205300,1757019206264,Shift,16, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",29,1757019205818,1757019221376,Shift,16, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",30,1757019205852,0,Shift,16, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",31,1757019205886,0,Shift,16, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",32,1757019205920,0,Shift,16, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",33,1757019205955,0,Shift,16, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",34,1757019205990,0,Shift,16, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",35,1757019206024,0,Shift,16, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",36,1757019206058,0,Shift,16, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",37,1757019206091,0,Shift,16, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",38,1757019206125,0,Shift,16, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",39,1757019206160,0,Shift,16, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",40,1757019206165,1757019206313,>,190, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",41,1757019207620,1757019207732,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",42,1757019207885,1757019208007,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",43,1757019208156,1757019208263,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",44,1757019208434,1757019208549,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",45,1757019208790,1757019208996,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",46,1757019209239,1757019209397,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",47,1757019210197,1757019210339,r,82, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",48,1757019210763,1757019210978,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",49,1757019211138,1757019211324,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",50,1757019212284,1757019212407,Backspace,8, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",51,1757019212774,1757019212909,c,67, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",52,1757019213340,1757019213607,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",53,1757019213696,1757019213828,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",54,1757019215699,1757019215912,e,69, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",55,1757019216630,1757019216870,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",56,1757019217601,1757019217688,Backspace,8, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",57,1757019218573,1757019218732,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",58,1757019219662,1757019219758,Backspace,8, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",59,1757019220879,0,Shift,16, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-image,1,3,7,have you got a spinach recipe?,"[15,23]","[5,9]",60,1757019221215,1757019221377,?,191, never, physical-keyboard

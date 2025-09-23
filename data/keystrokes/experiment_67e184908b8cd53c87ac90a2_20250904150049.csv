@@ -1,0 +1,76 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",0,1756997929012,1756997929070,CapsLock,20, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",1,1756997929575,1756997929660,W,87, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",2,1756997929847,1756997929921,CapsLock,20, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",3,1756997930179,1756997930223,r,82, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",4,1756997930582,1756997930685,i,73, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",5,1756997930949,1756997931065,t,84, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",6,1756997931236,1756997931320,e,69, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",7,1756997931603,1756997931704, ,32, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",8,1756997931981,1756997932036,d,68, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",9,1756997932637,1756997932698,Backspace,8, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",10,1756997933129,1756997933196,f,70, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",11,1756997933535,1756997933617,o,79, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",12,1756997933855,1756997933925,r,82, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",13,1756997934178,1756997934239, ,32, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",14,1756997934722,1756997934784,m,77, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",15,1756997935053,1756997935099,e,69, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",16,1756997935341,1756997935411, ,32, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",17,1756997935731,1756997935780,a,65, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",18,1756997936021,1756997936082, ,32, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",19,1756997936384,1756997936445,s,83, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",20,1756997936849,1756997936908,h,72, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",21,1756997937204,1756997937259,o,79, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",22,1756997937514,1756997937585,r,82, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",23,1756997937681,1756997937768,t,84, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",24,1756997938027,1756997938095, ,32, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",25,1756997939053,1756997939126,p,80, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",26,1756997939489,1756997939561,a,65, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",27,1756997939669,1756997939738,s,83, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",28,1756997939818,1756997939882,s,83, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",29,1756997939982,1756997940048,a,65, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",30,1756997940595,1756997940665,g,71, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",31,1756997940860,1756997940926,e,69, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",32,1756997941148,1756997941210, ,32, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",33,1756997941417,1756997941484,a,65, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",34,1756997941845,1756997941916,b,66, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",35,1756997942206,1756997942276,o,79, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",36,1756997942454,1756997942521,u,85, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",37,1756997942700,1756997942769,t,84, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",38,1756997943001,1756997943056, ,32, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",39,1756997943484,1756997943549,a,65, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",40,1756997943750,1756997943825, ,32, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",41,1756997944038,1756997944099,t,84, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",42,1756997944473,1756997944542,u,85, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",43,1756997944852,1756997944917,r,82, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",44,1756997945043,1756997945134,t,84, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",45,1756997946807,1756997946881,l,76, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",46,1756997947214,1756997947262,e,69, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",47,1756997953870,1756997953999, ,32, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",48,1756997955065,1756997955144,w,87, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",49,1756997955239,1756997955318,a,65, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",50,1756997955789,1756997955860,l,76, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",51,1756997955983,1756997956054,k,75, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",52,1756997956169,1756997956235,i,73, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",53,1756997956439,1756997956501,n,78, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",54,1756997956707,1756997956768,g,71, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",55,1756997957362,1756997957485, ,32, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",56,1756997958574,1756997958630,a,65, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",57,1756997959027,1756997959085,l,76, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",58,1756997959283,0,o,79, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",59,1756997959627,1756997959670,n,78, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",60,1756997959980,1756997960043,g,71, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",61,1756997960251,1756997960323, ,32, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",62,1756997961469,1756997961544,a,65, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",63,1756997961877,1756997961949, ,32, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",64,1756997962621,1756997962684,r,82, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",65,1756997963789,1756997963866,i,73, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",66,1756997964170,1756997964230,v,86, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",67,1756997964470,1756997964542,e,69, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",68,1756997964620,1756997964706,r,82, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",69,1756997965025,1756997965094,b,66, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",70,1756997965383,1756997965432,a,65, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",71,1756997966002,1756997966075,n,78, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",72,1756997966314,1756997966387,k,75, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",73,1756997971676,1756997971793,.,190, weekly, physical-keyboard
+67e184908b8cd53c87ac90a2,text-to-prompt,1,2,7,Write for me a short passage about a turtle walking along a riverbank.,"[37,69]","[15,28]",74,1756997972391,1756997972491, ,32, weekly, physical-keyboard

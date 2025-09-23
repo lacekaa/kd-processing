@@ -1,0 +1,543 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",0,1757000051511,1757000051667,Shift,16, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",1,1757000051602,1757000051682,A,65, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",2,1757000053349,1757000053464, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",3,1757000053652,1757000053728,m,77, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",4,1757000053751,1757000053832,a,65, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",5,1757000053822,1757000053894,n,78, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",6,1757000053972,1757000054054, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",7,1757000054042,1757000054160,a,65, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",8,1757000054167,1757000054238,n,78, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",9,1757000054271,1757000054339,d,68, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",10,1757000054354,1757000054426, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",11,1757000054457,1757000054558,a,65, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",12,1757000054520,1757000054582, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",13,1757000054925,1757000055005,w,87, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",14,1757000055046,1757000055120,o,79, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",15,1757000055211,1757000055271,m,77, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",16,1757000055289,1757000055380,a,65, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",17,1757000055356,1757000055424,n,78, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",18,1757000055523,1757000055595, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",19,1757000056089,1757000056147,s,83, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",20,1757000056177,1757000056252,i,73, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",21,1757000056311,1757000056379,t,84, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",22,1757000056442,1757000056521,t,84, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",23,1757000056500,1757000056566,i,73, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",24,1757000056669,1757000056729,n,78, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",25,1757000056748,1757000056814,g,71, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",26,1757000056832,1757000056889, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",27,1757000056979,1757000057046,n,78, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",28,1757000057040,1757000057104,e,69, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",29,1757000057244,1757000057298,x,88, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",30,1757000057405,1757000057484,t,84, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",31,1757000057721,1757000057834, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",32,1757000057951,1757000058029,t,84, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",33,1757000058042,1757000058110,o,79, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",34,1757000058232,1757000058300, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",35,1757000058307,1757000058375,e,69, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",36,1757000058494,1757000058585,a,65, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",37,1757000058621,1757000058710,c,67, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",38,1757000058745,1757000058803,h,72, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",39,1757000058917,1757000058978, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",40,1757000059169,1757000059230,o,79, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",41,1757000059278,1757000059350,t,84, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",42,1757000059381,1757000059454,h,72, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",43,1757000059463,1757000059573,e,69, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",44,1757000059541,1757000059608,r,82, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",45,1757000059603,1757000059677, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",46,1757000059764,1757000059874,a,65, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",47,1757000059974,1757000060068,t,84, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",48,1757000060484,1757000060599, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",49,1757000060768,1757000060850,t,84, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",50,1757000060913,1757000060968,h,72, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",51,1757000061255,1757000061325,e,69, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",52,1757000061368,1757000061429, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",53,1757000061701,1757000061767,b,66, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",54,1757000061792,1757000061834,u,85, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",55,1757000062362,1757000062468,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",56,1757000062828,1757000062899,i,73, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",57,1757000062894,1757000062973,g,71, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",58,1757000062995,1757000063110, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",59,1757000063234,1757000063300,o,79, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",60,1757000063359,1757000063421,f,70, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",61,1757000063478,1757000063531,f,70, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",62,1757000063598,1757000063670,f,70, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",63,1757000063951,1757000064022,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",64,1757000064138,1757000064219,i,73, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",65,1757000064227,1757000064319,c,67, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",66,1757000064270,1757000064358,e,69, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",67,1757000064412,1757000064496,",",188, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",68,1757000064810,1757000064879,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",69,1757000065229,1757000065294,.,190, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",70,1757000065442,1757000065577, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",71,1757000067010,1757000067210,Shift,16, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",72,1757000067158,1757000067214,T,84, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",73,1757000067416,1757000067493,h,72, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",74,1757000067512,1757000067577,e,69, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",75,1757000067664,1757000067777,y,89, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",76,1757000067785,1757000067837, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",77,1757000068891,1757000068957,h,72, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",78,1757000068895,1757000068916,j,74, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",79,1757000068974,1757000069054,a,65, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",80,1757000069075,1757000069176,v,86, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",81,1757000069178,1757000069279,e,69, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",82,1757000069515,1757000069574,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",83,1757000069652,1757000069718,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",84,1757000069798,1757000069862,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",85,1757000070169,1757000070223,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",86,1757000070259,1757000070358,a,65, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",87,1757000070316,1757000070436,v,86, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",88,1757000070429,1757000070532,e,69, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",89,1757000070516,1757000070580, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",90,1757000084444,1757000084547,d,68, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",91,1757000084571,1757000084656,e,69, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",92,1757000084720,1757000084831,s,83, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",93,1757000084823,1757000084924,k,75, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",94,1757000085497,1757000085614,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",95,1757000085704,1757000085777,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",96,1757000085864,1757000085927,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",97,1757000086013,1757000086066,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",98,1757000086172,1757000086219,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",99,1757000086488,1757000087177,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",100,1757000086994,1757000087393,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",101,1757000087026,1757000087553,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",102,1757000087058,1757000089352,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",103,1757000087090,1757000089510,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",104,1757000087122,1757000089645,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",105,1757000087153,1757000089787,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",106,1757000087305,1757000095817,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",107,1757000087475,1757000096729,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",108,1757000088241,1757000088670,Shift,16, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",109,1757000088577,1757000088661,I,73, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",110,1757000088783,1757000088847,n,78, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",111,1757000088951,1757000089014, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",112,1757000089276,1757000099480,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",113,1757000089428,1757000102350,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",114,1757000089576,1757000102520,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",115,1757000089723,1757000133948,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",116,1757000090160,1757000090283, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",117,1757000090412,1757000090579,Shift,16, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",118,1757000090521,1757000090597,T,84, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",119,1757000090700,1757000090781,h,72, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",120,1757000090732,1757000090805,e,69, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",121,1757000090908,1757000091012,y,89, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",122,1757000091014,1757000091079, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",123,1757000091231,1757000091306,a,65, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",124,1757000091561,1757000091659,r,82, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",125,1757000091612,1757000091736,e,69, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",126,1757000091769,1757000091845, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",127,1757000092060,1757000092146,l,76, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",128,1757000092246,1757000092307,o,79, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",129,1757000092331,1757000092419,c,67, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",130,1757000092452,1757000092524,k,75, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",131,1757000092562,1757000092642,e,69, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",132,1757000092814,1757000092911,d,68, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",133,1757000092974,1757000093014, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",134,1757000093171,1757000093247,i,73, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",135,1757000093358,1757000093435,n,78, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",136,1757000093527,1757000093601, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",137,1757000095734,1757000135675,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",138,1757000095979,1757000096097, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",139,1757000096647,1757000135798,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",140,1757000096746,1757000096819,t,84, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",141,1757000096873,1757000096933,o,79, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",142,1757000097018,1757000097160, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",143,1757000097759,1757000097818,m,77, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",144,1757000097919,1757000097990,o,79, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",145,1757000098483,1757000135993,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",146,1757000098991,1757000136163,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",147,1757000099023,1757000138227,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",148,1757000099054,1757000138486,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",149,1757000099086,1757000138652,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",150,1757000099118,1757000139965,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",151,1757000099150,1757000140359,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",152,1757000099182,1757000145385,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",153,1757000099228,1757000146449,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",154,1757000099260,1757000146599,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",155,1757000099292,1757000147660,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",156,1757000099325,1757000147784,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",157,1757000099356,1757000147911,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",158,1757000099388,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",159,1757000099420,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",160,1757000099452,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",161,1757000100515,1757000100597,e,69, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",162,1757000101078,1757000101149, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",163,1757000101162,1757000101283,w,87, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",164,1757000101243,1757000101339,a,65, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",165,1757000101541,1757000101628,t,84, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",166,1757000101845,1757000101930,h,72, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",167,1757000101962,1757000102038,c,67, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",168,1757000102281,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",169,1757000102421,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",170,1757000102532,1757000102636,c,67, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",171,1757000102833,1757000102942,h,72, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",172,1757000102987,1757000103069,i,73, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",173,1757000103179,1757000103260,n,78, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",174,1757000103393,1757000103512,g,71, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",175,1757000103566,1757000103600, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",176,1757000103866,1757000103950,t,84, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",177,1757000104097,1757000104161,h,72, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",178,1757000104190,1757000104275,e,69, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",179,1757000104365,1757000104438,i,73, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",180,1757000104549,1757000104615,r,82, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",181,1757000104612,1757000104695, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",182,1757000127424,1757000127517,m,77, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",183,1757000127544,1757000127618,o,79, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",184,1757000127699,1757000127781,n,78, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",185,1757000127868,1757000127957,i,73, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",186,1757000128011,1757000128077,t,84, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",187,1757000128120,1757000128194,o,79, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",188,1757000128230,1757000128306,r,82, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",189,1757000133444,1757000133522,-,189, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",190,1757000133877,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",191,1757000134056,1757000134139,.,190, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",192,1757000134300,1757000134651,Shift,16, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",193,1757000134452,1757000134564,Enter,13, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",194,1757000135057,1757000135151,b,66, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",195,1757000135124,1757000135203,e,69, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",196,1757000135296,1757000135396,g,71, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",197,1757000135392,1757000135471,i,73, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",198,1757000135609,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",199,1757000135732,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",200,1757000135922,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",201,1757000136102,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",202,1757000136403,1757000136576,Shift,16, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",203,1757000136501,1757000136586,B,66, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",204,1757000136572,1757000136662,E,69, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",205,1757000136709,1757000136787,h,72, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",206,1757000136796,1757000136873,i,73, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",207,1757000136955,1757000137032,n,78, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",208,1757000137028,1757000137105,d,68, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",209,1757000137133,1757000137207, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",210,1757000137226,1757000137342,a,65, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",211,1757000137299,1757000137358, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",212,1757000137588,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",213,1757000138093,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",214,1757000138125,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",215,1757000138156,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",216,1757000138188,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",217,1757000138220,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",218,1757000138379,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",219,1757000138578,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",220,1757000138863,1757000138945,e,69, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",221,1757000139146,1757000139240,h,72, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",222,1757000139531,1757000139586,u,85, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",223,1757000139920,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",224,1757000139923,1757000139966,ó,187, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",225,1757000140258,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",226,1757000140624,1757000140709,i,73, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",227,1757000140804,1757000140879,n,78, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",228,1757000140885,1757000140962,d,68, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",229,1757000140982,1757000141066, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",230,1757000141351,1757000141470,d,68, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",231,1757000141434,1757000141504,e,69, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",232,1757000141619,1757000141705,s,83, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",233,1757000141753,1757000141827,k,75, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",234,1757000141938,1757000142025,s,83, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",235,1757000142488,1757000142561, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",236,1757000142930,1757000143012,t,84, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",237,1757000143129,1757000143209,h,72, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",238,1757000143173,1757000143261,e,69, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",239,1757000143286,1757000143450,r,82, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",240,1757000143330,1757000143425,e,69, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",241,1757000143681,1757000143766, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",242,1757000143838,1757000143951,a,65, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",243,1757000143942,1757000144066,r,82, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",244,1757000144037,1757000144142,e,69, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",245,1757000144079,1757000144153, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",246,1757000144361,1757000144448,2,50, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",247,1757000144470,1757000144538, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",248,1757000144932,1757000144972,m,77, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",249,1757000145270,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",250,1757000145462,1757000145526,b,66, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",251,1757000145552,1757000145629,i,73, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",252,1757000145637,1757000145703,g,71, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",253,1757000145778,1757000145844, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",254,1757000145903,1757000146001,w,87, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",255,1757000145987,1757000146046,o,79, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",256,1757000145994,1757000146042,i,73, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",257,1757000146372,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",258,1757000146510,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",259,1757000146761,1757000146831,i,73, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",260,1757000146934,1757000147009,n,78, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",261,1757000147016,1757000147086,s,83, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",262,1757000147147,1757000147206,o,79, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",263,1757000147214,1757000147292,d,68, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",264,1757000147611,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",265,1757000147720,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",266,1757000147851,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",267,1757000148401,1757000148463,d,68, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",268,1757000148545,1757000148609,o,79, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",269,1757000148607,1757000148676,w,87, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,image-to-prompt,0,0,5,A man and a woman sitting next to each other at the big office. They are watching their monitor.
+Behind desks there are 2 big window.,"[2,17];[18,26];[126,132]","[26,44];[56,62];[88,95]",270,1757000148788,1757000148844,.,190, weekly, physical-keyboard

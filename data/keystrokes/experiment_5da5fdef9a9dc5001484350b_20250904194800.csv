@@ -1,0 +1,64 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",0,1757015238677,1757015239097,Shift,16, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",1,1757015238997,1757015239083,C,67, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",2,1757015239401,1757015239545,r,82, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",3,1757015239580,1757015239688,e,69, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",4,1757015239874,1757015239985,a,65, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",5,1757015240052,1757015240213,t,84, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",6,1757015240287,1757015240466,e,69, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",7,1757015240584,1757015240682, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",8,1757015240905,1757015241013,a,65, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",9,1757015241283,1757015241391,n,78, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",10,1757015241638,1757015241765, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",11,1757015241994,1757015242085,i,73, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",12,1757015242339,1757015242412,m,77, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",13,1757015242617,1757015242726,a,65, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",14,1757015242904,1757015243013,g,71, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",15,1757015243215,1757015243292,e,69, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",16,1757015243656,1757015243728, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",17,1757015243949,1757015244017,o,79, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",18,1757015244312,1757015244423,f,70, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",19,1757015246268,1757015246329,t,84, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",20,1757015246826,1757015246928,w,87, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",21,1757015247057,1757015247141,o,79, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",22,1757015247409,1757015247509, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",23,1757015248508,1757015248617,o,79, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",24,1757015248812,1757015248921,f,70, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",25,1757015249030,1757015249166,f,70, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",26,1757015249274,1757015249386,i,73, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",27,1757015249605,1757015249756,c,67, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",28,1757015249790,1757015249924,e,69, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",29,1757015250205,1757015250303, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",30,1757015250524,1757015250635,w,87, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",31,1757015250854,1757015250937,o,79, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",32,1757015251173,1757015251265,r,82, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",33,1757015251501,1757015251595,k,75, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",34,1757015251760,1757015251885,e,69, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",35,1757015252020,1757015252128,r,82, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",36,1757015252271,1757015252374,s,83, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",37,1757015253749,1757015253841, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",38,1757015254838,1757015254908, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",39,1757015255142,1757015255292,o,79, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",40,1757015255350,1757015255443,n,78, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",41,1757015255792,1757015255883, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",42,1757015256314,1757015256400,t,84, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",43,1757015257005,1757015257107,h,72, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",44,1757015257277,1757015257367,e,69, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",45,1757015257739,1757015257881,i,73, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",46,1757015258237,1757015258347,r,82, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",47,1757015258567,1757015258636, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",48,1757015258855,1757015258914,d,68, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",49,1757015259098,1757015259175,e,69, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",50,1757015259394,1757015259478,s,83, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",51,1757015259664,1757015259763,k,75, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",52,1757015260128,1757015260204, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",53,1757015261013,1757015261158,Backspace,8, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",54,1757015261538,1757015261589,s,83, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",55,1757015261893,1757015261983, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",56,1757015262263,1757015262382,a,65, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",57,1757015262407,1757015262524,t,84, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",58,1757015262708,1757015262809, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",59,1757015263224,1757015263326,w,87, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",60,1757015263502,1757015263561,o,79, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",61,1757015263814,1757015263891,r,82, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,image-to-prompt,0,6,0,Create an image of two office workers on their desks at work,"[19,37];[47,60]","[0,6]",62,1757015264454,1757015264615,k,75, daily, physical-keyboard

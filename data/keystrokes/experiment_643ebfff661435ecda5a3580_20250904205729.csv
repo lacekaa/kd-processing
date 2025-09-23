@@ -1,0 +1,62 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",0,1757019395652,1757019396131,Shift,16, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",1,1757019395972,1757019396215,S,83, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",2,1757019396234,1757019396449,h,72, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",3,1757019396381,1757019396566,e,69, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",4,1757019396619,1757019396837, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",5,1757019397016,1757019397304,c,67, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",6,1757019397324,1757019397610,a,65, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",7,1757019398160,1757019398336,n,78, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",8,1757019398460,1757019398615,e,69, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",9,1757019398759,1757019398936, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",10,1757019399545,1757019399728,a,65, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",11,1757019399931,1757019400139,c,67, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",12,1757019400291,1757019400482,r,82, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",13,1757019400603,1757019400821,i,73, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",14,1757019402047,1757019402172,Backspace,8, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",15,1757019403116,1757019403267,o,79, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",16,1757019403740,1757019403861,s,83, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",17,1757019403945,1757019404090,s,83, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",18,1757019404316,1757019404530, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",19,1757019405145,1757019405341,a,65, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",20,1757019405466,1757019405649, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",21,1757019405779,1757019405894,d,68, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",22,1757019406005,1757019406264,e,69, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",23,1757019406266,1757019406445,a,65, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",24,1757019406558,1757019406761,d,68, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",25,1757019406821,1757019407020, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",26,1757019407521,1757019407702,b,66, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",27,1757019407759,1757019407970,o,79, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",28,1757019408330,1757019408505,d,68, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",29,1757019408581,1757019408731,y,89, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",30,1757019408966,1757019409176, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",31,1757019414961,1757019415182,a,65, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",32,1757019415132,1757019415301,n,78, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",33,1757019415278,1757019415533,d,68, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",34,1757019415511,1757019415690, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",35,1757019416160,1757019416304,w,87, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",36,1757019416297,1757019416493,e,69, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",37,1757019416594,1757019416767,n,78, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",38,1757019416896,1757019417051,t,84, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",39,1757019417156,1757019417331, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",40,1757019417830,1757019417981,t,84, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",41,1757019417968,1757019418152,o,79, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",42,1757019418230,1757019418378, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",43,1757019418708,1757019418915,c,67, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",44,1757019418946,1757019419167,a,65, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",45,1757019419143,1757019419294,l,76, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",46,1757019419384,1757019419510,l,76, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",47,1757019419670,1757019419866, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",48,1757019420239,1757019420379,t,84, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",49,1757019420617,1757019420809,o,79, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",50,1757019421356,1757019421464,Backspace,8, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",51,1757019421853,1757019422009,h,72, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",52,1757019422041,1757019422212,e,69, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",53,1757019422290,1757019422485, ,32, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",54,1757019422696,1757019422901,p,80, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",55,1757019422964,1757019423164,o,79, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",56,1757019423507,1757019423713,l,76, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",57,1757019423845,1757019424063,i,73, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",58,1757019424034,1757019424229,c,67, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",59,1757019424366,1757019424549,e,69, never, physical-keyboard
+643ebfff661435ecda5a3580,prompt-to-text,1,6,5,She cane across a dead body and went to call the police.,"[32,56]","[18,27]",60,1757019426063,1757019426180,.,190, never, physical-keyboard

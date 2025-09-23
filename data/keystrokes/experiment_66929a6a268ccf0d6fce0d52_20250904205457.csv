@@ -1,0 +1,57 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",0,1757019254873,1757019255154,Shift,16, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",1,1757019255116,1757019255201,H,72, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",2,1757019255497,1757019255656,a,65, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",3,1757019255761,1757019255878,v,86, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",4,1757019256035,1757019256192,e,69, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",5,1757019256222,1757019256300, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",6,1757019256773,1757019256899,y,89, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",7,1757019256919,1757019257025,o,79, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",8,1757019257265,1757019257379,u,85, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",9,1757019257578,1757019257647, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",10,1757019257855,1757019257960,g,71, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",11,1757019258036,1757019258159,o,79, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",12,1757019258277,1757019258382,t,84, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",13,1757019258464,1757019258557, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",14,1757019258978,1757019259092,p,80, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",15,1757019259326,1757019259423,i,73, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",16,1757019259627,1757019259732,c,67, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",17,1757019260149,1757019260289,t,84, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",18,1757019260373,1757019260462,u,85, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",19,1757019260618,1757019260748,r,82, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",20,1757019260994,1757019261126,e,69, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",21,1757019261445,1757019261542,s,83, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",22,1757019261766,1757019261845, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",23,1757019262266,1757019262373,o,79, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",24,1757019262494,1757019262590,f,70, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",25,1757019262677,1757019262763, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",26,1757019262983,1757019263090,m,77, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",27,1757019263340,1757019263454,o,79, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",28,1757019263865,1757019263997,d,68, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",29,1757019264180,1757019264314,e,69, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",30,1757019264472,1757019264563,r,82, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",31,1757019264663,1757019264741,n,78, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",32,1757019264897,1757019264974, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",33,1757019265123,1757019265254,w,87, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",34,1757019265429,1757019265552,o,79, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",35,1757019265729,1757019265845,r,82, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",36,1757019266015,1757019266110,k,75, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",37,1757019266881,1757019267014,s,83, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",38,1757019267313,1757019267362,a,65, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",39,1757019267456,1757019267562,t,84, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",40,1757019268024,1757019268120,i,73, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",41,1757019268293,1757019268399,o,79, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",42,1757019268598,1757019268713,n,78, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",43,1757019268950,1757019269094,s,83, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",44,1757019270872,1757019271445,Shift,16, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",45,1757019271263,1757019271447,?,191, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",46,1757019274090,1757019274368,Control,17, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",47,1757019275233,1757019275392,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",48,1757019275557,1757019275724,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",49,1757019277130,1757019277271,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",50,1757019277412,1757019277553,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",51,1757019277690,1757019277831,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",52,1757019277975,1757019278116,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",53,1757019278660,1757019278882,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",54,1757019280600,1757019280761,t,84, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,image-to-prompt,0,4,7,Have you got pictures of modern workstations?,"[32,44]","[5,9]",55,1757019282391,1757019282640,PageDown,34, never, physical-keyboard

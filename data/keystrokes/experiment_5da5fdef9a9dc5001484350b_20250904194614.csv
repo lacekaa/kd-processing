@@ -1,0 +1,100 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",0,1757015078066,1757015078365,Shift,16, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",1,1757015078256,1757015078405,A,65, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",2,1757015079257,1757015079392, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",3,1757015079662,1757015079738,s,83, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",4,1757015080228,1757015080313,h,72, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",5,1757015080328,1757015080405,o,79, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",6,1757015080872,1757015080951,r,82, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",7,1757015081375,1757015081484,t,84, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",8,1757015083982,1757015084220,Shift,16, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",9,1757015084162,1757015084262,W,87, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",10,1757015084583,1757015084691,r,82, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",11,1757015084818,1757015084929,i,73, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",12,1757015085028,1757015085089,t,84, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",13,1757015085336,1757015085420,e,69, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",14,1757015085569,1757015085682, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",15,1757015086025,1757015086204,a,65, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",16,1757015086315,1757015086440, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",17,1757015086763,1757015086846,f,70, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",18,1757015087029,1757015087123,e,69, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",19,1757015087325,1757015087412,w,87, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",20,1757015088981,1757015089038, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",21,1757015090067,1757015090163,p,80, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",22,1757015090524,1757015090625,h,72, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",23,1757015090945,1757015091016,r,82, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",24,1757015091234,1757015091318,a,65, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",25,1757015091538,1757015091620,s,83, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",26,1757015091701,1757015091790,e,69, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",27,1757015091799,1757015091925,s,83, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",28,1757015092239,1757015092346, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",29,1757015092568,1757015092686,a,65, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",30,1757015092820,1757015092956, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",31,1757015093588,1757015093731,Backspace,8, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",32,1757015094752,1757015094916,b,66, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",33,1757015094917,1757015095047,o,79, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",34,1757015095023,1757015095123,u,85, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",35,1757015095406,1757015095509,t,84, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",36,1757015095717,1757015095798, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",37,1757015096239,1757015096373,a,65, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",38,1757015096746,1757015096796, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",39,1757015098283,1757015098385,t,84, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",40,1757015098519,1757015098612,u,85, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",41,1757015098707,1757015098772,r,82, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",42,1757015098972,1757015099077,t,84, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",43,1757015099218,1757015099321,l,76, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",44,1757015099599,1757015099734,e,69, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",45,1757015103397,1757015103514, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",46,1757015103706,1757015103808,w,87, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",47,1757015103943,1757015104029,a,65, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",48,1757015104284,1757015104365,l,76, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",49,1757015104535,1757015104604,k,75, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",50,1757015104764,1757015104831,i,73, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",51,1757015105102,1757015105213,n,78, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",52,1757015105369,1757015105477,g,71, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",53,1757015105984,1757015106053, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",54,1757015106676,1757015106778,a,65, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",55,1757015107100,1757015107193,l,76, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",56,1757015107446,1757015107595,o,79, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",57,1757015108145,1757015108255,n,78, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",58,1757015108407,1757015108501,g,71, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",59,1757015108736,1757015108795, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",60,1757015109235,1757015109338,a,65, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",61,1757015109563,1757015109649, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",62,1757015110029,1757015110111,r,82, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",63,1757015110618,1757015110787,i,73, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",64,1757015110870,1757015110982,v,86, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",65,1757015111098,1757015111182,e,69, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",66,1757015111426,1757015111496,r,82, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",67,1757015112206,1757015112291,b,66, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",68,1757015112508,1757015112602,a,65, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",69,1757015112852,1757015112923,n,78, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",70,1757015113396,1757015113487,k,75, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",71,1757015115379,1757015115468, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",72,1757015118139,1757015118231,r,82, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",73,1757015118720,1757015118839,Backspace,8, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",74,1757015119243,1757015119320,t,84, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",75,1757015119546,1757015119606,h,72, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",76,1757015119912,1757015120015,a,65, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",77,1757015120148,1757015120283,t,84, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",78,1757015120638,1757015120729, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",79,1757015121261,1757015121395,p,80, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",80,1757015121774,1757015121884,a,65, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",81,1757015121987,1757015122104,u,85, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",82,1757015122367,1757015122470,s,83, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",83,1757015122594,1757015122729,e,69, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",84,1757015124206,1757015124299,s,83, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",85,1757015124715,1757015124797, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",86,1757015125836,1757015125935,t,84, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",87,1757015126063,1757015126167,o,79, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",88,1757015126309,1757015126409, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",89,1757015126915,1757015126992,w,87, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",90,1757015127177,1757015127271,a,65, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",91,1757015127499,1757015127539,t,84, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",92,1757015128014,1757015128105,c,67, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",93,1757015128292,1757015128395,g,71, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",94,1757015129254,1757015129405,Backspace,8, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",95,1757015129870,1757015129946,h,72, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",96,1757015130636,1757015130702, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",97,1757015152365,1757015152501,Backspace,8, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,text-to-prompt,1,4,0,Write a few phrases about a turtle walking along a riverbank,"[8,19];[28,60]","[0,6]",98,1757015152964,1757015153046,Backspace,8, daily, physical-keyboard

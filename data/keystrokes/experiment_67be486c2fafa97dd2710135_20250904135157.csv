@@ -1,0 +1,83 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",0,1756993888255,1756993889194,Shift,16, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",1,1756993888741,0,Shift,16, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",2,1756993888774,0,Shift,16, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",3,1756993888806,0,Shift,16, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",4,1756993888840,0,Shift,16, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",5,1756993888873,0,Shift,16, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",6,1756993888906,0,Shift,16, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",7,1756993888940,0,Shift,16, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",8,1756993888969,0,Shift,16, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",9,1756993889003,0,Shift,16, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",10,1756993889036,0,Shift,16, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",11,1756993889068,0,Shift,16, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",12,1756993889102,0,Shift,16, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",13,1756993889111,1756993889245,C,67, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",14,1756993889380,1756993889503,r,82, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",15,1756993889495,1756993889589,e,69, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",16,1756993889709,1756993889795,a,65, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",17,1756993889810,1756993889890,t,84, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",18,1756993889922,1756993890025,e,69, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",19,1756993890013,1756993890133, ,32, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",20,1756993890179,1756993890293,a,65, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",21,1756993890316,1756993890405,n,78, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",22,1756993890427,1756993890532, ,32, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",23,1756993890720,1756993890801,i,73, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",24,1756993890871,1756993890981,m,77, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",25,1756993891043,1756993891155,a,65, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",26,1756993891313,1756993891403,g,71, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",27,1756993891518,1756993891624,e,69, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",28,1756993891634,1756993891713, ,32, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",29,1756993891844,1756993891929,o,79, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",30,1756993891985,1756993892070,f,70, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",31,1756993892100,1756993892171, ,32, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",32,1756993892229,1756993892300,a,65, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",33,1756993892305,1756993892376, ,32, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",34,1756993893042,1756993893150,f,70, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",35,1756993893199,1756993893291,r,82, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",36,1756993893851,1756993893925,o,79, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",37,1756993894400,1756993894499,g,71, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",38,1756993894509,1756993894591, ,32, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",39,1756993894724,1756993894815,p,80, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",40,1756993894819,1756993894943,l,76, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",41,1756993894982,1756993895090,a,65, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",42,1756993895188,1756993895273,y,89, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",43,1756993895396,1756993895473,i,73, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",44,1756993895513,1756993895626,n,78, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",45,1756993895618,1756993895712,g,71, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",46,1756993895736,1756993895817, ,32, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",47,1756993895873,1756993895943,a,65, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",48,1756993895945,1756993896015, ,32, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",49,1756993896166,1756993896251,g,71, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",50,1756993896328,1756993896414, ,32, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",51,1756993896759,1756993896858,c,67, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",52,1756993897575,1756993897633,h,72, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",53,1756993897972,1756993898039,o,79, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",54,1756993898140,1756993898241,r,82, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",55,1756993898346,1756993898432,d,68, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",56,1756993898443,1756993898509, ,32, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",57,1756993898586,1756993898657,o,79, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",58,1756993898726,1756993898807,n,78, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",59,1756993898821,1756993898907, ,32, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",60,1756993898925,1756993899043,a,65, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",61,1756993899127,1756993899234,n,78, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",62,1756993899294,1756993899366, ,32, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",63,1756993899527,1756993899632,e,69, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",64,1756993899663,1756993899745,l,76, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",65,1756993899786,1756993899876,e,69, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",66,1756993899976,1756993900097,c,67, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",67,1756993900247,1756993900347,t,84, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",68,1756993900362,1756993900468,r,82, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",69,1756993900538,1756993900621,i,73, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",70,1756993900767,1756993900853,c,67, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",71,1756993900878,1756993900959, ,32, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",72,1756993901144,1756993901240,g,71, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",73,1756993901354,1756993901432,u,85, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",74,1756993901601,1756993901704,i,73, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",75,1756993901874,1756993901953,r,82, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",76,1756993902011,1756993902149,a,65, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",77,1756993902477,1756993902616,Backspace,8, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",78,1756993902680,1756993902784,Backspace,8, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",79,1756993902822,1756993902926,t,84, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",80,1756993903035,1756993903165,a,65, weekly, physical-keyboard
+67be486c2fafa97dd2710135,prompt-to-image,1,2,1,Create an image of a frog playing a g chord on an electric guitar,"[10,25]","[36,43]",81,1756993903270,1756993903367,r,82, weekly, physical-keyboard

@@ -1,0 +1,32 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+66929a6a268ccf0d6fce0d52,text-to-prompt,1,2,7,tell me  story about a turtle,"[23,29]","[15,21]",0,1757019083891,1757019084004,t,84, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,1,2,7,tell me  story about a turtle,"[23,29]","[15,21]",1,1757019084336,1757019084460,e,69, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,1,2,7,tell me  story about a turtle,"[23,29]","[15,21]",2,1757019084733,1757019084859,l,76, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,1,2,7,tell me  story about a turtle,"[23,29]","[15,21]",3,1757019084943,1757019085075,l,76, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,1,2,7,tell me  story about a turtle,"[23,29]","[15,21]",4,1757019085663,1757019085795, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,1,2,7,tell me  story about a turtle,"[23,29]","[15,21]",5,1757019086013,1757019086143,m,77, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,1,2,7,tell me  story about a turtle,"[23,29]","[15,21]",6,1757019086355,1757019086399,e,69, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,1,2,7,tell me  story about a turtle,"[23,29]","[15,21]",7,1757019086517,1757019086641, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,1,2,7,tell me  story about a turtle,"[23,29]","[15,21]",8,1757019087187,1757019087274, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,1,2,7,tell me  story about a turtle,"[23,29]","[15,21]",9,1757019087567,1757019087709,s,83, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,1,2,7,tell me  story about a turtle,"[23,29]","[15,21]",10,1757019088289,1757019088358,t,84, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,1,2,7,tell me  story about a turtle,"[23,29]","[15,21]",11,1757019088428,1757019088542,o,79, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,1,2,7,tell me  story about a turtle,"[23,29]","[15,21]",12,1757019088718,1757019088851,r,82, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,1,2,7,tell me  story about a turtle,"[23,29]","[15,21]",13,1757019089026,1757019089167,y,89, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,1,2,7,tell me  story about a turtle,"[23,29]","[15,21]",14,1757019089682,1757019089823,a,65, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,1,2,7,tell me  story about a turtle,"[23,29]","[15,21]",15,1757019090700,1757019090897,Backspace,8, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,1,2,7,tell me  story about a turtle,"[23,29]","[15,21]",16,1757019091709,1757019091868, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,1,2,7,tell me  story about a turtle,"[23,29]","[15,21]",17,1757019092094,1757019092263,a,65, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,1,2,7,tell me  story about a turtle,"[23,29]","[15,21]",18,1757019092520,1757019092546,b,66, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,1,2,7,tell me  story about a turtle,"[23,29]","[15,21]",19,1757019093086,1757019093239,o,79, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,1,2,7,tell me  story about a turtle,"[23,29]","[15,21]",20,1757019093561,1757019093719,u,85, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,1,2,7,tell me  story about a turtle,"[23,29]","[15,21]",21,1757019093908,1757019093949,t,84, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,1,2,7,tell me  story about a turtle,"[23,29]","[15,21]",22,1757019094222,1757019094374, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,1,2,7,tell me  story about a turtle,"[23,29]","[15,21]",23,1757019094601,1757019094749,a,65, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,1,2,7,tell me  story about a turtle,"[23,29]","[15,21]",24,1757019094812,1757019094900, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,1,2,7,tell me  story about a turtle,"[23,29]","[15,21]",25,1757019095562,1757019095675,t,84, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,1,2,7,tell me  story about a turtle,"[23,29]","[15,21]",26,1757019095793,1757019095901,u,85, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,1,2,7,tell me  story about a turtle,"[23,29]","[15,21]",27,1757019096178,1757019096338,r,82, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,1,2,7,tell me  story about a turtle,"[23,29]","[15,21]",28,1757019096661,1757019096786,t,84, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,1,2,7,tell me  story about a turtle,"[23,29]","[15,21]",29,1757019097041,1757019097225,l,76, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,text-to-prompt,1,2,7,tell me  story about a turtle,"[23,29]","[15,21]",30,1757019097857,1757019097972,e,69, never, physical-keyboard

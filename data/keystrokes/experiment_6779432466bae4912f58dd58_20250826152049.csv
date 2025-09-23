@@ -1,0 +1,561 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",0,1756221518427,1756221518429,CapsLock,20, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",1,1756221518428,1756221518431,CapsLock,20, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",2,1756221518775,1756221518777,T,84, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",3,1756221519274,1756221519342,CapsLock,20, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",4,1756221519342,1756221519343,CapsLock,20, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",5,1756221519789,1756221519926,h,72, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",6,1756221520173,1756221520223,e,69, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",7,1756221520994,1756221521073, ,32, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",8,1756221525777,1756221525922,CapsLock,20, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",9,1756221525922,1756221525923,CapsLock,20, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",10,1756221526310,1756221526387,T,84, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",11,1756221526701,1756221526820,CapsLock,20, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",12,1756221526819,1756221526820,CapsLock,20, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",13,1756221527419,1756221527459,h,72, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",14,1756221527735,1756221527818,e,69, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",15,1756221528164,1756221528235, ,32, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",16,1756221529350,1756221529448,s,83, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",17,1756221530100,1756221530205,u,85, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",18,1756221530998,1756221531065,n,78, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",19,1756221531215,1756221531348, ,32, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",20,1756221531582,1756221531660,s,83, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",21,1756221532094,1756221532191,p,80, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",22,1756221532694,1756221532764,e,69, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",23,1756221532979,1756221533047,a,65, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",24,1756221534134,1756221534215,k,75, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",25,1756221534761,1756221534845,s,83, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",26,1756221535134,1756221535223, ,32, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",27,1756221535796,1756221535878,o,79, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",28,1756221536144,1756221536237,v,86, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",29,1756221536528,1756221536594,e,69, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",30,1756221536701,1756221536827,r,82, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",31,1756221537077,1756221537177, ,32, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",32,1756221537440,1756221537511,t,84, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",33,1756221537731,1756221537828,h,72, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",34,1756221538066,1756221538192,e,69, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",35,1756221538392,1756221538476, ,32, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",36,1756221538697,1756221538775,h,72, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",37,1756221538975,1756221539042,i,73, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",38,1756221539292,1756221539375,l,76, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",39,1756221539459,1756221539535,l,76, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",40,1756221541457,1756221541538,",",188, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",41,1756221541917,1756221542023,Enter,13, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",42,1756221544254,1756221544338,r,82, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",43,1756221544862,1756221544986,Backspace,8, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",44,1756221545353,1756221545420,t,84, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",45,1756221545570,1756221545654,h,72, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",46,1756221545903,1756221545983,e,69, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",47,1756221546264,1756221546357, ,32, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",48,1756221546618,1756221546686,m,77, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",49,1756221546936,1756221547001,o,79, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",50,1756221547385,1756221547454,r,82, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",51,1756221547918,1756221548050,n,78, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",52,1756221548250,1756221548333,i,73, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",53,1756221548508,1756221548638,n,78, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",54,1756221548813,1756221548894,g,71, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",55,1756221549084,1756221549168, ,32, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",56,1756221550283,1756221550382,a,65, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",57,1756221551081,1756221551149,i,73, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",58,1756221551565,1756221551669,r,82, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",59,1756221552178,1756221552256, ,32, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",60,1756221552598,1756221552664,s,83, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",61,1756221553080,1756221553174,o,79, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",62,1756221553863,1756221553936,f,70, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",63,1756221554247,1756221554313,t,84, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",64,1756221554912,1756221555002, ,32, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",65,1756221555428,1756221555495,a,65, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",66,1756221555978,1756221556053,n,78, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",67,1756221556397,1756221556544,d,68, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",68,1756221556878,1756221556974, ,32, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",69,1756221557643,1756221557742,s,83, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",70,1756221558056,1756221558138,t,84, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",71,1756221558460,1756221558541,i,73, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",72,1756221561192,1756221561227,i,73, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",73,1756221561473,1756221561540,l,76, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",74,1756221561581,1756221561708,l,76, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",75,1756221562857,1756221562949,Backspace,8, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",76,1756221564172,1756221564256,Backspace,8, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",77,1756221564355,1756221564456,Backspace,8, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",78,1756221565520,1756221565559,l,76, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",79,1756221565621,1756221565705,l,76, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",80,1756221569384,1756221569467,.,190, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",81,1756221570973,1756221571098,Enter,13, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",82,1756221571707,1756221571833,CapsLock,20, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",83,1756221571832,1756221571833,CapsLock,20, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",84,1756221572859,1756221572975,G,71, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",85,1756221573313,1756221573433,CapsLock,20, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",86,1756221573432,1756221573433,CapsLock,20, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",87,1756221573815,1756221573929,o,79, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",88,1756221574063,1756221574143,l,76, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",89,1756221574479,1756221574557,d,68, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",90,1756221574696,1756221574763,e,69, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",91,1756221575195,1756221575266,n,78, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",92,1756221576911,1756221577009,r,82, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",93,1756221577227,1756221577303,a,65, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",94,1756221577644,1756221577734,y,89, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",95,1756221577992,1756221578060,s,83, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",96,1756221578843,1756221578927, ,32, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",97,1756221579228,1756221579358,k,75, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",98,1756221579508,1756221579591,i,73, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",99,1756221579898,1756221580006,s,83, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",100,1756221580074,1756221580147,s,83, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",101,1756221580582,1756221580677, ,32, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",102,1756221580943,1756221581020,t,84, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",103,1756221581224,1756221581304,h,72, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",104,1756221581573,1756221581640,e,69, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",105,1756221581874,1756221582004, ,32, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",106,1756221582290,1756221582372,l,76, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",107,1756221582741,1756221582822,a,65, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",108,1756221583337,1756221583339,n,78, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",109,1756221584555,1756221584704,d,68, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",110,1756221586019,1756221586111,",",188, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",111,1756221587620,1756221587695,Enter,13, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",112,1756221596096,1756221596180, ,32, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",113,1756221601690,1756221601775,a,65, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",114,1756221602971,1756221603057, ,32, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",115,1756221603583,1756221603665,n,78, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",116,1756221604055,1756221604123,e,69, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",117,1756221604289,1756221604395,w,87, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",118,1756221604680,1756221604805, ,32, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",119,1756221605014,1756221605121,d,68, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",120,1756221605271,1756221605354,a,65, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",121,1756221605863,1756221605986,y,89, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",122,1756221607094,1756221607237, ,32, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",123,1756221607556,1756221607669,r,82, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",124,1756221607803,1756221607870,e,69, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",125,1756221608020,1756221608098,s,83, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",126,1756221608369,1756221608436,t,84, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",127,1756221608875,1756221609033, ,32, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",128,1756221609451,1756221609500,i,73, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",129,1756221609884,1756221609952,n,78, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",130,1756221610100,1756221610184, ,32, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",131,1756221611095,1756221611178,o,79, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",132,1756221611500,1756221611587,u,85, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",133,1756221611883,1756221612031,r,82, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",134,1756221612231,1756221612337, ,32, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",135,1756221612866,1756221612963,h,72, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",136,1756221613235,1756221613365,a,65, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",137,1756221613934,1756221614014,n,78, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",138,1756221614413,1756221614479,d,68, rarely, physical-keyboard
+6779432466bae4912f58dd58,prompt-to-text,1,5,0,"The sun speaks over the hill,
+the morning air soft and still.
+Golden rays kiss the land,
+a new day rest in our hand.","[60,85]","[0,28]",139,1756221616079,1756221616161,.,190, rarely, physical-keyboard

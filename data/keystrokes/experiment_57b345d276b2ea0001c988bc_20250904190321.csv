@@ -1,0 +1,25 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+57b345d276b2ea0001c988bc,prompt-to-text,0,0,3,Climate change,"[0,7]","[8,14]",0,1757012524684,1757012524737,CapsLock,20, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-text,0,0,3,Climate change,"[0,7]","[8,14]",1,1757012525198,1757012525248,C,67, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-text,0,0,3,Climate change,"[0,7]","[8,14]",2,1757012525548,1757012525598,CapsLock,20, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-text,0,0,3,Climate change,"[0,7]","[8,14]",3,1757012526345,1757012526360,l,76, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-text,0,0,3,Climate change,"[0,7]","[8,14]",4,1757012526616,1757012526671,i,73, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-text,0,0,3,Climate change,"[0,7]","[8,14]",5,1757012529108,1757012529209,Backspace,8, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-text,0,0,3,Climate change,"[0,7]","[8,14]",6,1757012529997,1757012530050,i,73, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-text,0,0,3,Climate change,"[0,7]","[8,14]",7,1757012530192,1757012530267,m,77, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-text,0,0,3,Climate change,"[0,7]","[8,14]",8,1757012530397,1757012530503,a,65, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-text,0,0,3,Climate change,"[0,7]","[8,14]",9,1757012530732,1757012530842,t,84, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-text,0,0,3,Climate change,"[0,7]","[8,14]",10,1757012530971,1757012531043,e,69, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-text,0,0,3,Climate change,"[0,7]","[8,14]",11,1757012531128,1757012531204, ,32, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-text,0,0,3,Climate change,"[0,7]","[8,14]",12,1757012531435,1757012531514,c,67, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-text,0,0,3,Climate change,"[0,7]","[8,14]",13,1757012531615,1757012531685,h,72, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-text,0,0,3,Climate change,"[0,7]","[8,14]",14,1757012531867,1757012531955,n,78, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-text,0,0,3,Climate change,"[0,7]","[8,14]",15,1757012532302,1757012532407,Backspace,8, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-text,0,0,3,Climate change,"[0,7]","[8,14]",16,1757012532517,1757012532653,a,65, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-text,0,0,3,Climate change,"[0,7]","[8,14]",17,1757012533159,1757012533299,n,78, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-text,0,0,3,Climate change,"[0,7]","[8,14]",18,1757012533260,1757012533289,b,66, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-text,0,0,3,Climate change,"[0,7]","[8,14]",19,1757012534639,1757012534713,Home,36, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-text,0,0,3,Climate change,"[0,7]","[8,14]",20,1757012535105,1757012535170,Backspace,8, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-text,0,0,3,Climate change,"[0,7]","[8,14]",21,1757012536698,1757012536770,Backspace,8, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-text,0,0,3,Climate change,"[0,7]","[8,14]",22,1757012537454,1757012537512,g,71, never, physical-keyboard
+57b345d276b2ea0001c988bc,prompt-to-text,0,0,3,Climate change,"[0,7]","[8,14]",23,1757012537554,1757012537627,e,69, never, physical-keyboard

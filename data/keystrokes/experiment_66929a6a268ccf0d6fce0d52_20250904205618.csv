@@ -1,0 +1,115 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",0,1757019320095,1757019320235,a,65, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",1,1757019320715,1757019320875,r,82, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",2,1757019321021,1757019321144,m,77, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",3,1757019321484,1757019321672,s,83, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",4,1757019321926,1757019322113,c,67, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",5,1757019322179,1757019322269,h,72, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",6,1757019322558,1757019322761,a,65, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",7,1757019322955,1757019323098,i,73, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",8,1757019323466,1757019323680,r,82, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",9,1757019323719,1757019323879, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",10,1757019325132,1757019325228,y,89, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",11,1757019325288,1757019325393,o,79, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",12,1757019325893,1757019326033,g,71, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",13,1757019326284,1757019326452,a,65, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",14,1757019326547,1757019326687, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",15,1757019327523,1757019327654,e,69, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",16,1757019327930,1757019328029,x,88, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",17,1757019328208,1757019328324,c,67, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",18,1757019328441,1757019328591,e,69, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",19,1757019328770,1757019328895,r,82, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",20,1757019329436,1757019329605,c,67, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",21,1757019329774,1757019329872,i,73, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",22,1757019330095,1757019330293,s,83, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",23,1757019330682,1757019330841,e,69, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",24,1757019331230,1757019331424,s,83, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",25,1757019332463,1757019332622, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",26,1757019333590,1757019334677,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",27,1757019334110,1757019339125,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",28,1757019334144,1757019339854,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",29,1757019334178,1757019358709,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",30,1757019334211,1757019359138,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",31,1757019334245,1757019359387,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",32,1757019334280,1757019359654,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",33,1757019334315,1757019360947,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",34,1757019334348,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",35,1757019334382,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",36,1757019334418,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",37,1757019334453,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",38,1757019334487,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",39,1757019334520,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",40,1757019334554,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",41,1757019334590,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",42,1757019334624,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",43,1757019334658,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",44,1757019337456,1757019337632,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",45,1757019338508,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",46,1757019339026,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",47,1757019339060,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",48,1757019339093,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",49,1757019339676,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",50,1757019340781,1757019340950,Backspace,8, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",51,1757019341803,1757019342653,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",52,1757019342320,1757019343173,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",53,1757019342353,1757019343431,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",54,1757019342388,1757019344302,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",55,1757019342422,1757019344701,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",56,1757019342458,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",57,1757019342492,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",58,1757019342525,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",59,1757019342559,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",60,1757019342594,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",61,1757019342629,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",62,1757019343041,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",63,1757019343235,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",64,1757019343584,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",65,1757019344103,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",66,1757019344137,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",67,1757019344172,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",68,1757019344205,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",69,1757019344239,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",70,1757019344274,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",71,1757019344578,0,ArrowRight,39, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",72,1757019345614,1757019345853,Backspace,8, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",73,1757019346432,1757019346619, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",74,1757019346944,1757019347113,w,87, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",75,1757019347258,1757019347355,h,72, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",76,1757019347722,1757019347866,i,73, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",77,1757019348336,1757019348468,c,67, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",78,1757019348575,1757019348714,h,72, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",79,1757019348949,1757019349026, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",80,1757019349497,1757019349619,i,73, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",81,1757019349735,1757019349888,s,83, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",82,1757019349986,1757019350092, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",83,1757019350869,1757019350974,e,69, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",84,1757019351062,1757019351221,a,65, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",85,1757019351419,1757019351572,s,83, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",86,1757019351645,1757019351740,y,89, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",87,1757019351962,1757019352068, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",88,1757019352269,1757019352373,f,70, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",89,1757019352590,1757019352713,o,79, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",90,1757019352817,1757019352885,r,82, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",91,1757019353019,1757019353106, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",92,1757019353347,1757019353506,d,68, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",93,1757019353729,1757019353836,i,73, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",94,1757019354095,1757019354236,s,83, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",95,1757019354450,1757019354581,a,65, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",96,1757019354781,1757019354897,b,66, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",97,1757019355529,1757019355642,l,76, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",98,1757019355685,1757019355837,e,69, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",99,1757019356037,1757019356214,d,68, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",100,1757019356382,1757019356523, ,32, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",101,1757019358056,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",102,1757019358574,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",103,1757019358609,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",104,1757019358642,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",105,1757019358675,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",106,1757019359005,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",107,1757019359282,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",108,1757019359522,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",109,1757019360823,0,ArrowLeft,37, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",110,1757019361535,1757019361703,t,84, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",111,1757019361762,1757019361812,h,72, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",112,1757019362279,1757019362447,e,69, never, physical-keyboard
+66929a6a268ccf0d6fce0d52,prompt-to-text,0,5,7,armchair yoga excercise which is easy for the disabled,"[9,14]","[30,33]",113,1757019363372,1757019363525, ,32, never, physical-keyboard

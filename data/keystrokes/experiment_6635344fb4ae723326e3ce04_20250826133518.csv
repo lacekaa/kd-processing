@@ -1,0 +1,54 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",0,1756215254295,1756215254721,Shift,16, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",1,1756215254556,1756215254660,W,87, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",2,1756215255383,1756215255460,r,82, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",3,1756215255912,1756215255996,i,73, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",4,1756215256400,1756215256495,e,69, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",5,1756215256744,1756215256876, ,32, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",6,1756215257075,1756215257193,a,65, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",7,1756215257614,1756215257736,Backspace,8, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",8,1756215257824,1756215257915,Backspace,8, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",9,1756215257990,1756215258072,Backspace,8, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",10,1756215258143,1756215258220,Backspace,8, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",11,1756215259396,1756215259472,i,73, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",12,1756215259737,1756215259809,t,84, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",13,1756215259835,1756215259936,e,69, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",14,1756215260060,1756215260179, ,32, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",15,1756215260241,1756215260386,a,65, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",16,1756215260379,1756215260494, ,32, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",17,1756215260631,1756215260716,b,66, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",18,1756215260748,1756215260830,e,69, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",19,1756215261060,1756215261165,a,65, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",20,1756215261620,1756215261708,u,85, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",21,1756215262087,1756215262160,t,84, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",22,1756215262486,1756215262567,i,73, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",23,1756215262880,1756215262951,f,70, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",24,1756215263353,1756215263409,u,85, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",25,1756215263622,1756215263700,l,76, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",26,1756215263798,1756215263891,l,76, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",27,1756215264415,1756215264489,Backspace,8, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",28,1756215264792,1756215264907, ,32, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",29,1756215266269,1756215266370,s,83, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",30,1756215266548,1756215266610,o,79, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",31,1756215266820,1756215266918,n,78, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",32,1756215270517,1756215270591,g,71, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",33,1756215270818,1756215270909, ,32, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",34,1756215271933,1756215272041,a,65, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",35,1756215272178,1756215272266,b,66, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",36,1756215272514,1756215272629,o,79, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",37,1756215272922,1756215273011,u,85, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",38,1756215273337,1756215273418,t,84, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",39,1756215273594,1756215273723, ,32, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",40,1756215280661,1756215280813,e,69, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",41,1756215281010,1756215281116,n,78, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",42,1756215281837,1756215281923,j,74, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",43,1756215282461,1756215282555,o,79, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",44,1756215282947,1756215283018,y,89, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",45,1756215283269,1756215283351,i,73, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",46,1756215283623,1756215283711,n,78, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",47,1756215284019,1756215284100,g,71, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",48,1756215284266,1756215284387, ,32, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",49,1756215284712,1756215284808,l,76, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",50,1756215285009,1756215285085,i,73, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",51,1756215285891,1756215285969,f,70, daily, physical-keyboard
+6635344fb4ae723326e3ce04,prompt-to-text,1,7,7,Write a beautiful song about enjoying life,"[23,42]","[8,17]",52,1756215286062,1756215286143,e,69, daily, physical-keyboard

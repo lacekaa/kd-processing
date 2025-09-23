@@ -1,0 +1,70 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",0,1757000715222,1757000715420,Shift,16, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",1,1757000715293,1757000715370,G,71, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",2,1757000715540,1757000715626,i,73, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",3,1757000715640,1757000715732,v,86, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",4,1757000715699,1757000715808,e,69, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",5,1757000715787,1757000715879, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",6,1757000716162,1757000716235,m,77, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",7,1757000716270,1757000716348,e,69, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",8,1757000716341,1757000716412, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",9,1757000716449,1757000716560,a,65, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",10,1757000716502,1757000716583, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",11,1757000719971,1757000720066,w,87, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",12,1757000720232,1757000720296,o,79, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",13,1757000720357,1757000720429,r,82, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",14,1757000721035,1757000721128,k,75, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",15,1757000721343,1757000721931,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",16,1757000721849,1757000722133,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",17,1757000721881,1757000726423,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",18,1757000721913,1757000728607,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",19,1757000722063,1757000731319,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",20,1757000722721,1757000722835, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",21,1757000723056,1757000723139,d,68, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",22,1757000723197,1757000723306,a,65, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",23,1757000723326,1757000723393,i,73, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",24,1757000723496,1757000723564,l,76, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",25,1757000723574,1757000723683,y,89, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",26,1757000723691,1757000723765, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",27,1757000724155,1757000724229,r,82, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",28,1757000724274,1757000724343,o,79, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",29,1757000724427,1757000724516,u,85, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",30,1757000724518,1757000724582,t,84, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",31,1757000724625,1757000724697,i,73, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",32,1757000724783,1757000724848,n,78, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",33,1757000724888,1757000724991,e,69, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",34,1757000724974,1757000725053, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",35,1757000725262,1757000725345,w,87, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",36,1757000725385,1757000725446,h,72, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",37,1757000725561,1757000725626,i,73, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",38,1757000725719,1757000725779,c,67, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",39,1757000725739,1757000725803,h,72, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",40,1757000726379,1757000731449,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",41,1757000727452,1757000727515,h,72, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",42,1757000727638,1757000727716, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",43,1757000727849,1757000727905,i,73, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",44,1757000728008,1757000728062,n,78, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",45,1757000728212,1757000728273,l,76, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",46,1757000728553,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",47,1757000728680,1757000728754,c,67, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",48,1757000728746,1757000728819,l,76, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",49,1757000728907,1757000728998,u,85, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",50,1757000729002,1757000729100,d,68, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",51,1757000729072,1757000729171,e,69, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",52,1757000729145,1757000729216, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",53,1757000729327,1757000729393,m,77, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",54,1757000729714,1757000729797,y,89, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",55,1757000729812,1757000729875, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",56,1757000730651,1757000730723,9,57, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",57,1757000730887,1757000730938,é,186, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",58,1757000730992,1757000731060,5,53, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",59,1757000731272,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",60,1757000731390,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",61,1757000731540,1757000731630,-,189, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",62,1757000731631,1757000731733,5,53, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",63,1757000732304,1757000732385, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",64,1757000732649,1757000732753,w,87, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",65,1757000732759,1757000732851,o,79, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",66,1757000733042,1757000733125,r,82, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",67,1757000733160,1757000733228,k,75, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-image,1,7,5,Give me a daily routine which include my 9-5 work.,"[10,23];[41,49]","[30,38]",68,1757000734404,1757000734466,.,190, weekly, physical-keyboard

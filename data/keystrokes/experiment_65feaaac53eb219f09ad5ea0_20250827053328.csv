@@ -1,0 +1,73 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",0,1756272707604,1756272707796,Shift,16, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",1,1756272707737,1756272707870,C,67, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",2,1756272707925,1756272708021,r,82, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",3,1756272708155,1756272708273,e,69, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",4,1756272708351,1756272708510,a,65, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",5,1756272712527,1756272712641,t,84, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",6,1756272712649,1756272712734,e,69, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",7,1756272712875,1756272712988, ,32, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",8,1756272713081,1756272713192,a,65, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",9,1756272713277,1756272713387, ,32, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",10,1756272713451,1756272713529,s,83, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",11,1756272714047,1756272714134,t,84, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",12,1756272714340,1756272714398,o,79, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",13,1756272714710,1756272714802,r,82, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",14,1756272715316,1756272715399,y,89, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",15,1756272715960,1756272716051, ,32, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",16,1756272716503,1756272716601,o,79, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",17,1756272716753,1756272716856,f,70, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",18,1756272716913,1756272716989, ,32, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",19,1756272717229,1756272717372,a,65, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",20,1756272717493,1756272717597, ,32, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",21,1756272717728,1756272717844,t,84, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",22,1756272717915,1756272718019,u,85, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",23,1756272718152,1756272718257,r,82, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",24,1756272718437,1756272718542,t,84, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",25,1756272718915,1756272719043,l,76, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",26,1756272719054,1756272719116,e,69, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",27,1756272719426,1756272719501, ,32, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",28,1756272730485,1756272730615,o,79, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",29,1756272731028,1756272731066,n,78, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",30,1756272731859,1756272731972,Backspace,8, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",31,1756272732140,1756272732256,Backspace,8, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",32,1756272732802,1756272732961,a,65, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",33,1756272733020,1756272733109,l,76, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",34,1756272733197,1756272733339,o,79, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",35,1756272733505,1756272733554,n,78, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",36,1756272733816,1756272733850,g,71, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",37,1756272734034,1756272734135, ,32, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",38,1756272734202,1756272734322,t,84, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",39,1756272734361,1756272734504,h,72, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",40,1756272734668,1756272734795,e,69, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",41,1756272734846,1756272734967, ,32, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",42,1756272735027,1756272735168,r,82, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",43,1756272735216,1756272735355,i,73, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",44,1756272735519,1756272735626,v,86, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",45,1756272735698,1756272735843,e,69, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",46,1756272735926,1756272736024,r,82, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",47,1756272738074,1756272738199,b,66, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",48,1756272739418,1756272739542,a,65, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",49,1756272740972,1756272741094,n,78, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",50,1756272741220,1756272741321,k,75, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",51,1756272742222,1756272742311,.,190, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",52,1756272767596,1756272767683, ,32, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",53,1756272768050,1756272768144,w,87, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",54,1756272768296,1756272768407,a,65, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",55,1756272768537,1756272768617,l,76, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",56,1756272769548,1756272769606,k,75, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",57,1756272769764,1756272769879,i,73, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",58,1756272769940,1756272770051,n,78, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",59,1756272770485,1756272770575,g,71, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",60,1756272775607,1756272775677, ,32, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",61,1756272775834,1756272775969,a,65, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",62,1756272776096,1756272776162,l,76, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",63,1756272776301,1756272776395,o,79, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",64,1756272776549,1756272776591,n,78, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",65,1756272776865,1756272776935,g,71, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",66,1756272779564,1756272779643,Backspace,8, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",67,1756272779724,1756272779821,Backspace,8, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",68,1756272779897,1756272779968,Backspace,8, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",69,1756272780102,1756272780171,Backspace,8, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",70,1756272780352,1756272780397,Backspace,8, weekly, physical-keyboard
+65feaaac53eb219f09ad5ea0,text-to-prompt,1,6,1,Create a story of a turtle walking along the riverbank.,"[9,26]","[41,54]",71,1756272780610,1756272780696,Backspace,8, weekly, physical-keyboard

@@ -1,0 +1,23 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+647869e6f69318bacc341d53,prompt-to-text,1,1,2,Make the e-mail fun,"[16,19]","[9,14]",0,1757011416368,1757011416823,Shift,16, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,1,1,2,Make the e-mail fun,"[16,19]","[9,14]",1,1757011416752,1757011416928,M,77, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,1,1,2,Make the e-mail fun,"[16,19]","[9,14]",2,1757011417008,1757011417247,a,65, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,1,1,2,Make the e-mail fun,"[16,19]","[9,14]",3,1757011417224,1757011417391,k,75, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,1,1,2,Make the e-mail fun,"[16,19]","[9,14]",4,1757011417392,1757011417487,e,69, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,1,1,2,Make the e-mail fun,"[16,19]","[9,14]",5,1757011417519,1757011417711, ,32, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,1,1,2,Make the e-mail fun,"[16,19]","[9,14]",6,1757011417847,1757011417935,t,84, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,1,1,2,Make the e-mail fun,"[16,19]","[9,14]",7,1757011417975,1757011418063,h,72, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,1,1,2,Make the e-mail fun,"[16,19]","[9,14]",8,1757011418040,1757011418135,e,69, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,1,1,2,Make the e-mail fun,"[16,19]","[9,14]",9,1757011418136,1757011418215, ,32, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,1,1,2,Make the e-mail fun,"[16,19]","[9,14]",10,1757011419944,1757011420063,e,69, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,1,1,2,Make the e-mail fun,"[16,19]","[9,14]",11,1757011420111,1757011420223,-,173, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,1,1,2,Make the e-mail fun,"[16,19]","[9,14]",12,1757011420327,1757011420479,m,77, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,1,1,2,Make the e-mail fun,"[16,19]","[9,14]",13,1757011420495,1757011420615,a,65, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,1,1,2,Make the e-mail fun,"[16,19]","[9,14]",14,1757011420575,1757011420694,i,73, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,1,1,2,Make the e-mail fun,"[16,19]","[9,14]",15,1757011420719,1757011420927,l,76, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,1,1,2,Make the e-mail fun,"[16,19]","[9,14]",16,1757011420887,1757011421007, ,32, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,1,1,2,Make the e-mail fun,"[16,19]","[9,14]",17,1757011421575,1757011421655,g,71, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,1,1,2,Make the e-mail fun,"[16,19]","[9,14]",18,1757011421943,1757011422095,Backspace,8, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,1,1,2,Make the e-mail fun,"[16,19]","[9,14]",19,1757011422111,1757011422223,f,70, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,1,1,2,Make the e-mail fun,"[16,19]","[9,14]",20,1757011422239,1757011422327,u,85, rarely, physical-keyboard
+647869e6f69318bacc341d53,prompt-to-text,1,1,2,Make the e-mail fun,"[16,19]","[9,14]",21,1757011422471,1757011422567,n,78, rarely, physical-keyboard

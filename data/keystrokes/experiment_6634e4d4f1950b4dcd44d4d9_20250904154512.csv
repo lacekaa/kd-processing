@@ -1,0 +1,145 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",0,1757000672456,1757000673401,Shift,16, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",1,1757000672964,1757000675256,Shift,16, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",2,1757000672995,0,Shift,16, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",3,1757000673027,0,Shift,16, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",4,1757000673058,0,Shift,16, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",5,1757000673091,0,Shift,16, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",6,1757000673122,0,Shift,16, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",7,1757000673169,0,Shift,16, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",8,1757000673201,0,Shift,16, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",9,1757000673233,0,Shift,16, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",10,1757000673264,0,Shift,16, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",11,1757000673296,0,Shift,16, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",12,1757000673327,0,Shift,16, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",13,1757000673358,0,Shift,16, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",14,1757000673390,0,Shift,16, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",15,1757000674844,0,Shift,16, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",16,1757000675153,1757000675249,W,87, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",17,1757000675445,1757000675528,r,82, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",18,1757000675604,1757000675701,i,73, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",19,1757000675740,1757000675845,t,84, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",20,1757000675810,1757000675929,e,69, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",21,1757000675928,1757000675996, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",22,1757000676053,1757000676172,a,65, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",23,1757000676106,1757000676178, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",24,1757000676392,1757000676484,s,83, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",25,1757000676631,1757000676708,t,84, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",26,1757000676800,1757000676877,o,79, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",27,1757000676890,1757000676984,r,82, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",28,1757000676961,1757000677083,y,89, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",29,1757000677077,1757000677147, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",30,1757000677474,1757000677557,a,65, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",31,1757000677708,1757000677794,b,66, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",32,1757000677806,1757000677881,o,79, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",33,1757000677978,1757000678052,u,85, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",34,1757000678068,1757000678124,t,84, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",35,1757000678188,1757000678261, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",36,1757000678572,1757000678639,h,72, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",37,1757000678873,1757000678941,w,87, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",38,1757000679141,1757000679231,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",39,1757000679296,1757000679381,o,79, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",40,1757000679348,1757000679453,w,87, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",41,1757000679499,1757000679573, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",42,1757000685576,1757000685675,w,87, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",43,1757000685663,1757000685728,i,73, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",44,1757000685816,1757000685898,n,78, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",45,1757000685923,1757000686002,s,83, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",46,1757000686030,1757000686105,o,79, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",47,1757000686120,1757000686212,w,87, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",48,1757000686275,1757000686348,s,83, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",49,1757000686556,1757000686614,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",50,1757000686695,1757000686759,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",51,1757000686837,1757000686888,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",52,1757000686969,1757000687024,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",53,1757000687130,1757000687197,d,68, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",54,1757000687247,1757000687311,o,79, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",55,1757000687353,1757000687477,w,87, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",56,1757000687458,1757000687551,s,83, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",57,1757000687541,1757000687623, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",58,1757000688380,1757000688470,s,83, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",59,1757000688805,1757000689255,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",60,1757000689731,1757000689795,b,66, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",61,1757000690002,1757000690108,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",62,1757000690186,1757000690336, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",63,1757000690507,1757000691831,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",64,1757000691015,1757000692334,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",65,1757000691047,1757000693059,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",66,1757000691078,1757000693211,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",67,1757000691110,1757000700319,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",68,1757000691141,1757000700480,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",69,1757000691173,1757000700613,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",70,1757000691220,1757000700737,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",71,1757000691252,1757000700853,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",72,1757000691283,1757000701814,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",73,1757000691314,1757000703598,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",74,1757000691345,1757000703724,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",75,1757000691377,1757000703902,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",76,1757000691409,1757000704203,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",77,1757000691439,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",78,1757000691472,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",79,1757000691503,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",80,1757000691550,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",81,1757000691581,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",82,1757000691613,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",83,1757000691644,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",84,1757000691675,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",85,1757000691707,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",86,1757000691739,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",87,1757000691770,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",88,1757000691802,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",89,1757000692245,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",90,1757000692578,1757000692669,e,69, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",91,1757000692707,1757000692777, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",92,1757000693007,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",93,1757000693138,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",94,1757000693327,1757000693393,m,77, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",95,1757000693386,1757000693472,e,69, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",96,1757000693512,1757000693555, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",97,1757000693748,1757000693825,i,73, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",98,1757000693929,1757000693988,n,78, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",99,1757000694088,1757000694146, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",100,1757000694223,1757000694303,b,66, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",101,1757000694325,1757000694393,i,73, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",102,1757000694424,1757000694495,g,71, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",103,1757000694514,1757000694588, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",104,1757000694719,1757000694803,l,76, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",105,1757000694884,1757000694974,i,73, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",106,1757000695058,1757000695127,n,78, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",107,1757000695093,1757000695184,e,69, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",108,1757000695220,1757000695297, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",109,1757000695556,1757000695596,h,72, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",110,1757000695630,1757000695703,o,79, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",111,1757000695790,1757000695871,w,87, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",112,1757000695858,1757000695941, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",113,1757000699255,1757000699337,w,87, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",114,1757000699334,1757000699403,i,73, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",115,1757000699503,1757000699582,n,78, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",116,1757000699637,1757000699711,d,68, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",117,1757000699753,1757000699821,o,79, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",118,1757000700289,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",119,1757000700424,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",120,1757000700561,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",121,1757000700681,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",122,1757000700818,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",123,1757000701127,1757000701199,b,66, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",124,1757000701219,1757000701270,i,73, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",125,1757000701461,1757000701546,s,83, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",126,1757000701733,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",127,1757000701902,1757000701989,o,79, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",128,1757000701964,1757000702073,s,83, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",129,1757000702084,1757000702223, ,32, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",130,1757000702327,1757000702447,w,87, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",131,1757000702417,1757000702496,o,79, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",132,1757000702595,1757000702678,k,75, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",133,1757000702670,1757000702793,r,82, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",134,1757000702771,1757000702873,s,83, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",135,1757000702866,1757000702931,.,190, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",136,1757000703532,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",137,1757000703660,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",138,1757000703784,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",139,1757000704143,0,Backspace,8, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",140,1757000704461,1757000704528,r,82, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",141,1757000704689,1757000704749,k,75, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",142,1757000704764,1757000704828,s,83, weekly, physical-keyboard
+6634e4d4f1950b4dcd44d4d9,prompt-to-text,1,6,5,Write me in big line how bios works.,"[25,30]","[12,20]",143,1757000704871,1757000704928,.,190, weekly, physical-keyboard

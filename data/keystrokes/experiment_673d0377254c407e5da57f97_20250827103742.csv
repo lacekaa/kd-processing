@@ -1,0 +1,62 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",0,1756291026712,1756291026743,c,67, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",1,1756291026810,1756291026901,r,82, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",2,1756291026982,1756291027070,e,69, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",3,1756291027138,1756291027236,a,65, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",4,1756291027334,1756291027416,t,84, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",5,1756291028048,1756291028136,e,69, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",6,1756291028298,1756291028406, ,32, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",7,1756291028434,1756291028548,a,65, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",8,1756291028591,1756291028689, ,32, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",9,1756291032598,1756291032732,s,83, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",10,1756291032716,1756291032818,h,72, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",11,1756291032896,1756291033012,o,79, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",12,1756291033013,1756291033082,r,82, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",13,1756291033198,1756291033261,t,84, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",14,1756291033324,1756291033444, ,32, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",15,1756291033644,1756291033740,s,83, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",16,1756291033864,1756291033962,t,84, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",17,1756291034006,1756291034110,o,79, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",18,1756291034134,1756291034205,r,82, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",19,1756291034747,1756291034835,y,89, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",20,1756291035354,1756291035452, ,32, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",21,1756291035455,1756291035540,a,65, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",22,1756291035579,1756291035662,b,66, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",23,1756291035794,1756291035881,o,79, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",24,1756291036029,1756291036047,y,89, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",25,1756291036421,1756291036499,Backspace,8, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",26,1756291036620,1756291036730,u,85, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",27,1756291036781,1756291036891,t,84, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",28,1756291037046,1756291037144, ,32, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",29,1756291037203,1756291037276,a,65, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",30,1756291037314,1756291037418, ,32, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",31,1756291037496,1756291037604,t,84, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",32,1756291037829,1756291037953,u,85, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",33,1756291037989,1756291038081,r,82, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",34,1756291038185,1756291038269,t,84, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",35,1756291038556,1756291038668,l,76, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",36,1756291038713,1756291038804,e,69, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",37,1756291038900,1756291039046, ,32, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",38,1756291039227,1756291039315,e,69, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",39,1756291039538,1756291039644,z,90, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",40,1756291039766,1756291039878,p,80, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",41,1756291040034,1756291040084,Backspace,8, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",42,1756291040174,1756291040267,Backspace,8, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",43,1756291040246,1756291040346,x,88, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",44,1756291040634,1756291040726,p,80, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",45,1756291041082,1756291041172,e,69, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",46,1756291041598,1756291041682,r,82, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",47,1756291041754,1756291041857,i,73, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",48,1756291041871,1756291041963,e,69, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",49,1756291042116,1756291042212,n,78, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",50,1756291042290,1756291042406,c,67, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",51,1756291042512,1756291042556,i,73, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",52,1756291042761,1756291042892,n,78, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",53,1756291042940,1756291043038,g,71, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",54,1756291043148,1756291043264, ,32, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",55,1756291044126,1756291044245,n,78, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",56,1756291044236,1756291044340,a,65, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",57,1756291044470,1756291044562,t,84, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",58,1756291044613,1756291044730,u,85, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",59,1756291044787,1756291044924,r,82, weekly, physical-keyboard
+673d0377254c407e5da57f97,text-to-prompt,1,5,4,create a short story about a turtle experiencing nature,"[29,35]","[36,55]",60,1756291044920,1756291045060,e,69, weekly, physical-keyboard

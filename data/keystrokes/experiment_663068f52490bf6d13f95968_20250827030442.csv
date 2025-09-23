@@ -1,0 +1,41 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+663068f52490bf6d13f95968,prompt-to-text,1,2,3,What is the capital of Australia?,"[12,32]","[0,11]",0,1756263865252,1756263865503,Shift,16, daily, physical-keyboard
+663068f52490bf6d13f95968,prompt-to-text,1,2,3,What is the capital of Australia?,"[12,32]","[0,11]",1,1756263865409,1756263865587,W,87, daily, physical-keyboard
+663068f52490bf6d13f95968,prompt-to-text,1,2,3,What is the capital of Australia?,"[12,32]","[0,11]",2,1756263865763,1756263865844,h,72, daily, physical-keyboard
+663068f52490bf6d13f95968,prompt-to-text,1,2,3,What is the capital of Australia?,"[12,32]","[0,11]",3,1756263866496,1756263866574,a,65, daily, physical-keyboard
+663068f52490bf6d13f95968,prompt-to-text,1,2,3,What is the capital of Australia?,"[12,32]","[0,11]",4,1756263866587,1756263866642,t,84, daily, physical-keyboard
+663068f52490bf6d13f95968,prompt-to-text,1,2,3,What is the capital of Australia?,"[12,32]","[0,11]",5,1756263866728,1756263866839, ,32, daily, physical-keyboard
+663068f52490bf6d13f95968,prompt-to-text,1,2,3,What is the capital of Australia?,"[12,32]","[0,11]",6,1756263866964,1756263867037,i,73, daily, physical-keyboard
+663068f52490bf6d13f95968,prompt-to-text,1,2,3,What is the capital of Australia?,"[12,32]","[0,11]",7,1756263867107,1756263867187,s,83, daily, physical-keyboard
+663068f52490bf6d13f95968,prompt-to-text,1,2,3,What is the capital of Australia?,"[12,32]","[0,11]",8,1756263867243,1756263867317, ,32, daily, physical-keyboard
+663068f52490bf6d13f95968,prompt-to-text,1,2,3,What is the capital of Australia?,"[12,32]","[0,11]",9,1756263867353,1756263867434,t,84, daily, physical-keyboard
+663068f52490bf6d13f95968,prompt-to-text,1,2,3,What is the capital of Australia?,"[12,32]","[0,11]",10,1756263867552,1756263867622,e,69, daily, physical-keyboard
+663068f52490bf6d13f95968,prompt-to-text,1,2,3,What is the capital of Australia?,"[12,32]","[0,11]",11,1756263867693,1756263867811, ,32, daily, physical-keyboard
+663068f52490bf6d13f95968,prompt-to-text,1,2,3,What is the capital of Australia?,"[12,32]","[0,11]",12,1756263868101,1756263868178,Backspace,8, daily, physical-keyboard
+663068f52490bf6d13f95968,prompt-to-text,1,2,3,What is the capital of Australia?,"[12,32]","[0,11]",13,1756263868272,1756263868322,Backspace,8, daily, physical-keyboard
+663068f52490bf6d13f95968,prompt-to-text,1,2,3,What is the capital of Australia?,"[12,32]","[0,11]",14,1756263868529,1756263868596,h,72, daily, physical-keyboard
+663068f52490bf6d13f95968,prompt-to-text,1,2,3,What is the capital of Australia?,"[12,32]","[0,11]",15,1756263868658,1756263868726,e,69, daily, physical-keyboard
+663068f52490bf6d13f95968,prompt-to-text,1,2,3,What is the capital of Australia?,"[12,32]","[0,11]",16,1756263868739,1756263868819, ,32, daily, physical-keyboard
+663068f52490bf6d13f95968,prompt-to-text,1,2,3,What is the capital of Australia?,"[12,32]","[0,11]",17,1756263868954,1756263869014,c,67, daily, physical-keyboard
+663068f52490bf6d13f95968,prompt-to-text,1,2,3,What is the capital of Australia?,"[12,32]","[0,11]",18,1756263869196,1756263869278,a,65, daily, physical-keyboard
+663068f52490bf6d13f95968,prompt-to-text,1,2,3,What is the capital of Australia?,"[12,32]","[0,11]",19,1756263869364,1756263869443,p,80, daily, physical-keyboard
+663068f52490bf6d13f95968,prompt-to-text,1,2,3,What is the capital of Australia?,"[12,32]","[0,11]",20,1756263869611,1756263869690,i,73, daily, physical-keyboard
+663068f52490bf6d13f95968,prompt-to-text,1,2,3,What is the capital of Australia?,"[12,32]","[0,11]",21,1756263869746,1756263869806,t,84, daily, physical-keyboard
+663068f52490bf6d13f95968,prompt-to-text,1,2,3,What is the capital of Australia?,"[12,32]","[0,11]",22,1756263869972,1756263870063,a,65, daily, physical-keyboard
+663068f52490bf6d13f95968,prompt-to-text,1,2,3,What is the capital of Australia?,"[12,32]","[0,11]",23,1756263870076,1756263870169,l,76, daily, physical-keyboard
+663068f52490bf6d13f95968,prompt-to-text,1,2,3,What is the capital of Australia?,"[12,32]","[0,11]",24,1756263870156,1756263870259, ,32, daily, physical-keyboard
+663068f52490bf6d13f95968,prompt-to-text,1,2,3,What is the capital of Australia?,"[12,32]","[0,11]",25,1756263870325,1756263870391,o,79, daily, physical-keyboard
+663068f52490bf6d13f95968,prompt-to-text,1,2,3,What is the capital of Australia?,"[12,32]","[0,11]",26,1756263870463,1756263870537,f,70, daily, physical-keyboard
+663068f52490bf6d13f95968,prompt-to-text,1,2,3,What is the capital of Australia?,"[12,32]","[0,11]",27,1756263870535,1756263870622, ,32, daily, physical-keyboard
+663068f52490bf6d13f95968,prompt-to-text,1,2,3,What is the capital of Australia?,"[12,32]","[0,11]",28,1756263870757,1756263870937,Shift,16, daily, physical-keyboard
+663068f52490bf6d13f95968,prompt-to-text,1,2,3,What is the capital of Australia?,"[12,32]","[0,11]",29,1756263870912,1756263871001,A,65, daily, physical-keyboard
+663068f52490bf6d13f95968,prompt-to-text,1,2,3,What is the capital of Australia?,"[12,32]","[0,11]",30,1756263871105,1756263871172,u,85, daily, physical-keyboard
+663068f52490bf6d13f95968,prompt-to-text,1,2,3,What is the capital of Australia?,"[12,32]","[0,11]",31,1756263871223,1756263871291,s,83, daily, physical-keyboard
+663068f52490bf6d13f95968,prompt-to-text,1,2,3,What is the capital of Australia?,"[12,32]","[0,11]",32,1756263871535,1756263871608,t,84, daily, physical-keyboard
+663068f52490bf6d13f95968,prompt-to-text,1,2,3,What is the capital of Australia?,"[12,32]","[0,11]",33,1756263871754,1756263871811,r,82, daily, physical-keyboard
+663068f52490bf6d13f95968,prompt-to-text,1,2,3,What is the capital of Australia?,"[12,32]","[0,11]",34,1756263871988,1756263872043,a,65, daily, physical-keyboard
+663068f52490bf6d13f95968,prompt-to-text,1,2,3,What is the capital of Australia?,"[12,32]","[0,11]",35,1756263872047,1756263872139,l,76, daily, physical-keyboard
+663068f52490bf6d13f95968,prompt-to-text,1,2,3,What is the capital of Australia?,"[12,32]","[0,11]",36,1756263872233,1756263872297,i,73, daily, physical-keyboard
+663068f52490bf6d13f95968,prompt-to-text,1,2,3,What is the capital of Australia?,"[12,32]","[0,11]",37,1756263872366,1756263872441,a,65, daily, physical-keyboard
+663068f52490bf6d13f95968,prompt-to-text,1,2,3,What is the capital of Australia?,"[12,32]","[0,11]",38,1756263872515,1756263872644,Shift,16, daily, physical-keyboard
+663068f52490bf6d13f95968,prompt-to-text,1,2,3,What is the capital of Australia?,"[12,32]","[0,11]",39,1756263872638,1756263872723,?,191, daily, physical-keyboard

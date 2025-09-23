@@ -1,0 +1,55 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",0,1757018440699,1757018440803,m,77, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",1,1757018440875,1757018441026,e,69, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",2,1757018441002,1757018441106, ,32, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",3,1757018441283,1757018441402,c,67, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",4,1757018441570,1757018441642,r,82, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",5,1757018441722,1757018441803,i,73, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",6,1757018441803,1757018441947,a,65, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",7,1757018441931,1757018442034, ,32, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",8,1757018442339,1757018442442,u,85, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",9,1757018442531,1757018442706,m,77, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",10,1757018442651,1757018442730, ,32, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",11,1757018442867,1757018442939,c,67, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",12,1757018442867,1757018443042,o,79, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",13,1757018442995,1757018443098,n,78, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",14,1757018443155,1757018443226,t,84, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",15,1757018443266,1757018443378,o,79, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",16,1757018443330,1757018443410, ,32, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",17,1757018444275,1757018444370,p,80, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",18,1757018444354,1757018444466,a,65, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",19,1757018444587,1757018444738,r,82, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",20,1757018444715,1757018444850,a,65, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",21,1757018444771,1757018444890, ,32, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",22,1757018445187,1757018445322,p,80, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",23,1757018445507,1757018445627,o,79, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",24,1757018445571,1757018445779,d,68, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",25,1757018445691,1757018445875,e,69, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",26,1757018446019,1757018446146,r,82, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",27,1757018446115,1757018446226, ,32, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",28,1757018446594,1757018446707,c,67, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",29,1757018446787,1757018446938,o,79, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",30,1757018446891,1757018446994,n,78, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",31,1757018447034,1757018447179,t,84, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",32,1757018447267,1757018447402,a,65, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",33,1757018447363,1757018447483,r,82, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",34,1757018447450,1757018447578, ,32, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",35,1757018447674,1757018447811,p,80, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",36,1757018447787,1757018447930,a,65, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",37,1757018447986,1757018448106,r,82, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",38,1757018448067,1757018448251,a,65, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",39,1757018448179,1757018448298, ,32, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",40,1757018448851,1757018448947,m,77, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",41,1757018448947,1757018449050,e,69, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",42,1757018449107,1757018449194,u,85, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",43,1757018449210,1757018449282, ,32, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",44,1757018449590,1757018449683,Backspace,8, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",45,1757018449669,1757018449779,s,83, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",46,1757018449763,1757018449859, ,32, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",47,1757018450131,1757018450186,f,70, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",48,1757018450202,1757018450298,i,73, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",49,1757018450507,1757018450611,l,76, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",50,1757018450667,1757018450730,h,72, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",51,1757018450787,1757018450899,o,79, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",52,1757018451035,1757018451106,s,83, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-text,1,4,4,eu criei um conto para poder contar para meus filhos,"[0,51]","[12,18]",53,1757018451194,1757018451259,Enter,13, rarely, physical-keyboard

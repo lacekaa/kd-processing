@@ -1,0 +1,48 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",0,1757018644113,1757018644215,m,77, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",1,1757018644167,1757018644319,e,69, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",2,1757018644303,1757018644400, ,32, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",3,1757018644479,1757018644591,c,67, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",4,1757018644703,1757018644784,r,82, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",5,1757018644802,1757018644903,i,73, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",6,1757018644903,1757018645055,a,65, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",7,1757018644999,1757018645159, ,32, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",8,1757018645384,1757018645463,u,85, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",9,1757018645615,1757018645712,m,77, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",10,1757018645671,1757018645807,a,65, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",11,1757018645767,1757018645863, ,32, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",12,1757018646064,1757018646143,b,66, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",13,1757018646183,1757018646295,a,65, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",14,1757018646711,1757018646816,n,78, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",15,1757018646800,1757018646991,d,68, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",16,1757018646928,1757018647071,e,69, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",17,1757018647111,1757018647199,i,73, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",18,1757018647263,1757018647407,r,82, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",19,1757018647391,1757018647559,a,65, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",20,1757018647495,1757018647591, ,32, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",21,1757018647688,1757018647887,d,68, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",22,1757018647783,1757018647975,e,69, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",23,1757018647959,1757018648071, ,32, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",24,1757018648263,1757018648359,Backspace,8, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",25,1757018648439,1757018648535,Backspace,8, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",26,1757018648591,1757018648687,t,84, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",27,1757018648735,1757018648863,o,79, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",28,1757018648863,1757018648967, ,32, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",29,1757018649687,1757018649767,Backspace,8, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",30,1757018649847,1757018649951,Backspace,8, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",31,1757018650023,1757018650143,Backspace,8, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",32,1757018650871,1757018650967,o,79, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",33,1757018650911,1757018651007, ,32, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",34,1757018651143,1757018651224,t,84, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",35,1757018651335,1757018651447,i,73, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",36,1757018651567,1757018651663,m,77, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",37,1757018651663,1757018651783,e,69, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",38,1757018651743,1757018651871, ,32, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",39,1757018652223,1757018652351,p,80, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",40,1757018652511,1757018652575,g,71, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",41,1757018652959,1757018653047,Backspace,8, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",42,1757018653079,1757018653183,s,83, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",43,1757018653287,1757018653367,g,71, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",44,1757018653799,1757018653895,e,69, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",45,1757018653927,1757018654023,l,76, rarely, physical-keyboard
+668f066d8731a18ec696370a,prompt-to-image,1,7,4,m cria uma bandeira do time psgelo,"[0,27]","[28,34]",46,1757018654135,1757018654207,o,79, rarely, physical-keyboard

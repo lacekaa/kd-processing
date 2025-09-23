@@ -1,0 +1,65 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",0,1757005575339,1757005575394,CapsLock,20, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",1,1757005575534,1757005575578,A,65, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",2,1757005575695,1757005575738,CapsLock,20, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",3,1757005575786,1757005575846, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",4,1757005576202,1757005576262,l,76, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",5,1757005576422,1757005576482,i,73, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",6,1757005576751,1757005576815,g,71, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",7,1757005576919,1757005576995,h,72, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",8,1757005577103,1757005577159,t,84, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",9,1757005577223,1757005577319, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",10,1757005577643,1757005577715,h,72, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",11,1757005577755,1757005577823,a,65, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",12,1757005577887,1757005577947,u,85, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",13,1757005578003,1757005578063,s,83, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",14,1757005578179,1757005578243,e,69, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",15,1757005578283,1757005578347, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",16,1757005580589,1757005580657,g,71, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",17,1757005580737,1757005580801,l,76, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",18,1757005580889,1757005580945,o,79, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",19,1757005581081,1757005581149,w,87, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",20,1757005581297,1757005581381,i,73, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",21,1757005581541,1757005581613,n,78, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",22,1757005581801,1757005581861,g,71, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",23,1757005581925,1757005582013, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",24,1757005582221,1757005582286,i,73, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",25,1757005582410,1757005582478,n,78, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",26,1757005582530,1757005582626, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",27,1757005582734,1757005582790,t,84, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",28,1757005582906,1757005582966,h,72, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",29,1757005583006,1757005583074,e,69, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",30,1757005583146,1757005583226, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",31,1757005583362,1757005583438,m,77, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",32,1757005583562,1757005583618,i,73, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",33,1757005583766,1757005583822,d,68, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",34,1757005583918,1757005583990,d,68, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",35,1757005584110,1757005584174,l,76, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",36,1757005584238,1757005584307,e,69, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",37,1757005585556,1757005585639, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",38,1757005586187,1757005586243,o,79, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",39,1757005586363,1757005586427,f,70, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",40,1757005586467,1757005586539, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",41,1757005586619,1757005586691,a,65, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",42,1757005586739,1757005586808, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",43,1757005587124,1757005587184,d,68, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",44,1757005587532,1757005587596,e,69, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",45,1757005587852,1757005587908,a,65, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",46,1757005588036,1757005588096,s,83, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",47,1757005588384,1757005588452,e,69, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",48,1757005588580,1757005588648,r,82, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",49,1757005588768,1757005588840,t,84, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",50,1757005590465,1757005590529,Backspace,8, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",51,1757005590621,1757005590685,Backspace,8, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",52,1757005590769,1757005590849,Backspace,8, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",53,1757005590913,1757005591001,Backspace,8, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",54,1757005591085,1757005591169,Backspace,8, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",55,1757005591346,1757005591421,Backspace,8, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",56,1757005592266,1757005592338,e,69, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",57,1757005592926,1757005592986,s,83, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",58,1757005593206,1757005593274,e,69, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",59,1757005593382,1757005593454,r,82, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",60,1757005593626,1757005593690,t,84, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",61,1757005594286,1757005594370,Backspace,8, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",62,1757005595439,1757005595511,t,84, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-image,1,7,5,A light hause glowing in the middle of a desert.,"[0,21]","[22,47]",63,1757005595791,1757005595847,.,190, weekly, physical-keyboard

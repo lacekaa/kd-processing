@@ -1,0 +1,66 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",0,1756263331413,1756263331504,CapsLock,20, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",1,1756263335023,1756263335134,P,80, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",2,1756263335671,1756263335797,CapsLock,20, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",3,1756263335958,1756263336079,a,65, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",4,1756263336698,1756263336749,i,73, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",5,1756263337013,1756263337064,n,78, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",6,1756263337441,1756263337491,t,84, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",7,1756263337809,1756263337859, ,32, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",8,1756263338130,1756263338171,m,77, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",9,1756263338577,1756263338627,e,69, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",10,1756263338954,1756263339005, ,32, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",11,1756263339321,1756263339360,a,65, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",12,1756263339705,1756263339765, ,32, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",13,1756263340396,1756263340437,p,80, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",14,1756263341321,1756263341382,i,73, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",15,1756263341960,1756263342021,c,67, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",16,1756263342874,1756263342946,t,84, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",17,1756263343297,1756263343343,u,85, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",18,1756263343724,1756263343776,r,82, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",19,1756263343931,1756263343972,e,69, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",20,1756263344263,1756263344324, ,32, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",21,1756263345678,1756263345742,o,79, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",22,1756263346394,1756263346444,f,70, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",23,1756263346736,1756263346788, ,32, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",24,1756263347235,1756263347295,a,65, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",25,1756263347762,1756263347792, ,32, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",26,1756263348251,1756263348279,g,71, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",27,1756263348767,1756263348818,i,73, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",28,1756263349640,1756263349691,r,82, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",29,1756263350525,1756263350585,l,76, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",30,1756263350838,1756263350892, ,32, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",31,1756263355560,1756263355620,p,80, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",32,1756263355801,1756263355854,l,76, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",33,1756263356525,1756263356565,a,65, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",34,1756263357375,1756263357430,y,89, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",35,1756263357958,1756263358038,i,73, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",36,1756263358353,1756263358411,n,78, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",37,1756263359025,1756263359095,g,71, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",38,1756263359326,1756263359387, ,32, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",39,1756263359853,1756263359905,w,87, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",40,1756263360618,1756263360669,i,73, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",41,1756263361439,1756263361494,t,84, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",42,1756263361725,1756263361786,h,72, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",43,1756263362123,1756263362224, ,32, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",44,1756263362791,1756263362851,s,83, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",45,1756263363430,1756263363485,n,78, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",46,1756263363817,1756263363879,o,79, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",47,1756263364570,1756263364671,w,87, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",48,1756263366230,1756263366331, ,32, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",49,1756263368524,1756263368604,i,73, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",50,1756263369101,1756263369162,n,78, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",51,1756263369363,1756263369413, ,32, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",52,1756263370156,1756263370217,t,84, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",53,1756263370439,1756263370490,h,72, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",54,1756263370886,1756263370937,r,82, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",55,1756263371910,1756263371961,Backspace,8, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",56,1756263373006,1756263373061,r,82, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",57,1756263374047,1756263374086,Backspace,8, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",58,1756263374956,1756263375028,e,69, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",59,1756263375544,1756263375599, ,32, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",60,1756263376187,1756263376227,h,72, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",61,1756263376694,1756263376745,o,79, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",62,1756263377213,1756263377274,u,85, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",63,1756263377972,1756263378054,s,83, daily, physical-keyboard
+664b33c7c40530f620a719a0,prompt-to-image,0,6,4,Paint me a picture of a girl playing with snow in the house,"[24,59]","[0,5]",64,1756263378970,1756263379019,e,69, daily, physical-keyboard

@@ -1,0 +1,49 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",0,1757015023302,1757015023531,Shift,16, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",1,1757015023396,1757015023536,C,67, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",2,1757015023765,1757015023922,r,82, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",3,1757015023924,1757015024044,e,69, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",4,1757015024214,1757015024363,a,65, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",5,1757015024433,1757015024585,t,84, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",6,1757015024651,1757015024778,e,69, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",7,1757015024915,1757015025040, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",8,1757015025201,1757015025325,a,65, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",9,1757015025429,1757015025561, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",10,1757015025962,1757015026070,p,80, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",11,1757015026245,1757015026364,o,79, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",12,1757015026459,1757015026552,r,82, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",13,1757015027215,1757015027376,Backspace,8, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",14,1757015027781,1757015027877,e,69, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",15,1757015028220,1757015028349,m,77, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",16,1757015028915,1757015029038, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",17,1757015029260,1757015029344,a,65, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",18,1757015029777,1757015030004,b,66, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",19,1757015030339,1757015030435,o,79, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",20,1757015030761,1757015030873,u,85, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",21,1757015031091,1757015031202,t,84, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",22,1757015031419,1757015031517, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",23,1757015031750,1757015031836,t,84, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",24,1757015032105,1757015032181,h,72, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",25,1757015032509,1757015032613,e,69, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",26,1757015032737,1757015032846, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",27,1757015032956,1757015033025,p,80, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",28,1757015033295,1757015033380,a,65, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",29,1757015033557,1757015033625,i,73, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",30,1757015033934,1757015034019,n,78, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",31,1757015036097,1757015036166,s,83, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",32,1757015036373,1757015036493, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",33,1757015037928,1757015037997,o,79, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",34,1757015038149,1757015038250,f,70, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",35,1757015038790,1757015038883, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",36,1757015042536,1757015042620,f,70, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",37,1757015042705,1757015042808,i,73, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",38,1757015042949,1757015043008,r,82, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",39,1757015043244,1757015043346,s,83, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",40,1757015043432,1757015043549,t,84, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",41,1757015045060,1757015045172, ,32, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",42,1757015045514,1757015045643,l,76, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",43,1757015045827,1757015045937,o,79, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",44,1757015046023,1757015046123,v,86, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",45,1757015046299,1757015046417,e,69, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",46,1757015046714,1757015046791,s,83, daily, physical-keyboard
+5da5fdef9a9dc5001484350b,prompt-to-text,0,3,0,Create a poem about the pains of first love,"[9,14];[24,43]","[0,7]",47,1757015047775,1757015047927,Backspace,8, daily, physical-keyboard

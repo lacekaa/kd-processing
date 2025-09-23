@@ -1,0 +1,58 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",0,1756994105328,1756994105732,Shift,16, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",1,1756994105645,1756994105802,T,84, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",2,1756994105806,1756994105918,e,69, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",3,1756994105991,1756994106048,l,76, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",4,1756994106140,1756994106216,l,76, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",5,1756994106232,1756994106321, ,32, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",6,1756994106383,1756994106469,m,77, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",7,1756994106489,1756994106584,e,69, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",8,1756994106594,1756994106659, ,32, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",9,1756994106709,1756994106783,a,65, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",10,1756994106767,1756994106847, ,32, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",11,1756994106924,1756994107019,s,83, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",12,1756994107242,1756994107330,t,84, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",13,1756994107371,1756994107457,o,79, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",14,1756994107516,1756994107618,r,82, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",15,1756994107719,1756994107796,y,89, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",16,1756994107804,1756994107890, ,32, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",17,1756994108055,1756994108139,a,65, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",18,1756994108479,1756994108547,b,66, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",19,1756994108723,1756994108813,o,79, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",20,1756994108909,1756994108981,u,85, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",21,1756994109026,1756994109120,t,84, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",22,1756994109135,1756994109201, ,32, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",23,1756994109274,1756994109344,a,65, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",24,1756994109331,1756994109407, ,32, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",25,1756994109930,1756994110021,t,84, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",26,1756994110133,1756994110206,u,85, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",27,1756994110325,1756994110413,r,82, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",28,1756994111010,1756994111092,t,84, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",29,1756994111113,1756994111180,l,76, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",30,1756994111305,1756994111382,e,69, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",31,1756994111412,1756994111487, ,32, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",32,1756994111624,1756994111702,w,87, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",33,1756994111808,1756994111914,a,65, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",34,1756994111908,1756994111976,l,76, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",35,1756994112070,1756994112153,k,75, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",36,1756994112261,1756994112316,i,73, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",37,1756994112358,1756994112476,n,78, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",38,1756994112518,1756994112608,g,71, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",39,1756994112633,1756994112730, ,32, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",40,1756994113825,1756994113933,a,65, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",41,1756994114471,1756994114542,l,76, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",42,1756994114634,1756994114716,o,79, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",43,1756994114772,1756994114860,n,78, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",44,1756994114883,1756994114966,g,71, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",45,1756994114984,1756994115055, ,32, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",46,1756994115121,1756994115195,a,65, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",47,1756994115195,1756994115259, ,32, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",48,1756994115462,1756994115553,r,82, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",49,1756994115589,1756994115677,i,73, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",50,1756994115808,1756994115897,v,86, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",51,1756994115969,1756994116122,e,69, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",52,1756994116061,1756994116151,r,82, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",53,1756994116254,1756994116336,b,66, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",54,1756994116359,1756994116459,a,65, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",55,1756994116490,1756994116560,n,78, weekly, physical-keyboard
+67be486c2fafa97dd2710135,text-to-prompt,1,6,1,Tell me a story about a turtle walking along a riverbank,"[24,31]","[31,56]",56,1756994116898,1756994116966,k,75, weekly, physical-keyboard

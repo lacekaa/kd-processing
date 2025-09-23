@@ -1,0 +1,59 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",0,1757005364497,1757005364540,CapsLock,20, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",1,1757005364820,1757005364872,D,68, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",2,1757005365050,1757005365113,CapsLock,20, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",3,1757005365289,1757005365357,e,69, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",4,1757005365509,1757005365569,s,83, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",5,1757005365705,1757005365773,c,67, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",6,1757005365997,1757005366065,r,82, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",7,1757005366317,1757005366389,i,73, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",8,1757005366581,1757005366653,b,66, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",9,1757005366737,1757005366805,e,69, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",10,1757005366861,1757005366942, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",11,1757005367006,1757005367070,a,65, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",12,1757005367142,1757005367226, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",13,1757005367290,1757005367362,c,67, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",14,1757005367538,1757005367594,i,73, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",15,1757005367826,1757005367890,t,84, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",16,1757005368006,1757005368074,y,89, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",17,1757005368186,1757005368286, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",18,1757005370563,1757005370631,w,87, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",19,1757005370811,1757005370867,h,72, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",20,1757005370939,1757005370995,e,69, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",21,1757005371107,1757005371159,r,82, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",22,1757005371267,1757005371332,e,69, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",23,1757005371368,1757005371448, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",24,1757005371568,1757005371620,m,77, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",25,1757005371720,1757005371788,e,69, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",26,1757005371972,1757005372036,m,77, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",27,1757005372192,1757005372248,o,79, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",28,1757005372412,1757005372480,r,82, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",29,1757005372600,1757005372652,i,73, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",30,1757005372824,1757005372884,e,69, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",31,1757005373008,1757005373068,s,83, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",32,1757005373180,1757005373253, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",33,1757005375174,1757005375246,a,65, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",34,1757005375798,1757005375862,r,82, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",35,1757005375942,1757005376006,e,69, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",36,1757005376082,1757005376154, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",37,1757005376318,1757005376370,t,84, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",38,1757005376490,1757005376534,r,82, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",39,1757005376598,1757005376646,a,65, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",40,1757005376782,1757005376842,d,68, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",41,1757005376958,1757005377034,e,69, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",42,1757005377299,1757005377367,d,68, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",43,1757005377443,1757005377508, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",44,1757005377859,1757005377931,l,76, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",45,1757005378035,1757005378099,i,73, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",46,1757005378183,1757005378259,k,75, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",47,1757005378299,1757005378380,e,69, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",48,1757005378443,1757005378527, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",49,1757005380816,1757005380888,c,67, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",50,1757005381044,1757005381112,u,85, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",51,1757005381316,1757005381380,r,82, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",52,1757005381468,1757005381520,r,82, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",53,1757005381632,1757005381700,e,69, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",54,1757005381876,1757005381945,n,78, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",55,1757005382313,1757005382377,c,67, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",56,1757005382505,1757005382553,y,89, weekly, physical-keyboard
+668bdb8e7e4e833357646124,prompt-to-text,0,4,5,Describe a city where memories are traded like currency.,"[9,41]","[42,55]",57,1757005383061,1757005383122,.,190, weekly, physical-keyboard

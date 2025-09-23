@@ -1,0 +1,69 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",0,1757003844510,1757003844672,c,67, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",1,1757003844808,1757003845031,r,82, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",2,1757003845031,1757003845116,e,69, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",3,1757003845239,1757003845362,a,65, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",4,1757003845853,1757003846005,t,84, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",5,1757003846074,1757003846160,e,69, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",6,1757003846478,1757003846606, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",7,1757003846868,1757003846952,a,65, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",8,1757003847573,1757003847685,n,78, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",9,1757003847785,1757003847929, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",10,1757003848085,1757003848215,i,73, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",11,1757003848336,1757003848506,m,77, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",12,1757003848783,1757003848881,a,65, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",13,1757003849345,1757003849458,g,71, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",14,1757003849582,1757003849650,e,69, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",15,1757003849917,1757003850068, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",16,1757003850451,1757003850587,o,79, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",17,1757003850825,1757003850943,f,70, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",18,1757003851091,1757003851328, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",19,1757003851981,1757003852115,o,79, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",20,1757003852359,1757003852454,f,70, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",21,1757003852552,1757003852663,f,70, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",22,1757003853420,1757003853508,Backspace,8, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",23,1757003853657,1757003853735,Backspace,8, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",24,1757003853861,1757003853969,Backspace,8, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",25,1757003854985,1757003858685,Shift,16, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",26,1757003855475,0,Shift,16, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",27,1757003855504,0,Shift,16, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",28,1757003855535,0,Shift,16, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",29,1757003855563,0,Shift,16, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",30,1757003855593,0,Shift,16, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",31,1757003855615,1757003855774,C,67, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",32,1757003856075,1757003856216,E,69, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",33,1757003858602,1757003858705,O,79, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",34,1757003859508,1757003859639, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",35,1757003859836,1757003859983,g,71, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",36,1757003860129,1757003860299,i,73, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",37,1757003860522,1757003860628,v,86, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",38,1757003860768,1757003860947,i,73, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",39,1757003861026,1757003861203,n,78, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",40,1757003861332,1757003861426,g,71, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",41,1757003861624,1757003861852, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",42,1757003862958,1757003863068,b,66, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",43,1757003863271,1757003863360,r,82, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",44,1757003863618,1757003863795,i,73, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",45,1757003863973,1757003864063,e,69, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",46,1757003864242,1757003864352,f,70, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",47,1757003864595,1757003864773,i,73, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",48,1757003864838,1757003865018,n,78, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",49,1757003865126,1757003865221,g,71, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",50,1757003865362,1757003865507, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",51,1757003865661,1757003865767,t,84, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",52,1757003866056,1757003866210,o,79, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",53,1757003866416,1757003866596, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",54,1757003866732,1757003866907,i,73, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",55,1757003867047,1757003867171,t,84, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",56,1757003867454,1757003867471,s,83, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",57,1757003867815,1757003867966, ,32, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",58,1757003868152,1757003868242,e,69, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",59,1757003868762,1757003868841,m,77, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",60,1757003869066,1757003869214,p,80, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",61,1757003869218,1757003869419,l,76, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",62,1757003869567,1757003869738,o,79, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",63,1757003870345,1757003870467,y,89, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",64,1757003870716,1757003870765,e,69, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",65,1757003870875,1757003870951,e,69, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",66,1757003871095,1757003871220,s,83, daily, physical-keyboard
+66e2a65068f02ee11a049e70,prompt-to-text,1,4,4,create an image of CEO giving briefing to its employees.,"[0,38]","[45,55]",67,1757003872513,1757003872596,.,190, daily, physical-keyboard

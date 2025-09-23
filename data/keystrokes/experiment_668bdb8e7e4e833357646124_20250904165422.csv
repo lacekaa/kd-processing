@@ -1,0 +1,77 @@
+PARTICIPANT_ID,EXPERIMENTTYPE,EXPERIMENTATTEMPT,TOTALATTEMPTCOUNT,LATINSQUARETYPE,PROMPT,CONFIDENT,UNCONFIDENT,KEYSTROKE_ID,PRESS_TIME,RELEASE_TIME,LETTER,KEYCODE,FREQUENCY,INPUTMETHOD
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",0,1757004688407,1757004688483,r,82, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",1,1757004688595,1757004688659,e,69, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",2,1757004688879,1757004688955,m,77, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",3,1757004689127,1757004689187,i,73, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",4,1757004689685,1757004689912,Backspace,8, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",5,1757004690016,1757004690084,Backspace,8, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",6,1757004690172,1757004690240,Backspace,8, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",7,1757004690324,1757004690400,Backspace,8, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",8,1757004690937,1757004691000,CapsLock,20, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",9,1757004691308,1757004691368,R,82, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",10,1757004691606,1757004691661,CapsLock,20, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",11,1757004691829,1757004691889,e,69, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",12,1757004692045,1757004692109,m,77, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",13,1757004692233,1757004692297,i,73, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",14,1757004692477,1757004692501,b,66, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",15,1757004693382,1757004693482,Backspace,8, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",16,1757004694238,1757004694306,n,78, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",17,1757004694406,1757004694466,d,68, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",18,1757004694582,1757004694646,e,69, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",19,1757004694730,1757004694798,r,82, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",20,1757004694874,1757004694951, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",21,1757004695051,1757004695119,e,69, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",22,1757004695260,1757004695323,m,77, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",23,1757004695387,1757004695455,a,65, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",24,1757004695579,1757004695643,i,73, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",25,1757004695783,1757004695863,l,76, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",26,1757004695964,1757004696067, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",27,1757004697545,1757004697600,a,65, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",28,1757004697836,1757004697900,b,66, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",29,1757004698065,1757004698140,o,79, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",30,1757004698648,1757004698728,u,85, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",31,1757004698997,1757004699073,t,84, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",32,1757004699565,1757004699642, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",33,1757004699866,1757004699929,CapsLock,20, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",34,1757004700213,1757004700290,Q,81, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",35,1757004700613,1757004700674,3,51, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",36,1757004700987,1757004701058,CapsLock,20, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",37,1757004702435,1757004702490,r,82, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",38,1757004702598,1757004702658,e,69, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",39,1757004702751,1757004702835,p,80, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",40,1757004702922,1757004702990,o,79, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",41,1757004703082,1757004703154,r,82, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",42,1757004703255,1757004703319,t,84, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",43,1757004703519,1757004703635, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",44,1757004705112,1757004705172,d,68, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",45,1757004705336,1757004705409,o,79, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",46,1757004705608,1757004705672,c,67, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",47,1757004706109,1757004706168,u,85, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",48,1757004706512,1757004706576,m,77, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",49,1757004706773,1757004706841,e,69, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",50,1757004707013,1757004707077,n,78, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",51,1757004707225,1757004707298,t,84, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",52,1757004707553,1757004707622,s,83, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",53,1757004707725,1757004707798, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",54,1757004707918,1757004707997,d,68, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",55,1757004708213,1757004708270,u,85, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",56,1757004708446,1757004708522,e,69, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",57,1757004708797,1757004708918, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",58,1757004711112,1757004711171,CapsLock,20, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",59,1757004711467,1757004711532,F,70, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",60,1757004711720,1757004711780,CapsLock,20, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",61,1757004711980,1757004712047,r,82, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",62,1757004712180,1757004712243,i,73, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",63,1757004712335,1757004712403,d,68, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",64,1757004712587,1757004712676,a,65, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",65,1757004712856,1757004712928,y,89, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",66,1757004712981,1757004713089, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",67,1757004713185,1757004713261,a,65, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",68,1757004713301,1757004713369,t,84, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",69,1757004713465,1757004713541, ,32, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",70,1757004713736,1757004713801,n,78, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",71,1757004714033,1757004714093,o,79, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",72,1757004714185,1757004714253,o,79, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",73,1757004714440,1757004714513,n,78, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",74,1757004716070,1757004716130,.,190, weekly, physical-keyboard
+668bdb8e7e4e833357646124,text-to-prompt,0,1,5,Reminder email about Q3report documents due Friday at noon.,"[0,60]","[21,39]",75,1757004716266,1757004716390, ,32, weekly, physical-keyboard
